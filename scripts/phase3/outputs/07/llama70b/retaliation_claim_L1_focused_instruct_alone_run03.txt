@@ -1,0 +1,23 @@
+
+
+ARGUMENT
+
+Plaintiff David Mullins has established a prima facie case of retaliation under Title IX, 20 U.S.C. § 1681. The evidence demonstrates that Duquesne University engaged in a pattern of adverse actions that would deter a reasonable person from reporting sex-based harassment or participating in the Title IX process.
+
+First, Plaintiff engaged in protected activity by reporting sex-based harassment to Wasilko (Exhibit B-0A), filing a formal Title IX escalation (Exhibit B-3A), and filing a complaint with OCR (Exhibit B-3A). This conduct is protected under Title IX, as demanding compliance with the statute is a protected activity. Atkinson v. Lafayette College, 460 F.3d 447, 452 (3d Cir. 2006).
+
+Second, Duquesne University took adverse actions that would deter a reasonable person from reporting sex-based harassment or participating in the Title IX process. These actions include:
+
+* Removing OCR from the CC line on emails, despite no federal authority or Duquesne policy authorizing such removal (Exhibits B-3, B-3A);
+* Threatening Plaintiff with conduct charges for emailing University officials about his safety and access concerns (Exhibit B-7);
+* Imposing a retaliatory "countdown" limitation on Zoom access, which is a textbook example of retaliation masquerading as accommodation (Exhibit I-1);
+* Reassigning Plaintiff's TA position and fabricating "performance issues" that were not raised by Faculty B or any other faculty member (Exhibits X-6, X-7, X-8);
+* Threatening Plaintiff's stipend through Spring 2029 based on fabricated "performance issues" (Exhibit X-8).
+
+These actions are adverse because they would deter a reasonable person from reporting sex-based harassment or participating in the Title IX process. See Canada v. Samuel Grossi & Sons, Inc., No. 20-2747, at *5 (3d Cir. 2022) (holding that a "convincing mosaic" of circumstantial evidence can establish causation for retaliation claims).
+
+Third, there is a causal connection between Plaintiff's protected activity and the adverse actions taken by Duquesne University. The temporal proximity between Plaintiff's protected activity and the adverse actions is unusually suggestive of retaliation. See Jalil v. Avdel Corp., 873 F.2d 701, 706 (3d Cir. 1989) (holding that two-day temporal proximity between protected activity and adverse action is sufficient to establish causation). Additionally, the pattern of antagonism demonstrated by Duquesne University's actions, including the removal of OCR from emails and the imposition of a retaliatory "countdown" limitation on Zoom access, gives rise to the inference of causation. See Kachmar v. SunGard Data Systems, Inc., 109 F.3d 173, 177 (3d Cir. 1997) (holding that a pattern of antagonism can establish causation).
+
+Furthermore, the inconsistent explanations provided by Duquesne University's officials, including Selcer's introduction of fabricated "performance issues" in Exhibit X-8, establish a causal link between Plaintiff's protected activity and the adverse actions. See Farrell v. Planters Lifesavers Co., 206 F.3d 271, 278 (3d Cir. 2000) (holding that inconsistent explanations can establish a causal link).
+
+In conclusion, Plaintiff has established a prima facie case of retaliation under Title IX. The evidence demonstrates that Duquesne University engaged in a pattern of adverse actions that would deter a reasonable person from reporting sex-based harassment or participating in the Title IX process, and that there is a causal connection between Plaintiff's protected activity and the adverse actions taken by the University.

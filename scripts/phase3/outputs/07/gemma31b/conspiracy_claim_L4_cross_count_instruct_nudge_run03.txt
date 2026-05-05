@@ -1,0 +1,40 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because the record reveals a "convincing mosaic" of circumstantial evidence—*Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022)—demonstrating a coordinated agreement to obstruct Plaintiff’s federal rights, fabricate academic failures, and maintain institutional control through intimidation. Under Pennsylvania law, a civil conspiracy exists where two or more persons combine with the intent to do an unlawful act or a lawful act by unlawful means, and where "proof of malice, i.e., an intent to injure, is essential." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979).
+
+**I. Dean Blair’s Consultation with Dr. Selcer Was Not "Routine Administration" but a Breach of Independent Review Requirements.**
+
+Defendants argue that Dean Blair’s consultation with Dr. Selcer regarding Plaintiff’s transfer request was merely routine academic administration. This is contradicted by the evidence. On October 22, 2025, Dean Blair admitted in writing: "I did need to consult Dr. Selcer as instructor to secure some additional details," and further stated, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled" (Exhibit K-2). 
+
+This "consultation" occurred only seven days after Plaintiff cross-examined Dr. Selcer under oath at a TRO hearing (TRO Tr.). Rather than conducting the "independent review of conflict-of-interest disclosures" required by TAP 33 § IV.4, Dean Blair engaged in a joint determination with the very party whose conflict was being disclosed. By "strongly concurring" with a conflicted defendant, Blair abandoned her role as an independent administrator, creating a genuine dispute as to whether this coordination was an agreement to maintain Selcer’s power over Plaintiff despite a documented conflict of interest.
+
+**II. The Defendants’ Assurances of "Fair Treatment" Were a Facade Masking Actual Malice and Intent to Injure.**
+
+Defendants contend that Blair’s offers of academic support evidence an intent to help rather than malice. However, legal malice is defined as an intent to injure, and the chronological record demonstrates that these assurances were a cover for a pattern of antagonism. 
+
+While Dean Blair promised "consideration and opportunities" (Exhibit K-2), Dr. Selcer was simultaneously utilizing his position to implement a "countdown" limitation on Plaintiff’s Zoom access—a measure Plaintiff identified as a "textbook example of retaliation masquerading as accommodation" (Exhibit I-1). This culminated in Selcer’s "final directive" on September 3, 2025, which threatened the termination of remote access (Exhibit J). The "support" offered by Blair was illusory, as it served only to force Plaintiff back into a classroom environment with a hostile defendant while the administration systematically denied the baseline supportive measures (no-contact orders and registrar separation) required under Title IX (Exhibits I, Z-c).
+
+**III. Genuine Disputes Exist Regarding the Underlying Torts, Including the Misapplication of TAP 33.**
+
+Defendants argue that no underlying tort exists because Blair’s analysis of TAP 33 was "correct." This is a question of material fact. TAP 33 § IV.4 requires *independent* review. Blair’s written admission that she and Selcer "strongly concur" (Exhibit K-2) proves the review was not independent. 
+
+Furthermore, under *Thompson Coal*, once a defendant joins a conspiracy, they are "jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy," 412 A.2d at 472-73. Even if Blair’s specific TAP 33 analysis were correct, she is liable for the overt acts of her co-conspirators, including:
+1. The fabrication of "performance issues" by Dr. Selcer to threaten Plaintiff’s stipend through 2029 (Exhibit X-8).
+2. The systematic removal of the Office for Civil Rights (OCR) and senior leadership from correspondence to prevent oversight (Exhibits B-3, B-5A, B-6).
+3. The issuance of threats by Dr. Sawa that seeking help from university officials could result in conduct charges against the Plaintiff (Exhibit B-7).
+
+**IV. The "Coordinated Institutional Response" Was an Unlawful Agreement to Obstruct Federal Oversight.**
+
+Defendants characterize the administration's actions as "well-established university processes." However, standard university process does not include the deliberate removal of federal oversight bodies from communication chains. 
+
+The record shows that four defendants systematically removed OCR and senior administration from critical emails (Exhibits B-3 through B-7). This occurred precisely when Plaintiff was demanding compliance with 34 C.F.R. § 106.44 and § 106.30 (Exhibit B-5A). Such conduct is not "routine"; it is an overt act to prevent "reliance victims from receiving corrective information." When combined with Dr. Sawa’s threat that Plaintiff "must stop emailing me" or face conduct charges (Exhibit B-7), the evidence supports a plausible inference of an agreement to silence the Plaintiff and evade Title IX obligations, which constitutes an unlawful means of achieving their objectives.
+
+**V. Dr. Selcer’s Continuation as Instructor Was a Tool for Retaliation and an Overt Act of the Conspiracy.**
+
+Defendants argue that because Selcer was already the instructor, his continuation in that role cannot be retaliatory. This ignores the "pattern of antagonism" that establishes causation under *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997).
+
+Selcer used his role as instructor to commit several overt acts in furtherance of the conspiracy:
+1. **Misrepresentation of Faculty Views:** Selcer informed Plaintiff that Dr. Faculty C "did not identify a compelling reason" to continue Zoom access (Exhibit V). However, Dr. Faculty C’s own email reveals he was "confused" and "unaware" of the prior authorization, suggesting Selcer reframed the conversation to manipulate the outcome (Exhibits Q, W).
+2. **Fabrication of Performance Issues:** On February 10, 2026, Selcer told Plaintiff that Faculty B "doesn't make decisions about your stipend" and used a "collegial tone" (Exhibit X-6). Yet, three days later, Selcer emailed a threat that "performance issues raised by two of the three faculty members" could lead to a stipend suspension (Exhibit X-8). This is directly contradicted by Faculty B’s own email on February 13, 2026, which requested reassignment due to "tensions" but contained no mention of "performance issues" and ended with "Best wishes" (Exhibit X-7).
+
+Because these acts occurred after Plaintiff’s protected activity of demanding Title IX compliance (*Atkinson v. Lafayette College*, 460 F.3d 447), and because the "convincing mosaic" of evidence shows the administration acted in concert to isolate and threaten the Plaintiff, summary judgment is improper.

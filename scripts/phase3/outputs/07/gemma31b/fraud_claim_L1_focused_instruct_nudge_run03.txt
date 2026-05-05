@@ -1,0 +1,41 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because genuine disputes of material fact exist regarding every element of Plaintiff’s fraud claim. Under Pennsylvania law, fraud requires: (1) a material representation; (2) made falsely with knowledge of its falsity or recklessness; (3) an intent to mislead; (4) justifiable reliance; and (5) resulting injury. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994).
+
+**I. Genuine Disputes of Material Fact Preclude Summary Judgment on Defendants’ Arguments**
+
+**A. Dean Blair’s TAP 33 Analysis and the Conflict of Interest Determination**
+Defendants contend that Dean Blair’s analysis of TAP 33 was consistent with the policy’s plain language and that no "Conflict of Interest" existed. This is a disputed issue of material fact. 
+
+The record demonstrates that Dean Blair’s determination was not an independent analysis but the result of consulting the very party whose conflict was being questioned. On October 22, 2025, Blair admitted, "I did need to consult Dr. Selcer as instructor... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled" (Ex. K-2). By consulting the conflicted party to determine the existence of the conflict, Blair acted with "reckless disregard" for the truth and impartiality required by university training, which mandates that the Title IX team "identify and avoid... Conflicts of interest" and "avoid making judgments or assumptions... before you start your work" (Ex. Z-d, Slides 43, 45). Whether this constitutes a false representation of policy or a reckless disregard for the truth is a question for the jury. *See Moore & Co.*, 812 F.3d at 294 (scienter satisfied by reckless disregard).
+
+**B. The Actionability of Dean Blair’s Silence**
+Defendants argue that Blair’s silence was not actionable because no fiduciary relationship existed. This argument ignores Pennsylvania law regarding the "natural and proper source of information."
+
+Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), where a party is the "natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Blair is the natural and proper source of information regarding the application of TAP 33 and academic conflicts. Furthermore, *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991) establishes that "the concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." Blair’s failure to provide an independent review as required by TAP 33 § IV.4 (CSMF ¶ 9) constitutes a material omission that misled Plaintiff regarding his protections.
+
+**C. Justifiable Reliance on Defendants' Representations**
+Defendants claim Plaintiff cannot prove justifiable reliance because he "immediately recognized" an error in a TAP 33 reading on July 24, 2025. This is a mischaracterization of the record.
+
+Plaintiff’s skepticism regarding one specific policy reading does not negate his justifiable reliance on the University’s broader, repeated representations regarding the *process* for receiving supportive measures. Between June 30 and August 14, four defendants made 36 nearly identical false statements that a meeting was a condition of receiving Title IX supportive measures (CSMF ¶ 1). Dr. Wasilko explicitly stated, "We cannot assist you... unless you are willing to engage with the appropriate offices" (Ex. B-2). Dr. Selcer further conditioned remote seminar attendance—a critical academic accommodation—on Plaintiff "fully engage[ing] with the Title IX, Student Conduct, and Public Safety offices" (Ex. I).
+
+Under *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000), reliance is presumed from materiality where a party would not have entered the transaction (or in this case, foregone specific safety measures) had the truth been known. Plaintiff relied on these representations to his detriment, remaining in a state of housing and physical insecurity despite providing medical documentation from Treating Physician stating that avoiding the abuser was essential to his health and academic functioning (Ex. F).
+
+**D. Alleged Internal Inconsistency of Fraud Claims**
+Defendants argue that Plaintiff’s claims are inconsistent because he alleges fraud both when Defendants responded (Selcer) and when they did not (Blair). This is legally erroneous.
+
+Under Pennsylvania law, fraud can be committed through both affirmative misrepresentation and fraudulent concealment. *Moser*, 589 A.2d at 679. Dr. Selcer’s conduct involved affirmative false representations—specifically, the fabrication of a "meeting requirement" (Ex. I, J) and the later fabrication of "performance issues" to threaten Plaintiff’s stipend (Ex. X-8). Conversely, Dean Blair’s conduct involved the concealment of the required independent review process under TAP 33 (CSMF ¶ 9). These are distinct acts of fraud that can coexist.
+
+**E. Intent to Deceive vs. Intent to Help**
+Defendants suggest that the consultation between Blair and Selcer, and offers of "academic support," evidence an intent to help. The record suggests the opposite.
+
+The "support" offered by Dr. Selcer was conditioned on Plaintiff’s compliance with a fabricated meeting requirement (Ex. I). Furthermore, the record shows a pattern of deception: while Selcer claimed in a February 10 meeting that there were no "performance issues" and that Faculty B did not control the stipend (Ex. X-6), he issued a written directive three days later fabricating "performance issues raised by two of the three faculty members" and threatening stipend suspension through 2029 (Ex. X-8). This contradiction creates a genuine dispute of material fact regarding Defendants' intent to mislead. *Gibbs*, 647 A.2d at 882.
+
+**F. Academic Deference**
+Defendants rely on *Jain v. Carnegie Mellon Univ.* to argue for deference to academic judgment. Academic deference does not shield administrators from liability for fraud.
+
+The disputes here do not concern the *grading* of a paper or the *rigor* of a curriculum, but rather the fraudulent misrepresentation of federal law (34 C.F.R. Part 106) and institutional policy (TAP 61, TAP 33). For example, Alicia Simpson claimed that a meeting was "necessary" to determine a response (Ex. B-5), yet later testified under oath that she made her jurisdictional determination "entirely on the written record" with "no meeting" (CSMF ¶ 5). The fabrication of procedural requirements to deny supportive measures is a matter of law and fact, not an "academic judgment."
+
+**CONCLUSION**
+
+Because there are genuine disputes of material fact regarding the falsity of the meeting requirements, the recklessness of the conflict-of-interest determination, and the justifiability of Plaintiff's reliance on the "natural and proper source of information," summary judgment is improper.

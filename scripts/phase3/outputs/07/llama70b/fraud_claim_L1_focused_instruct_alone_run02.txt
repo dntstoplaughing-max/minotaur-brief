@@ -1,0 +1,31 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count IV - Fraud (Pennsylvania common law) must be denied. Defendants' arguments are based on flawed assumptions and misinterpretations of the evidence, and genuine disputes of material fact preclude summary judgment.
+
+I. Defendants' Argument 1: Dean Blair's TAP 33 Analysis was Consistent with the Policy's Plain Language
+
+Defendants argue that Dean Blair's analysis of TAP 33 was consistent with the policy's plain language, and that Plaintiff is not a "Covered Party" as defined. However, this argument ignores the fact that Dean Blair consulted with Dr. Selcer, a conflicted party, without independent review as required by TAP 33 § IV.4 (Exhibit K-2). This consultation created a conflict of interest, which is a material fact in dispute. Furthermore, Plaintiff corrected Dean Blair within 90 minutes with specific policy citations, and Blair responded "no change" (Exhibits K-2, K-5). This exchange demonstrates that Dean Blair's analysis was not consistent with the policy's plain language, and that Plaintiff's reliance on her representation was justified.
+
+II. Defendants' Argument 2: Blair's Silence on the August 25, 2025 Email was Not Actionable
+
+Defendants argue that Blair's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff to trigger a duty to speak. However, this argument ignores the fact that Blair had a duty to disclose material information as the natural and proper source of information (Neuman v. Corn Exchange National Bank & Trust Co., 356 Pa. 442, 51 A.2d 759 (1947)). Blair's silence on the email, which contained false information about the meeting requirement, was a culpable misrepresentation (Moser v. DeSetta, 589 A.2d 679 (Pa. Super. 1991)).
+
+III. Defendants' Argument 3: Plaintiff Admitted to No Justifiable Reliance
+
+Defendants argue that Plaintiff admitted in his own pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025. However, this argument misinterprets the evidence. Plaintiff's recognition of Blair's error does not negate his justifiable reliance on her representation. In fact, Plaintiff's continued efforts to engage with the university and seek clarification demonstrate his reliance on the representation (Exhibits K-1, K-2).
+
+IV. Defendants' Argument 4: Plaintiff's Claims are Internally Inconsistent
+
+Defendants argue that Plaintiff's claims are internally inconsistent because he alleges that both responding to his emails (Selcer) and not responding (Blair) constituted fraud. However, this argument ignores the fact that each defendant's actions were part of a larger pattern of misrepresentation and concealment. The evidence demonstrates that Defendants systematically removed OCR from correspondence, concealed the false meeting-requirement narrative, and made false statements about the jurisdiction of the Title IX Office (Exhibits B-1 through B-7 series).
+
+V. Defendants' Argument 5: The Consultation between Blair and Selcer Produced Assurances of Fair Treatment
+
+Defendants argue that the consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support, evidence of intent to help, not deceive. However, this argument ignores the fact that the consultation was tainted by a conflict of interest, and that Blair's assurances were based on false information (Exhibit K-2). Furthermore, the evidence demonstrates that Defendants' actions were designed to conceal the true nature of the meeting requirement and the jurisdiction of the Title IX Office (Exhibits B-1 through B-7 series).
+
+VI. Defendants' Argument 6: Courts Should Defer to Academic Institutions' Professional Judgment
+
+Defendants argue that courts should defer to academic institutions' professional judgment regarding academic decisions. However, this argument ignores the fact that the university's actions were not based on professional judgment, but rather on a pattern of misrepresentation and concealment. The evidence demonstrates that Defendants' actions were designed to conceal the true nature of the meeting requirement and the jurisdiction of the Title IX Office, and to induce Plaintiff's reliance on false representations (Exhibits B-1 through B-7 series).
+
+In conclusion, Defendants' arguments are based on flawed assumptions and misinterpretations of the evidence. Genuine disputes of material fact preclude summary judgment, and Plaintiff's claims of fraud must be allowed to proceed to trial.

@@ -1,0 +1,9 @@
+category                                llama70b                  gemma31b         deepseek_v4_flash
+----------------------------------------------------------------------------------------------------
+hedging                  0.07 hits ( 0.01%)   0.57 hits ( 0.06%)   1.02 hits ( 0.05%)
+meta_commentary          0.00 hits ( 0.00%)   0.03 hits ( 0.01%)   0.02 hits ( 0.00%)
+balanced_analysis        0.00 hits ( 0.00%)   0.02 hits ( 0.01%)   0.02 hits ( 0.00%)
+disclaimer               0.02 hits ( 0.00%)   0.03 hits ( 0.00%)   0.22 hits ( 0.01%)
+preamble                 0.00 hits ( 0.00%)   0.00 hits ( 0.00%)   0.00 hits ( 0.00%)
+mean_words                                   589                       995                      1878
+refusal_hint_rate                   0/60 ( 0.0%)              0/60 ( 0.0%)              0/60 ( 0.0%)

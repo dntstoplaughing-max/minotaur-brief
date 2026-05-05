@@ -1,0 +1,37 @@
+**ARGUMENT**
+
+To prevail on a claim for deliberate indifference to sexual harassment under Title IX, a plaintiff must demonstrate that: (1) the funding recipient had actual knowledge of the harassment; (2) the harassment was severe, pervasive, and objectively offensive; (3) the institution’s response was clearly unreasonable in light of the known circumstances; and (4) the harassment effectively denied the victim equal access to the institution's educational opportunities or benefits. *Davis v. Monroe County Board of Education*, 526 U.S. 629 (1999).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Actual knowledge is established when notice is provided to the institution's Title IX Coordinator or any official with the authority to institute corrective measures. *See* Exhibit Z-e (Slide 30). Here, Plaintiff provided multiple notices to high-level officials. On June 30, 2025, Plaintiff reported a physical confrontation and pursuit by a fellow student to Dr. Adam Wasilko, the Associate Vice President for Student Life and Dean of Students—a role specifically identified as having the authority to institute corrective measures. (Exhibit B-0, Exhibit Z-e (Slide 32)). 
+
+Plaintiff further escalated these concerns on July 24, 2025, via a formal Title IX escalation sent to Alicia Simpson (the Title IX Coordinator), the University President, the Provost, and Legal Affairs. (SAC ¶¶ 168-172). Finally, on August 13, 2025, Plaintiff submitted an Emergency Removal Request directly to Coordinator Simpson. (Exhibit F). Consequently, Defendant had actual knowledge of the reported harassment through several officials with the authority to act.
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff was not a mere roommate dispute, but a pattern of intimidation and physical aggression. On June 30, 2025, the respondent aggressively followed Plaintiff through their shared apartment, yelling and using obscenities, and pursued him up the stairs toward his bedroom, stating, "I'm coming up." (Exhibit B-0, Exhibit D). This encounter forced Plaintiff to lock himself in his room to ensure his safety. (Exhibit B-0).
+
+This incident was the culmination of a pervasive pattern of behavior, including the respondent locking Plaintiff out of the apartment and manipulating the home's temperature to the point of causing Plaintiff heat distress. (Exhibit D). The severity of this conduct is corroborated by medical evidence; Treating Physician noted that Plaintiff’s fear of the respondent was "reasonable" and that sharing a living space with the respondent would "impair his academic functioning." (Exhibit F).
+
+**III. Defendant’s Response Was Clearly Unreasonable (Deliberate Indifference)**
+
+Under *Davis*, a recipient is liable where its response is "clearly unreasonable in light of the known circumstances." 526 U.S. at 648. Defendant’s response was not only unreasonable but fundamentally contradictory and non-compliant with federal mandates.
+
+First, the University’s initial response was to minimize the threat. Dean Wasilko informed Plaintiff that the physical pursuit "doesn't sound like a code of conduct violation at this point." (Exhibit B-0). This minimization occurred despite the respondent’s behavior meeting multiple definitions of prohibited conduct under the Student Handbook, including "Stalking" (repeatedly following/intimidating to cause reasonable fear) and "Endangering Health or Safety of Another Person." (Exhibit S).
+
+Second, Defendant failed to provide mandatory supportive measures. Under Title IX, supportive measures—such as mutual no-contact orders and changes in housing—are non-disciplinary, non-punitive, and must be available "at any time after a report of sexual harassment." (Exhibit Z-c (Slides 38-40)). Despite Plaintiff’s reports beginning June 30, 2025, no supportive measures were provided for 45 days. (Statement of Undisputed Material Facts ¶ 8). 
+
+Third, the Title IX Coordinator’s handling of the case was erratic and retaliatory. On August 13, 2025, Coordinator Simpson acknowledged that Plaintiff’s allegations "warrant further information gathering and review" and offered to discuss "supportive measures." (Exhibit B-5). However, nineteen hours later—and immediately after Plaintiff demanded written communication and restored the Office for Civil Rights (OCR) to the CC line—Simpson reversed her determination, stating the Title IX Office "does not have jurisdiction" and "cannot take action or provide assistance." (Exhibit B-6). No new factual information entered the record between these two emails; the only intervening events were Plaintiff’s demands for regulatory compliance. (Statement of Undisputed Material Facts ¶ 7).
+
+Finally, Coordinator Simpson failed to perform any of the five mandatory obligations under 34 C.F.R. § 106.44(a), including failing to promptly contact the Plaintiff to discuss supportive measures or explain the formal complaint process. (Statement of Undisputed Material Facts ¶ 10). Such a total failure to follow procedural requirements constitutes a clearly unreasonable response. *See Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. 2020) (holding that minimal or belated efforts can be clearly unreasonable).
+
+**IV. The Harassment and Defendant's Inaction Denied Plaintiff Equal Educational Access**
+
+The combination of the respondent's harassment and the University's indifference deprived Plaintiff of the educational benefits of his doctoral program. 
+
+The lack of supportive housing measures forced Plaintiff into a state of precarious homelessness and financial crisis, with his bank account falling to negative $2.55 by August 12, 2025. (Exhibit A, Bank records). External Faculty Witness, an academic mentor, declared that Plaintiff's "education and research have been severely derailed by his housing instability and the conflict with his former roommate." (Exhibit C). 
+
+Furthermore, the University's refusal to implement basic safety measures, such as no-contact orders or registrar-enforced separation, created a barrier to campus participation. Plaintiff reported to Professor External Faculty Witness that the respondent was "literally waiting outside" his classroom on September 17, 2025, an encounter that caused "severe distress" and required "hours of recovery time." (Exhibit C). Treating Physician confirmed that the resulting homelessness and proximity to the abuser "negatively impact his graduate education." (Exhibit F).
+
+Because Defendant had actual knowledge of severe harassment and responded with a clearly unreasonable 45-day delay and a sudden jurisdictional disclaimer, it is liable for the resulting denial of Plaintiff's equal access to his education.

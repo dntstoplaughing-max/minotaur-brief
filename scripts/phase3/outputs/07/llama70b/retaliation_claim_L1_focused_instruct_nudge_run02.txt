@@ -1,0 +1,17 @@
+
+
+ARGUMENT
+
+Plaintiff David Mullins has established a prima facie case of retaliation under Title IX, 20 U.S.C. § 1681. The evidence demonstrates that Duquesne University took adverse actions against Mullins in response to his protected activity, which would deter a reasonable person from engaging in similar conduct.
+
+First, Mullins engaged in protected activity by reporting sex-based harassment, opposing the University's handling of his complaint, and participating in the investigation process. (Exhibit B-0A; Exhibit B-3A). As the Third Circuit has held, "Demanding compliance with Title IX is protected activity." Atkinson v. Lafayette College, 460 F.3d 447, 452 (3d Cir. 2006). Mullins's actions, including his email to Dean Wasilko (Exhibit B-0A) and his OCR escalation and records demand (Exhibit B-3A), constitute protected activity under Title IX.
+
+Second, the University took adverse actions against Mullins that would deter a reasonable person from engaging in similar conduct. The University's actions, including the removal of OCR from the CC line on emails (Exhibit B-3), the reversal of Simpson's jurisdictional determination (Exhibit B-6), and the retaliatory Zoom revocation (Exhibit I-1), demonstrate a pattern of antagonism towards Mullins. (Kachmar v. SunGard Data Systems, Inc., 109 F.3d 173, 177 (3d Cir. 1997)).
+
+Third, there is a causal connection between Mullins's protected activity and the adverse actions taken by the University. The temporal proximity between Mullins's protected activity and the adverse actions is unusually suggestive of retaliation. (Jalil v. Avdel Corp., 873 F.2d 701, 706 (3d Cir. 1989)). For example, the University removed OCR from the CC line on emails just two days after Mullins's OCR filing (Exhibit B-3). Additionally, the University's inconsistent explanations for its actions, such as Simpson's reversal of her jurisdictional determination (Exhibit B-6), demonstrate a causal link between Mullins's protected activity and the adverse actions. (Farrell v. Planters Lifesavers Co., 206 F.3d 271, 279 (3d Cir. 2000)).
+
+Furthermore, the University's actions demonstrate a "convincing mosaic" of circumstantial evidence sufficient to establish causation for retaliation claims. (Canada v. Samuel Grossi & Sons, Inc., No. 20-2747, at *5 (3d Cir. 2022)). The University's motivation for investigating Mullins, as evidenced by Selcer's fabrication of "performance issues" (Exhibit X-8), is itself evidence of pretext. (Canada v. Samuel Grossi & Sons, Inc., No. 20-2747, at *5 (3d Cir. 2022)).
+
+In conclusion, Mullins has established a prima facie case of retaliation under Title IX. The evidence demonstrates that the University took adverse actions against Mullins in response to his protected activity, which would deter a reasonable person from engaging in similar conduct. The causal connection between Mullins's protected activity and the adverse actions is established through temporal proximity, inconsistent explanations, and a convincing mosaic of circumstantial evidence.
+
+WHEREFORE, Plaintiff David Mullins respectfully requests that this Court grant judgment in his favor on Count II — Retaliation under Title IX.

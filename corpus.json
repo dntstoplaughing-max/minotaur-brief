@@ -1,0 +1,505 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "case_name": "Davis v. Monroe County Board of Education",
+      "citation": "526 U.S. 629 (1999)",
+      "short_cite": "Davis, 526 U.S. at",
+      "alt_cites": ["119 S. Ct. 1661", "143 L. Ed. 2d 839"],
+      "holding": "Funding recipient liable for student-on-student harassment where it acts with deliberate indifference to known harassment that is severe, pervasive, and objectively offensive enough to deny access to educational opportunities.",
+      "key_passages": [
+        "We conclude that it may, but only where the funding recipient acts with deliberate indifference to known acts of harassment in its programs or activities",
+        "we conclude that recipients of federal funding may be liable for 'subject[ing]' their students to discrimination where the recipient is deliberately indifferent to known acts of student-on-student sexual harassment and the harasser is under the school's disciplinary authority",
+        "the recipient's response to the harassment or lack thereof is clearly unreasonable in light of the known circumstances",
+        "funding recipients are properly held liable in damages only where they are deliberately indifferent to sexual harassment, of which they have actual knowledge, that is so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities or benefits provided by the school"
+      ],
+      "used_in": ["Count I", "Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/790e8208482b4250b329e716d7ff6c67"
+    },
+    {
+      "id": 2,
+      "case_name": "Price Waterhouse v. Hopkins",
+      "citation": "490 U.S. 228 (1989)",
+      "short_cite": "Price Waterhouse, 490 U.S. at",
+      "alt_cites": ["109 S. Ct. 1775", "104 L. Ed. 2d 268"],
+      "holding": "When a plaintiff proves gender played a motivating part in an employment decision, defendant may avoid liability only by proving by a preponderance it would have made the same decision absent the gender consideration. Established that sex-stereotyping constitutes sex discrimination under Title VII.",
+      "key_passages": [
+        "We hold that, when a plaintiff in a Title VII case proves that her gender played a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken the plaintiff's gender into account"
+      ],
+      "used_in": ["Count I", "Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280379f72f5a4d0424718"
+    },
+    {
+      "id": 3,
+      "case_name": "Desert Palace, Inc. v. Costa",
+      "citation": "539 U.S. 90 (2003)",
+      "short_cite": "Desert Palace, 539 U.S. at",
+      "alt_cites": ["123 S. Ct. 2148", "156 L. Ed. 2d 84"],
+      "holding": "Direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII. Circumstantial evidence suffices to show an employer used a forbidden consideration in any employment practice.",
+      "key_passages": [
+        "Direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII",
+        "Section 2000e-2(m) unambiguously states that a plaintiff need only demonstrate that an employer used a forbidden consideration with respect to any employment practice. On its face, it does not mention that a plaintiff must make a heightened showing through direct evidence"
+      ],
+      "used_in": ["Count II", "Count V"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b8528074adbac86b9acfb450"
+    },
+    {
+      "id": 4,
+      "case_name": "Doe v. University of the Sciences",
+      "citation": "961 F.3d 203 (3d Cir. 2020)",
+      "short_cite": "Doe v. USciences, 961 F.3d at",
+      "alt_cites": [],
+      "holding": "Adopted Seventh Circuit's straightforward pleading standard — to state a claim under Title IX, alleged facts, if true, must support a plausible inference that a federally-funded institution discriminated on the basis of sex. No need to superimpose additional doctrinal tests on the statute.",
+      "key_passages": [
+        "we see no need to superimpose doctrinal tests on the [Title IX] statute",
+        "to state a claim under Title IX, the alleged facts, if true, must support a plausible inference that a federally-funded college or university discriminated against a person on the basis of sex"
+      ],
+      "used_in": ["Count I", "Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280ea9707ef518d7aa11e"
+    },
+    {
+      "id": 5,
+      "case_name": "Heffernan v. Hunter",
+      "citation": "189 F.3d 405 (3d Cir. 1999)",
+      "short_cite": "Heffernan, 189 F.3d at",
+      "alt_cites": [],
+      "holding": "Intracorporate conspiracy doctrine bars § 1985 conspiracy claims between attorney and client when attorney acts within scope of representation. However, if challenged conduct occurs outside scope of representation, no immunity exists and attorney and client can form a conspiracy. Also held a witness has standing under § 1985(2).",
+      "key_passages": [
+        "we hold that a witness or juror may be a 'party' entitled to maintain an action under section 1985(2)",
+        "Looking to state law, the District Court concluded that no conspiracy can exist where an attorney's advice or advocacy is for the benefit of his client rather than for the attorney's 'sole personal benefit'"
+      ],
+      "used_in": ["Count V"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852802eb9d2f710e5212f58"
+    },
+    {
+      "id": 6,
+      "case_name": "Taylor v. Phoenixville School District",
+      "citation": "184 F.3d 296 (3d Cir. 1999)",
+      "short_cite": "Taylor, 184 F.3d at",
+      "alt_cites": [],
+      "holding": "Employer who has received adequate notice of employee's disability and desire for accommodations cannot fail to engage in the interactive process, increase the disabled employee's job responsibilities, and then simply document failures. Employer acting in bad faith in the interactive process will be liable if jury can reasonably conclude the employee would have been able to perform with accommodations.",
+      "key_passages": [
+        "an employer who has received adequate notice of an employee's disability and desire for accommodations, cannot fail to engage the employee in the interactive process of finding accommodations, increase the disabled employee's job responsibilities, and then simply document the employee's failures",
+        "To show that an employer failed to participate in the interactive process, a disabled employee must demonstrate: 1) the employer knew about the employee's disability; 2) the employee requested accommodations or assistance for his or her disability; 3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and 4) the employee could have been reasonably accommodated but for the employer's lack of good faith",
+        "an employer who acts in bad faith in the interactive process will be liable if the jury can reasonably conclude that the employee would have been able to perform the job with accommodations"
+      ],
+      "used_in": ["Count III"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280fcb3f9f7300702f6ff"
+    },
+    {
+      "id": 8,
+      "case_name": "Brumfield v. Sanders",
+      "citation": "232 F.3d 376 (3d Cir. 2000)",
+      "short_cite": "Brumfield, 232 F.3d at",
+      "alt_cites": [],
+      "holding": "Sets forth PA scope-of-employment test (Restatement (Second) of Agency § 228): conduct within scope if (a) kind employee is employed to perform, (b) within authorized time/space limits, (c) actuated at least in part by purpose to serve the master. Even intentional/criminal acts may be within scope if incidental to master's business.",
+      "key_passages": [
+        "conduct is within the scope of employment if, but only if: (a) it is the kind [the employee] is employed to perform; (b) it occurs substantially within the authorized time and space limits [and] (c) it is actuated, at least in part, by a purpose to serve the master",
+        "the liability of the employer may extend even to intentional or criminal acts committed by the servant"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280d4b68df7af4220b1d2"
+    },
+    {
+      "id": 9,
+      "case_name": "Thompson Coal Co. v. Pike Coal Co.",
+      "citation": "488 Pa. 198, 412 A.2d 466 (1979)",
+      "short_cite": "Thompson Coal, 412 A.2d at",
+      "alt_cites": ["488 Pa. 198"],
+      "holding": "PA civil conspiracy requires combination or agreement with intent to do an unlawful act, proof of malice essential; bare allegations insufficient.",
+      "key_passages": [
+        "To prove a civil conspiracy, it must be shown that two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means",
+        "Proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy"
+      ],
+      "used_in": ["Count V"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/154fecdf9f6844639c6dd1ec934d9d73"
+    },
+    {
+      "id": 10,
+      "case_name": "Gibbs v. Ernst",
+      "citation": "538 Pa. 193, 647 A.2d 882 (1994)",
+      "short_cite": "Gibbs, 647 A.2d at",
+      "alt_cites": ["538 Pa. 193"],
+      "holding": "PA fraud requires representation, materiality, falsity/recklessness, intent to mislead, justifiable reliance, and resulting injury proximately caused by reliance.",
+      "key_passages": [
+        "(1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness as to whether it is true or false; (4) with the intent of misleading another into relying on it; (5) justifiable reliance on the misrepresentation; and (6) the resulting injury was proximately caused by the reliance"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/d95a39750ef843439222d5bf99d8ce70"
+    },
+    {
+      "id": 7,
+      "case_name": "United States ex rel. Moore & Co. v. Majestic Blue Fisheries, LLC",
+      "citation": "812 F.3d 294 (3d Cir. 2016)",
+      "short_cite": "Majestic Blue, 812 F.3d at",
+      "alt_cites": [],
+      "holding": "Third Circuit affirmed FCA liability where government contractor submitted false claims for fishery observer costs. Established that materiality under the FCA requires that the false statement have a natural tendency to influence or be capable of influencing the payment decision. Knowledge element satisfied where defendant acted in deliberate ignorance or reckless disregard of truth or falsity.",
+      "key_passages": [
+        "The FCA's materiality requirement is satisfied when the false statement has a natural tendency to influence, or is capable of influencing, the payment or receipt of money or property",
+        "The FCA's scienter requirement is met when the defendant acts with actual knowledge, deliberate ignorance, or reckless disregard of the truth or falsity of the information"
+      ],
+      "used_in": ["Count IV", "Count I"],
+      "source": "intake_s2obpnvk",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280969d7bd607bc2596e0"
+    },
+    {
+      "id": 11,
+      "case_name": "Hutchison v. Luddy",
+      "citation": "870 A.2d 766 (Pa. 2005)",
+      "short_cite": "Hutchison, 870 A.2d at",
+      "alt_cites": ["582 Pa. 114"],
+      "holding": "PA Supreme Court held punitive damages are not categorically unavailable for negligent supervision claims under Restatement § 317. Where defendant's conduct goes beyond mere negligence into realm of outrageous conduct demonstrating willful, wanton, or reckless disregard, punitive damages may be awarded even though the underlying cause of action sounds in negligence.",
+      "key_passages": [
+        "We reject the Superior Court's conclusion that punitive damages are unavailable, as a matter of law, in an action for negligent supervision",
+        "neither is there anything in law or logic to prevent the plaintiff in a case sounding in negligence from undertaking the additional burden of attempting to prove, as a matter of damages, that the defendant's conduct not only was negligent but that the conduct was also outrageous, and warrants a response in the form of punitive damages",
+        "a punitive damages claim must be supported by evidence sufficient to establish that (1) a defendant had a subjective appreciation of the risk of harm to which the plaintiff was exposed and that (2) he acted, or failed to act, as the case may be, in conscious disregard of that risk"
+      ],
+      "used_in": ["Count IV", "Bank"],
+      "source": "findlaw",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b8528089a6d5ebc3e5627298"
+    },
+    {
+      "id": 13,
+      "case_name": "Fitzgerald v. McCutcheon",
+      "citation": "270 Pa. Super. Ct. 102, 410 A.2d 1270 (1979)",
+      "short_cite": "Fitzgerald, 410 A.2d at",
+      "alt_cites": ["270 Pa. Super. Ct. 102"],
+      "holding": "Where an employee commits an act of force that is excessive and totally without responsibility or reason, the employer is not responsible as a matter of law. Applies Restatement (Second) of Agency § 228 scope-of-employment test — if conduct is for personal reasons or outrageous, it is not actuated by intent to serve the master and falls outside scope of employment.",
+      "key_passages": [
+        "where the act of force is excessive and totally without responsibility or reason, the employer is not responsible as a matter of law"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b8528088a18fe2a818ed762b"
+    },
+    {
+      "id": 12,
+      "case_name": "Moser v. DeSetta",
+      "citation": "589 A.2d 679 (Pa. Super. 1991)",
+      "short_cite": "Moser, 589 A.2d at",
+      "alt_cites": [],
+      "holding": "PA fraud elements: misrepresentation fraudulently uttered with intent to induce action undertaken in reliance, to the damage of its victim. Concealment of a material fact amounts to culpable misrepresentation no less than an intentional false statement.",
+      "key_passages": [
+        "fraud is composed of a misrepresentation fraudulently uttered with the intent to induce the action undertaken in reliance upon it, to the damage of its victim",
+        "The concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280d38d64d4e982d886be"
+    },
+    {
+      "id": 15,
+      "case_name": "Hall v. Millersville University",
+      "citation": "No. 19-3275 (3d Cir. Jan. 11, 2022)",
+      "short_cite": "Hall, No. 19-3275, slip op. at",
+      "alt_cites": [],
+      "holding": "Federal funding recipient has adequate notice under Title IX that it may face monetary liability for deliberate indifference to known sexual harassment perpetrated by a non-student where the recipient exercises substantial control over the context and the harasser. Failure to forward sexual misconduct reports to Title IX Coordinator as required by policy can constitute clearly unreasonable response.",
+      "key_passages": [
+        "it is an intentional violation of Title IX's terms for a funding recipient to act with deliberate indifference to known sexual harassment where the recipient exercises substantial control over the context in which the harassment occurs and the harasser, even if they are a third party",
+        "Wiafe looked over Wiberg's report and then filed it away. Sehl did not forward Wiberg's report and did not discuss it with anyone until after Karlie's murder.",
+        "Millersville's Title IX Policy also required that victims of domestic or dating violence on campus be contacted by someone at Millersville. Karlie was not contacted by someone at Millersville after Wiberg's report of the October 4th incident."
+      ],
+      "used_in": ["SJ 8.1"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852802ebc15e0dedbd111b7"
+    },
+    {
+      "id": 16,
+      "case_name": "McAvoy v. Dickinson College",
+      "citation": "No. 23-2939 (3d Cir. Aug. 16, 2024)",
+      "short_cite": "McAvoy, No. 23-2939, slip op. at",
+      "alt_cites": [],
+      "holding": "Affirmed SJ for university. School's response — no-contact directive, academic/mental health accommodations, five-month outside investigation finding sexual assault, semester of probation — was not clearly unreasonable under Davis despite delays. Delays alone do not establish deliberate indifference where school maintained ongoing communication and support.",
+      "key_passages": [
+        "we agree with the District Court that there is no genuine dispute as to any material fact and Dickinson is entitled to judgment as a matter of law"
+      ],
+      "used_in": ["SJ 8.1"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852808fb576e46c3609d791"
+    },
+    {
+      "id": 17,
+      "case_name": "Foster v. Board of Regents of University of Michigan",
+      "citation": "No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc)",
+      "short_cite": "Foster, No. 19-1314, slip op. at",
+      "alt_cites": [],
+      "holding": "En banc decision affirming SJ for university. Majority held university was not deliberately indifferent because it adopted escalating measures proportionate to the misconduct. Dissent argued genuine disputes precluded SJ. Establishes that deliberate indifference can be resolved as question of law in an appropriate case.",
+      "key_passages": [
+        "a school's response to sexual harassment is deliberately indifferent if it is 'clearly unreasonable in light of the known circumstances.' Davis, 526 U.S. at 648",
+        "Neither does [the deliberate indifference standard] require courts to conclude that minimal, ineffective, or belated efforts to respond to sexual harassment are not clearly unreasonable as a matter of law",
+        "we are faced with a case where the University knew its initial response was ineffective and we must determine whether its subsequent actions were so reasonable—in light of that knowledge and the surrounding circumstances—as to warrant judgment in its favor as a matter of law. They were not"
+      ],
+      "used_in": ["SJ 8.1"],
+      "source": "sixth_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280b0b91efbda97a3a611"
+    },
+    {
+      "id": 18,
+      "case_name": "A.J.T. v. Osseo Area Schools",
+      "citation": "605 U.S. ___ (2025)",
+      "short_cite": "Osseo, 605 U.S. at",
+      "alt_cites": [],
+      "holding": "ADA/Section 504 claims in educational settings use ordinary failure-to-accommodate analysis — no heightened bad faith or gross misjudgment standard.",
+      "key_passages": [
+        "Schoolchildren bringing ADA and Rehabilitation Act claims related to their education are not required to make a heightened showing of 'bad faith or gross misjudgment' but instead are subject to the same standards that apply in other disability discrimination contexts",
+        "Nothing in the text of Title II of the ADA or Section 504 of the Rehabilitation Act suggests that such claims should be subject to a distinct, more demanding analysis"
+      ],
+      "used_in": ["Count III", "SJ 8.3"],
+      "source": "supreme_court",
+      "notion_full_text_url": "https://www.notion.so/307fd5d9b85280a89f4cff15a90308ae"
+    },
+    {
+      "id": 19,
+      "case_name": "Oross v. Kutztown University",
+      "citation": "No. 21-5032 (E.D. Pa. July 25, 2023)",
+      "short_cite": "Oross, No. 21-5032, slip op. at",
+      "alt_cites": [],
+      "holding": "SJ for plaintiff where university denied remote accommodation based on ad hoc blanket policy with no written basis, no individualized assessment, and interference — accommodation was 'dead on arrival.'",
+      "key_passages": [
+        "University applied blanket no-remote policy with no written basis, no individualized assessment of plaintiff's request",
+        "Accommodation request was 'dead on arrival' — interference with the interactive process established"
+      ],
+      "used_in": ["Count III"],
+      "source": "govinfo",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852801b9de3f3e078dc332e"
+    },
+    {
+      "id": 20,
+      "case_name": "Neuman v. Corn Exchange National Bank & Trust Co.",
+      "citation": "356 Pa. 442, 51 A.2d 759 (1947)",
+      "short_cite": "Neuman, 51 A.2d at",
+      "alt_cites": ["356 Pa. 442"],
+      "holding": "Reliance justified when defendant is 'naturally the proper source of information'; deliberate nondisclosure of a material fact equals culpable misrepresentation.",
+      "key_passages": [
+        "Where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280d386b2fc81893fb478"
+    },
+    {
+      "id": 21,
+      "case_name": "Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.",
+      "citation": "85 F. Supp. 2d 519 (W.D. Pa. 2000)",
+      "short_cite": "Peerless, 85 F. Supp. 2d at",
+      "alt_cites": [],
+      "holding": "Reliance presumed from materiality — if a party would not have entered the transaction with full disclosure, reliance is 'obvious.'",
+      "key_passages": [
+        "Reliance is presumed from materiality where a party would not have entered the transaction had the truth been known"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280608c29d89743847d18"
+    },
+    {
+      "id": 22,
+      "case_name": "Duquesne Light Co. v. Westinghouse Electric Corp.",
+      "citation": "66 F.3d 604 (3d Cir. 1995)",
+      "short_cite": "Duquesne Light, 66 F.3d at",
+      "alt_cites": [],
+      "holding": "No duty to speak between sophisticated parties with equal knowledge; approves Neuman 'proper source' reliance — no-duty-to-investigate applies only between equals.",
+      "key_passages": [
+        "The duty to investigate does not apply where the defendant is the natural and proper source of the information",
+        "No duty to speak exists between sophisticated parties dealing at arm's length with equal access to information"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852800296fffdd5a8215c37"
+    },
+    {
+      "id": 23,
+      "case_name": "Woodward v. Dietrich",
+      "citation": "378 Pa. Super. 111, 548 A.2d 301 (1988)",
+      "short_cite": "Woodward, 548 A.2d at",
+      "alt_cites": ["378 Pa. Super. 111"],
+      "holding": "Fraud liability extends to third parties without privity under Restatement §§ 531, 533, 536 where reliance was 'specially foreseeable' and liability is not indeterminate.",
+      "key_passages": [
+        "Fraud liability extends to third parties without privity where reliance was specially foreseeable under Restatement (Second) of Torts §§ 531, 533, 536"
+      ],
+      "used_in": ["Count IV"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280749d37dc6673bc8961"
+    },
+    {
+      "id": 24,
+      "case_name": "Farrell v. Planters Lifesavers Co.",
+      "citation": "206 F.3d 271 (3d Cir. 2000)",
+      "short_cite": "Farrell, 206 F.3d at",
+      "alt_cites": [],
+      "holding": "Causation shown by proffered evidence 'looked at as a whole,' not just temporal proximity; inconsistent explanations establish causal link; McDonnell Douglas does not compartmentalize evidence between prima facie and pretext stages.",
+      "key_passages": [
+        "these are not the exclusive ways to show causation, as the proffered evidence, looked at as a whole, may suffice to raise the inference",
+        "nothing about the McDonnell Douglas formula requires us to ration the evidence between one stage or the other"
+      ],
+      "used_in": ["Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280b39fe0ed0084c63ef1"
+    },
+    {
+      "id": 25,
+      "case_name": "Doe v. Mercy Catholic Medical Center",
+      "citation": "No. 16-1247 (3d Cir. 2017)",
+      "short_cite": "Doe v. Mercy Catholic, No. 16-1247, slip op. at",
+      "alt_cites": [],
+      "holding": "Title IX retaliation uses Title VII framework; private right of action encompasses retaliation; concurrent remedies available.",
+      "key_passages": [
+        "Title IX retaliation claims are analyzed under the Title VII burden-shifting framework"
+      ],
+      "used_in": ["Count II"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852809ca170e60d500e73d9"
+    },
+    {
+      "id": 26,
+      "case_name": "Canada v. Samuel Grossi & Sons, Inc.",
+      "citation": "No. 20-2747 (3d Cir. 2022)",
+      "short_cite": "Canada, No. 20-2747, slip op. at",
+      "alt_cites": [],
+      "holding": "'Convincing mosaic' of circumstantial evidence sufficient for causation; employer's motivation for investigating plaintiff is itself evidence of pretext. Reversed summary judgment on retaliation.",
+      "key_passages": [
+        "A convincing mosaic of circumstantial evidence is sufficient to establish causation for retaliation claims",
+        "The employer's motivation for investigating the plaintiff is itself evidence of pretext"
+      ],
+      "used_in": ["Count II"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280f2a8a3e329fa7e4557"
+    },
+    {
+      "id": 27,
+      "case_name": "Kachmar v. SunGard Data Systems, Inc.",
+      "citation": "109 F.3d 173 (3d Cir. 1997)",
+      "short_cite": "Kachmar, 109 F.3d at",
+      "alt_cites": [],
+      "holding": "'Causation, not temporal proximity, is the element'; proffered evidence looked at as a whole may suffice to raise inference of causation. Pattern of antagonism independently establishes causal link.",
+      "key_passages": [
+        "it is causation, not temporal proximity itself, that is an element of plaintiff's prima facie case",
+        "Where there is a lack of temporal proximity, circumstantial evidence of a 'pattern of antagonism' following the protected conduct can also give rise to the inference"
+      ],
+      "used_in": ["Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280a1b388cef5a457f821"
+    },
+    {
+      "id": 28,
+      "case_name": "Atkinson v. Lafayette College",
+      "citation": "460 F.3d 447 (3d Cir. 2006)",
+      "short_cite": "Atkinson, 460 F.3d at",
+      "alt_cites": [],
+      "holding": "Demanding Title IX compliance is protected activity under Jackson; Third Circuit reversed dismissal of retaliation claim.",
+      "key_passages": [
+        "Demanding compliance with Title IX is protected activity"
+      ],
+      "used_in": ["Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280cb8c0de6d026dfd3f9"
+    },
+    {
+      "id": 29,
+      "case_name": "Kengerski v. Harper",
+      "citation": "No. 20-1307 (3d Cir. 2021)",
+      "short_cite": "Kengerski, No. 20-1307, slip op. at",
+      "alt_cites": [],
+      "holding": "Broadened protected activity — plaintiff need only 'reasonably believe' the conduct opposed violates the statute; actual violation not required.",
+      "key_passages": [
+        "Plaintiff need only hold an 'objectively reasonable belief, in good faith' that conduct violated Title VII"
+      ],
+      "used_in": ["Count II"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280ad85c5ce45add0ebfc"
+    },
+    {
+      "id": 30,
+      "case_name": "Jalil v. Avdel Corp.",
+      "citation": "873 F.2d 701 (3d Cir. 1989)",
+      "short_cite": "Jalil, 873 F.2d at",
+      "alt_cites": [],
+      "holding": "'Unusually suggestive' temporal proximity (two days) alone can establish causal connection for retaliation.",
+      "key_passages": [
+        "Two-day temporal proximity between protected activity and adverse action is sufficient to establish causation"
+      ],
+      "used_in": ["Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852807d8084ceba0594bd69"
+    },
+    {
+      "id": 31,
+      "case_name": "Lauren W. ex rel. Jean W. v. DeFlaminis",
+      "citation": "480 F.3d 259 (3d Cir. 2007)",
+      "short_cite": "Lauren W., 480 F.3d at",
+      "alt_cites": [],
+      "holding": "Temporal proximity plus contextual evidence sufficient for causation in Title IX retaliation.",
+      "key_passages": [
+        "Temporal proximity combined with contextual evidence of retaliatory animus is sufficient to establish causation"
+      ],
+      "used_in": ["Count II"],
+      "source": "google_scholar",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b85280809ba6fd29d3129020"
+    },
+    {
+      "id": 32,
+      "case_name": "Carvalho-Grevious v. Delaware State University",
+      "citation": "No. 15-3521 (3d Cir. 2017)",
+      "short_cite": "Carvalho-Grevious, No. 15-3521, slip op. at",
+      "alt_cites": [],
+      "holding": "At prima facie stage, plaintiff need only show protected activity was the 'likely reason' — not the but-for reason — for adverse action. Reversed summary judgment for university on retaliation.",
+      "key_passages": [
+        "At the prima facie stage, the plaintiff need only show that the protected activity was the likely reason for the adverse action"
+      ],
+      "used_in": ["Count II"],
+      "source": "third_circuit_archive",
+      "notion_full_text_url": "https://www.notion.so/30dfd5d9b852803d8c09cd570248db04"
+    }
+  ],
+  "statutes": [
+    {
+      "id": "title_ix_1681a",
+      "citation": "20 U.S.C. § 1681(a)",
+      "text": "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."
+    },
+    {
+      "id": "title_ix_1688",
+      "citation": "20 U.S.C. § 1688",
+      "text": "No person shall be required by reason of this subchapter to grant preferential or disparate treatment to the members of one sex on account of an imbalance which may exist with respect to the total number or percentage of persons of that sex participating in or receiving the benefits of any federally supported program or activity."
+    },
+    {
+      "id": "section_504",
+      "citation": "29 U.S.C. § 794",
+      "text": "No otherwise qualified individual with a disability in the United States shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance."
+    },
+    {
+      "id": "ada_antiretaliation",
+      "citation": "42 U.S.C. § 12205",
+      "text": "No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter."
+    },
+    {
+      "id": "frcp_9b",
+      "citation": "Fed. R. Civ. P. 9(b)",
+      "text": "In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally."
+    },
+    {
+      "id": "section_1985",
+      "citation": "42 U.S.C. § 1985(2)-(3)",
+      "text": "If two or more persons conspire to deter, by force, intimidation, or threat, any party or witness in any court of the United States from attending such court, or from testifying to any matter pending therein, freely, fully, and truthfully, or to injure such party or witness in his person or property on account of his having so attended or testified; or if two or more persons in any State or Territory conspire for the purpose of depriving any person of the equal protection of the laws, the party so injured or deprived may have an action for the recovery of damages occasioned by such injury or deprivation, against any one or more of the conspirators."
+    }
+  ],
+  "_meta": {
+    "version": "2.0",
+    "scope": "Full corpus (31 cases) + 6 statutes",
+    "notes": {
+      "14": "No case 14 — ID skipped in original numbering",
+      "7_11_13": "Cases 7, 11, 13 restored 2026-03-25 with correct opinions"
+    },
+    "phase_2_additions": "Cases 19-23 (ADA + reliance infrastructure) and 24-32 (retaliation canon) added 2026-03-26",
+    "generated": "2026-03-26",
+    "source_page": "Case Law Reference — Verification Corpus"
+  }
+}

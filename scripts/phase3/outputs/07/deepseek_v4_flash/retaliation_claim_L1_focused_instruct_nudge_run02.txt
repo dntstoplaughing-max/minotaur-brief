@@ -1,0 +1,37 @@
+ARGUMENT
+
+Plaintiff David Mullins has established each element of his Title IX retaliation claim. Under the framework applicable to Title IX, retaliation claims are analyzed under the Title VII burden-shifting framework. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017). To establish a prima facie case, Plaintiff must show (1) protected activity, (2) adverse action that would deter a reasonable person, and (3) a causal connection between the protected activity and the adverse action. As set forth below, the undisputed facts and evidence satisfy each element.
+
+**I. Plaintiff Engaged in Continuous Protected Activity**
+
+Protected activity under Title IX includes reporting sex-based harassment, escalating complaints, and demanding Title IX compliance. *Atkinson v. Lafayette College*, 460 F.3d 447 (3d Cir. 2006). Moreover, a plaintiff need only hold "an objectively reasonable belief, in good faith, that conduct violated" the statute. *Kengerski v. Harper*, No. 20-1307 (3d Cir. 2021).
+
+Plaintiff's protected activity began on June 30, 2025, when he reported sex-based harassment to Dean Wasilko. (Exhibit B-0). He formally escalated under § 106.44(a) on July 24. On July 26, Plaintiff filed a complaint with the Office for Civil Rights, explicitly invoking Title IX protections and demanding compliance. (Exhibit B-3A). He filed a federal lawsuit on September 9, moved for a TRO on October 8, and testified at the TRO hearing on October 15. (ECF docket; TRO transcript). Additionally, Plaintiff repeatedly demanded Title IX supportive measures and challenged retaliatory limitations. (Exhibits I, I-1). Each of these actions constitutes protected activity under binding Third Circuit precedent.
+
+**II. Plaintiff Suffered Multiple Adverse Actions**
+
+An adverse action in the retaliation context is one that would deter a reasonable person from engaging in protected activity. Defendant took at least four categories of adverse actions:
+
+*First*, after Plaintiff filed his OCR complaint on July 26, institutional actors—Wasilko, Simpson, Sawa, and others—systematically removed OCR from the CC line on eight or more occasions between July 28 and October 2025. No authority or policy authorized removal of a federal enforcement agency. (Exhibits B-3 through B-7 series).
+
+*Second*, on August 13, 2025, Title IX Coordinator Simpson acknowledged Title IX jurisdiction using the term of art "supportive measures." (Exhibit B-5). After Plaintiff sent three emails consisting entirely of protected activity (Exhibits B-5A, B-5B, B-5C), Simpson reversed her jurisdictional determination on an identical factual record within nineteen hours on August 14. (Exhibit B-6). This reversal deprived Plaintiff of Title IX protections to which he was entitled.
+
+*Third*, on October 6, Faculty C authorized Zoom access. On October 8, Plaintiff filed his TRO motion; on October 15, he testified. On October 17—two days after the hearing—Selcer revoked Zoom access. (TRO transcript; Timeline DB). Selcer provided shifting justifications and ultimately admitted he "can't explain why" Zoom was denied. (Exhibit L; SJ 7.3).
+
+*Fourth*, on February 13, 2026, Selcer reassigned Plaintiff's TA position, fabricating "performance issues raised by Faculty B." (Exhibit X-8). Faculty B's own same-day email described the reassignment as keeping a "door open" with "no performance complaint." (Exhibit X-7). Selcer's email recharacterized "tensions and confrontations" as "performance issues" and threatened Plaintiff's stipend through Spring 2029. (Exhibit X-8). Critically, Selcer had testified at the TRO hearing that Plaintiff had no performance issues. (TRO Tr.). These actions would unquestionably deter a reasonable person from engaging in protected activity.
+
+**III. The Causal Connection Is Established Through Temporal Proximity, Pattern of Antagonism, and Inconsistent Explanations**
+
+Causation may be established through "unusually suggestive" temporal proximity, a pattern of antagonism, or evidence "looked at as a whole." *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000); *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997); *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989). At the prima facie stage, Plaintiff need only show that protected activity was the "likely reason" for the adverse action. *Carvalho-Grevious v. Delaware State University*, No. 15-3521 (3d Cir. 2017).
+
+*Temporal Proximity*: The timing here is extraordinary. Two days after Plaintiff's OCR filing, Wasilko removed OCR from the CC line. (Exhibit B-3). Nineteen hours after Plaintiff sent three protected-activity emails on August 13, Simpson reversed her jurisdiction determination. (Exhibits B-5, B-5A, B-5B, B-5C, B-6). Two days after Plaintiff testified at the TRO hearing, Selcer revoked Zoom access. (TRO transcript; Timeline DB). This sequence of unusually suggestive timing alone establishes causation. *Jalil*, 873 F.2d at 708 (two-day gap sufficient).
+
+*Pattern of Antagonism*: Even setting aside the tight temporal proximity, the record reveals a clear pattern of antagonism following Plaintiff's protected activity. Defendant retaliated against Plaintiff for including OCR on emails, reversed jurisdiction after protected emails, revoked accommodations after litigation activity, and fabricated performance issues after litigation testimony. This pattern independently establishes the causal link. *Kachmar*, 109 F.3d at 177.
+
+*Inconsistent Explanations as Evidence of Pretext*: Defendant's shifting justifications further demonstrate causation. Selcer provided contradictory reasons for the Zoom denial and ultimately admitted he "can't explain why." (Exhibit L). Selcer's February 13, 2026 reassignment letter (Exhibit X-8) fabricated "performance issues raised by two of the three faculty members," yet Faculty B's same-day email stated there was "no performance complaint" and described reassignment as keeping a "door open." (Exhibit X-7). Selcer himself had testified that Plaintiff had no performance issues. (TRO Tr.). These inconsistent explanations establish a causal link and demonstrate pretext. *Farrell*, 206 F.3d at 286 (inconsistent explanations establish causal link); *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022) ("The employer's motivation for investigating the plaintiff is itself evidence of pretext").
+
+*Evidence Looked at as a Whole*: The "proffered evidence, looked at as a whole, may suffice to raise the inference" of causation. *Farrell*, 206 F.3d at 281. Here, the evidence includes: (1) continuous protected activity, including federal litigation; (2) eight-plus removals of OCR from correspondence; (3) a nineteen-hour jurisdictional reversal; (4) Zoom revocation two days after a TRO hearing; (5) a fabricated performance issue threat to stipend through 2029; and (6) shifting, contradictory explanations. Together, this evidence forms a "convincing mosaic of circumstantial evidence" sufficient to establish causation. *Canada*, No. 20-2747; *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259 (3d Cir. 2007) (temporal proximity plus contextual evidence sufficient).
+
+**CONCLUSION**
+
+For the foregoing reasons, Plaintiff has established a prima facie case of retaliation under Title IX. The evidence demonstrates continuous protected activity, multiple adverse actions, and a clear causal connection supported by temporal proximity, a pattern of antagonism, and inconsistent explanations. Summary judgment on Count II must be denied.

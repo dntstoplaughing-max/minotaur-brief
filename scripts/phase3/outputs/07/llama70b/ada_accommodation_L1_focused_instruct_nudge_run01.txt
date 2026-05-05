@@ -1,0 +1,25 @@
+
+
+ARGUMENT
+
+Count III: Failure to Accommodate under Section 504 (29 U.S.C. § 794) and the ADA
+
+Plaintiff David Mullins, a doctoral candidate in the Department of Philosophy at Duquesne University, brings this claim against Defendant Duquesne University of the Holy Spirit for failing to accommodate his disability in violation of Section 504 of the Rehabilitation Act and the Americans with Disabilities Act (ADA). The undisputed facts demonstrate that Duquesne University had notice of Plaintiff's disability and his need for accommodation, yet failed to engage in the interactive process, denied his request for a reasonable accommodation, and caused him harm.
+
+First, Plaintiff is a qualified individual with a disability. His treating physician, Treating Physician, provided documentation stating that Plaintiff does not feel safe around a specific individual on campus, and from what he described, it is reasonable for him to have this fear (Exhibit F). This documentation establishes that Plaintiff has a disability that requires accommodation.
+
+Second, Plaintiff provided notice of his disability and his need for accommodation. He requested Zoom access for class participation as a medically necessary accommodation (Undisputed Fact 3). This request was made in writing and was clear in its intent to seek an accommodation for his disability.
+
+Third, Plaintiff requested a reasonable accommodation. Zoom access is a reasonable accommodation that is already in use in the same department by Faculty D for comparable graduate coursework (Exhibit N). In fact, Faculty D's syllabus explicitly states that students can attend class remotely via Zoom if they are not feeling well (Exhibit N). This demonstrates that Zoom access is a feasible and reasonable accommodation that can be made without undue hardship to the University.
+
+Fourth, Duquesne University denied Plaintiff's request for accommodation. Despite Plaintiff's clear request for Zoom access, Selcer imposed a three-week countdown on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation (Exhibit I). This denial was not based on any written policy or departmental standard, but rather on Selcer's personal preference (TRO Tr. at *:*). Furthermore, Selcer's denial was retaliatory, as evidenced by his email stating that Plaintiff's Zoom access would be terminated if he did not comply with certain conditions (Exhibit J).
+
+Fifth, Duquesne University's denial of accommodation caused Plaintiff harm. Plaintiff was forced to participate in class remotely, which limited his ability to fully engage with his coursework and colleagues (Undisputed Fact 3). Additionally, the stress and anxiety caused by the University's denial of accommodation exacerbated Plaintiff's disability, as documented by his treating physician (Exhibit F).
+
+The Supreme Court's decision in A.J.T. v. Osseo Area Schools, 605 U.S. ___ (2025), is directly applicable to this case. The Court held that ADA and Section 504 claims in educational settings use the same standards as claims in other settings, rejecting the heightened "bad faith or gross misjudgment" standard (A.J.T. v. Osseo Area Schools, 605 U.S. ___ (2025)). This means that Duquesne University's failure to accommodate Plaintiff's disability must be evaluated under the ordinary failure-to-accommodate analysis.
+
+The Third Circuit's decision in Taylor v. Phoenixville School District, 184 F.3d 296 (3d Cir. 1999), also supports Plaintiff's claim. The court held that an employer who has received adequate notice of an employee's disability and desire for accommodations cannot fail to engage in the interactive process, increase the disabled employee's job responsibilities, and then simply document failures (Taylor v. Phoenixville School District, 184 F.3d 296 (3d Cir. 1999)). Similarly, Duquesne University failed to engage in the interactive process with Plaintiff, despite receiving adequate notice of his disability and desire for accommodation.
+
+In Oross v. Kutztown University, No. 21-5032 (E.D. Pa. July 25, 2023), the court granted summary judgment for the plaintiff where the university denied remote accommodation based on an ad hoc blanket policy with no written basis, no individualized assessment, and interference (Oross v. Kutztown University, No. 21-5032 (E.D. Pa. July 25, 2023)). Similarly, Duquesne University denied Plaintiff's request for accommodation based on an ad hoc policy with no written basis, and without conducting an individualized assessment of Plaintiff's needs.
+
+In conclusion, the undisputed facts demonstrate that Duquesne University failed to accommodate Plaintiff's disability in violation of Section 504 of the Rehabilitation Act and the ADA. The University had notice of Plaintiff's disability and his need for accommodation, yet failed to engage in the interactive process, denied his request for a reasonable accommodation, and caused him harm. The court should grant judgment in favor of Plaintiff on Count III.

@@ -1,0 +1,73 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has adduced ample record evidence creating genuine disputes of material fact on every element of his Pennsylvania common-law fraud claim (Count IV). Each of Defendants’ six arguments fails because it ignores or mischaracterizes the evidence, relies on legal propositions inapplicable to this record, or asks the Court to weigh credibility—a task reserved for the jury. The undisputed record, viewed in the light most favorable to Plaintiff, shows that multiple Defendants made repeated false representations of material fact with scienter, intending that Plaintiff rely, that Plaintiff justifiably did rely, and that he suffered damages as a proximate result.
+
+**I. Defendants’ First Argument — TAP 33 Interpretation Fails Because Blair’s “Analysis” Was Not Conducted in Good Faith, Was Procedurally Defective, and Was Itself a False Representation**
+
+Defendants contend that Dean Blair’s TAP 33 analysis was consistent with the policy’s plain language. But the record creates a genuine dispute as to whether Blair honestly applied the policy—and whether her representation that TAP 33 did not apply was itself a false statement of material fact.
+
+First, TAP 33 § IV.4 requires an **independent review** of a potential conflict of interest. Exhibit K-2 proves that Blair did not conduct an independent review. Instead, she admitted: “I did need to consult Dr. Selcer as instructor . . . Both Dr. Selcer and I strongly concur.” Blair consulted the very person whose conflict was at issue—the same person who is a named defendant in Plaintiff’s federal lawsuit, who had been cross-examined under oath seven days earlier (TRO Tr.), and who had already demonstrated hostility toward Plaintiff (see Exhibits I, J, X-8). A reasonable jury could find that this was not an independent review but a collusive pre-determination, and that Blair’s representation that TAP 33 “does not apply” was a deliberate falsehood designed to shield Selcer from removal and to maintain institutional control.
+
+Second, the assertion that Plaintiff is not a “Covered Party” under TAP 33 is a question of policy interpretation that the jury can assess for falsity. The record contains no evidence that Blair undertook any good-faith analysis of the definition. Instead, she issued a two-sentence dismissal within minutes of Plaintiff’s detailed policy citations (Exhibit K-5). A jury could infer that her “analysis” was pretextual.
+
+Third, this representation was **material**. Plaintiff had disclosed the conflict specifically to seek reassignment from an instructor who was a litigation adversary. Had Blair honestly applied TAP 33 and conducted an independent review, Plaintiff would have received a different decision—or at least a procedurally fair one. Materiality is presumed “where a party would not have entered the transaction had the truth been known.” *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). Plaintiff would not have accepted Blair’s determination if he knew it was the product of consulting the conflicted party alone.
+
+Fourth, Blair’s misrepresentation was made with **scienter**. She knew she had not conducted an independent review, yet she affirmatively represented that TAP 33 was inapplicable. When Plaintiff corrected her within 90 minutes with specific policy citations, she responded “no change” (Exhibit K-5). That refusal to reconsider, combined with the undisclosed consultation with Selcer, demonstrates at least reckless disregard for the truth. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994) (knowledge or reckless disregard satisfies scienter).
+
+**II. Defendants’ Second Argument — Blair’s Silence Was Not Privileged Because She Was the Natural and Proper Source of Information and Had a Duty to Disclose**
+
+Defendants argue that no fiduciary or confidential relationship existed between Blair and Plaintiff, and thus no duty to speak. This argument misapplies Pennsylvania law.
+
+Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), “where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation.” As Dean of the College, Blair is the official responsible for interpreting and applying TAP 33—she is the *natural and proper source* of that information. When she failed to disclose that she had consulted the conflicted party rather than conducting an independent review, she engaged in actionable concealment. *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991) (“The concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement.”).
+
+*Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995), cited by Defendants, is inapposite. That case involved sophisticated corporations dealing at arm’s length with equal access to information. Here, Plaintiff is a student with no access to the internal process by which Blair reached her decision—he could not know that she had consulted Selcer. The university, through its Dean, is the sole source of policy interpretation and procedural integrity. *Neuman* controls.
+
+Moreover, Blair’s fraudulent conduct was not merely silence. She made an **affirmative false representation** (TAP 33 does not apply) and then remained silent about the procedural defect. That active misrepresentation alone satisfies the representation element.
+
+**III. Defendants’ Third Argument — Plaintiff’s Alleged Admission That He “Immediately Recognized” Blair’s Error Does Not Negate Justifiable Reliance**
+
+Defendants point to a single statement in Plaintiff’s pleadings that he “immediately recognized” Blair’s TAP 33 reading was wrong. This does not defeat justifiable reliance as a matter of law.
+
+First, the fraud claim is not limited to Blair’s TAP 33 analysis. The record contains **36 nearly identical false statements** by four Defendants (Simpson, Wasilko, Sawa, and Selcer) fabricating a meeting requirement as a condition of receiving Title IX supportive measures (Exhibits B-0 through B-7). These false statements were made repeatedly from June 30 to August 14, 2025. Plaintiff did not “immediately recognize” those falsehoods; he engaged in extensive correspondence, requested assistance, and relied on the university’s representations that meetings were necessary. For example, Exhibit B-2 (Wasilko’s email stating “We cannot assist you or provide you with further guidance unless you are willing to engage”) was a false representation that Plaintiff relied on by continuing to request assistance through official channels rather than immediately seeking a court order or OCR intervention.
+
+Second, even as to Blair’s TAP 33 statement, Plaintiff’s recognition that the reading was wrong does not mean he did not rely on it. He relied to his detriment by accepting—for a period—that no remedy was available through TAP 33, and by not immediately escalating the conflict-of-interest issue to higher authority. The question is whether a reasonable person in Plaintiff’s position would have relied on the representation of a Dean regarding her own policy. *Peerless Wall* holds that reliance is presumed from materiality. A jury could find that Plaintiff’s immediate correction and continued advocacy does not demonstrate an absence of reliance; it demonstrates that he was harmed by the false statement and attempted to mitigate.
+
+Third, the meeting-requirement false statements induced Plaintiff to continue participating in a sham process instead of taking legal action. He was told he could not get supportive measures without meetings (Exhibits B-2, B-3), he refused meetings (Exhibit B-5A), and then he was denied supportive measures (Exhibit B-6). The direct causal chain is: false statement → reliance (refraining from meeting but still expecting measures) → denial of measures → homelessness and educational harm.
+
+**IV. Defendants’ Fourth Argument — No Inconsistency Exists in Alleging Both Active False Statements and Omissions**
+
+Defendants claim that Plaintiff’s fraud theory is internally inconsistent because he alleges that Selcer’s *responses* to emails and Blair’s *silence* both constituted fraud. There is no inconsistency.
+
+Selcer made affirmative false representations: he issued a falsified meeting summary (Exhibit I) that misrepresented what was discussed and agreed to, and later fabricated “performance issues” that did not exist (compare Exhibit X-6 with X-8). Blair made affirmative false representations (TAP 33 inapplicable) and also concealed the fact that she had consulted the conflicted party. Both are actionable as independent fraudulent acts. *Gibbs* requires only “a representation”—which can be a spoken falsehood, a written falsehood, or a concealment. *Moser* confirms that concealment is “no less” a misrepresentation than an intentional false statement.
+
+Plaintiff is not required to choose one theory. The fraud arises from a coordinated pattern of deception across multiple defendants.
+
+**V. Defendants’ Fifth Argument — The Consultation Between Blair and Selcer Is Evidence of Intent to Help, Not Deceive — But the Record Shows Otherwise**
+
+Defendants characterize Blair’s consultation with Selcer as benign academic coordination. The record supports a contrary inference.
+
+The consultation occurred **seven days after Selcer had been cross-examined under oath** at the TRO hearing (TRO Tr.). It was Selcer who had imposed the retaliatory three-week Zoom countdown (Exhibit I) and threatened Plaintiff with loss of stipend (Exhibit X-8). Blair consulted the very person who had an interest in maintaining control over Plaintiff and in avoiding accountability. A reasonable jury could find that this consultation was not to “help” Plaintiff but to ensure Selcer remained as instructor and to maintain the false narrative that no conflict existed.
+
+Moreover, the broader evidence of Defendants’ conduct shows a **pattern of concealment and coercion**, not assistance:
+- Four Defendants systematically **removed OCR** from correspondence at critical junctures—eight or more instances—after Plaintiff repeatedly restored OCR (Exhibits B-3 through B-7 series).
+- Wasilko conditioned all assistance on meetings that had no policy basis (Exhibit B-2).
+- Simpson made a 24-hour jurisdiction flip (Exhibit B-5, B-6) after initially accepting the complaint.
+- Sawa threatened Plaintiff with conduct charges for emailing officials (Exhibit B-7).
+
+Circumstantial evidence is sufficient to prove intent. *Desert Palace, Inc. v. Costa*, 539 U.S. 90 (2003); *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022) (convincing mosaic of circumstantial evidence suffices). The jury can infer that the “helpful” framing was pretext for a coordinated effort to discourage Plaintiff from pursuing his rights.
+
+**VI. Defendants’ Sixth Argument — Academic Deference Does Not Shield Fraudulent Conduct**
+
+Defendants invoke *Jain v. Carnegie Mellon Univ.* for the proposition that courts should defer to academic institutions’ professional judgment. That principle has no application here.
+
+Plaintiff does not challenge an academic judgment about curriculum, grading, or pedagogy. He challenges **administrative and procedural actions**: false statements about meeting requirements, jurisdictional determinations, and conflict-of-interest procedures. These are not academic judgments; they are compliance decisions that must be measured against federal regulations and institutional policies. The Third Circuit has held that Title IX “does not require courts to defer to a school’s judgment when the school’s response is clearly unreasonable.” *Davis v. Monroe County Board of Education*, 526 U.S. 629 (1999). A *fortiori*, fraud is never entitled to deference.
+
+Moreover, the record contains no evidence that Defendants’ false statements were made in the exercise of professional academic judgment. They were made to condition access to federally mandated supportive measures, to conceal procedural violations, and to retaliate. Fraud is not a protected academic prerogative.
+
+**CONCLUSION**
+
+Genuine disputes of material fact exist on every element of Plaintiff’s fraud claim:
+- **Representation:** 36 false statements fabricating a meeting requirement (Exhibits B-0–B-7); Blair’s false TAP 33 interpretation (Exhibit K-5); Selcer’s false meeting summary (Exhibit I) and false performance issues (Exhibit X-8).
+- **Materiality:** These false statements directly concerned Plaintiff’s access to housing, safety, and academic participation.
+- **Falsity/Recklessness:** The meeting requirement appears nowhere in 34 C.F.R. Part 106 or TAP 61; TAP 33’s independent review was skipped; Selcer’s “performance issues” were fabricated (compare Exhibit X-6 and X-7 with X-8).
+- **Intent to

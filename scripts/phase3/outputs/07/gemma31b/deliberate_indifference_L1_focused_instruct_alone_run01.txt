@@ -1,0 +1,40 @@
+**ARGUMENT**
+
+To state a claim for damages under Title IX, a plaintiff must plausibly allege that a federally-funded institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 207 (3d Cir. 2020). Where the harassment is student-on-student, the institution is liable if it acts with "deliberate indifference to known acts of harassment" that are "so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities or benefits provided by the school." *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999). A response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Id.*; *see also Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Actual knowledge is triggered when notice of sexual harassment is provided to the recipient's Title IX Coordinator or any official with the authority to institute corrective measures. Exhibit Z-e (Slides 30, 32). 
+
+Here, Plaintiff provided actual notice to two such officials. First, on June 30, 2025, Plaintiff reported the harassment to Dr. Adam Wasilko, the Associate Vice President for Student Life and Dean of Students. Exhibit B-0. The Dean of Students is explicitly identified as an official with the "authority to institute corrective measures." Exhibit Z-e (Slide 32). Second, on July 24, 2025, Plaintiff provided a formal escalation to Alicia Simpson, the University’s Title IX Coordinator. Exhibit B-1. Notice to the Title IX Coordinator constitutes actual knowledge as a matter of law. Exhibit Z-e (Slide 30).
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff exceeds the threshold of severe and objectively offensive harassment. On June 30, 2025, Plaintiff reported that his roommate, Respondent, engaged in a physical pursuit, yelling and using obscenities while aggressively following him through their shared apartment. Exhibit B-0. This confrontation culminated in Respondent pursuing Plaintiff up the stairs toward his bedroom, explicitly stating, "I'm coming up," which forced Plaintiff to lock himself in his room for safety. Exhibit B-0; Exhibit D.
+
+This was not an isolated incident but part of a pervasive pattern of harassment and retaliation. Plaintiff documented a history of A/C manipulation, lockouts, and a consistent response of retaliation whenever Plaintiff attempted to set boundaries. Exhibit D. The severity of the threat is corroborated by Plaintiff’s treating physician, Treating Physician, who stated it was "reasonable" for Plaintiff to fear for his safety and advised him to involve law enforcement for protection. Exhibit F (Medical Letter 1).
+
+**III. The Harassment Deprived Plaintiff of Equal Access to Educational Opportunities**
+
+The harassment and the University's failure to respond effectively denied Plaintiff access to the benefits of his doctoral candidacy. The impact was both financial and psychological:
+
+1.  **Housing and Financial Instability:** Due to the safety risks, Plaintiff was displaced from his home on June 30, 2025, and remained homeless through August. Exhibit F (Medical Letter 2). This instability led to severe financial distress, with Plaintiff’s bank account balance falling to negative $2.55 by August 12, 2025. (Statement of Undisputed Material Facts ¶ 11).
+2.  **Academic and Mental Health Impairment:** Treating Physician diagnosed Plaintiff with ADHD and depression, noting that the "proximity to [his] abuser" and his homelessness were "highly likely to worsen his medical condition" and "negatively impact his graduate education." Exhibit F (Medical Letter 2).
+3.  **Loss of Opportunity:** The logistical and financial disruption caused by the harassment forced Plaintiff to abandon a planned trip to Germany for which he had received an award. Exhibit S.
+
+**IV. Duquesne University’s Response Was Clearly Unreasonable**
+
+Under *Davis*, the central inquiry is whether the University's response was "clearly unreasonable in light of the known circumstances." 526 U.S. at 648. Duquesne’s response was not only unreasonable but was characterized by a total failure to implement mandatory supportive measures.
+
+**A. Failure to Provide Supportive Measures**
+For 45 days—from June 30 to August 14, 2025—the University provided zero supportive measures. (Statement of Undisputed Material Facts ¶ 8). This is a direct violation of Title IX frameworks, which mandate that supportive measures (such as mutual no-contact orders, changes in housing, or class modifications) be "available at any time after a report of sexual harassment" and be "individualized" and "non-punitive." Exhibit Z-c (Slides 38-39). Despite Plaintiff's urgent requests for emergency housing (Exhibit B-0) and a physician's recommendation to avoid the harasser (Exhibit F), the University's communications consisted exclusively of requests for meetings and jurisdictional disclaimers. (Statement of Undisputed Material Facts ¶ 8).
+
+**B. The Unreasonable Reversal of Jurisdictional Determination**
+The University's conduct on August 13 and 14, 2025, demonstrates deliberate indifference. On August 13, at 2:02 PM, Title IX Coordinator Simpson acknowledged that Plaintiff's allegations "warrant further information gathering and review" and specifically offered to discuss "supportive measures"—a term of art under 34 C.F.R. § 106.30. Exhibit B-5.
+
+However, after Plaintiff responded by refusing a meeting, demanding written communication, and restoring the Office for Civil Rights (OCR) to the CC line (protected activity under § 106.71), Simpson reversed her position. Exhibit B-5A. Nineteen hours later, on August 14, Simpson claimed the Title IX Office "does not have jurisdiction" and "cannot take action or provide assistance." Exhibit B-6. Critically, no new factual information regarding the underlying complaint entered the record between these two emails. (Statement of Undisputed Material Facts ¶ 7). This abrupt reversal, triggered solely by Plaintiff's insistence on written records and federal oversight, is clearly unreasonable.
+
+**C. Contrast with Adequate Responses**
+Unlike the university in *McAvoy v. Dickinson College*, which provided no-contact directives and academic accommodations despite delays, Duquesne provided nothing. No. 23-2939 (3d Cir. Aug. 16, 2024). Furthermore, Simpson failed to perform any of the five mandatory obligations under § 106.44(a), including failing to inform Plaintiff of the availability of supportive measures or the process for filing a formal complaint. (Statement of Undisputed Material Facts ¶ 10).
+
+Because the University had actual knowledge of severe harassment and responded with a 45-day delay followed by a sudden, unjustified denial of jurisdiction, its actions constitute deliberate indifference under Title IX.

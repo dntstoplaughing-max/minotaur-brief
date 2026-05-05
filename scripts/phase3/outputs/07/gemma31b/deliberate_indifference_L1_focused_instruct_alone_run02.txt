@@ -1,0 +1,34 @@
+**ARGUMENT**
+
+To state a claim for damages under Title IX, a plaintiff must show that (1) the institution had actual knowledge of sexual harassment, (2) the harassment was severe, pervasive, and objectively offensive enough to deny the victim equal access to educational opportunities, and (3) the institution responded with deliberate indifference. *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999). Under the pleading standard adopted by the Third Circuit, the alleged facts must support a "plausible inference" that the institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 211 (3d Cir. 2020).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Actual knowledge is triggered when notice is provided to the institution's Title IX Coordinator or any official with the "authority to institute corrective measures." *See* Exhibit Z-e (Slide 30). The University’s own training materials specifically identify the "Dean of Students" as an official with such authority. *Id.* (Slide 32).
+
+Here, Plaintiff provided actual knowledge to two such officials. First, on June 30, 2025, Plaintiff reported a physical pursuit and confrontation by a fellow graduate student to Dean Adam Wasilko, the Associate Vice President for Student Life and Dean of Students. (Exhibit B-0). Second, on July 24, 2025, Plaintiff sent a formal Title IX escalation to Alicia Simpson, the University’s Title IX Coordinator. (Exhibit B-1). Consequently, Defendant had actual knowledge of the reported harassment as of June 30, 2025.
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+Under *Davis*, liability attaches where harassment is "so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities." 526 U.S. at 648.
+
+The conduct reported by Plaintiff was objectively offensive and threatening. Plaintiff described an incident where a fellow student "began yelling," "got within inches of [his] face," and "aggressively followed [him] through the apartment," explicitly stating "I'm coming up" as she pursued him toward his bedroom. (Exhibit B-0). This physical pursuit was not an isolated misunderstanding but the culmination of a pattern of behavior including lockouts and manipulation. (Exhibit D). The severity of the threat is corroborated by medical evidence; Plaintiff’s physician, Treating Physician, stated it was "reasonable for [Plaintiff] to have this fear" and warned that sharing a living space with the harasser would "impair his academic functioning." (Exhibit F).
+
+**III. Plaintiff Was Denied Equal Access to Educational Opportunities**
+
+The harassment and the University's failure to respond deprived Plaintiff of the basic stability required to pursue his doctoral candidacy. As a direct result of the harassment, Plaintiff was displaced from his housing on June 30, 2025. (Exhibit B-0). By August 12, 2025, Plaintiff’s financial situation had collapsed, with a bank account balance of negative $2.55. (Statement of Undisputed Material Facts ¶ 11).
+
+Treating Physician explicitly documented that Plaintiff’s homelessness since June 30, 2025, was "very stressful" and "expected to negatively impact his graduate education." (Exhibit F). When a student is rendered homeless and financially destitute due to a safety crisis on campus, they are effectively deprived of the "educational opportunities or benefits provided by the school." *Davis*, 526 U.S. at 648.
+
+**IV. Defendant’s Response Was Clearly Unreasonable and Constituted Deliberate Indifference**
+
+A university is deliberately indifferent if its response to known harassment is "clearly unreasonable in light of the known circumstances." *Davis*, 526 U.S. at 648. While minimal or belated efforts are not always sufficient to avoid liability, they can be "clearly unreasonable as a matter of law." *Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc).
+
+Defendant’s response was not merely belated; it was non-existent for 45 days. Between June 30 and August 14, 2025, the University provided zero supportive measures. (Statement of Undisputed Material Facts ¶ 8). Instead, the University’s response consisted of:
+1. **Dismissal:** Dean Wasilko initially claimed the incident "doesn't sound like a code of conduct violation." (Exhibit B-0).
+2. **Avoidance:** The University repeatedly conditioned assistance on meetings that Plaintiff, citing safety and a preference for written records, declined. (Exhibits B-1, B-2, B-5).
+3. **Jurisdictional Flip-Flopping:** On August 13, 2025, Title IX Coordinator Simpson acknowledged that Plaintiff’s allegations "warrant further information gathering" and offered to discuss "supportive measures"—a term of art under 34 C.F.R. § 106.30. (Exhibit B-5). However, nineteen hours later, and without any new factual information entering the record, Simpson reversed this determination, claiming the Title IX Office had no jurisdiction because the conduct did not meet policy definitions "even if proven to be true." (Exhibit B-6).
+
+This response is "clearly unreasonable" for three reasons. First, unlike the university in *McAvoy v. Dickinson College*, which provided no-contact directives and academic accommodations despite delays, Duquesne provided nothing. *McAvoy*, No. 23-2939 (3d Cir. Aug. 16, 2024). Second, the failure to provide supportive measures—which are mandatory, non-punitive, and available "with or without a formal complaint"—is a direct violation of the Title IX framework. (Exhibits Z-c, Z-b). Third, the Third Circuit has held that a failure to follow policy or forward reports to the Title IX Coordinator can constitute a clearly unreasonable response. *Hall v. Millersville University*, No. 19-3275 (3d Cir. Jan. 11, 2022).
+
+Simpson performed "zero of the five mandatory obligations" under § 106.44(a), failing to promptly contact the Plaintiff, consider his wishes, or inform him of the availability of supportive measures. (Statement of Undisputed Material Facts ¶ 10). To acknowledge that allegations "warrant" review and then, within less than one day, summarily dismiss them as outside of jurisdiction—while the Plaintiff remains homeless and in fear—is the definition of deliberate indifference.

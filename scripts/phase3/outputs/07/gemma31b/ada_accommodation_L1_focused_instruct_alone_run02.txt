@@ -1,0 +1,36 @@
+**ARGUMENT**
+
+Defendant Duquesne University, a private institution receiving federal financial assistance, is subject to Section 504 of the Rehabilitation Act and the ADA. (SAC ¶ 2). To prevail on a claim for failure to accommodate, a plaintiff must demonstrate that they are: (1) a qualified individual with a disability; (2) the defendant had notice of the disability and need for accommodation; (3) a request for reasonable accommodation was made; (4) the accommodation was denied; and (5) the denial resulted in harm.
+
+Under the controlling authority of the Supreme Court in *A.J.T. v. Osseo Area Schools*, 605 U.S. ___ (2025), students bringing ADA and Section 504 claims are not required to meet a heightened "bad faith or gross misjudgment" standard. Rather, they are "subject to the same standards that apply in other disability discrimination contexts." *Id.* Consequently, the ordinary failure-to-accommodate analysis applies here.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+Plaintiff is a doctoral candidate in good academic standing with no disciplinary record. (SUMF 2). His treating physician, Treating Physician, has diagnosed Plaintiff with ADHD and depression. (Exhibit F). Treating Physician further attests that Plaintiff’s mental health conditions are worsened by proximity to his abuser and that such worsening "is expected to negatively impact his graduate education." (Exhibit F). Accordingly, Plaintiff is a qualified individual with a disability.
+
+**II. Defendant Had Notice of Disability and Plaintiff Requested a Reasonable Accommodation**
+
+Defendant received adequate notice of Plaintiff’s disability and his need for accommodation. Treating Physician provided documentation stating that Plaintiff "does not feel safe around a specific individual on campus" and that it is "reasonable for him to have this fear." (Exhibit F). Treating Physician specifically recommended that "every effort be made to avoid" this individual to prevent the impairment of Plaintiff's academic functioning. (Exhibit F).
+
+Based on this medical necessity, Plaintiff requested Zoom access for class participation. (SUMF 3). This request was reasonable because Zoom is already in active use within the same department for comparable graduate coursework. (Exhibit N). Furthermore, no university or departmental policy prohibits individual student Zoom access; the Faculty Handbook governs the *faculty's* delivery modality, not individual student attendance accommodations. (Exhibit Y; SUMF 4).
+
+**III. Defendant Denied the Accommodation and Failed to Engage in the Interactive Process**
+
+Under *Taylor v. Phoenixville School District*, 184 F.3d 296 (3d Cir. 1999), an entity that receives notice of a disability and a request for accommodation "cannot fail to engage the employee [or student] in the interactive process of finding accommodations." *Id.* To establish a failure to participate in the interactive process, a plaintiff must show that the employer/institution knew of the disability, the request was made, the entity did not make a good faith effort to assist, and the individual could have been reasonably accommodated. *Id.*
+
+Here, Defendant failed entirely to engage in the interactive process. Defendants did not assess Plaintiff's specific limitations, evaluate possible accommodations, or involve disability services. (SUMF 5). Instead, Defendant’s response was characterized by a pattern of arbitrary denial:
+
+1.  **The "Countdown" Coercion:** On August 25, 2025, Dr. Selcer imposed a three-week limit on Plaintiff’s Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation. (Exhibit I; SUMF 6). This was not a supportive measure, but a "countdown clock designed to coerce compliance or force attrition." (Exhibit I-1).
+2.  **Lack of Articulable Basis:** Dr. Selcer testified that his objection to Zoom was based on "personal preference," yet he could not identify any written policy or pedagogical study to support the denial. (SUMF 7). This mirrors the facts in *Oross v. Kutztown University*, where the court found that a university's application of a "blanket no-remote policy with no written basis [and] no individualized assessment" rendered the accommodation request "dead on arrival." No. 21-5032 (E.D. Pa. July 25, 2023).
+3.  **Pattern of Denial:** This was not an isolated incident; Dr. Selcer similarly denied a request for Zoom access from another student, Colleague A, stating he "can't explain why" it was unavailable. (SUMF 8).
+4.  **Post-TRO Removal:** Despite testifying at a TRO hearing that he would continue Zoom access (Exhibit Q), Dr. Selcer subsequently removed the access, claiming a colleague found "no compelling reason" to continue it—a "compelling reason" test that the colleague was unaware he was administering. (Exhibit Q, V, W).
+
+Because the accommodation was feasible (Exhibit N) and the Defendant acted in bad faith by utilizing a conditional, time-limited measure to coerce attendance (Exhibit I), Defendant is liable under the standard set forth in *Taylor*.
+
+**IV. The Denial Resulted in Harm**
+
+The denial of reasonable accommodation has caused Plaintiff severe educational and psychological harm. Treating Physician noted that the lack of protective measures and stable housing "likely worsens his mental health conditions." (Exhibit F). External Faculty Witness, an academic expert, declared that Plaintiff's education and research have been "severely derailed" and that encounters with the individual he fears cause "severe distress" and require "hours of recovery time," preventing his educational participation. (Exhibit C).
+
+**Conclusion**
+
+Defendant had notice of Plaintiff's disability and a reasonable request for accommodation. Rather than engaging in the interactive process required by *Taylor*, Defendant applied an ad hoc, blanket denial similar to that struck down in *Oross*, and utilized a retaliatory "countdown" to coerce Plaintiff's return to a dangerous environment. Under the standard established in *Osseo*, Defendant is liable for failure to accommodate.

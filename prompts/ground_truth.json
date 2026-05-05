@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "version": "3.0",
+    "generated_from": "Merged: Master Exhibit Roster (exhibit lists) + Pilot Run Prompts (element maps) + X-6/X-7 corrections",
+    "exhibit_count": 38,
+    "count_count": 5,
+    "notes": "Runtime-ready. Keys are task_ids matching runner.py/gates.py/scorer.py. X-6 added to II/IV/V element maps. X-7 corrected from irrelevant to relevant for V."
+  },
+  "exhibit_universe": [
+    "A", "B-0", "B-0A", "B-1", "B-2", "B-3", "B-3A",
+    "B-5", "B-5A", "B-6", "B-7", "C", "D", "F", "Y",
+    "G", "I", "I-1", "J", "K-1", "K-2", "K-5", "N",
+    "P", "Q", "R", "S", "T", "V", "W",
+    "X-4", "X-6", "X-7", "X-8", "Z-b", "Z-c", "Z-d", "Z-e"
+  ],
+  "deliberate_indifference": {
+    "relevant_exhibits": [
+      "B-0", "B-1", "B-2", "B-5", "B-5A", "B-6",
+      "D", "F", "G", "P", "R", "S",
+      "Z-b", "Z-c", "Z-e"
+    ],
+    "irrelevant_exhibits": [
+      "A", "B-0A", "B-3", "B-3A", "B-7", "C",
+      "I", "I-1", "J", "K-1", "K-2", "K-5",
+      "N", "Q", "T", "V", "W",
+      "X-4", "X-6", "X-7", "X-8", "Y", "Z-d"
+    ],
+    "element_exhibit_map": {
+      "actual_knowledge": ["R", "S", "B-0", "B-1", "B-2", "B-5", "Z-e"],
+      "clearly_unreasonable": ["B-6", "B-5", "B-2", "G", "Z-b", "Z-c"],
+      "severe_pervasive": ["D", "R"],
+      "denial_of_access": ["F", "G", "B-6", "P"]
+    },
+    "element_definitions": {
+      "actual_knowledge": "Official with authority to address harassment had actual knowledge of the alleged harassment",
+      "clearly_unreasonable": "The official's response was clearly unreasonable in light of known circumstances",
+      "severe_pervasive": "The harassment was so severe, pervasive, and objectively offensive that it denied equal educational access",
+      "denial_of_access": "The harassment effectively denied plaintiff equal access to educational programs or activities"
+    },
+    "cross_count_pair": "ada_accommodation",
+    "cross_count_pair_elements": "(1) Qualified individual with disability; (2) Notice of disability and need for accommodation; (3) Request for reasonable accommodation; (4) Denial of accommodation; (5) Resulting harm"
+  },
+  "retaliation_claim": {
+    "relevant_exhibits": [
+      "B-0A", "B-3", "B-3A", "B-6", "B-7",
+      "I", "I-1", "J", "K-2",
+      "X-4", "X-6", "X-7", "X-8"
+    ],
+    "irrelevant_exhibits": [
+      "A", "B-0", "B-1", "B-2", "B-5", "B-5A", "C", "D",
+      "F", "G", "K-1", "K-5", "N", "P", "Q", "R", "S",
+      "T", "V", "W", "Y",
+      "Z-b", "Z-c", "Z-d", "Z-e"
+    ],
+    "element_exhibit_map": {
+      "protected_activity": ["B-3A", "B-0A"],
+      "adverse_action": ["B-6", "B-7", "I", "J", "I-1", "X-7", "X-8"],
+      "causal_connection": ["B-3", "B-6", "B-7", "I", "X-4", "X-6", "X-8", "K-2"]
+    },
+    "element_definitions": {
+      "protected_activity": "Plaintiff engaged in activity protected under Title IX (reporting, opposing, or participating in proceedings)",
+      "adverse_action": "Defendant took an action that would deter a reasonable person from engaging in protected activity",
+      "causal_connection": "A causal link exists between the protected activity and the adverse action"
+    },
+    "cross_count_pair": "fraud_claim",
+    "cross_count_pair_elements": "(1) False representation of material fact; (2) Scienter (knowledge of falsity or reckless disregard); (3) Intent to induce reliance; (4) Justifiable reliance; (5) Resulting damages"
+  },
+  "ada_accommodation": {
+    "relevant_exhibits": [
+      "A", "C", "F", "I", "I-1", "J",
+      "N", "Q", "V", "W", "Y"
+    ],
+    "irrelevant_exhibits": [
+      "B-0", "B-0A", "B-1", "B-2", "B-3", "B-3A",
+      "B-5", "B-5A", "B-6", "B-7", "D", "G",
+      "K-1", "K-2", "K-5", "P", "R", "S", "T",
+      "X-4", "X-6", "X-7", "X-8",
+      "Z-b", "Z-c", "Z-d", "Z-e"
+    ],
+    "element_exhibit_map": {
+      "qualified_individual": ["F"],
+      "notice": ["F", "I"],
+      "requested_accommodation": ["I", "I-1"],
+      "denial": ["J", "V", "W", "Q"],
+      "resulting_harm": ["C", "A", "V"]
+    },
+    "element_definitions": {
+      "qualified_individual": "Plaintiff is a qualified individual with a disability within the meaning of ADA/Section 504",
+      "notice": "Defendant had notice of plaintiff's disability and need for accommodation",
+      "requested_accommodation": "Plaintiff requested a reasonable accommodation",
+      "denial": "Defendant denied the requested accommodation without engaging in the interactive process",
+      "resulting_harm": "Plaintiff suffered harm as a result of the denial of accommodation"
+    },
+    "cross_count_pair": "conspiracy_claim",
+    "cross_count_pair_elements": "(1) Agreement between two or more actors; (2) Unlawful act or unlawful means; (3) Overt acts in furtherance; (4) Malice (legal or actual); (5) Resulting harm"
+  },
+  "fraud_claim": {
+    "relevant_exhibits": [
+      "B-1", "B-2", "B-3", "B-5", "B-6",
+      "D", "F", "G", "I", "J",
+      "K-1", "K-2", "K-5", "P", "R", "S",
+      "X-6", "X-7", "X-8", "Z-d", "Z-e"
+    ],
+    "irrelevant_exhibits": [
+      "A", "B-0", "B-0A", "B-3A", "B-5A", "B-7",
+      "C", "I-1", "N", "Q", "T", "V", "W",
+      "X-4", "Y", "Z-b", "Z-c"
+    ],
+    "element_exhibit_map": {
+      "false_representation": ["B-1", "B-2", "B-3", "B-5", "B-6", "G", "I", "K-1", "K-2", "K-5", "P", "S", "X-6", "X-8"],
+      "scienter": ["B-5", "B-6", "X-6", "Z-d", "Z-e", "D", "R"],
+      "intent_to_induce": ["B-1", "B-2", "B-3", "B-5", "P"],
+      "justifiable_reliance": ["B-1", "B-5", "G", "P", "Z-e"],
+      "resulting_damages": ["I", "J", "F", "X-7", "X-8"]
+    },
+    "element_definitions": {
+      "false_representation": "Defendant made a false representation of a material fact",
+      "scienter": "Defendant knew the representation was false or acted with reckless disregard for its truth",
+      "intent_to_induce": "Defendant intended to induce plaintiff to rely on the false representation",
+      "justifiable_reliance": "Plaintiff justifiably relied on the false representation",
+      "resulting_damages": "Plaintiff suffered damages as a proximate result of such reliance"
+    },
+    "cross_count_pair": "deliberate_indifference",
+    "cross_count_pair_elements": "(1) Actual knowledge by official with authority to act; (2) Clearly unreasonable response (deliberate indifference); (3) Severe, pervasive, objectively offensive harassment; (4) Denial of equal educational access"
+  },
+  "conspiracy_claim": {
+    "relevant_exhibits": [
+      "B-1", "B-2", "B-3", "B-5", "B-6", "B-7",
+      "C", "D", "F", "G", "I", "J", "K-2",
+      "Q", "X-4", "X-6", "X-7", "X-8"
+    ],
+    "irrelevant_exhibits": [
+      "A", "B-0", "B-0A", "B-3A", "B-5A",
+      "I-1", "K-1", "K-5", "N", "P", "R", "S",
+      "T", "V", "W", "Y",
+      "Z-b", "Z-c", "Z-d", "Z-e"
+    ],
+    "element_exhibit_map": {
+      "agreement": ["K-2", "B-2", "B-3", "B-5", "X-4", "X-6", "X-8", "D"],
+      "unlawful_act": ["B-6", "B-7", "I", "J", "X-7", "X-8"],
+      "overt_acts": ["B-1", "B-2", "B-3", "B-5", "B-6", "B-7", "I", "J", "K-2", "Q", "G", "X-6", "X-7"],
+      "malice": ["B-7", "J", "X-8"],
+      "resulting_harm": ["G", "I", "J", "F", "C"]
+    },
+    "element_definitions": {
+      "agreement": "Two or more persons agreed to commit an unlawful act or to accomplish a lawful end by unlawful means",
+      "unlawful_act": "The conspiracy involved an underlying unlawful act or tort",
+      "overt_acts": "One or more conspirators committed overt acts in furtherance of the conspiracy",
+      "malice": "The conspirators acted with malice (legal or actual)",
+      "resulting_harm": "Plaintiff suffered harm as a proximate result of the conspiracy"
+    },
+    "cross_count_pair": "retaliation_claim",
+    "cross_count_pair_elements": "(1) Protected activity (reporting, opposing, or participating); (2) Adverse action that would deter a reasonable person; (3) Causal connection between protected activity and adverse action"
+  }
+}

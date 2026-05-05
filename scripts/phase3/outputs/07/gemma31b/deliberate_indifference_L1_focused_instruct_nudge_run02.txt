@@ -1,0 +1,33 @@
+**ARGUMENT**
+
+To state a claim for damages under Title IX, a plaintiff must plausibly allege that a federally-funded institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 207 (3d Cir. 2020). Where the harassment is student-on-student, the institution is liable if it acts with "deliberate indifference to known acts of harassment" that are "so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities or benefits provided by the school." *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999). A university's response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Id.*; *Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc).
+
+**I. Duquesne University Had Actual Knowledge of the Harassment**
+
+Under Title IX, "actual knowledge" is triggered when notice is provided to the institution's Title IX Coordinator or any official who has the authority to institute corrective measures. Exhibit Z-e (Slides 30, 32). 
+
+Here, Duquesne had actual knowledge through multiple officials with such authority. On June 30, 2025, Plaintiff reported a physical pursuit and confrontation to Dean Wasilko, the Associate Vice President for Student Life and Dean of Students—a role identified as having the authority to institute corrective measures. Exhibit B-0; Exhibit Z-e (Slide 32). Plaintiff further notified Department Chair Dr. Daniel Selcer on July 20, 2025, explicitly stating, "I am scared of this person" and "I fear for my safety." Exhibit R. Finally, on July 24, 2025, Plaintiff sent a formal Title IX escalation to Alicia Simpson, the University’s Title IX Coordinator. Exhibit B-1. Simpson acknowledged receipt of these allegations on July 24, 2025, confirming the University's actual knowledge. *Id.*
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff meets the *Davis* threshold of being severe and objectively offensive. On June 30, 2025, a fellow graduate student aggressively followed Plaintiff through their shared apartment, yelling obscenities and pursuing him up the stairs, explicitly stating, "I'm coming up," which forced Plaintiff to lock himself in his room for safety. Exhibit B-0; Exhibit D. This followed a pattern of behavior including being locked out of his home and manipulation of essential utilities. Exhibit D.
+
+The objective severity of this harassment is corroborated by medical evidence. Plaintiff’s treating physician, Treating Physician, stated that it was "reasonable for [Plaintiff] to have this fear" and warned that sharing a living space with the harasser would "cause him a great deal of stress" and "impair his academic functioning." Exhibit F.
+
+**III. The Harassment Deprived Plaintiff of Equal Access to Educational Opportunities**
+
+The harassment and the University's failure to respond effectively deprived Plaintiff of the benefits of his doctoral candidacy. As a direct result of the harassment, Plaintiff became homeless on June 30, 2025. Exhibit B-0; Exhibit F. This instability led to extreme financial distress, with bank records showing a balance of $16.65 on July 25 and a negative balance of $2.55 by August 12, 2025. (Bank records).
+
+Treating Physician explicitly linked this deprivation to Plaintiff's education, noting that homelessness "is expected to negatively impact his graduate education" and that protective measures and stable housing were necessary to protect his "performance in his graduate program." Exhibit F.
+
+**IV. Duquesne’s Response Was Clearly Unreasonable and Deliberately Indifferent**
+
+Duquesne’s response was "clearly unreasonable in light of the known circumstances." *Davis*, 526 U.S. at 648.
+
+First, the University failed to provide any supportive measures for 45 days. From June 30 to August 14, 2025, the University offered no housing, no no-contact orders, and no safety protocols, despite Plaintiff's repeated requests. (Statement of Undisputed Material Facts ¶ 8). Under Title IX training standards, supportive measures—such as changes in housing or mutual no-contact orders—are "mandatory" and should be available "at any time after a report of sexual harassment." Exhibit Z-c (Slides 38, 39). 
+
+Second, the University's actions were contradictory and belated. On August 13, 2025, Title IX Coordinator Simpson acknowledged that Plaintiff's allegations "warrant further information gathering" and offered to discuss "supportive measures." Exhibit B-5. However, after Plaintiff responded by refusing a meeting, demanding written communication, and copying the Office for Civil Rights (OCR) on the email—all protected activities under 34 C.F.R. § 106.71—Simpson reversed her position. Exhibit B-5A. Within nineteen hours, Simpson issued a jurisdictional disclaimer stating the conduct "does not meet TAP 61, nor TAP 31's definitions of prohibited conduct, even if proven to be true," and declared the Title IX office "cannot take action or provide assistance." Exhibit B-6.
+
+Third, the University ignored its own mandatory regulatory obligations. Simpson performed "zero of the five mandatory obligations under § 106.44(a)," including failing to promptly contact the Plaintiff to discuss supportive measures or explain the formal complaint process. (Statement of Undisputed Material Facts ¶ 10). Furthermore, Simpson failed to provide the required appeal rights or simultaneous written notice to the respondent. (Statement of Undisputed Material Facts ¶ 9).
+
+As established in *Foster*, "minimal, ineffective, or belated efforts to respond to sexual harassment" can be clearly unreasonable as a matter of law. No. 19-1314 (6th Cir. Dec. 11, 2020). Here, the University's response consisted of 45 days of inaction followed by a sudden jurisdictional dismissal triggered by the Plaintiff's insistence on regulatory compliance and OCR oversight. This sequence of events constitutes deliberate indifference under the *Davis* standard.

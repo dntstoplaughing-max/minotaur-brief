@@ -1,0 +1,27 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count IV - Fraud (Pennsylvania common law) must be denied because genuine disputes of material fact exist on each element of the claim. Defendants' arguments are based on flawed interpretations of the evidence and a misunderstanding of the applicable law.
+
+I. False Representation of Material Fact
+
+Defendants argue that Dean Blair's TAP 33 analysis was consistent with the policy's plain language and that Plaintiff is not a "Covered Party" as defined. However, Exhibit K-5 demonstrates that Dean Blair's determination was made without the independent review required by TAP 33 § IV.4. Furthermore, Plaintiff corrected Blair within 90 minutes with specific policy citations, and Blair responded "no change." (Exhibit K-5) This exchange creates a genuine dispute of material fact regarding the accuracy of Blair's representation.
+
+II. Scienter (Knowledge of Falsity or Reckless Disregard)
+
+Defendants claim that Blair's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff. However, the Third Circuit has established that materiality under the FCA requires that the false statement have a natural tendency to influence or be capable of influencing the payment decision. (United States ex rel. Moore & Co. v. Majestic Blue Fisheries, LLC, 812 F.3d 294, 304 (3d Cir. 2016)) In this case, Blair's silence and subsequent response (Exhibit K-5) demonstrate a reckless disregard for the truth, as she failed to provide accurate information despite being aware of the conflict of interest.
+
+III. Intent to Induce Reliance
+
+Defendants argue that Plaintiff admitted in his own pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025. However, this argument ignores the fact that Plaintiff had already relied on Defendants' representations, as evidenced by his initial conflict disclosure to Dean Blair (Exhibit K-1). Furthermore, the consultation between Blair and Selcer, which produced assurances of fair treatment and offers of academic support, demonstrates an intent to induce reliance. (Exhibit K-2)
+
+IV. Justifiable Reliance
+
+Defendants claim that Plaintiff's claims are internally inconsistent, as he alleges that both responding to his emails (Selcer) and not responding (Blair) constituted fraud. However, this argument mischaracterizes the nature of the alleged fraud. Plaintiff's reliance on Defendants' representations was justified because Defendants were the natural and proper source of information, and their nondisclosure of material facts constituted a culpable misrepresentation. (Neuman v. Corn Exchange National Bank & Trust Co., 356 Pa. 442, 51 A.2d 759 (1947))
+
+V. Resulting Damages
+
+Defendants argue that the consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support, evidence of intent to help, not deceive. However, this argument ignores the fact that Plaintiff suffered damages as a result of Defendants' misrepresentations, including the loss of his stipend and the denial of his request for a no-contact order. (Exhibit F, Medical Documentation - Treating Physician)
+
+In conclusion, genuine disputes of material fact exist on each element of the fraud claim, and Defendants' motion for summary judgment must be denied. The evidence demonstrates that Defendants made false representations of material fact, with scienter, intent to induce reliance, and resulting damages.

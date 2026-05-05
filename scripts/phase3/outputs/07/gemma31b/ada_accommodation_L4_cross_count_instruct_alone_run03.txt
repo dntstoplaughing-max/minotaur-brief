@@ -1,0 +1,37 @@
+**ARGUMENT**
+
+Plaintiff David Mullins is entitled to relief under Section 504 of the Rehabilitation Act (29 U.S.C. § 794) and the Americans with Disabilities Act (ADA). To prevail on a failure-to-accommodate claim, a plaintiff must demonstrate that they are: (1) a qualified individual with a disability; (2) the defendant had notice of the disability and the need for accommodation; (3) a request for reasonable accommodation was made; (4) the accommodation was denied; and (5) the denial resulted in harm.
+
+The Supreme Court recently clarified in *A.J.T. v. Osseo Area Schools* that students bringing ADA and Section 504 claims are "not required to make a heightened showing of 'bad faith or gross misjudgment'" but are instead "subject to the same standards that apply in other disability discrimination contexts." 605 U.S. *** (2025). Accordingly, the analysis here follows the ordinary failure-to-accommodate framework.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+The medical record establishes that Plaintiff is a qualified individual with a disability. His treating physician, Treating Physician, has diagnosed Plaintiff with ADHD and depression (Exhibit F). Treating Physician further attests that Plaintiff’s fear of a specific individual on campus is "reasonable" and that "to share a living space with this individual would cause him a great deal of stress, would be highly likely to worsen his medical condition, and could impair his academic functioning" (Exhibit F). Despite these challenges, Plaintiff remained an enrolled graduate student in good academic standing with no disciplinary record, and his Department Chair, Dr. Daniel Selcer, testified that Plaintiff had "no performance issues" (SUM ¶ 2).
+
+**II. Defendants Had Notice of the Disability and the Need for Accommodation**
+
+Defendants were provided with actual notice of Plaintiff’s disability and the resulting need for accommodation. On August 13, 2025, Plaintiff provided medical documentation from Treating Physician stating that "every effort be made to avoid" the individual in question to protect Plaintiff's mental health and academic functioning (Exhibit F). Dr. Selcer acknowledged this need in his August 25, 2025, correspondence, noting that Plaintiff had requested safety measures and remote attendance because he "fear[ed] Respondent" (Exhibit I).
+
+**III. Plaintiff Requested a Reasonable Accommodation**
+
+Plaintiff requested Zoom access for class participation as a medically necessary accommodation to avoid encounters with the individual who triggered his disability-related distress (SUM ¶ 3). This request was reasonable because it was feasible and already in use within the same department. Specifically, Faculty D’s syllabus for a comparable graduate course (PHIL 520–420W) explicitly allows students to "attend that session remotely" via Zoom if they are "not feeling well" (Exhibit N). 
+
+Furthermore, there is no university or departmental policy prohibiting such an accommodation. The Faculty Handbook 2025-2026 governs "faculty course delivery modality," not "individual student attendance accommodations" (Exhibit Y; SUM ¶ 4).
+
+**IV. Defendants Denied the Accommodation and Failed to Engage in the Interactive Process**
+
+Defendants denied Plaintiff’s request for a permanent, stable accommodation, instead implementing a coercive and time-limited measure. On August 25, 2025, Dr. Selcer imposed a "three-week countdown" on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person "regardless of medical documentation" (Exhibit I; SUM ¶ 6). Dr. Selcer later confirmed in a "final directive" that unless a different determination was made by other offices, the University expected Plaintiff to "attend seminars in person from September 15 forward" (Exhibit J).
+
+This denial was not based on a legitimate pedagogical or policy-driven necessity, but on "personal preference," as Dr. Selcer testified under oath (SUM ¶ 7). This pattern of arbitrary denial is further evidenced by the fact that Dr. Selcer denied a similar request from another student, Colleague A, stating he "can't explain why" Zoom was unavailable (SUM ¶ 8).
+
+Crucially, Defendants failed to engage in the interactive process. Under *Taylor v. Phoenixville School District*, a disabled employee [or student] must demonstrate: "(1) the employer knew about the employee's disability; (2) the employee requested accommodations...; (3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and (4) the employee could have been reasonably accommodated but for the employer's lack of good faith." 184 F.3d 296, 302 (3d Cir. 1999). 
+
+Here, all four elements are met: (1) Defendants had notice via Treating Physician’s letter (Exhibit F); (2) Plaintiff requested Zoom access (SUM ¶ 3); (3) Defendants conducted no interactive process—they failed to assess Plaintiff's limitations, evaluate alternatives, or involve disability services (SUM ¶ 5); and (4) the accommodation was reasonable, as evidenced by Faculty D’s existing use of Zoom (Exhibit N).
+
+The Western District of Pennsylvania has held that where a university denies a remote accommodation based on an "ad hoc blanket policy with no written basis" and performs "no individualized assessment," the request is effectively "dead on arrival," establishing interference with the interactive process. *Oross v. Kutztown University*, No. 21-5032 (E.D. Pa. July 25, 2023). Defendants' conduct mirrors this: Dr. Selcer could identify no written policy or pedagogical study to support the denial (SUM ¶ 7), relying instead on a "post-COVID departmental finding" that was not codified in any policy (SUM ¶ 7).
+
+**V. The Denial Resulted in Harm**
+
+The failure to accommodate caused significant educational and psychological harm. External Faculty Witness, an academic expert and mentor, declared that Plaintiff's "education and research have been severely derailed" by the lack of protective measures and housing instability (Exhibit C). Professor External Faculty Witness further noted that encounters with the roommate in academic spaces caused Plaintiff "severe distress" and required "hours of recovery time," preventing his "educational participation" (Exhibit C). Treating Physician similarly warned that the worsening of Plaintiff's mental health conditions was "expected to negatively impact his graduate education" (Exhibit F).
+
+Because Plaintiff is a qualified individual with a disability who requested a reasonable accommodation that was denied without an interactive process, and because this denial resulted in severe academic and psychological harm, Defendants are liable under Section 504 and the ADA.

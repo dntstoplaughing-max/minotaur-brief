@@ -1,0 +1,31 @@
+**ARGUMENT**
+
+Plaintiff David Mullins is entitled to relief on Count III because Defendant Duquesne University failed to provide a reasonable accommodation for his disability in violation of Section 504 of the Rehabilitation Act (29 U.S.C. § 794) and the ADA. To prevail on a failure-to-accommodate claim, a plaintiff must demonstrate that they are: (1) a qualified individual with a disability; (2) the defendant had notice of the disability and the need for accommodation; (3) a request for reasonable accommodation was made; (4) the accommodation was denied; and (5) the denial resulted in harm.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+Plaintiff is a doctoral candidate in good academic standing with no disciplinary record (Fact 2). He is a qualified individual with a disability, as his treating physician, Treating Physician, has diagnosed him with ADHD and depression (Exhibit F).
+
+**II. Defendant Had Notice of Disability and Plaintiff Requested a Reasonable Accommodation**
+
+Defendant had adequate notice of Plaintiff’s disability and his need for accommodation. Plaintiff provided medical documentation from Treating Physician stating that Plaintiff "does not feel safe around a specific individual on campus" and that it is "reasonable for him to have this fear" (Exhibit F). Treating Physician specifically recommended that "every effort be made to avoid this" to prevent the worsening of Plaintiff's medical condition and impairment of his academic functioning (Exhibit F).
+
+Based on this medical necessity, Plaintiff requested Zoom access for class participation as a reasonable accommodation (Fact 3). This request was reasonable because Zoom is already in active use within the same department by Faculty D for comparable graduate coursework (Exhibit N, Fact 3). Furthermore, no university or departmental policy prohibits individual student Zoom access; the Faculty Handbook governs course delivery modality for faculty, not individual attendance accommodations for students (Exhibit Y, Fact 4).
+
+**III. Defendant Denied the Accommodation and Failed to Engage in the Interactive Process**
+
+Under *Taylor v. Phoenixville School District*, an entity that receives notice of a disability and a request for accommodation "cannot fail to engage the employee [or student] in the interactive process of finding accommodations" (184 F.3d 296). To show a failure to participate in the interactive process, a plaintiff must demonstrate that the employer/institution knew of the disability, the plaintiff requested accommodation, the institution did not make a good faith effort to assist, and the plaintiff could have been reasonably accommodated but for that lack of good faith (*Taylor*, Key Passage 2).
+
+Here, Defendant failed every prong of the interactive process. No interactive process was conducted; Defendants did not assess Plaintiff's specific limitations, evaluate possible accommodations, or involve disability services (Fact 5). Instead, the request was effectively "dead on arrival," mirroring the circumstances in *Oross v. Kutztown University*, where the court found interference with the interactive process when a university denied a remote accommodation based on a blanket policy with no written basis and no individualized assessment (No. 21-5032 (E.D. Pa. July 25, 2023)).
+
+Defendant’s denial was based on personal preference rather than pedagogical or policy-driven necessity. Dr. Selcer testified under oath that his objection to Zoom was based on personal preference (citing that it "divides attention"), yet he could not identify any written policy or departmental standard supporting the denial (Fact 7). This pattern of arbitrary denial is further evidenced by the fact that Selcer denied a similar request from another student, Colleague A, stating he "can't explain why" Zoom was unavailable (Fact 8, Exhibit L).
+
+Rather than engaging in a good-faith interactive process, Dr. Selcer imposed a "three-week countdown" on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation (Exhibit I, Fact 6). This conditional, time-limited measure was designed to coerce attendance rather than accommodate a medical necessity (Fact 6).
+
+Defendant may argue that a heightened standard of "bad faith or gross misjudgment" is required for student claims. However, the Supreme Court recently rejected this standard in *A.J.T. v. Osseo Area Schools*, holding that student ADA and Section 504 claims "are subject to the same standards that apply in other disability discrimination contexts" and do not require a heightened showing of bad faith (605 U.S. *** (2025)). Consequently, Defendant is liable if the evidence shows they failed to engage in the interactive process and that Plaintiff could have been reasonably accommodated (applying *Taylor* and *A.J.T.*).
+
+**IV. Defendant’s Denial Resulted in Harm**
+
+The denial of a reasonable accommodation caused Plaintiff significant educational and psychological harm. External Faculty Witness declared that Plaintiff's education and research have been "severely derailed" by the lack of protective measures and housing instability (Exhibit C). 
+
+The harm was concretized on September 17, 2025, when Plaintiff encountered the individual he feared waiting outside his Philosophy seminar classroom (Exhibit C). This encounter caused Plaintiff genuine distress and required "hours of recovery time," directly preventing his educational participation (Exhibit C). As Treating Physician noted, the failure to protect Plaintiff from his abuser was expected to "negatively impact his graduate education" (Exhibit F).

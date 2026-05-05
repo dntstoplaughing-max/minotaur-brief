@@ -1,0 +1,39 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count IV – Fraud (Pennsylvania common law) is denied. The evidence presented in the exhibits and material facts demonstrates genuine disputes of material fact on each element of the fraud claim, precluding summary judgment.
+
+I. FALSE REPRESENTATION OF MATERIAL FACT
+
+Defendants argue that Dean Blair's TAP 33 analysis was consistent with the policy's plain language, and that Plaintiff is not a "Covered Party" as defined, and the instructor-student evaluative relationship during litigation is not a "Conflict of Interest" under the policy (Dkt. 34 at 6-8). However, Exhibit K-5 shows that Dean Blair's determination was made without independent review required by TAP 33 § IV.4, and Plaintiff corrected Blair within 90 minutes with specific policy citations, to which Blair responded "no change." This demonstrates a genuine dispute of material fact as to whether Blair's representation was false.
+
+Moreover, Exhibit K-2 shows that Blair consulted the conflicted party, Dr. Selcer, about his own conflict, seven days after that party was cross-examined under oath. This raises questions about Blair's impartiality and the accuracy of her representation. (See Exhibit Z-d, Slide 46, defining Conflict of Interest).
+
+II. SCIENTER (KNOWLEDGE OF FALSITY OR RECKLESS DISREGARD)
+
+Defendants argue that Blair's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff to trigger a duty to speak (Dkt. 34 at 9, citing Sunquest Info. Sys., 40 F. Supp. 2d at 656). However, Exhibit K-1 shows that Plaintiff made a conflict disclosure to Dean Blair, which triggered a duty to act. Blair's failure to respond or take action demonstrates a reckless disregard for the truth.
+
+III. INTENT TO INDUCE RELIANCE
+
+Defendants argue that Plaintiff admitted in his own pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025 – therefore no justifiable reliance (Dkt. 34 at 8-9). However, Exhibit B-0A shows that Plaintiff had expressed frustration with the university's response to his safety concerns and had lost confidence in the process. This demonstrates that Plaintiff was induced to rely on Blair's representation, despite his initial skepticism.
+
+IV. JUSTIFIABLE RELIANCE
+
+Defendants argue that Plaintiff's claims are internally inconsistent – he alleges that both responding to his emails (Selcer) and not responding (Blair) constituted fraud (Dkt. 34 at 5). However, Exhibit I shows that Selcer's response was conditional and retaliatory, while Blair's non-response was a failure to act on a conflict disclosure. This demonstrates that Plaintiff's reliance on Blair's representation was justifiable, given the circumstances.
+
+V. RESULTING DAMAGES
+
+Defendants argue that the consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support – evidence of intent to help, not deceive (Dkt. 34 at 10). However, Exhibit K-2 shows that Blair's consultation with Selcer was improper, and that Selcer's offer of support was conditional and retaliatory. This demonstrates that Plaintiff suffered damages as a result of Defendants' actions.
+
+VI. CONCLUSION
+
+In conclusion, the evidence presented in the exhibits and material facts demonstrates genuine disputes of material fact on each element of the fraud claim. Defendants' motion for summary judgment on Count IV – Fraud (Pennsylvania common law) is denied.
+
+COURT SHOULD DEFER TO ACADEMIC INSTITUTIONS' PROFESSIONAL JUDGMENT
+
+Defendants argue that courts should defer to academic institutions' professional judgment regarding academic decisions (Dkt. 34 at 8 n.2, citing Jain v. Carnegie Mellon Univ.). However, this argument is inapplicable to the fraud claim, which involves a false representation of material fact, not an academic decision.
+
+DELIBERATE INDIFFERENCE
+
+While not directly relevant to the fraud claim, the evidence presented in the exhibits and material facts also demonstrates a genuine dispute of material fact as to whether Defendants were deliberately indifferent to Plaintiff's safety concerns. (See Exhibit Z-b, Slide 5, defining Deliberate Indifference Standard). This is relevant to Count I – Deliberate Indifference, which is not the subject of this motion.

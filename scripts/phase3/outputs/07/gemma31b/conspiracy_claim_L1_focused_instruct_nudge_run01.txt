@@ -1,0 +1,38 @@
+**ARGUMENT**
+
+Defendants are not entitled to summary judgment because genuine disputes of material fact exist regarding every element of Plaintiff’s civil conspiracy claim. Under Pennsylvania law, a civil conspiracy requires a "combination or agreement with intent to do an unlawful act or to do an otherwise lawful act by unlawful means," and "proof of malice, i.e., an intent to injure, is essential." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). As demonstrated below, the record provides ample circumstantial and direct evidence of an agreement between Defendants to isolate Plaintiff and obstruct his academic progress through unlawful means.
+
+**I. Dean Blair’s Consultation with Dr. Selcer Was Not "Routine Administration" but a Violation of University Policy.**
+
+Defendants argue that Dean Blair’s consultation with Dr. Selcer regarding Plaintiff’s transfer request was "routine academic administration" (Dkt. 34 at 10). This characterization is contradicted by the University’s own governing policies. TAP 33 § IV.4 explicitly requires an *independent* review of conflict-of-interest disclosures (Plaintiff’s Counter-Statement ¶ 4). 
+
+Here, Blair did not conduct an independent review; instead, she consulted the very party whose conflict of interest was at issue. In her October 22, 2025, email, Blair admitted, "I did need to consult Dr. Selcer as instructor... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled" (Exhibit K-2). This "joint determination" with a conflicted party—occurring only seven days after Plaintiff cross-examined Selcer under oath at a TRO hearing—demonstrates an agreement to bypass the independence required by TAP 33 § IV.4 (Counter-Statement ¶ 3). This constitutes the use of "unlawful means" to achieve the conspiracy's objective of maintaining Selcer's control over Plaintiff.
+
+**II. The Evidence Demonstrates Malice and Intent to Injure, Not an "Intent to Help."**
+
+Defendants contend that Blair’s assurances of "fair treatment" evidence an intent to help (Dkt. 34 at 10). However, the totality of the circumstances reveals a pattern of malice and intent to injure. While Blair offered "support" in writing, her actions—and those of her co-conspirators—were designed to create a crisis for the Plaintiff.
+
+Specifically, while Blair coordinated with Selcer to force Plaintiff's in-person attendance (Exhibit K-2), other Defendants were simultaneously threatening him. Dr. Sawa warned Plaintiff that continuing to email University officials about his safety could "result in charges against you for violating the Student Code of Conduct" (Exhibit B-7). Furthermore, Dr. Selcer issued a "final directive" cutting off remote access (Exhibit J) and later threatened the suspension of Plaintiff's stipend through 2029 based on fabricated "performance issues" (Exhibit X-8). Such coordinated threats of academic and financial ruin are inconsistent with an "intent to help" and satisfy the malice requirement of *Thompson Coal*.
+
+**III. Genuine Disputes Exist Regarding the Underlying Torts and the Validity of the TAP 33 Analysis.**
+
+Defendants argue that no underlying tort exists because Blair’s TAP 33 analysis was "correct on the policy's plain terms" (Dkt. 34 at 10). This is a question of material fact. As noted, TAP 33 § IV.4 requires *independent* review; Blair’s admission that she and Selcer "strongly concur[red]" proves the review was not independent (Exhibit K-2).
+
+Moreover, under *Thompson Coal*, once a defendant joins a conspiracy, they are "jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy" (412 A.2d at 472-73). Even if Blair’s specific analysis were correct, she is liable for the overt acts of her co-conspirators, including:
+1. The fabrication of "performance issues" by Dr. Selcer in Exhibit X-8, which were contradicted by the source he cited (Faculty B, Exhibit X-7) and were absent from their February 10 meeting (Exhibit X-6).
+2. The systematic removal of OCR and senior administrative oversight from critical correspondence to prevent corrective intervention (Exhibits B-3 through B-7).
+3. The manipulation of Dr. Faculty C to revoke Plaintiff's Zoom access after Selcer had testified under oath that such access would continue (Exhibit Q).
+
+**IV. The Coordinated Institutional Responses Were Not "University Processes" but an Unlawful Agreement to Isolate Plaintiff.**
+
+Defendants characterize the coordinated responses as "well-established university processes" (Dkt. 25 at 6). However, the record shows these "processes" were used as a pretext for isolation and retaliation. 
+
+The conspiracy is evidenced by the systematic removal of oversight. Four defendants removed OCR and senior administration from correspondence at critical junctures (Counter-Statement ¶ 7). For example, in his September 3 "final directive," Selcer removed Dean Blair herself from the email chain (Exhibit J). This coordination ensured that Plaintiff’s escalations—which cited federal law and identified specific violations—were ignored by Blair, who remained silent while actively coordinating with Selcer (Counter-Statement ¶ 8). This is not the functioning of a "process," but a coordinated effort to shield the conspiracy from oversight.
+
+**V. Dr. Selcer’s Role as Instructor Was Used as an Overt Act in Furtherance of the Conspiracy.**
+
+Defendants argue that Selcer’s continuation as Plaintiff’s instructor was not retaliatory because he held the role before and after the protected activity (Dkt. 34 at 10 n.3). This argument ignores the *manner* in which that role was exercised.
+
+The record shows that Selcer used his position as instructor to execute overt acts of the conspiracy. First, he manipulated another professor, Dr. Faculty C, by reframing a previously authorized Zoom arrangement as a "compelling reason" test that Faculty C was unaware he was administering, resulting in the sudden disappearance of Plaintiff's access (Exhibit Q). Second, Selcer used his supervisory role to fabricate "performance issues" to threaten Plaintiff's stipend (Exhibit X-8). Finally, Selcer’s role was the very catalyst for the conflict-of-interest violation in Exhibit K-2. The fact that he remained the instructor is not evidence of a lack of retaliation; rather, it provided the mechanism through which the retaliation and the conspiracy were carried out.
+
+Because the record contains substantial evidence of an agreement to violate university policy, the fabrication of performance records, and the systematic removal of oversight, genuine disputes of material fact exist. Summary judgment must be denied.

@@ -1,0 +1,35 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count IV - Fraud (Pennsylvania common law) is denied. Genuine disputes of material fact exist on each element of the claim, precluding summary judgment.
+
+**I. False Representation of Material Fact**
+
+Defendants argue that Dean Blair's TAP 33 analysis was consistent with the policy's plain language, and Plaintiff is not a "Covered Party" as defined. However, Exhibit K-5 shows that Dean Blair consulted with Dr. Selcer, the conflicted party, about his own conflict, and then announced a joint determination that Plaintiff should remain enrolled in the seminar. This consultation and determination were made without the independent review required by TAP 33 § IV.4. (Exhibit K-5). Plaintiff corrected Dean Blair within 90 minutes with specific policy citations, but Dean Blair responded "no change." (Exhibits K-2, K-5). This evidence creates a genuine dispute of material fact regarding the falsity of Dean Blair's representation.
+
+**II. Scienter (Knowledge of Falsity or Reckless Disregard)**
+
+Defendants claim that Blair's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff. However, Exhibit B-1 shows that Simpson, the Title IX Coordinator, requested a meeting with Plaintiff to discuss his report and gather additional information. (Exhibit B-1). This request created a relationship where Simpson had a duty to provide accurate information. Simpson's subsequent determination that the reported conduct did not meet TAP 61 or TAP 31's definitions of prohibited conduct, despite the evidence showing otherwise, demonstrates reckless disregard for the truth. (Exhibit B-6). This evidence creates a genuine dispute of material fact regarding Defendants' scienter.
+
+**III. Intent to Induce Reliance**
+
+Defendants argue that Plaintiff admitted in his own pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025. However, Exhibit K-1 shows that Plaintiff disclosed the conflict of interest to Dean Blair on October 20, 2025, and requested an alternate instructor or equivalent course. (Exhibit K-1). Dean Blair's response, which consulted with Dr. Selcer and announced a joint determination, was intended to induce Plaintiff's reliance on the university's process. (Exhibit K-2). This evidence creates a genuine dispute of material fact regarding Defendants' intent to induce reliance.
+
+**IV. Justifiable Reliance**
+
+Defendants claim that Plaintiff's claims are internally inconsistent, alleging that both responding to his emails (Selcer) and not responding (Blair) constituted fraud. However, Exhibit R shows that Selcer responded to Plaintiff's safety concerns by asking him to write up a brief timeline of the events and discuss possible paths forward. (Exhibit R). This response created a reasonable expectation that the university would take Plaintiff's concerns seriously and provide a safe learning environment. Blair's subsequent determination, which consulted with Dr. Selcer and announced a joint determination, was a material fact that Plaintiff relied on in deciding to remain enrolled in the seminar. (Exhibit K-2). This evidence creates a genuine dispute of material fact regarding Plaintiff's justifiable reliance.
+
+**V. Resulting Damages**
+
+Defendants argue that the consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support, evidence of intent to help, not deceive. However, Exhibit X-8 shows that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite no prior complaints or performance issues. (Exhibit X-8). This evidence creates a genuine dispute of material fact regarding the resulting damages caused by Defendants' fraudulent representations.
+
+In conclusion, genuine disputes of material fact exist on each element of the fraud claim, precluding summary judgment. Defendants' motion is denied.
+
+**CASE AUTHORITIES**
+
+* Gibbs v. Ernst, 538 Pa. 193, 647 A.2d 882 (1994) (PA fraud requires representation, materiality, falsity/recklessness, intent to mislead, justifiable reliance, and resulting injury proximately caused by reliance)
+* Moser v. DeSetta, 589 A.2d 679 (Pa. Super. 1991) (fraud elements: misrepresentation fraudulently uttered with intent to induce action undertaken in reliance, to the damage of its victim)
+* Neuman v. Corn Exchange National Bank & Trust Co., 356 Pa. 442, 51 A.2d 759 (1947) (reliance justified when defendant is 'naturally the proper source of information'; deliberate nondisclosure of a material fact equals culpable misrepresentation)
+* Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc., 85 F. Supp. 2d 519 (W.D. Pa. 2000) (reliance presumed from materiality — if a party would not have entered the transaction with full disclosure, reliance is 'obvious.')
+* Duquesne Light Co. v. Westinghouse Electric Corp., 66 F.3d 604 (3d Cir. 1995) (no duty to speak between sophisticated parties with equal knowledge; approves Neuman 'proper source' reliance — no-duty-to-investigate applies only between equals)

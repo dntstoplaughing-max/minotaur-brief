@@ -1,0 +1,51 @@
+**ARGUMENT**
+
+To state a claim for damages under Title IX, a plaintiff must plausibly allege that a federally-funded institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 206 (3d Cir. 2020). Where the harassment is student-on-student, the institution is liable if it (1) had actual knowledge of the harassment, (2) the harassment was so severe, pervasive, and objectively offensive that it deprived the victim of access to educational opportunities, and (3) the institution acted with "deliberate indifference," meaning its response was "clearly unreasonable in light of the known circumstances." *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999).
+
+**I. Defendant Had Actual Knowledge of the Sexual Harassment**
+
+Actual knowledge is triggered when notice is provided to the recipient’s Title IX Coordinator or any official with the authority to institute corrective measures. Exhibit Z-e (Slides 30, 32). Under Duquesne’s framework, this includes the Dean of Students and the Provost. Exhibit Z-e (Slide 32).
+
+Here, Defendant had actual knowledge on multiple occasions:
+1. **June 30, 2025:** Plaintiff reported a physical pursuit and confrontation by a fellow graduate student to Dean Wasilko, the Associate Vice President for Student Life and Dean of Students. Exhibit B-0.
+2. **July 24, 2025:** Plaintiff sent a formal Title IX escalation to Title IX Coordinator Alicia Simpson, the University President, the Provost, and Legal Affairs. SAC ¶¶ 168-172; Exhibit B-1.
+3. **August 13, 2025:** Plaintiff submitted an Emergency Removal Request directly to Title IX Coordinator Simpson. Exhibit F.
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff exceeds the threshold of severe and objectively offensive harassment. *Davis*, 526 U.S. at 648. 
+
+As documented in Exhibit B-0 and Exhibit D, the respondent engaged in a pattern of intimidation and physical aggression. Specifically, the respondent yelled obscenities, positioned herself "within inches" of Plaintiff’s face, and aggressively pursued him through the apartment and up the stairs toward his bedroom, explicitly stating, "I'm coming up." Exhibit B-0; Exhibit D. This followed a prior incident where the respondent locked Plaintiff out of his own home. Exhibit D.
+
+The severity of this conduct is corroborated by medical evidence. Treating Physician noted that Plaintiff’s "reasonable fear" of the respondent was such that sharing a living space would "cause him a great deal of stress," "worsen his medical condition," and "impair his academic functioning." Exhibit F (Medical Letter 1).
+
+**III. Plaintiff Was Denied Equal Access to Educational Opportunities**
+
+Under *Davis*, liability attaches where harassment deprives a victim of access to the educational opportunities or benefits provided by the school. 526 U.S. at 648.
+
+The harassment and the University's failure to respond resulted in a total collapse of Plaintiff’s stability:
+1. **Housing and Financial Ruin:** Plaintiff became homeless on June 30, 2025. Exhibit F (Medical Letter 2). Consequently, his bank account balance plummeted to $16.65 by July 25 and became negative (-$2.55) by August 12. (SUMF ¶ 11).
+2. **Academic Impairment:** Treating Physician attested that Plaintiff’s homelessness and proximity to his abuser were "expected to negatively impact his graduate education." Exhibit F (Medical Letter 2).
+3. **Loss of Benefit:** Due to the "financial and logistical disruption" caused by the harassment and lack of university support, Plaintiff was unable to travel to Germany for an award he had received. Exhibit S.
+
+**IV. Defendant’s Response Was Clearly Unreasonable (Deliberate Indifference)**
+
+A school’s response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc). While delays alone may not always establish indifference, such is not the case where the school fails to provide ongoing support. *See McAvoy v. Dickinson College*, No. 23-2939 (3d Cir. Aug. 16, 2024) (distinguishing cases where the school provided no-contact orders and accommodations).
+
+Defendant’s response was clearly unreasonable for the following reasons:
+
+**A. Failure to Provide Mandatory Supportive Measures**
+For 45 days (June 30 to August 14), Defendant provided zero supportive measures. SUMF ¶ 8. Instead, communications consisted of "requests to schedule meetings, directives to 'engage with' offices, and jurisdictional disclaimers." SUMF ¶ 8. This is a direct violation of the Title IX framework, which mandates that supportive measures be "available at any time after a report of sexual harassment" and be "non-disciplinary" and "non-punitive." Exhibit Z-c (Slides 38, 39).
+
+**B. The Jurisdictional Reversal Following Protected Activity**
+The unreasonableness of the response is most evident in the 19-hour window between August 13 and August 14:
+1. **August 13, 2:02 PM:** Coordinator Simpson acknowledged that Plaintiff’s allegations "warrant further information gathering and review" and offered to discuss "supportive measures." Exhibit B-5.
+2. **August 13, 4:20 PM – 7:31 PM:** Plaintiff sent three emails refusing a meeting, demanding written communication, and restoring the Office for Civil Rights (OCR) to the CC line. Exhibits B-5A, B-5B, B-5C.
+3. **August 14, 9:42 AM:** Immediately following Plaintiff's protected activity, Simpson reversed her determination, stating the Title IX Office "does not have jurisdiction" and the conduct "does not meet [policy] definitions... even if proven to be true." Exhibit B-6.
+
+No new factual information entered the record between Exhibit B-5 and Exhibit B-6. SUMF ¶ 7. The sudden determination that the conduct was not a violation—after previously stating it warranted review—is clearly unreasonable.
+
+**C. Total Procedural Failure**
+Coordinator Simpson performed "zero of the five mandatory obligations" under 34 C.F.R. § 106.44(a), including failing to promptly discuss supportive measures or explain the formal complaint process. SUMF ¶ 10. Furthermore, Simpson failed to provide appeal rights or simultaneous written notice to the respondent, as required by § 106.45. SUMF ¶ 9.
+
+As noted in *Foster*, "minimal, ineffective, or belated efforts" can be clearly unreasonable as a matter of law. No. 19-1314 (6th Cir. Dec. 11, 2020). Here, the University did not provide "minimal" efforts; it provided no supportive measures for 45 days and then dismissed the claim entirely after the Plaintiff invoked his right to OCR oversight. This constitutes deliberate indifference under *Davis*.

@@ -1,0 +1,31 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied. The record reveals genuine disputes of material fact on each of the required elements, precluding summary judgment.
+
+I. Agreement between two or more actors
+
+Defendants argue that Blair's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair's consultation with Selcer was not independent review, as required by TAP 33 § IV.4. Instead, Blair's email states that "both Dr. Selcer and I strongly concur" on the decision, demonstrating a joint determination with the conflicted party. This written admission of joint determination creates a genuine dispute of material fact regarding the existence of an agreement between Blair and Selcer.
+
+II. Unlawful act or unlawful means
+
+Defendants claim that no underlying tort exists to support the conspiracy because Blair's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 shows that Blair's consultation with Selcer does not constitute independent review under any reading of the policy. Furthermore, Exhibit C (External Faculty Witness Academic Expert Declarations) demonstrates that Plaintiff's education and research have been severely derailed by his housing instability and the conflict with his former roommate, establishing a genuine dispute of material fact regarding the existence of an underlying tort.
+
+III. Overt acts in furtherance
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-8 reveals that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email (Exhibit X-7) requesting reassignment without mentioning performance issues. This creates a genuine dispute of material fact regarding whether Selcer's actions were overt acts in furtherance of the conspiracy.
+
+IV. Malice (legal or actual)
+
+Defendants contend that the consultation evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Blair's joint determination with Selcer, a conflicted party, raises questions about her intent. Furthermore, Exhibit X-8 shows that Selcer's actions were motivated by a desire to retaliate against Plaintiff, as evidenced by the fabricated "performance issues" and the threat to his stipend. This creates a genuine dispute of material fact regarding the existence of malice.
+
+V. Resulting harm
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, Exhibit C (External Faculty Witness Academic Expert Declarations) demonstrates that Plaintiff's education and research have been severely derailed by his housing instability and the conflict with his former roommate. Furthermore, Exhibit F (Medical Documentation – Treating Physician) shows that Plaintiff's mental health conditions have been worsened by the university's actions. This creates a genuine dispute of material fact regarding the existence of resulting harm.
+
+In Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003), the Supreme Court held that direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII. Circumstantial evidence suffices to show an employer used a forbidden consideration in any employment practice. Similarly, in this case, the circumstantial evidence presented creates genuine disputes of material fact on each of the required elements, precluding summary judgment.
+
+In Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466 (1979), the Pennsylvania Supreme Court held that proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy. The record in this case reveals a genuine dispute of material fact regarding the existence of malice, as evidenced by Selcer's fabricated "performance issues" and the threat to Plaintiff's stipend.
+
+In conclusion, the record reveals genuine disputes of material fact on each of the required elements, precluding summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985).

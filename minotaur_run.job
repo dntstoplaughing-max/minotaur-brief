@@ -1,0 +1,154 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p GPU
+#SBATCH -t 48:00:00
+#SBATCH --gpus=h100-80:8
+#SBATCH -A cis260106p
+#SBATCH -o minotaur-%j.out
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=moodnaut@gmail.com
+
+set -euo pipefail
+
+# ====== Configuration ======================================================
+PROJECT_ROOT="/ocean/projects/cis260106p/dmullins"
+MINOTAUR_DIR="${PROJECT_ROOT}/minotaur"
+MODEL_PATH="${PROJECT_ROOT}/models/Llama-3.1-405B"
+CONDA_ENV="minotaur"
+VLLM_PORT=8000
+VLLM_HOST="127.0.0.1"
+HEALTH_TIMEOUT_SEC=1200          # 20 minutes
+HEALTH_INTERVAL_SEC=10
+VLLM_LOG="vllm-${SLURM_JOB_ID}.log"
+RUNNER_LOG="runner-${SLURM_JOB_ID}.log"
+
+START_TS=$(date +%s)
+echo "[minotaur] job ${SLURM_JOB_ID} starting at $(date -Iseconds)"
+echo "[minotaur] node: $(hostname)"
+echo "[minotaur] cwd:  $(pwd)"
+
+cd "$MINOTAUR_DIR"
+
+# ====== Module loads =======================================================
+# TODO(dmullins): confirm CUDA module version matches the one vLLM was built
+# against in the `minotaur` conda env. On Bridges-2 the H100 stack is usually
+# `cuda/12.x`. Run `module avail cuda` on the login node and pin the version
+# here if "cuda" alone resolves to something unexpected.
+module purge
+module load anaconda3/2024.10-1
+module load cuda/12.6.1
+
+# ====== Conda activate =====================================================
+CONDA_BASE="/opt/packages/anaconda3-2024.10-1"
+# shellcheck disable=SC1091
+source "${CONDA_BASE}/etc/profile.d/conda.sh"
+conda activate "$CONDA_ENV"
+echo "[minotaur] conda env: $CONDA_DEFAULT_ENV ($(which python))"
+python --version
+
+# ====== Pre-flight: GPU check ==============================================
+echo "[minotaur] nvidia-smi:"
+nvidia-smi
+GPU_COUNT=$(nvidia-smi --query-gpu=name --format=csv,noheader | wc -l)
+echo "[minotaur] visible GPUs: ${GPU_COUNT}"
+if [[ "${GPU_COUNT}" -lt 8 ]]; then
+    echo "[minotaur] FATAL: expected 8 GPUs, only ${GPU_COUNT} visible. Aborting."
+    exit 2
+fi
+
+# Free-memory sanity (each H100-80 should report close to 80 GiB free)
+nvidia-smi --query-gpu=index,memory.free --format=csv
+
+# ====== EXIT trap ==========================================================
+VLLM_PID=""
+cleanup() {
+    local rc=$?
+    if [[ -n "${VLLM_PID}" ]] && kill -0 "${VLLM_PID}" 2>/dev/null; then
+        echo "[minotaur] cleanup: stopping vLLM pid ${VLLM_PID}"
+        kill "${VLLM_PID}" 2>/dev/null || true
+        sleep 5
+        kill -9 "${VLLM_PID}" 2>/dev/null || true
+    fi
+    echo "[minotaur] exit rc=${rc} at $(date -Iseconds)"
+}
+trap cleanup EXIT
+
+# ====== Launch vLLM ========================================================
+export VLLM_BASE_URL="http://${VLLM_HOST}:${VLLM_PORT}/v1"
+echo "[minotaur] launching vLLM, log -> ${VLLM_LOG}"
+python -m vllm.entrypoints.openai.api_server \
+    --model "${MODEL_PATH}" \
+    --served-model-name "meta-llama/Llama-3.1-405B" \
+    --tensor-parallel-size 8 \
+    --dtype bfloat16 \
+    --quantization fp8 \
+    --max-model-len 131072 \
+    --max-num-seqs 8 \
+    --gpu-memory-utilization 0.92 \
+    --enforce-eager \
+    --host "${VLLM_HOST}" \
+    --port "${VLLM_PORT}" \
+    > "${VLLM_LOG}" 2>&1 &
+VLLM_PID=$!
+echo "[minotaur] vLLM pid=${VLLM_PID}"
+
+# ====== Healthcheck loop ===================================================
+echo "[minotaur] healthchecking vLLM at ${VLLM_BASE_URL}/models (timeout ${HEALTH_TIMEOUT_SEC}s)"
+HEALTH_DEADLINE=$((START_TS + HEALTH_TIMEOUT_SEC))
+while true; do
+    NOW=$(date +%s)
+    if [[ "${NOW}" -ge "${HEALTH_DEADLINE}" ]]; then
+        echo "[minotaur] FATAL: vLLM did not become healthy within ${HEALTH_TIMEOUT_SEC}s"
+        echo "[minotaur] tail of ${VLLM_LOG}:"
+        tail -n 200 "${VLLM_LOG}" || true
+        exit 3
+    fi
+    if ! kill -0 "${VLLM_PID}" 2>/dev/null; then
+        echo "[minotaur] FATAL: vLLM process exited before becoming healthy"
+        echo "[minotaur] tail of ${VLLM_LOG}:"
+        tail -n 200 "${VLLM_LOG}" || true
+        exit 4
+    fi
+    if curl -fsS --max-time 5 "${VLLM_BASE_URL}/models" >/dev/null 2>&1; then
+        echo "[minotaur] vLLM healthy at $(date -Iseconds)"
+        break
+    fi
+    sleep "${HEALTH_INTERVAL_SEC}"
+done
+
+# ====== Run experiment =====================================================
+echo "[minotaur] starting runner.py -> ${RUNNER_LOG}"
+RUNNER_RC=0
+python runner.py 2>&1 | tee "${RUNNER_LOG}"
+RUNNER_RC=${PIPESTATUS[0]}
+
+if [[ "${RUNNER_RC}" -ne 0 ]]; then
+    echo "[minotaur] runner.py failed with rc=${RUNNER_RC}"
+    exit "${RUNNER_RC}"
+fi
+
+# ====== Summary ============================================================
+END_TS=$(date +%s)
+ELAPSED=$((END_TS - START_TS))
+H=$((ELAPSED / 3600))
+M=$(((ELAPSED % 3600) / 60))
+S=$((ELAPSED % 60))
+
+RAW_DIR="${MINOTAUR_DIR}/results/raw"
+RAW_COUNT=0
+RAW_SIZE_HUMAN="0"
+if [[ -d "${RAW_DIR}" ]]; then
+    RAW_COUNT=$(find "${RAW_DIR}" -maxdepth 1 -type f | wc -l)
+    RAW_SIZE_HUMAN=$(du -sh "${RAW_DIR}" 2>/dev/null | awk '{print $1}')
+fi
+
+echo ""
+echo "==================================================================="
+echo "  MINOTAUR RUN SUMMARY  (job ${SLURM_JOB_ID})"
+echo "==================================================================="
+echo "  files in results/raw : ${RAW_COUNT}"
+echo "  total size           : ${RAW_SIZE_HUMAN}"
+echo "  elapsed wall time    : ${H}h ${M}m ${S}s"
+echo "  vllm log             : ${VLLM_LOG}"
+echo "  runner log           : ${RUNNER_LOG}"
+echo "==================================================================="

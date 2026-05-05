@@ -1,0 +1,50 @@
+**ARGUMENT**
+
+Defendants are entitled to summary judgment only if there is no genuine dispute as to any material fact. Here, the evidence demonstrates a coordinated effort by Defendants to bypass university policy, fabricate performance records, and isolate Plaintiff from administrative oversight. Under Pennsylvania law, a civil conspiracy exists when "two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means," and where "proof of malice, i.e., an intent to injure, is essential." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). 
+
+As demonstrated below, the record contains genuine disputes of material fact regarding every element of the conspiracy claim.
+
+**I. Dean Blair’s Consultation with Dr. Selcer Was Not "Routine Administration" but an Agreement to Bypass Mandatory Independent Review.**
+
+Defendants argue that Dean Blair’s consultation with Dr. Selcer was a routine administrative necessity to check course availability. (Dkt. 34 at 10). This characterization is belied by the nature of the consultation. 
+
+The consultation concerned a conflict-of-interest disclosure regarding Dr. Selcer himself. (Counter-Statement ¶ 3). Under TAP 33 § IV.4, such disclosures require an *independent* review. (TAP 33 § IV.4; Counter-Statement ¶ 4). Rather than conducting an independent analysis, Dean Blair admitted in writing: "I did need to consult Dr. Selcer... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled." (Exhibit K-2). 
+
+This is not "routine administration"; it is a written admission of a joint determination made with the conflicted party. By abandoning the requirement for independence mandated by TAP 33, Blair entered into an agreement with Selcer to maintain a conflicted supervisory relationship, satisfying the "combination or agreement" element of *Thompson Coal*.
+
+**II. The Evidence Demonstrates Malice and Intent to Injure, Not an "Intent to Help."**
+
+Defendants contend that Blair’s assurances of fair treatment evidence an intent to help rather than malice. (Dkt. 34 at 10). However, these assurances must be viewed in the context of the Defendants' concurrent actions.
+
+While Dean Blair offered "consideration," other co-conspirators were simultaneously using the "process" to threaten Plaintiff. Dr. Sawa explicitly warned Plaintiff that if he continued to email university officials regarding his safety and access, she would initiate "charges against [him] for violating the Student Code of Conduct." (Exhibit B-7). Furthermore, Dr. Selcer later fabricated "performance issues" to threaten the suspension of Plaintiff's stipend through 2029. (Exhibit X-8). 
+
+Under *Thompson Coal*, malice is the intent to injure. The use of disciplinary threats to silence a student seeking safety measures and the fabrication of academic failures to jeopardize a doctoral candidate's funding constitute clear evidence of an intent to injure.
+
+**III. The Underlying Tort is Supported by the Violation of TAP 33 and the Fabrication of Academic Records.**
+
+Defendants argue that no underlying tort exists because Blair's TAP 33 analysis was correct. (Dkt. 34 at 10). This is factually incorrect. TAP 33 § IV.4 requires *independent* review. (Counter-Statement ¶ 4). A review conducted in "strong concurrence" with the subject of the conflict is, by definition, not independent. (Exhibit K-2).
+
+Moreover, the conspiracy is supported by the fabrication of "performance issues." On February 10, 2026, Dr. Selcer met with Plaintiff and framed their discussion as an effort to "understand the situation," explicitly stating that Faculty B "doesn't make decisions about your stipend." (Exhibit X-6). Yet, only three days later, Selcer emailed Plaintiff claiming "performance issues raised by two of the three faculty members" and threatened stipend suspension. (Exhibit X-8). This fabrication is contradicted by Faculty B’s own email on the same day, in which she requested reassignment but noted her "door is always open" and expressed a desire to see Plaintiff in class, mentioning no performance failures. (Exhibit X-7). 
+
+**IV. The "Coordinated Institutional Response" Was a Sham Designed to Evade Oversight.**
+
+Defendants characterize the coordinated responses as "well-established university processes." (Dkt. 25 at 6). The evidence shows these "processes" were used as a shield to prevent external and senior oversight.
+
+Four defendants systematically removed the Office for Civil Rights (OCR) and senior administration from correspondence at critical junctures. (Counter-Statement ¶ 7). For example, Dr. Selcer removed Dean Blair herself from the September 3 "final directive." (Exhibit J; Counter-Statement ¶ 7). This pattern of removing oversight occurred even after Plaintiff explicitly requested that OCR be included on all correspondence to ensure compliance with federal law. (Exhibit I). 
+
+The "process" was further revealed as a sham in the "Zoom Removal Sequence." Dr. Selcer told the court under oath that he would continue Zoom access (Exhibit Q, Oct 15), but then told Plaintiff that Professor Faculty C found "no compelling reason" to continue it (Exhibit Q, Oct 17). Professor Faculty C later expressed confusion, unaware that he had been asked to make such a determination (Exhibit Q, Oct 17). This demonstrates that Defendants were not following "process," but were coordinating deceptive narratives to restrict Plaintiff's access to education.
+
+**V. Dr. Selcer’s Continued Role as Instructor Was an Overt Act in Furtherance of the Conspiracy.**
+
+Defendants argue that because Selcer was Plaintiff's instructor before and after the protected activity, his role was not retaliatory or an overt act. (Dkt. 34 at 10 n.3). This ignores the *manner* in which that role was used.
+
+Selcer used his position as instructor to implement the conspiracy's objectives:
+1. He acted as the primary point of contact to enforce "final directives" that conditioned academic access on the abandonment of federal accommodation requests. (Exhibit J).
+2. He used his supervisory role to fabricate the "performance issues" used to threaten Plaintiff's financial viability. (Exhibit X-8).
+3. He coordinated with Dean Blair to ensure Plaintiff remained under the supervision of a conflicted party, despite the TAP 33 requirement for independence. (Exhibit K-2).
+
+Under *Thompson Coal*, once a defendant joins a conspiracy, they are jointly and severally liable for all tortious acts committed by co-conspirators in furtherance of that conspiracy. (412 A.2d at 472-73). Whether or not the *role* of instructor was new, the *use* of that role to fabricate records and evade oversight constitutes an overt act.
+
+**CONCLUSION**
+
+The evidence presents a genuine dispute of material fact regarding an agreement to bypass policy (Exhibit K-2), the use of unlawful means including fabrication (Exhibits X-6, X-7, X-8), and a clear intent to injure through disciplinary and financial threats (Exhibits B-7, X-8). Summary judgment must be denied.

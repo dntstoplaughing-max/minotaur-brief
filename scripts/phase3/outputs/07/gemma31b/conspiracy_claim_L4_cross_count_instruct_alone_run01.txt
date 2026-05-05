@@ -1,0 +1,47 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because the record contains genuine disputes of material fact regarding every element of Plaintiff’s civil conspiracy claim. Under Pennsylvania law, a civil conspiracy exists where "two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). Once a defendant joins such a conspiracy, they are "jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy." *Id.*
+
+The evidence demonstrates a coordinated effort by Defendants to obstruct Plaintiff’s access to education, fabricate academic failures, and evade federal oversight.
+
+**I. Dean Blair’s Consultation with Dr. Selcer Was Not "Routine Administration" but a Joint Determination to Bypass Conflict-of-Interest Protections.**
+
+Defendants argue that Dean Blair’s consultation with Dr. Selcer regarding Plaintiff’s transfer request was a routine administrative check on course availability (Dkt. 34 at 10). This characterization is belied by the documentary evidence. 
+
+On October 22, 2025, Dean Blair admitted in writing: "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2). This is not a routine check of "availability"; it is an explicit admission of a joint determination made with the very party whose conflict of interest was the subject of the inquiry. 
+
+Furthermore, TAP 33 § IV.4 requires an *independent* review of conflict-of-interest disclosures. (Fact 4). By "concurring" with the conflicted party—the defendant in Plaintiff's federal lawsuit—Blair abandoned any semblance of independence. This coordination occurred only seven days after Plaintiff had cross-examined Selcer under oath at a TRO hearing (Exhibit K-2; TRO Tr.), suggesting the "consultation" was an agreement to maintain the status quo despite a clear conflict, rather than a neutral administrative act.
+
+**II. The Defendants’ Coordination Evidenced Malice and an Intent to Injure, Not an "Intent to Help."**
+
+Defendants contend that the consultation resulted in "assurances of fair treatment," proving a lack of malice (Dkt. 34 at 10). However, under Pennsylvania law, "proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy." *Thompson Coal*, 412 A.2d at 472. The "help" offered by Defendants was a facade for a coercive regime.
+
+The "consideration" promised by Blair (Exhibit K-2) was conditioned on Plaintiff returning to a classroom taught by a hostile co-defendant. Simultaneously, other co-conspirators were employing threats to ensure Plaintiff's silence. For example, Dr. Anne Sawa warned Plaintiff that continuing to email university officials about his safety concerns "may result in charges against you for violating the Student Code of Conduct." (Exhibit B-7). 
+
+The intent to injure is further evidenced by the systematic removal of the Office for Civil Rights (OCR) and senior administration from email chains at critical junctures to prevent corrective intervention (Fact 7; Exhibits B-3 through B-7). Such coordinated concealment is inconsistent with an "intent to help" and consistent with a conspiracy to maintain control through the deprivation of oversight.
+
+**III. The Underlying Torts Are Established by the Defendants' Own Fabrications and Policy Violations.**
+
+Defendants argue that no underlying tort exists because Blair’s TAP 33 analysis was correct (Dkt. 34 at 10). This is incorrect. The underlying torts in this conspiracy include fraud, misrepresentation, and Title IX retaliation.
+
+First, the conspiracy utilized fraudulent misrepresentations to isolate Plaintiff. Dr. Selcer fabricated "performance issues" in a February 13, 2026, email, claiming these issues were "raised by two of the three faculty members" to threaten Plaintiff’s stipend through 2029 (Exhibit X-8). However, the transcript of the meeting between Selcer and Plaintiff on February 10, 2026, shows that Selcer used no such "performance issues" language and explicitly stated that the supervising faculty member, Faculty B, "doesn't make decisions about your stipend." (Exhibit X-6). Furthermore, Faculty B’s own email on the same day Selcer issued the threat contained no performance complaints and instead noted that her "door is always open" to Plaintiff (Exhibit X-7).
+
+Second, the conspiracy violated federal mandates for supportive measures. Despite actual knowledge of Plaintiff's homelessness and safety fears (Exhibits A, B-0, R), Defendants conditioned supportive measures on Plaintiff's willingness to attend meetings (Exhibit B-5, B-6), a requirement that contradicts the duty to respond promptly and not be "deliberately indifferent." (Exhibit Z-b, Z-c).
+
+**IV. The "Coordinated Institutional Response" Was an Unlawful Agreement to Obstruct and Retaliate.**
+
+Defendants claim that the coordinated responses were merely "well-established university processes" (Dkt. 25 at 6). "Process" does not include the deliberate removal of the OCR from communications to hide the University's failure to provide mandated supportive measures (Fact 7; Exhibit B-3A). 
+
+The "process" employed here was a "combination or agreement" to force Plaintiff into submission. When Plaintiff demanded compliance with federal law, the response was not a neutral application of policy, but a series of retaliatory threats. Dr. Sawa’s demand that Plaintiff "stop emailing me" or face conduct charges (Exhibit B-7) and Dr. Selcer’s "final directive" (Exhibit J) demonstrate that the "process" was designed to punish protected activity, not to resolve a student's safety concerns.
+
+**V. Dr. Selcer’s Role as Instructor Was an Overt Act in Furtherance of the Conspiracy.**
+
+Defendants argue that Selcer’s continuation as instructor was not retaliatory because he held the role before and after the protected activity (Dkt. 34 at 10 n.3). This ignores the *manner* in which that role was used as a tool of retaliation.
+
+Selcer used his position to implement a "countdown" on Zoom access—a three-week limit designed to "coerce compliance or force attrition" (Exhibit I-1). After swearing under oath at a TRO hearing that he would continue Zoom access (Exhibit Q), Selcer coordinated with Dr. Faculty C to abruptly terminate that access (Exhibit V). The evidence shows Selcer reframed the arrangement to Dr. Faculty C, claiming Faculty C "did not identify a compelling reason to continue it," despite the fact that Faculty C had previously authorized the Zoom access himself (Exhibit Q, W).
+
+This manipulation of a colleague to revoke a promised accommodation, combined with the fabrication of performance issues to threaten Plaintiff's future funding (Exhibit X-8), constitutes a series of overt acts in furtherance of the conspiracy.
+
+**CONCLUSION**
+
+Because the evidence shows an agreement to bypass conflict-of-interest policies (Exhibit K-2), a coordinated effort to remove federal oversight (Fact 7), the fabrication of academic failures (Exhibit X-8), and the use of "process" to threaten a student for seeking safety (Exhibit B-7), genuine disputes of material fact exist. Under *Thompson Coal*, the Defendants are jointly and severally liable for these acts. Summary judgment must be denied.

@@ -1,0 +1,19 @@
+
+
+ARGUMENT
+
+Count II of the Complaint alleges that Duquesne University retaliated against Plaintiff David Mullins in violation of Title IX, 20 U.S.C. § 1681. To establish a prima facie case of retaliation, Plaintiff must show that he engaged in protected activity, suffered an adverse action that would deter a reasonable person from engaging in similar activity, and demonstrate a causal connection between the protected activity and the adverse action. (Doe v. Mercy Catholic Medical Center, No. 16-1247 (3d Cir. 2017)).
+
+Here, Plaintiff engaged in protected activity by reporting sex-based harassment to Defendant Wasilko on June 30, 2025 (Exhibit B-0), and by filing a complaint with the Office for Civil Rights (OCR) on July 26, 2025 (Exhibit B-3A). Plaintiff also filed a federal lawsuit on September 9, 2025, and a motion for a temporary restraining order (TRO) on October 8, 2025 (ECF docket). These actions constitute protected activity under Title IX. (Atkinson v. Lafayette College, 460 F.3d 447 (3d Cir. 2006)).
+
+Defendant's actions, as set forth in the Statement of Undisputed Material Facts, demonstrate a pattern of retaliation against Plaintiff. For example, on July 28, 2025, Defendant Wasilko removed OCR from the CC line on his responsive email (Exhibit B-3), indicating a deliberate attempt to circumvent Plaintiff's efforts to report the University's noncompliance with Title IX. Additionally, between July 28 and October 2025, four institutional actors systematically removed OCR from the CC line on eight or more occasions, each time after Plaintiff restored OCR (Exhibits B-3 through B-7 series). This behavior is a clear example of retaliation, as it would deter a reasonable person from engaging in similar protected activity.
+
+Furthermore, Defendant's actions demonstrate a causal connection between the protected activity and the adverse action. For instance, on August 13, 2025, Simpson acknowledged Title IX jurisdiction using the term "supportive measures" (Exhibit B-5). However, after Plaintiff sent three emails consisting entirely of protected activity and zero new facts about the underlying complaint (Exhibits B-5A, B-5B, B-5C), Simpson reversed her jurisdictional determination on an identical factual record (Exhibit B-6). This reversal occurred within 19 hours, demonstrating a clear causal connection between Plaintiff's protected activity and Defendant's adverse action.
+
+Moreover, Defendant's actions demonstrate a deliberate indifference to Plaintiff's safety and well-being. On October 6, 2025, Faculty C authorized Zoom access for Plaintiff, but on October 17, 2025, Selcer manufactured a Zoom revocation (Exhibit Q). Selcer provided shifting justifications for the Zoom denial and ultimately told Plaintiff that he "can't explain why" Zoom was denied (Exhibit L). This behavior is a clear example of deliberate indifference, as it demonstrates a reckless disregard for Plaintiff's safety and well-being.
+
+In conclusion, Plaintiff has established a prima facie case of retaliation under Title IX. Defendant's actions demonstrate a pattern of retaliation, a causal connection between the protected activity and the adverse action, and a deliberate indifference to Plaintiff's safety and well-being. Therefore, this Court should deny Defendant's motion for summary judgment and allow Plaintiff's retaliation claim to proceed to trial.
+
+Respectfully submitted,
+
+[Your Name]

@@ -1,0 +1,26 @@
+
+
+ARGUMENT
+
+Count II of the Complaint alleges retaliation under Title IX, 20 U.S.C. § 1681. To establish a prima facie case of retaliation, Plaintiff must show: (1) protected activity, (2) an adverse action that would deter a reasonable person, and (3) a causal connection between the protected activity and the adverse action. See Doe v. Mercy Catholic Medical Center, No. 16-1247 (3d Cir. 2017) (applying Title VII framework to Title IX retaliation claims).
+
+Protected Activity
+
+Plaintiff engaged in continuous protected activity from June 30, 2025, through the present, including reporting sex-based harassment to Wasilko, filing a formal Title IX complaint, filing a complaint with the Office for Civil Rights (OCR), and testifying at a Temporary Restraining Order (TRO) hearing. See Exhibits B-0, B-0A, B-3A, and the TRO transcript. This activity is protected under Title IX, as it involves reporting and opposing sex-based harassment. See Atkinson v. Lafayette College, 460 F.3d 447 (3d Cir. 2006) (demanding Title IX compliance is protected activity).
+
+Adverse Action
+
+Defendant took several adverse actions that would deter a reasonable person from engaging in protected activity. These actions include:
+
+1. Removing OCR from the CC line on emails, despite Plaintiff's repeated requests to include them. See Exhibits B-3, B-5A, and B-6. This action demonstrates a deliberate attempt to exclude OCR from the conversation and undermine Plaintiff's efforts to report sex-based harassment.
+2. Failing to provide supportive measures, such as housing assistance, despite Plaintiff's repeated requests. See Exhibits B-0, B-5A, and F (medical documentation). This failure to act has caused Plaintiff significant harm, including homelessness and emotional distress.
+3. Revoking Plaintiff's Zoom access, despite prior authorization by Professor Faculty C. See Exhibits Q and W. This action has further restricted Plaintiff's access to education and has caused significant disruption to his academic progress.
+4. Threatening Plaintiff with academic failure if he does not attend Selcer's class in person. See Exhibit K-2. This threat has created a hostile environment and has deterred Plaintiff from pursuing his education.
+
+Causal Connection
+
+The causal connection between the protected activity and the adverse action is evident from the timing and circumstances of the events. See Exhibits B-3, B-5A, B-6, Q, and W. The removal of OCR from the CC line, the failure to provide supportive measures, the revocation of Zoom access, and the threat of academic failure all occurred after Plaintiff engaged in protected activity. This temporal proximity, combined with the context of the events, establishes a causal connection between the protected activity and the adverse action. See Jalil v. Avdel Corp., 873 F.2d 701 (3d Cir. 1989) (two-day temporal proximity sufficient to establish causation).
+
+Furthermore, the pattern of antagonism and retaliation demonstrated by Defendant's actions establishes a causal link between the protected activity and the adverse action. See Kachmar v. SunGard Data Systems, Inc., 109 F.3d 173 (3d Cir. 1997) (pattern of antagonism independently establishes causal link).
+
+In conclusion, Plaintiff has established a prima facie case of retaliation under Title IX. Defendant's actions have deterred Plaintiff from engaging in protected activity and have caused significant harm to his education and well-being. The causal connection between the protected activity and the adverse action is evident from the timing and circumstances of the events. Defendant's motion for summary judgment on Count II should be denied.

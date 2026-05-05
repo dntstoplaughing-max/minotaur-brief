@@ -1,0 +1,40 @@
+{
+  "levels": [
+    {
+      "name": "L1_focused",
+      "max_tokens": 4096,
+      "corpus_filter": "relevant",
+      "exhibit_filter": "relevant",
+      "defendants_filter": "relevant",
+      "cross_count": false,
+      "description": "Performance ceiling — clean signal, no distractors"
+    },
+    {
+      "name": "L2_exhibit_noise",
+      "max_tokens": 4096,
+      "corpus_filter": "relevant",
+      "exhibit_filter": "all",
+      "defendants_filter": "relevant",
+      "cross_count": false,
+      "description": "Exhibit selection pressure — can the model ignore irrelevant exhibits?"
+    },
+    {
+      "name": "L3_full_noise",
+      "max_tokens": 4096,
+      "corpus_filter": "all",
+      "exhibit_filter": "all",
+      "defendants_filter": "all",
+      "cross_count": false,
+      "description": "Maximum context noise — both corpus and exhibits are saturated"
+    },
+    {
+      "name": "L4_cross_count",
+      "max_tokens": 4096,
+      "corpus_filter": "all",
+      "exhibit_filter": "all",
+      "defendants_filter": "all",
+      "cross_count": true,
+      "description": "Cross-count confusion — competing legal theories in same prompt"
+    }
+  ]
+}

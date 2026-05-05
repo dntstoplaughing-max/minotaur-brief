@@ -1,0 +1,43 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p GPU-shared
+#SBATCH -t 02:00:00
+#SBATCH --gpus=h100-80:1
+#SBATCH -A cis260106p
+#SBATCH -o download_gemma3_backup-%j.out
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=moodnaut@gmail.com
+
+# Focused V3.1-only download. Uses GPU-shared partition (1 GPU) for compute-node
+# bandwidth. Login node is throttled (~5 MB/s); compute node hit ~700+ MB/s
+# during the original download_models.job run.
+
+set -uo pipefail
+
+cd /ocean/projects/cis260106p/dmullins/models/
+
+module purge
+module load anaconda3/2024.10-1
+source /opt/packages/anaconda3-2024.10-1/etc/profile.d/conda.sh
+conda activate minotaur
+
+export HF_HUB_ENABLE_HF_TRANSFER=1
+
+START=$(date +%s)
+echo "[$(date -Iseconds)] V3.1 download job ${SLURM_JOB_ID} on $(hostname)"
+
+# NOTE: huggingface-cli was replaced by `hf` in huggingface_hub 1.x.
+# This sbatch uses the new `hf download` command.
+hf download google/gemma-3-27b-pt \
+    --local-dir ./gemma-3-27b-pt \
+    > dl_v31.log 2>&1
+RC=$?
+
+END=$(date +%s)
+ELAPSED=$((END - START))
+H=$((ELAPSED / 3600)); M=$(((ELAPSED % 3600) / 60)); S=$((ELAPSED % 60))
+
+echo "[$(date -Iseconds)] download exit=${RC}, elapsed=${H}h ${M}m ${S}s"
+echo "  final size: $(du -sh gemma-3-27b-pt 2>/dev/null | awk '{print $1}')"
+echo "  shard count: $(ls gemma-3-27b-pt/*.safetensors 2>/dev/null | wc -l)"
+exit $RC

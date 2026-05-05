@@ -1,0 +1,99 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has established genuine disputes of material fact on each element of his Pennsylvania common law fraud claim. Defendants' motion for summary judgment must be denied because a reasonable jury could find in Plaintiff's favor based on the record evidence.
+
+---
+
+### I. Defendants' Argument That Blair's TAP 33 Analysis Was Consistent with Plain Policy Language Creates a Genuine Dispute of Material Fact
+
+Defendants contend that Dean Blair's October 22, 2025 determination that TAP 33 did not apply was consistent with the policy's plain language. *See* Dkt. 34 at 6-8. This contention is itself a factual dispute that must be resolved by a jury, not determined as a matter of law.
+
+**A. Blair's TAP 33 Analysis Was Procedurally and Substantively Defective**
+
+The record demonstrates that Blair's application of TAP 33 was not a good-faith policy interpretation but rather a predetermined outcome designed to maintain the status quo and protect a co-defendant from accountability. On October 20, 2025, Plaintiff specifically notified Blair that Dr. Daniel Selcer—a named defendant in an active federal lawsuit—was serving as Plaintiff's instructor in a required teaching seminar. Exhibit K-1. Plaintiff requested reassignment to an alternate instructor due to the obvious conflict of interest. *Id.*
+
+Rather than conducting an independent review as required by TAP 33 § IV.4, Blair did something that objectively demonstrates bias and procedural irregularity: she consulted the very person whose conflict was at issue. Exhibit K-2 ("I did need to consult Dr. Selcer as instructor to secure some additional details."). This consultation occurred seven days after Selcer was cross-examined under oath at the TRO hearing. *See* SAC ¶¶ 168-172. Blair then announced a "joint determination" with Selcer—the conflicted party—that "it is appropriate for you to remain enrolled." Exhibit K-2.
+
+This process resembles no legitimate conflict-of-interest review. The TAP 33 training materials provided to university officials define a conflict of interest as "[a] conflict between the private interests and the official responsibilities of a person in a position of trust" and expressly require that such conflicts "must be avoided to protect process participants, ensure fairness, maintain the trust, integrity, and credibility of the Title IX process, comply with Title IX, [and] avoid litigation and minimize appeals." Exhibit Z-d at Slide 46. The training further instructs Title IX team members to consider "where there may be influence unrelated to the evidence in the case, such as personal relationships, financial relationships, or power dynamics." *Id.* at Slide 47.
+
+Blair consulting Selcer about whether Selcer's own conflict required recusal is the textbook definition of a procedurally flawed review. *See Gibbs v. Ernst*, 538 Pa. 193, 207, 647 A.2d 882, 889 (1994) (fraud requires a false representation of material fact). The representation that TAP 33 "does not apply to this situation," Exhibit K-5, was false because the policy's plain language does not exclude students from "Covered Party" status in the manner Blair suggested, and the instructor-student relationship during active litigation is precisely the type of conflict TAP 33 was designed to address.
+
+**B. The Timing and Circumstances Support an Inference of Scienter**
+
+Blair made her "no change" determination within 90 minutes of Plaintiff correcting her with specific policy citations. Exhibit K-5. Her immediate, dismissive response—"no change"—without any apparent reconsideration or independent analysis demonstrates either knowledge of falsity or reckless disregard for the truth. *Gibbs*, 647 A.2d at 889 (scienter element satisfied by "knowledge of its falsity or recklessness as to whether it is true or false").
+
+Where, as here, the university official charged with conflict-of-interest review consults the conflicted party himself and announces a "joint determination" within hours, a jury could reasonably conclude that the representation that TAP 33 did not apply was made with knowledge of its falsity or reckless disregard for its truth. *United States ex rel. Moore & Co. v. Majestic Blue Fisheries, LLC*, 812 F.3d 294, 306 (3d Cir. 2016) (scienter requirement satisfied where defendant acts with deliberate ignorance or reckless disregard).
+
+---
+
+### II. Defendants' Argument That Blair's Silence Was Not Actionable Because No Fiduciary Relationship Exists Misstates Pennsylvania Law
+
+Defendants argue that Blair's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff. *See* Dkt. 34 at 9 (citing *Sunquest Info. Sys.*, 40 F. Supp. 2d at 656). This argument misapplies Pennsylvania law.
+
+**A. Pennsylvania Law Recognizes a Duty to Speak Where the Defendant Is the "Natural and Proper Source of Information"**
+
+Pennsylvania law is clear that a duty to speak arises not only from fiduciary relationships but also where the defendant is "the natural and proper source of information." *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 453, 51 A.2d 759, 766 (1947). Under this standard, the "duty to investigate does not apply where the defendant is the natural and proper source of the information." *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604, 612 (3d Cir. 1995).
+
+Dean Blair was the Dean of the McAnulty College of Liberal Arts and the official responsible for Plaintiff's conflict-of-interest disclosure. She was unquestionably the "natural and proper source" of information regarding TAP 33's applicability. When Plaintiff specifically raised a conflict-of-interest concern in his October 20 email, Exhibit K-1, Blair had an affirmative duty to disclose the material fact that she had consulted the conflicted party rather than conducting an independent review.
+
+**B. Active Concealment Is Actionable Regardless of Fiduciary Relationship**
+
+The law is equally clear that "[t]he concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." *Moser v. DeSetta*, 589 A.2d 679, 682 (Pa. Super. 1991). Blair did not merely remain silent; she actively concealed the fact that she had consulted Selcer before making her determination. She disclosed this only in the body of her October 22 email, after Plaintiff had already acted on her initial representation that TAP 33 did not apply. Exhibit K-2.
+
+This is not a case of passive silence between sophisticated parties with equal access to information. *See Duquesne Light Co.*, 66 F.3d at 612 (no duty to speak between sophisticated parties with equal access). Plaintiff, as a student, had no access to information about how the Dean conducted her internal conflict-of-interest review. The Dean was the "natural and proper source" of that information. Her failure to disclose that she had consulted the conflicted party—and her representation that her determination was an objective, independent review—constitutes actionable concealment.
+
+---
+
+### III. Defendants' Argument That Plaintiff Admitted No Reliance Ignores the Full Record
+
+Defendants argue that Plaintiff admitted in his pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025. *See* Dkt. 34 at 8-9. This argument selectively quotes the record and ignores the broader context of ongoing misrepresentations.
+
+**A. Justifiable Reliance Is Evaluated on Each Separate Representation**
+
+Pennsylvania fraud does not require that Plaintiff demonstrate reliance on every single misrepresentation made over a period of months. Rather, the court examines whether Plaintiff justifiably relied on a particular misrepresentation at the time it was made. *Gibbs*, 647 A.2d at 889.
+
+The 36 false statements made by four defendants between June 30 and August 14, 2025—all fabricating a meeting requirement as a condition of receiving Title IX supportive measures—are separate and distinct from the misrepresentations made by Blair and Selcer in October 2025. Exhibit B-0 through B-7. Plaintiff did not "immediately recognize" that the meeting requirement was fabricated; rather, he repeatedly engaged with university officials based on their representations that meetings were necessary before supportive measures could be provided.
+
+Wasilko's July 25 statement—"We cannot assist you or provide you with further guidance unless you are willing to engage with the appropriate offices"—Exhibit B-2—is a clear representation that assistance was conditioned on meeting attendance. Plaintiff continued seeking assistance through early August based on this representation. Only after months of delay did he later learn from Simpson's TRO testimony that she "could have emailed" Plaintiff for clarification but "chose not to." TRO Tr. at *:*.
+
+**B. Reliance Is Presumed from Materiality**
+
+Under Pennsylvania law, "[r]eliance is presumed from materiality where a party would not have entered the transaction had the truth been known." *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519, 531 (W.D. Pa. 2000). Plaintiff would not have continued participating in the meeting charade, would not have delayed seeking legal intervention, and would not have deferred to administrative processes had he known that the meeting requirement was entirely fabricated and that no policy or regulation conditioned supportive measures on meeting attendance.
+
+Moreover, where the defendant is "the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." *Neuman*, 51 A.2d at 766. Plaintiff had no independent means of verifying whether the meeting requirement was genuine; he was required to rely on the university's representations about its own policies and procedures.
+
+---
+
+### IV. Defendants' Argument That Plaintiff's Claims Are Internally Consistent
+
+Defendants argue that Plaintiff's claims are internally inconsistent because he alleges that both responding to emails (Selcer) and not responding (Blair) constituted fraud. *See* Dkt. 34 at 5. This argument mischaracterizes Plaintiff's claims.
+
+**A. Different Defendants Committed Different Fraudulent Acts**
+
+Plaintiff's fraud claim does not rest on a single theory that either responding or not responding is inherently fraudulent. Rather, Plaintiff identifies distinct fraudulent acts by different defendants:
+
+- **Simpson, Wasilko, Sawa, and Selcer** made 36 nearly identical false statements fabricating a meeting requirement that does not exist in any policy or regulation. Exhibits B-0 through B-7.
+
+- **Blair** made a false representation that TAP 33 did not apply, while concealing that she had consulted the conflicted party. Exhibits K-2, K-5.
+
+- **Selcer** issued a falsified meeting summary on August 25, 2025, misrepresenting what was discussed and agreed to, and imposed a three-week Zoom countdown without medical or policy basis. Exhibit I.
+
+These are not inconsistent theories; they are different fraudulent acts by different defendants, each satisfying the elements of Pennsylvania fraud independently.
+
+**B. Each Representation Induced Separate Reliance**
+
+Plaintiff justifiably relied on each of these representations in different ways. He relied on the meeting requirement representations by continuing to engage with university processes and delaying legal intervention. He relied on Blair's TAP 33 determination by not immediately escalating to OCR or seeking judicial intervention on the conflict issue. He relied on Selcer's meeting summary by operating under a false understanding of what was agreed to.
+
+The fact that Plaintiff eventually recognized some misrepresentations does not retroactively negate his justifiable reliance at the time the misrepresentations were made and acted upon. *See Peerless*, 85 F. Supp. 2d at 531 (reliance evaluated at time of transaction).
+
+---
+
+### V. Defendants' Argument That Evidence of Consultation Shows Intent to Help, Not Deceive, Creates a Genuine Dispute
+
+Defendants argue that the consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support, demonstrating intent to help rather than deceive. *See* Dkt. 34 at 10. This argument improperly asks the Court to weigh evidence and draw inferences in Defendants' favor at the summary judgment stage.
+
+**A. A Jury Could Reasonably Infer Intent to Deceive from the Circumstances**
+
+The fact that Blair consulted Selcer—the very person whose conflict was at issue—before determining that no conflict existed is strong circumstantial evidence of intent to deceive. A reasonable jury could conclude that Blair knew her "independent review" was a sham and that she intended to mislead Plaintiff into believing the process was legitimate.
+
+Moreover, the timing is highly suspicious. Blair's consultation occurred seven days after Selcer had been cross-examined under oath at the T

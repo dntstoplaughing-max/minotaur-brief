@@ -1,0 +1,39 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied. The record reveals genuine disputes of material fact on each element of the conspiracy claim, demonstrating that Plaintiff has presented sufficient evidence to withstand summary judgment.
+
+**I. Agreement between two or more actors**
+
+Defendants argue that Blair's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Blair's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2). This written admission of joint determination creates a genuine dispute of material fact regarding the existence of an agreement between Blair and Selcer.
+
+**II. Unlawful act or unlawful means**
+
+Defendants claim that Blair's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Blair's consultation with Selcer did not constitute independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding the unlawfulness of Blair's actions.
+
+**III. Overt acts in furtherance**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-8 reveals that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email stating that she had no performance complaints and only requested reassignment (Exhibit X-7). This overt act in furtherance of the conspiracy creates a genuine dispute of material fact regarding Selcer's actions.
+
+**IV. Malice (legal or actual)**
+
+Defendants contend that Blair's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Blair's joint determination with Selcer was not an independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding Blair's intent.
+
+**V. Resulting harm**
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes (Dkt. 25 at 6). However, the record reveals a pattern of Defendants' actions that have caused harm to Plaintiff, including the removal of OCR and senior administrative oversight from correspondence (Exhibits B-3 through B-7), the fabrication of "performance issues" (Exhibit X-8), and the threat of stipend suspension (Exhibit X-8). These actions create a genuine dispute of material fact regarding the resulting harm to Plaintiff.
+
+In conclusion, the record reveals genuine disputes of material fact on each element of the conspiracy claim, demonstrating that Plaintiff has presented sufficient evidence to withstand summary judgment. Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied.
+
+**CITED AUTHORITIES**
+
+* Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979)
+* Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003)
+
+**CITED EXHIBITS**
+
+* Exhibit K-2: Blair Consults Selcer and Announces Joint Determination
+* Exhibit X-7: Faculty B Requests Reassignment — Door Open, No Performance Complaint
+* Exhibit X-8: Selcer Fabricates 'Performance Issues' and Threatens Stipend Through 2029
+* Exhibits B-3 through B-7: Removal of OCR and senior administrative oversight from correspondence

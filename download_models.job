@@ -1,0 +1,78 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p RM-shared
+#SBATCH -t 06:00:00
+#SBATCH --ntasks-per-node=4
+#SBATCH --mem=16G
+#SBATCH -A cis260106p
+#SBATCH -o download_models-%j.out
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=moodnaut@gmail.com
+
+# Pulls the three base checkpoints in parallel from a compute node
+# (login nodes are bandwidth-throttled and downloads stall there).
+# Resumes whatever's already on disk.
+
+set -uo pipefail   # no -e: we want to wait for all 3 even if one fails
+
+cd /ocean/projects/cis260106p/dmullins/models/
+
+module purge
+module load anaconda3/2024.10-1
+source /opt/packages/anaconda3-2024.10-1/etc/profile.d/conda.sh
+conda activate minotaur
+
+export HF_HUB_ENABLE_HF_TRANSFER=1
+
+START=$(date +%s)
+echo "[$(date -Iseconds)] download job ${SLURM_JOB_ID} on $(hostname)"
+echo "[$(date -Iseconds)] HF_HUB_ENABLE_HF_TRANSFER=${HF_HUB_ENABLE_HF_TRANSFER}"
+python -c "import hf_transfer; print(f'  hf_transfer version: {hf_transfer.__doc__ or \"installed\"}')" || true
+
+# --- Launch in parallel ---
+huggingface-cli download meta-llama/Llama-3.1-70B --local-dir ./Llama-3.1-70B \
+    > dl_llama.log 2>&1 &
+PID_LLAMA=$!
+echo "[$(date -Iseconds)] llama pid=${PID_LLAMA}"
+
+huggingface-cli download google/gemma-4-31B --local-dir ./gemma-4-31B \
+    > dl_gemma.log 2>&1 &
+PID_GEMMA=$!
+echo "[$(date -Iseconds)] gemma pid=${PID_GEMMA}"
+
+huggingface-cli download deepseek-ai/DeepSeek-V3.1-Base --local-dir ./DeepSeek-V3.1-Base \
+    > dl_deepseek_v31.log 2>&1 &
+PID_DEEPSEEK=$!
+echo "[$(date -Iseconds)] deepseek (v3.1) pid=${PID_DEEPSEEK}"
+
+# --- Wait for each, capture exit codes individually ---
+wait ${PID_LLAMA};    RC_LLAMA=$?
+echo "[$(date -Iseconds)] llama exit=${RC_LLAMA}"
+
+wait ${PID_GEMMA};    RC_GEMMA=$?
+echo "[$(date -Iseconds)] gemma exit=${RC_GEMMA}"
+
+wait ${PID_DEEPSEEK}; RC_DEEPSEEK=$?
+echo "[$(date -Iseconds)] deepseek exit=${RC_DEEPSEEK}"
+
+END=$(date +%s)
+ELAPSED=$((END - START))
+H=$((ELAPSED / 3600)); M=$(((ELAPSED % 3600) / 60)); S=$((ELAPSED % 60))
+
+echo ""
+echo "==================================================================="
+echo "  DOWNLOAD JOB SUMMARY  (job ${SLURM_JOB_ID})"
+echo "==================================================================="
+echo "  elapsed:  ${H}h ${M}m ${S}s"
+echo "  llama:    rc=${RC_LLAMA}"
+echo "  gemma:    rc=${RC_GEMMA}"
+echo "  deepseek: rc=${RC_DEEPSEEK}"
+echo ""
+echo "  final sizes:"
+du -sh Llama-3.1-70B gemma-4-31B DeepSeek-V4-Flash-Base 2>/dev/null | sed 's/^/    /'
+echo "==================================================================="
+
+# Exit non-zero if any download failed (so SLURM marks job as FAILED)
+if [[ ${RC_LLAMA} -ne 0 || ${RC_GEMMA} -ne 0 || ${RC_DEEPSEEK} -ne 0 ]]; then
+    exit 1
+fi

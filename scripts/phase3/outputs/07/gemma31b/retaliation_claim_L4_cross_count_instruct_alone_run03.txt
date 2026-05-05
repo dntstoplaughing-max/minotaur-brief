@@ -1,0 +1,46 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has established a prima facie case of retaliation under Title IX, as the evidence demonstrates he engaged in protected activity, suffered adverse actions that would deter a reasonable person, and that a causal connection exists between the two. Title IX retaliation claims are analyzed under the Title VII burden-shifting framework. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017).
+
+**I. Plaintiff Engaged in Continuous Protected Activity**
+
+Under Title IX, protected activity includes reporting sex-based harassment, opposing discriminatory practices, or demanding compliance with the statute. *Atkinson v. Lafayette College*, 460 F.3d 447 (3d Cir. 2006). Furthermore, a plaintiff need only hold an “objectively reasonable belief, in good faith” that the conduct opposed violates the statute. *Kengerski v. Harper*, No. 20-1307 (3d Cir. 2021).
+
+Plaintiff engaged in a continuous stream of protected activity from June 30, 2025, through the present:
+1. **Initial Reporting:** On June 30, 2025, Plaintiff reported sex-based harassment and a credible fear for his safety to Dean Wasilko (Ex. B-0).
+2. **Opposing Bias:** On July 23, 2025, Plaintiff explicitly opposed the University’s response, questioning if the response would differ "had the genders in this situation been reversed" (Ex. B-0A).
+3. **Formal Escalation:** On July 24, 2025, Plaintiff formally escalated his concerns, citing specific Title IX regulatory noncompliance under § 106.44(a) (Ex. B-1).
+4. **Federal Agency Notification:** On July 26, 2025, Plaintiff referred his case to the U.S. Department of Education Office for Civil Rights (OCR) (Ex. B-3A).
+5. **Litigation and Testimony:** Plaintiff filed a federal lawsuit on September 9, 2025, filed a TRO motion on October 8, 2025, and provided sworn testimony at the TRO hearing on October 15, 2025 (ECF docket; TRO Tr.).
+6. **Demands for Compliance:** Plaintiff repeatedly demanded the implementation of federally mandated "supportive measures" (Ex. B-5A, I, I-1).
+
+**II. Plaintiff Suffered Multiple Adverse Actions**
+
+An adverse action is one that would deter a reasonable person from engaging in protected activity. The record demonstrates a pattern of institutional actions designed to isolate and penalize Plaintiff.
+
+First, the University attempted to shield its conduct from federal oversight. Between July 28 and October 2025, four institutional actors—including Wasilko, Simpson, and Sawa—systematically removed the OCR from the CC line of correspondence on eight or more occasions after Plaintiff restored them (Ex. B-3 through B-7).
+
+Second, the University utilized disciplinary threats to silence Plaintiff. On August 15, 2025, Dr. Anne Sawa notified Plaintiff that his "mass emails" to University officials regarding his safety and access could "result in charges against [him] for violating the Student Code of Conduct" (Ex. B-7).
+
+Third, the University revoked essential academic access. On October 17, 2025, Dr. Daniel Selcer revoked Plaintiff’s Zoom access to his graduate seminar (Ex. Q, V). This occurred despite the fact that another professor, Dr. Faculty C, had previously authorized the access (Ex. W) and Selcer had testified under oath at the TRO hearing on October 15 that he would continue the access (Ex. Q).
+
+Fourth, the University threatened Plaintiff’s academic and financial viability. Dean Blair threatened Plaintiff with academic failure if he did not attend Selcer’s class in person while actively litigating against Selcer (SAC ¶¶ 66, 76, 336). Most severely, on February 13, 2026, Selcer reassigned Plaintiff’s TA position and threatened the suspension of Plaintiff’s stipend through Spring 2029 based on fabricated "performance issues" (Ex. X-8).
+
+**III. A Causal Connection Exists Between the Protected Activity and Adverse Actions**
+
+Causation may be established through temporal proximity, a "pattern of antagonism," or a "convincing mosaic" of circumstantial evidence. *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022); *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997).
+
+**A. Unusually Suggestive Temporal Proximity**
+The timing of the University's actions is "unusually suggestive." *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989).
+*   **The OCR Removal:** On July 26, Plaintiff filed with the OCR; two days later, on July 28, Wasilko removed the OCR from the CC line (Ex. B-3, B-3A). A two-day proximity is sufficient to establish causation. *Jalil*, 873 F.2d at 701.
+*   **The Jurisdictional Flip:** On August 13, at 2:02 PM, Simpson acknowledged Title IX jurisdiction and offered "supportive measures" (Ex. B-5). After Plaintiff sent three emails consisting entirely of protected activity (Ex. B-5A, B-5B, B-5C), Simpson reversed her jurisdictional determination on August 14 at 9:42 AM—a gap of only nineteen hours (Ex. B-6).
+*   **The Zoom Revocation:** Plaintiff testified at the TRO hearing on October 15; two days later, on October 17, Selcer revoked his Zoom access (Ex. Q, V).
+
+**B. Pretext and the Convincing Mosaic**
+The University’s justifications for these actions are demonstrably false, establishing a "convincing mosaic" of retaliatory animus. *Canada*, No. 20-2747 (3d Cir. 2022).
+
+*   **Fabricated Performance Issues:** Selcer claimed the TA reassignment was due to "performance issues raised by two of the three faculty members" (Ex. X-8). However, the actual request from Faculty B on the same day made "no performance complaint" and described the request as keeping a "door open" (Ex. X-7). Furthermore, Selcer testified at the TRO hearing that Plaintiff had *no* performance issues (TRO Tr.).
+*   **Manufactured Zoom Denial:** Selcer claimed that Dr. Faculty C "did not identify a compelling reason" to continue Zoom access (Ex. V). However, Exhibit W reveals that Selcer reframed the request to Faculty C as a "compelling reason" test that Faculty C was unaware he was administering, despite Faculty C having previously authorized the access (Ex. Q, W).
+*   **Policy Inconsistency:** The University's insistence that Zoom was unavailable or prohibited is contradicted by the Department’s own practices; for example, the Faculty D syllabus explicitly allows students to "Zoom in" if they are not feeling well (Ex. N).
+
+Because the proffered evidence, looked at as a whole, establishes that the University's actions were not based on legitimate academic or administrative concerns but were responses to Plaintiff's protected activity, a causal link is established. *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000).

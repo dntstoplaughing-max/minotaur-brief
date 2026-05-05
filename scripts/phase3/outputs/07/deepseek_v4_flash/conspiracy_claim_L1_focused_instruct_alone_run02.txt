@@ -1,0 +1,96 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has adduced more than sufficient evidence to demonstrate genuine disputes of material fact on every element of his civil conspiracy claim under Pennsylvania common law and 42 U.S.C. § 1985. Defendants' motion for summary judgment must be denied.
+
+The elements of civil conspiracy under Pennsylvania law are: (1) a combination or agreement between two or more persons; (2) with intent to do an unlawful act or to do a lawful act by unlawful means; (3) an overt act in furtherance of the conspiracy; (4) malice, i.e., an intent to injure; and (5) resulting harm. *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). Circumstantial evidence alone suffices to prove each element. *Desert Palace, Inc. v. Costa*, 539 U.S. 90 (2003). Plaintiff has produced both.
+
+**I. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS FORMED AN AGREEMENT**
+
+Defendants argue that Blair's consultation with Selcer was "routine academic administration." That characterization is itself a disputed fact requiring jury resolution.
+
+Exhibit K-2 is a written admission from Dean Blair herself: *"I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar."* This is not independent review. It is a joint determination—"both of us, together"—reached with the very person who was the subject of Plaintiff's conflict-of-interest disclosure.
+
+The timing is devastating to Defendants' position. Blair consulted Selcer about himself—seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.) A reasonable jury could infer that Blair's "consultation" was not about course availability, but about closing ranks with a co-defendant after an adverse evidentiary hearing.
+
+TAP 33 § IV.4 requires *independent* review of conflict-of-interest disclosures. Consulting the conflicted party is the antithesis of independence. This violates the policy's plain terms and constitutes an agreement to act through unlawful means.
+
+Additional evidence of agreement includes:
+
+- **Exhibit X-6 and X-8:** On February 10, 2026, Selcer met with Plaintiff using collegial language, raised no "performance issues," and confirmed that Faculty B had no authority over Plaintiff's stipend. Three days later, Selcer's reassignment email (Exhibit X-8) introduced the phrase *"recommendation to the Dean of Liberal Arts"* —Blair's exact title—demonstrating intervening communication between Selcer and Blair. The "performance issues" language appeared for the first time after this communication.
+
+- **Exhibits B-3 through B-7:** Four defendants systematically removed OCR and senior administrative oversight from correspondence at critical junctures. Selcer removed Blair herself from the September 3 "final directive" (Exhibit J). This coordinated exclusion of oversight is circumstantial evidence of an agreement to prevent Plaintiff from receiving corrective information.
+
+- **Exhibit Q:** Selcer approached a professor (Faculty C) who had already authorized Plaintiff's Zoom attendance, reframed the authorization as requiring a "compelling reason" test Faculty C never knew he was administering, and reported Faculty C's "judgment" to justify cutting off Plaintiff's remote access. This coordinated manipulation of a third party is classic conspiracy evidence.
+
+**II. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS COMMITTED UNLAWFUL ACTS OR USED UNLAWFUL MEANS**
+
+Defendants contend no underlying tort exists because Blair's TAP 33 analysis was "correct on the policy's plain terms." But the policy requires independent review, and consulting the conflicted party violates it. That is an unlawful means—acting in violation of university policy to harm Plaintiff.
+
+Moreover, Plaintiff identifies multiple underlying torts committed by co-conspirators for which Blair and all defendants are jointly and severally liable under *Thompson Coal*, 412 A.2d at 472-73:
+
+1. **Fraud/Misrepresentation (Conspiracy 1):** 36 false statements fabricating a meeting requirement. Exhibits B-2, B-3, and B-5 show defendants repeatedly demanding meetings as a condition of receiving supportive measures, when no policy required such meetings. Exhibit B-7 (Sawa) threatened Plaintiff with conduct charges for emailing officials—a retaliatory threat that is itself an independent tort.
+
+2. **Obstruction/Systematic Oversight Removal (Conspiracy 2):** Four defendants removed OCR from correspondence at critical junctures. (Exhibits B-3 through B-7.) When Plaintiff escalated to OCR, defendants redirected communications to exclude OCR, depriving him of federal oversight.
+
+3. **Defamation/Fabrication (Conspiracy 3):** Exhibit X-8 fabricates "performance issues raised by two of the three faculty members" and threatens stipend suspension through 2029. Yet Exhibit X-7 (Faculty B) requested reassignment with the words *"my office door is always open to you"* and *"this will not affect your funding"* —the opposite of a performance complaint. Exhibit X-4 (Faculty B) reports *"interpersonal upset"* not performance issues. On the same day Selcer fabricated "performance issues," Faculty B's email confirms the door remained open and performance was not at issue. The contradiction creates a genuine dispute of material fact.
+
+**III. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS COMMITTED OVERT ACTS IN FURTHERANCE**
+
+Defendants argue Selcer's continuation as Plaintiff's instructor cannot be an overt act because he held that role before and after protected activity. This argument misstates the evidence.
+
+Selcer's continuation as instructor is not the overt act. The overt acts are:
+
+- **Exhibit K-2:** Blair's joint determination with Selcer, violating TAP 33's independent review requirement.
+
+- **Exhibit X-8:** Selcer's fabrication of "performance issues" referencing a "recommendation to the Dean" (Blair), threatening Plaintiff's stipend through 2029 based on misrepresentations.
+
+- **Exhibits B-3 through B-7:** Systematic removal of OCR oversight from correspondence.
+
+- **Exhibit Q:** Selcer's manipulation of Professor Faculty C to cut off Plaintiff's Zoom access after the TRO hearing.
+
+Each of these acts occurred *after* Plaintiff's protected activity and furthered the conspiracy's objective: maintaining defendants' control without independent oversight and punishing Plaintiff for seeking federal protection.
+
+**IV. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS ACTED WITH MALICE**
+
+"Proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy." *Thompson Coal*, 412 A.2d at 472. Malice may be proven by circumstantial evidence. *Desert Palace*, 539 U.S. at 100-01.
+
+The timing and pattern of defendants' conduct establish malice:
+
+- **October 15, 2025:** Plaintiff cross-examines Selcer under oath at TRO hearing.
+- **October 16, 2025:** Zoom link disappears without explanation.
+- **October 17, 2025:** Selcer claims Faculty C found "no compelling reason" for remote attendance—contrary to Faculty C's own contemporaneous statement that he had authorized it.
+- **October 22, 2025:** Blair writes joint determination with Selcer, violating conflict-of-interest policy.
+
+This sequence—adverse testimony followed within days by coordinated retaliation—is circumstantial evidence of intent to injure.
+
+Additionally, when Plaintiff sent multiple escalations directly to Blair citing federal law, identifying specific violations, and requesting intervention, Blair did *not* intervene. (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417.) Her silence, combined with her active coordination with Selcer, furthers the conspiracy's objective and demonstrates malice through conscious disregard of Plaintiff's federal rights.
+
+**V. THERE IS A GENUINE DISPUTE WHETHER PLAINTIFF SUFFERED RESULTING HARM**
+
+The harm is patent and documented:
+
+- **Exhibit F (Treating Physician):** Plaintiff's medical condition worsened due to proximity to his abuser and homelessness caused by defendants' failure to provide supportive measures.
+- **Exhibit C (External Faculty Witness):** Plaintiff's education was "severely derailed" by housing instability and lack of university support.
+- **Exhibit X-8:** Selcer threatens Plaintiff's stipend through 2029, and questions his viability as instructor of record—directly impairing his ability to complete his PhD.
+- **Exhibit Q:** Plaintiff was excluded from his seminar after the TRO hearing, causing academic harm.
+
+Each of these harms flows directly from defendants' conspiratorial acts.
+
+**VI. DEFENDANTS' CHARACTERIZATION OF PLAINTIFF'S CLAIM AS MERELY DISPUTING UNIVERSITY PROCESSES IS INCORRECT**
+
+Defendants argue that Plaintiff's case reflects "his refusal to engage with well-established university processes, not evidence of unlawful agreement." (Dkt. 25 at 6.) This mischaracterizes the record.
+
+Plaintiff *engaged* extensively: he provided medical documentation (Exhibit F), expert declarations (Exhibit C), police reports (Exhibit D), and multiple written escalations (Exhibits I, J, K-2). What Plaintiff refused to do was submit to meetings with the very officials who were coordinating against him—meetings that Exhibit B-7 (Sawa) explicitly conditioned as a prerequisite to receiving any assistance.
+
+A reasonable jury could find that Defendants' "processes" were not designed to help Plaintiff, but to exhaust him, isolate him, and ultimately punish him for seeking federal protection. That is not a disagreement about policy interpretation. That is evidence of conspiracy.
+
+**CONCLUSION**
+
+Plaintiff has produced:
+- Written admissions of joint determinations between conflicted parties (Exhibit K-2)
+- Circumstantial evidence of intervening communications that fabricated performance complaints (Exhibits X-6, X-7, X-8)
+- Systematic removal of federal oversight from correspondence (Exhibits B-3 through B-7)
+- Coordinated manipulation of third parties to cut off access (Exhibit Q)
+- Medical and expert evidence of resulting harm (Exhibits C, F)
+
+Each element of civil conspiracy is supported by genuine disputes of material fact that must be resolved by a jury, not by summary judgment. Defendants' motion must be denied.

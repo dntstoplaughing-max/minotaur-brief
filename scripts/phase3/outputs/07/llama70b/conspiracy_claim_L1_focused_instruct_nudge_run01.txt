@@ -1,0 +1,34 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count V - Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) is denied. Genuine disputes of material fact exist on each required element, precluding summary judgment.
+
+**I. Agreement between two or more actors**
+
+Defendants argue that Blair's consultation with Selcer was routine academic administration, and that their actions evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair and Selcer jointly determined that Plaintiff should remain enrolled in the teaching seminar, despite Selcer's conflict of interest. This written admission of joint determination, combined with the timing of the consultation - seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing - raises a genuine dispute about the nature of their agreement. (Exhibit K-2; TRO Tr.)
+
+Moreover, the pattern of communication between Selcer and Blair, as demonstrated in Exhibit X-8, suggests a coordinated effort to undermine Plaintiff's academic progress. Selcer's reassignment email referenced a "recommendation to the Dean of Liberal Arts" - Blair's exact title - demonstrating communication between Selcer and Blair in the days preceding the fabricated "performance issues" threat. (Exhibit X-8.) This evidence, combined with the systematic removal of OCR and senior administrative oversight from correspondence at critical junctures (Exhibits B-3 through B-7; Selcer Sept 3 email), raises a genuine dispute about the existence of an agreement between Defendants.
+
+**II. Unlawful act or unlawful means**
+
+Defendants argue that no underlying tort exists to support the conspiracy because Blair's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair's "consultation" with Selcer does not constitute independent review under TAP 33 § IV.4. (TAP 33 § IV.4; Exhibit K-2.) This failure to follow university policy, combined with the underlying torts committed by co-conspirators, including false statements fabricating a meeting requirement (Conspiracy 1), systematic OCR removal across four actors (Conspiracy 2), and Selcer's fabrication of "performance issues" contradicted by the source he cited on the same day (Exhibits X-7, X-8), raises a genuine dispute about the existence of an unlawful act or means.
+
+**III. Overt acts in furtherance**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-8 reveals that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite no prior complaints or performance issues. (Exhibit X-8.) This overt act, combined with the pattern of communication between Selcer and Blair, raises a genuine dispute about whether Selcer's actions were in furtherance of the conspiracy.
+
+**IV. Malice (legal or actual)**
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, the evidence presented, including the systematic removal of OCR and senior administrative oversight from correspondence at critical junctures, raises a genuine dispute about whether Defendants acted with malice. (Exhibits B-3 through B-7; Selcer Sept 3 email.)
+
+**V. Resulting harm**
+
+Plaintiff has demonstrated resulting harm, including educational harm and emotional distress, as a result of Defendants' actions. (Exhibit C: External Faculty Witness Academic Expert Declarations; Exhibit F: Medical Documentation - Treating Physician.)
+
+In conclusion, genuine disputes of material fact exist on each required element of the civil conspiracy claim, precluding summary judgment. Defendants' motion is denied.
+
+**VERIFIED CASE LAW**
+
+* Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979) (PA civil conspiracy requires combination or agreement with intent to do an unlawful act, proof of malice essential; bare allegations insufficient)
+* Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003) (Direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII. Circumstantial evidence suffices to show an employer used a forbidden consideration in any employment practice.)

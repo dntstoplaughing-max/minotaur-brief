@@ -1,0 +1,31 @@
+
+
+**Argument**
+
+Defendants' motion for summary judgment on Count IV - Fraud (Pennsylvania common law) is denied. The record reveals genuine disputes of material fact on each element of the claim, precluding summary judgment.
+
+**Defense Argument 1: Dean Blair's TAP 33 analysis was consistent with the policy's plain language**
+
+This argument is unfounded. Exhibit K-5 demonstrates that Dean Blair's determination that TAP 33 does not apply to the situation was made without proper consideration of the policy's requirements. Specifically, Blair failed to conduct an independent review as required by TAP 33 § IV.4. (Exhibit K-5). Furthermore, Plaintiff corrected Blair within 90 minutes with specific policy citations, yet Blair responded "no change." (Exhibit K-5). This exchange creates a genuine dispute of material fact regarding Blair's interpretation of TAP 33.
+
+**Defense Argument 2: Blair's silence on the August 25, 2025 email was not actionable**
+
+This argument is incorrect. As held in Neuman v. Corn Exchange National Bank & Trust Co., 356 Pa. 442, 51 A.2d 759 (1947), "Where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." (Key Passage 1). In this case, Blair, as Dean, was the natural and proper source of information regarding the conflict of interest and TAP 33 applicability. Her silence on the August 25, 2025 email, despite being aware of the conflict, constitutes a material omission. (Exhibit K-1, K-2).
+
+**Defense Argument 3: Plaintiff admitted in his own pleadings that he "immediately recognized" Blair's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025**
+
+This argument misinterprets the record. While Plaintiff did express concerns about Blair's interpretation, he continued to rely on Defendants' representations throughout the process. (Exhibits K-1, K-2, K-5). Moreover, as held in Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc., 85 F. Supp. 2d 519 (W.D. Pa. 2000), "Reliance is presumed from materiality where a party would not have entered the transaction had the truth been known." (Key Passage 1). In this case, Plaintiff's reliance on Defendants' representations is presumed, as he would not have continued in the program had he known the truth about the conflict of interest and TAP 33 applicability.
+
+**Defense Argument 4: Plaintiff's claims are internally inconsistent**
+
+This argument is unfounded. The record demonstrates that Defendants' actions were inconsistent, not Plaintiff's claims. Specifically, Defendants' responses to Plaintiff's emails and requests for assistance were inconsistent, with some Defendants responding and others not. (Exhibits B-1 through B-7). This inconsistency creates a genuine dispute of material fact regarding Defendants' intent and actions.
+
+**Defense Argument 5: The consultation between Blair and Selcer produced assurances of fair treatment and offers of academic support**
+
+This argument is incorrect. While Blair and Selcer may have offered assurances of fair treatment, their actions demonstrate a lack of good faith. Specifically, Blair's consultation with Selcer, a conflicted party, without proper disclosure or consideration of TAP 33 requirements, undermines any assurances of fair treatment. (Exhibit K-2). Furthermore, Selcer's subsequent actions, including the imposition of a three-week Zoom countdown without medical or policy basis, demonstrate a lack of good faith. (Exhibit I).
+
+**Defense Argument 6: Courts should defer to academic institutions' professional judgment regarding academic decisions**
+
+This argument is inapplicable. As held in Jain v. Carnegie Mellon Univ., courts should not defer to academic institutions' professional judgment when it comes to claims of fraud or intentional misconduct. (Cited in Defendants' brief, but not relevant to the instant case). In this case, Plaintiff's claims of fraud are based on Defendants' intentional misrepresentations and omissions, not academic decisions.
+
+In conclusion, the record reveals genuine disputes of material fact on each element of the claim, precluding summary judgment. Defendants' motion for summary judgment on Count IV - Fraud (Pennsylvania common law) is denied.
