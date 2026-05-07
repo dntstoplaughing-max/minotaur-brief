@@ -22,7 +22,7 @@
   "conformsTo": "http://mlcommons.org/croissant/1.1",
   "name": "Minotaur-Brief",
   "description": "A pre-registered benchmark for long-form federal-court advocacy across doctrines and procedural postures, drawn from a single public federal docket (Mullins v. Duquesne Univ., No. 2:25-cv-01366 (W.D. Pa.)). Twenty-two elements across five doctrinal architectures (three federal claims at the motion-for-partial-summary-judgment posture; two state claims at the opposition-to-motion-for-summary-judgment posture), 38 documentary exhibits, a 31-case controlling-authority database, four context-noise levels, and a frozen pre-registered three-layer scoring framework. Layer 1 deterministic gates; Layer 2 LM-judged doctrinal (Claude Haiku 4.5) and writing rubrics (Claude Sonnet 4.6) on five axes (argumentative force, citation integration, element discipline, adverse-fact treatment, standard articulation); Layer 3 within-vendor convergent validity (Claude Opus 4.6) and cross-vendor convergent validity (Mistral Large 3 via Amazon Bedrock) on a stratified subsample. Released JSON files use LF line endings.",
-  "url": "https://huggingface.co/datasets/anon-neurips-2026/minotaur-brief",
+  "url": "https://huggingface.co/datasets/moodnaut/minotaur-brief",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "version": "1.0.0",
   "datePublished": "2026-05-07",
