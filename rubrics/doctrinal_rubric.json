@@ -10,9 +10,7 @@
     "judge_instructions": "For each task, the brief must address the elements listed in `required_elements`. Score each element 0/1/2 per the scoring_scale. Do NOT penalize the brief for handling the cross-count injection at L4 — focus only on the primary count's elements. Apply the pitfall_to_score_rule (below) when scoring. Output a JSON object: {\"task_id\": str, \"element_scores\": {element_name: int}, \"pitfalls_observed\": [str], \"notes\": str (optional)}.",
     "pitfall_to_score_rule": "If a `doctrinal_pitfall` listed for the task is observed in the brief's analysis of an element, the MAXIMUM score for that element is 1, regardless of other quality signals. An element scores 2 ONLY when (i) the legal standard is correctly stated, AND (ii) the standard is applied to the facts, AND (iii) supporting authority is cited, AND (iv) no listed pitfall for that element is committed. This rule is load-bearing: pitfalls cap the score; they are not a separate metric.",
     "primary_judge": "Claude Haiku 4.5 (anthropic.claude-haiku-4-5)",
-    "validator_judge": "Claude Opus 4.6 (us.anthropic.claude-opus-4-6-v1)",
-    "human_anchor_n": 30,
-    "human_anchor_blinding": "Family and condition labels stripped; randomized order; first author scores prior to inspecting LLM-judge scores"
+    "validator_judge": "Claude Opus 4.6 (us.anthropic.claude-opus-4-6-v1)"
   },
   "tasks": {
     "deliberate_indifference": {
