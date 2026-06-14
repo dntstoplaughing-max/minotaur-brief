@@ -28,9 +28,9 @@
   "datePublished": "2026-05-07",
   "creator": {
     "@type": "Person",
-    "name": "Anonymous (NeurIPS 2026 D&B Track submission)"
+    "name": "Mullins, David"
   },
-  "citeAs": "Anonymous. Minotaur-Brief: A Pre-Registered Benchmark for Long-Form Federal-Court Advocacy Across Doctrines and Procedural Postures. NeurIPS 2026 Datasets and Benchmarks Track submission.",
+  "citeAs": "@misc{mullins_minotaurbrief_2026, title={Minotaur-Brief: A Benchmark for Long-Form Pro Se Legal Filing Production}, author={Mullins, David}, year={2026}, howpublished={Hugging Face dataset, \\url{https://huggingface.co/datasets/moodnaut/minotaur-brief}}, note={CC BY 4.0}}",
   "keywords": [
     "legal NLP",
     "long-form generation",

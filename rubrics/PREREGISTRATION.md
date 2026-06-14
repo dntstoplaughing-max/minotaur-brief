@@ -1,7 +1,7 @@
 # Pre-registration: Scoring Rubrics
 
 **Project:** Minotaur — Multi-family alignment-induced capability degradation in long-form legal reasoning
-**NeurIPS 2026 submission**
+**Associated manuscript in preparation.**
 **Frozen:** 2026-05-03 (Sun) prior to inspection of any main-run output
 **Amended:** 2026-05-07 (Wed) prior to inspection of any main-run output (see Version history)
 **Author:** D. Mullins (first author)
