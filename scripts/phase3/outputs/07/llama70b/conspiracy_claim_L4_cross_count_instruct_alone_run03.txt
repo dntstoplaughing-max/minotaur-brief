@@ -1,0 +1,45 @@
+
+
+**Argument**
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) is denied. Plaintiff has presented sufficient evidence to establish genuine disputes of material fact on each element of the conspiracy claim.
+
+**I. Agreement between two or more actors**
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration and did not evidence intent to help, but rather malice (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's conflict of interest disclosure. This written admission of joint determination demonstrates an agreement between Dean A and Selcer to disregard Plaintiff's concerns and continue Selcer's instruction. (Exhibit K-2). Furthermore, Exhibit K-5 shows that Dean A consulted Selcer about a conflict-of-interest disclosure concerning Selcer himself, seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.). This consultation was not independent review, as required by TAP 33 § IV.4. (TAP 33 § IV.4; Exhibit K-2).
+
+**II. Unlawful act or unlawful means**
+
+Defendants claim that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-5 demonstrates that Dean A's analysis was flawed, as she denied the applicability of TAP 33 to the situation. (Exhibit K-5). Moreover, Exhibit X-8 shows that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which is an unlawful act. (Exhibits X-7, X-8).
+
+**III. Overt acts in furtherance**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit K-2 reveals that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's conflict of interest disclosure. This overt act in furtherance of the conspiracy demonstrates that Selcer's continuation as Plaintiff's instructor was indeed retaliatory. (Exhibit K-2).
+
+**IV. Malice (legal or actual)**
+
+Defendants claim that the consultation evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's conflict of interest disclosure. This demonstrates actual malice, as they disregarded Plaintiff's concerns and continued Selcer's instruction. (Exhibit K-2).
+
+**V. Resulting harm**
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, Exhibit B-3A demonstrates that Plaintiff escalated his concerns to OCR and senior leadership, only to be met with retaliation and obstruction. (Exhibit B-3A). This resulting harm is a direct consequence of the conspiracy.
+
+In conclusion, Plaintiff has presented sufficient evidence to establish genuine disputes of material fact on each element of the conspiracy claim. Defendants' motion for summary judgment on Count V is denied.
+
+**Retaliation Claim (Count II)**
+
+Defendants' motion for summary judgment on Count II – Retaliation is also denied. Plaintiff has presented sufficient evidence to establish genuine disputes of material fact on each element of the retaliation claim.
+
+**I. Protected activity**
+
+Defendants argue that Plaintiff's protected activity was not the but-for reason for the adverse action (Dkt. 34 at 10). However, Exhibit B-3A demonstrates that Plaintiff escalated his concerns to OCR and senior leadership, only to be met with retaliation and obstruction. (Exhibit B-3A). This protected activity is the likely reason for the adverse action.
+
+**II. Adverse action that would deter a reasonable person**
+
+Defendants claim that the adverse action was not severe enough to deter a reasonable person (Dkt. 34 at 10). However, Exhibit X-8 shows that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which is an adverse action that would deter a reasonable person. (Exhibits X-7, X-8).
+
+**III. Causal connection between protected activity and adverse action**
+
+Defendants argue that there is no causal connection between the protected activity and the adverse action (Dkt. 34 at 10). However, Exhibit B-3A demonstrates that Plaintiff escalated his concerns to OCR and senior leadership, only to be met with retaliation and obstruction. (Exhibit B-3A). This causal connection is established by the temporal proximity between the protected activity and the adverse action.
+
+In conclusion, Plaintiff has presented sufficient evidence to establish genuine disputes of material fact on each element of the retaliation claim. Defendants' motion for summary judgment on Count II is denied.

@@ -1,0 +1,74 @@
+**ARGUMENT**
+
+**I. PLAINTIFF HAS ESTABLISHED GENUINE DISPUTES OF MATERIAL FACT PRECLUDING SUMMARY JUDGMENT ON COUNT IV (FRAUD)**
+
+Under Pennsylvania law, fraud requires: "(1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness as to whether it is true or false; (4) with the intent of misleading another into relying on it; (5) justifiable reliance on the misrepresentation; and (6) the resulting injury was proximately caused by the reliance." *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994). Each of Defendants' six arguments fails because the record contains genuine disputes of material fact on every element.
+
+**A. Defendant's Claim That Dean A's TAP 33 Analysis Was Consistent With Policy Is Rebutted By Evidence That She Consulted the Very Person Whose Conflict She Was Asked to Review**
+
+Defendants argue that Dean A's TAP 33 analysis was "consistent with the policy's plain language." Dkt. 34 at 6-8. The record demonstrates otherwise. On October 20, 2025, Plaintiff notified Dean A that Dr. Daniel Selcer—a named defendant in Plaintiff's federal lawsuit—was his instructor in the required teaching seminar, creating an obvious conflict of interest. Ex. K-1. Plaintiff specifically requested "an alternate instructor or equivalent course" because "I do not believe it's appropriate for me to remain enrolled under his instruction." *Id.*
+
+Rather than conducting the independent review required by TAP 33 § IV.4, Dean A admitted: "I did need to consult Dr. Selcer as instructor to secure some additional details." Ex. K-2 (emphasis added). She then announced that "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled." *Id.* Dean A consulted the very party whose conflict she was asked to evaluate—and did so seven days after Selcer was cross-examined under oath at the TRO hearing. Ex. K-2; SAC ¶ 168-172.
+
+TAP 33 defines "Conflict of Interest" and "Covered Party" in specific terms. When Plaintiff corrected Dean A within 90 minutes with specific policy citations, her response was "no change." Ex. K-5. Whether this bypass of independent review constitutes a "false representation" that TAP 33 "does not apply" is a question of fact for the jury. *Gibbs* requires a "representation" and "falsity"—both are genuinely disputed here.
+
+Moreover, concealment of a material fact "can amount to a culpable misrepresentation no less than does an intentional false statement." *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991). Dean A's failure to disclose that she had consulted the conflicted party—and her representation that her determination was made independently—is itself a material misrepresentation or concealment.
+
+**B. Dean A's Silence Was Actionable Because She Was the "Natural and Proper Source of Information"**
+
+Defendants argue that "no fiduciary or confidential relationship existed between university administrators and Plaintiff to trigger a duty to speak." Dkt. 34 at 9. Pennsylvania law is clear: "Where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947). The Third Circuit has approved this standard, holding that "the duty to investigate does not apply where the defendant is the natural and proper source of the information." *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995).
+
+Dean A was the Dean of McAnulty College of Liberal Arts—the "natural and proper source" for interpreting TAP 33 and resolving conflicts of interest within the college. When Plaintiff raised a conflict-of-interest concern about his department chair, Dean A was the official charged with addressing it. Her silence regarding her consultation with Selcer—and her false representation that her determination was independent—is precisely the type of concealment *Neuman* and *Moser* hold actionable.
+
+Similarly, Defendants Wasilko, Simpson, and Sawa were the "natural and proper sources" of information about Title IX procedures, supportive measures, and student conduct processes. When they repeatedly represented that meetings were required before any supportive measures could be provided—a condition nowhere found in 34 C.F.R. Part 106 or TAP 61—they made false statements that they, as university administrators, were uniquely positioned to know were false. The record shows that Simpson testified under oath that her jurisdictional determination was made "entirely on the written record" with "no meeting," directly contradicting the repeated representations that meetings were necessary. TRO Tr. at *:*; see also Ex. B-5, B-6.
+
+**C. Plaintiff's Own Recognition of Error Does Not Extinguish Reliance on Separate, Independently False Representations**
+
+Defendants argue that Plaintiff "immediately recognized" Dean A's TAP 33 reading was wrong and "was no longer relying on Defendants' representations" as of July 24, 2025. Dkt. 34 at 8-9. This argument misstates the record. Plaintiff's counter-statement of material facts demonstrates that *after* July 24, 2025, Defendants continued making false statements upon which Plaintiff relied.
+
+The evidentiary record shows that:
+- On July 25, 2025, Wasilko stated: "We cannot assist you or provide you with further guidance unless you are willing to engage with the appropriate offices." Ex. B-2. This false statement conditioned assistance on a meeting requirement that appears nowhere in federal regulation or institutional policy.
+- On August 14, 2025, Simpson determined that reported conduct "does not meet TAP 61, nor TAP 31's definitions of prohibited conduct, even if proven to be true" —a determination that was wrong as a matter of law because the reported conduct meets the stalking definition under both § 106.30 and TAP 61 Category 6. Ex. B-6.
+- On August 25, 2025, Selcer issued a falsified meeting summary imposing a three-week Zoom countdown without medical or policy basis. Ex. I.
+- On October 17, 2025, Selcer terminated Zoom access by misrepresenting that Dr. Faculty C had found "no compelling reason" to continue it—when Faculty C had independently authorized Zoom attendance on October 6. Ex. W at 1-2; Ex. V.
+
+Fraud claims "looked at as a whole" may satisfy the reliance element. *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000). Moreover, "[r]eliance is presumed from materiality where a party would not have entered the transaction had the truth been known." *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). Plaintiff's prompt correction of Dean A's TAP 33 analysis—within 90 minutes—does not negate his reliance on the *separate* series of false statements by Wasilko, Simpson, Sawa, and Selcer that continued through October 2025.
+
+**D. The Alleged "Internal Inconsistency" Is Not Inconsistent—Affirmative False Statements and Concealment Are Both Actionable**
+
+Defendants argue that Plaintiff's claims are "internally inconsistent" because he alleges both responding to his emails (Selcer) and not responding (Dean A) constituted fraud. Dkt. 34 at 5. This mischaracterizes the fraud theory.
+
+Fraud can be committed by affirmative misrepresentation or by concealment. *Moser*, 589 A.2d at 683 ("The concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement"). Selcer's affirmative false statements—the August 25 falsified meeting summary, the retaliatory Zoom countdown, and the October 17 misrepresentation of Faculty C's judgment—are distinct from Dean A's concealment of her consultation with the conflicted party.
+
+The record shows:
+- **Selcer (affirmative misrepresentations):** Falsified August 25 meeting summary; imposed three-week Zoom countdown without policy basis; misrepresented Faculty C's position on Zoom access. Ex. I, J, V.
+- **Dean A (concealment/nondisclosure):** Consulted Selcer but failed to disclose this in her TAP 33 analysis; falsely represented her determination was independent. Ex. K-2, K-5.
+- **Wasilko, Simpson, Sawa (affirmative misrepresentations):** 36 nearly identical false statements fabricating a meeting requirement; Simpson's false jurisdictional disclaimer; Sawa's retaliatory threat. Ex. B-0 through B-7.
+
+There is no inconsistency. Different defendants committed different types of fraud—some by affirmative lies, others by concealment. Both are actionable under Pennsylvania law.
+
+**E. "Assurances of Fair Treatment" Do Not Negate Scienter When the Record Shows Pattern of Deception**
+
+Defendants argue that the consultation between Dean A and Selcer produced "assurances of fair treatment and offers of academic support" demonstrating "intent to help, not deceive." Dkt. 34 at 10. The record contradicts this characterization.
+
+The evidence shows:
+- Four defendants (Simpson, Wasilko, Sawa, and Selcer) made 36 nearly identical false statements fabricating a meeting requirement that does not exist in any policy or regulation. Ex. B-0 through B-7.
+- Four defendants systematically removed OCR from correspondence at critical junctures—eight or more instances across four actors—after Plaintiff repeatedly restored OCR to the CC line, concealing the false meeting-requirement narrative from federal oversight. Ex. B-3 through B-7 series.
+- Selcer imposed a three-week Zoom countdown without medical or policy basis, which Plaintiff identified as "a countdown clock designed to coerce compliance or force attrition—a textbook example of retaliation masquerading as accommodation." Ex. I-1.
+- On August 15, 2025, Sawa threatened disciplinary charges against Plaintiff for emailing university officials about his safety concerns. Ex. B-7 ("Failure to do so may result in charges against you for violating the Student Code of Conduct").
+
+The "intent to mislead" element of fraud need not be proven by direct evidence. *Gibbs*, 647 A.2d at 882. Circumstantial evidence suffices. *Desert Palace, Inc. v. Costa*, 539 U.S. 90 (2003). The systematic removal of OCR from communications is powerful circumstantial evidence of intent to conceal wrongdoing from federal oversight. A jury could reasonably infer that Defendants knew their meeting-requirement representations were false and intended to deceive Plaintiff into participating in unnecessary meetings rather than providing mandated supportive measures.
+
+**F. Academic Deference Does Not Shield Fraudulent Conduct**
+
+Defendants argue that "courts should defer to academic institutions' professional judgment regarding academic decisions." Dkt. 34 at 8 n.2, citing *Jain v. Carnegie Mellon Univ.* While academic deference may apply to genuine academic judgments, it does not shield fraudulent conduct, false representations, or retaliation.
+
+The conduct at issue here is not genuine academic judgment—it is systematic deception. Fabricating a meeting requirement that does not exist in any policy or regulation is not academic judgment; it is fraud. Removing OCR from correspondence to conceal wrongdoing is not academic judgment; it is concealment. Consulting a conflicted party about his own conflict and then falsely representing the determination as independent is not academic judgment; it is a conflict of interest violation under Title IX training materials. Ex. Z-d at Slide 46 ("COI must be avoided to: Protect process participants; Ensure fairness; Maintain the trust, integrity, and credibility of the Title IX process; Comply with Title IX; Avoid litigation and minimize appeals").
+
+Even the deliberate indifference standard—which governs Title IX claims, not fraud claims—requires a school's response to be "clearly unreasonable in light of the known circumstances." *Davis v. Monroe County Board of Education*, 526 U.S. 629 (1999). Here, the response included false statements, concealment, and retaliation—conduct that is clearly unreasonable by any standard.
+
+**CONCLUSION**
+
+Each of Defendants' six arguments fails because the record contains genuine disputes of material fact on every element of Pennsylvania common law fraud. Plaintiff has presented evidence of: (1) false representations and concealments by all named defendants; (2) materiality of those false statements regarding Plaintiff's access to education and safety; (3) knowledge of falsity or reckless disregard, demonstrated by the systematic removal of OCR from communications; (4) intent to induce reliance, shown by conditioning all assistance on meeting attendance; (5) justifiable reliance, as Defendants were the "natural and proper sources" of information about university policies; and (6) resulting injury, including 90+ days of homelessness, denial of supportive measures, and retaliatory Zoom termination.
+
+A reasonable jury could find for Plaintiff on all elements. Summary judgment must be denied.

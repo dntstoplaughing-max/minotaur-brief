@@ -1,0 +1,161 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p GPU
+#SBATCH -t 36:00:00
+#SBATCH --gpus=h100-80:8
+#SBATCH -A cis260106p
+#SBATCH -o minotaur-deepseek-%j.out
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=CHANGE_ME@example.com
+
+set -euo pipefail
+
+# ====== Configuration ======================================================
+# DeepSeek V3.1-Base: 671B MoE, FP8 native — no --quantization flag
+# (weights are already FP8 in the checkpoint; passing fp8 would double-quantize).
+# Family key kept as `deepseek_v4_flash` for code stability; underlying model
+# is V3.1 after V4-Flash failed vLLM compatibility (Plan B per PREREGISTRATION).
+FAMILY="deepseek_v4_flash"
+PROJECT_ROOT="/ocean/projects/cis260106p/dmullins"
+MINOTAUR_DIR="${PROJECT_ROOT}/minotaur"
+MODEL_PATH="${PROJECT_ROOT}/models/DeepSeek-V3.1-Base"
+SERVED_MODEL_NAME="deepseek-ai/DeepSeek-V3.1-Base"
+TP_SIZE=8
+DTYPE="auto"
+MAX_MODEL_LEN=131072
+CONDA_ENV="minotaur"
+VLLM_PORT=8000
+VLLM_HOST="127.0.0.1"
+HEALTH_TIMEOUT_SEC=1800        # 30 min — bigger model, longer load
+HEALTH_INTERVAL_SEC=10
+VLLM_LOG="vllm-${FAMILY}-${SLURM_JOB_ID}.log"
+RUNNER_LOG="runner-${FAMILY}-${SLURM_JOB_ID}.log"
+
+START_TS=$(date +%s)
+echo "[minotaur-${FAMILY}] job ${SLURM_JOB_ID} starting at $(date -Iseconds)"
+echo "[minotaur-${FAMILY}] node: $(hostname)"
+echo "[minotaur-${FAMILY}] cwd:  $(pwd)"
+
+cd "$MINOTAUR_DIR"
+
+# ====== Module loads =======================================================
+module purge
+module load anaconda3/2024.10-1
+module load cuda/12.6.1
+
+# ====== Conda activate =====================================================
+# Defensive cleanup against inherited conda state from prior jobs on same node.
+unset CONDA_DEFAULT_ENV CONDA_PREFIX CONDA_PYTHON_EXE CONDA_SHLVL 2>/dev/null || true
+CONDA_BASE="/opt/packages/anaconda3-2024.10-1"
+# shellcheck disable=SC1091
+source "${CONDA_BASE}/etc/profile.d/conda.sh"
+conda deactivate 2>/dev/null || true
+conda activate "$CONDA_ENV"
+echo "[minotaur-${FAMILY}] conda env: $CONDA_DEFAULT_ENV ($(which python))"
+python --version
+
+# ====== Pre-flight: GPU check ==============================================
+echo "[minotaur-${FAMILY}] nvidia-smi:"
+nvidia-smi
+GPU_COUNT=$(nvidia-smi --query-gpu=name --format=csv,noheader | wc -l)
+echo "[minotaur-${FAMILY}] visible GPUs: ${GPU_COUNT}"
+if [[ "${GPU_COUNT}" -lt 8 ]]; then
+    echo "[minotaur-${FAMILY}] FATAL: expected 8 GPUs, only ${GPU_COUNT} visible. Aborting."
+    exit 2
+fi
+nvidia-smi --query-gpu=index,memory.free --format=csv
+
+# ====== EXIT trap ==========================================================
+VLLM_PID=""
+cleanup() {
+    local rc=$?
+    if [[ -n "${VLLM_PID}" ]] && kill -0 "${VLLM_PID}" 2>/dev/null; then
+        echo "[minotaur-${FAMILY}] cleanup: stopping vLLM pid ${VLLM_PID}"
+        kill "${VLLM_PID}" 2>/dev/null || true
+        sleep 5
+        kill -9 "${VLLM_PID}" 2>/dev/null || true
+    fi
+    echo "[minotaur-${FAMILY}] exit rc=${rc} at $(date -Iseconds)"
+}
+trap cleanup EXIT
+
+# ====== Launch vLLM ========================================================
+# NOTE: no --quantization flag; the FP8 weights are native in the checkpoint.
+export VLLM_BASE_URL="http://${VLLM_HOST}:${VLLM_PORT}/v1"
+echo "[minotaur-${FAMILY}] launching vLLM, log -> ${VLLM_LOG}"
+python -m vllm.entrypoints.openai.api_server \
+    --model "${MODEL_PATH}" \
+    --served-model-name "${SERVED_MODEL_NAME}" \
+    --tensor-parallel-size "${TP_SIZE}" \
+    --dtype "${DTYPE}" \
+    --max-model-len "${MAX_MODEL_LEN}" \
+    --max-num-seqs 8 \
+    --gpu-memory-utilization 0.92 \
+    --enforce-eager \
+    --trust-remote-code \
+    --host "${VLLM_HOST}" \
+    --port "${VLLM_PORT}" \
+    > "${VLLM_LOG}" 2>&1 &
+VLLM_PID=$!
+echo "[minotaur-${FAMILY}] vLLM pid=${VLLM_PID}"
+
+# ====== Healthcheck loop ===================================================
+echo "[minotaur-${FAMILY}] healthchecking vLLM at ${VLLM_BASE_URL}/models (timeout ${HEALTH_TIMEOUT_SEC}s)"
+HEALTH_DEADLINE=$((START_TS + HEALTH_TIMEOUT_SEC))
+while true; do
+    NOW=$(date +%s)
+    if [[ "${NOW}" -ge "${HEALTH_DEADLINE}" ]]; then
+        echo "[minotaur-${FAMILY}] FATAL: vLLM did not become healthy within ${HEALTH_TIMEOUT_SEC}s"
+        echo "[minotaur-${FAMILY}] tail of ${VLLM_LOG}:"
+        tail -n 200 "${VLLM_LOG}" || true
+        exit 3
+    fi
+    if ! kill -0 "${VLLM_PID}" 2>/dev/null; then
+        echo "[minotaur-${FAMILY}] FATAL: vLLM process exited before becoming healthy"
+        echo "[minotaur-${FAMILY}] tail of ${VLLM_LOG}:"
+        tail -n 200 "${VLLM_LOG}" || true
+        exit 4
+    fi
+    if curl -fsS --max-time 5 "${VLLM_BASE_URL}/models" >/dev/null 2>&1; then
+        echo "[minotaur-${FAMILY}] vLLM healthy at $(date -Iseconds)"
+        break
+    fi
+    sleep "${HEALTH_INTERVAL_SEC}"
+done
+
+# ====== Run experiment =====================================================
+echo "[minotaur-${FAMILY}] starting runner.py --family ${FAMILY} -> ${RUNNER_LOG}"
+RUNNER_RC=0
+python runner.py --family "${FAMILY}" 2>&1 | tee "${RUNNER_LOG}"
+RUNNER_RC=${PIPESTATUS[0]}
+
+if [[ "${RUNNER_RC}" -ne 0 ]]; then
+    echo "[minotaur-${FAMILY}] runner.py failed with rc=${RUNNER_RC}"
+    exit "${RUNNER_RC}"
+fi
+
+# ====== Summary ============================================================
+END_TS=$(date +%s)
+ELAPSED=$((END_TS - START_TS))
+H=$((ELAPSED / 3600))
+M=$(((ELAPSED % 3600) / 60))
+S=$((ELAPSED % 60))
+
+RAW_DIR="${MINOTAUR_DIR}/results/raw/${FAMILY}"
+RAW_COUNT=0
+RAW_SIZE_HUMAN="0"
+if [[ -d "${RAW_DIR}" ]]; then
+    RAW_COUNT=$(find "${RAW_DIR}" -maxdepth 1 -type f | wc -l)
+    RAW_SIZE_HUMAN=$(du -sh "${RAW_DIR}" 2>/dev/null | awk '{print $1}')
+fi
+
+echo ""
+echo "==================================================================="
+echo "  MINOTAUR ${FAMILY} RUN SUMMARY  (job ${SLURM_JOB_ID})"
+echo "==================================================================="
+echo "  files in results/raw/${FAMILY} : ${RAW_COUNT}"
+echo "  total size                     : ${RAW_SIZE_HUMAN}"
+echo "  elapsed wall time              : ${H}h ${M}m ${S}s"
+echo "  vllm log                       : ${VLLM_LOG}"
+echo "  runner log                     : ${RUNNER_LOG}"
+echo "==================================================================="

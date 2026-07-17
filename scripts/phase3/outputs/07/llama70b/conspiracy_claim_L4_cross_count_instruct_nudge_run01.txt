@@ -1,0 +1,43 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied. Genuine disputes of material fact preclude summary judgment on each element of the conspiracy claim.
+
+**I. Agreement between two or more actors**
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent, as required by TAP 33 § IV.4. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." This written admission of joint determination with the conflicted party – "both of us, together" rather than independent review – creates a genuine dispute of material fact regarding the existence of an agreement between Dean A and Selcer.
+
+**II. Unlawful act or unlawful means**
+
+Defendants contend that Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-5 shows that Dean A denied the applicability of TAP 33, despite the clear conflict of interest presented by Selcer's role as both instructor and defendant in Plaintiff's federal civil case. This denial of TAP 33's applicability, combined with Dean A's failure to provide independent review, creates a genuine dispute of material fact regarding the unlawfulness of Dean A's actions.
+
+**III. Overt acts in furtherance**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit K-2 shows that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in Selcer's teaching seminar, despite the clear conflict of interest. This joint determination, combined with Selcer's subsequent actions, including the fabrication of "performance issues" (Exhibit X-8), creates a genuine dispute of material fact regarding the existence of overt acts in furtherance of the conspiracy.
+
+**IV. Malice (legal or actual)**
+
+Defendants contend that the consultation between Dean A and Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A and Selcer's joint determination was made in bad faith, as they failed to provide independent review and ignored the clear conflict of interest presented by Selcer's role. This bad faith, combined with the subsequent actions of Selcer and other defendants, creates a genuine dispute of material fact regarding the existence of malice.
+
+**V. Resulting harm**
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, the exhibits demonstrate a pattern of deliberate indifference and retaliation by defendants, resulting in harm to Plaintiff. Exhibit F, for example, shows that Plaintiff's housing instability and lack of university support have caused significant emotional distress and negatively impacted his graduate education. This harm, combined with the other elements of the conspiracy claim, creates a genuine dispute of material fact regarding the resulting harm.
+
+In conclusion, genuine disputes of material fact preclude summary judgment on each element of the conspiracy claim. Defendants' motion for summary judgment on Count V must be denied.
+
+**REQUIRED ELEMENTS FOR DRAFT RETALIATION CLAIM (COUNT II)**
+
+While not directly at issue in this motion, it is worth noting that the exhibits also create genuine disputes of material fact regarding the required elements for a retaliation claim under Count II.
+
+**(1) Protected activity**
+
+Exhibit B-3A shows that Plaintiff engaged in protected activity by reporting his concerns to OCR and university officials.
+
+**(2) Adverse action that would deter a reasonable person**
+
+Exhibits I, J, and X-8 demonstrate a pattern of adverse actions taken by defendants, including the removal of OCR and senior administrative oversight, the fabrication of "performance issues," and the threat of stipend suspension.
+
+**(3) Causal connection between protected activity and adverse action**
+
+Exhibits I-1, J, and X-8 create a genuine dispute of material fact regarding the causal connection between Plaintiff's protected activity and the adverse actions taken by defendants.

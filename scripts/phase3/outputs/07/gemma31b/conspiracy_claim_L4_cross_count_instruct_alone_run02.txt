@@ -1,0 +1,46 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because genuine disputes of material fact exist regarding every element of Plaintiff’s civil conspiracy claim. Under Pennsylvania law, a civil conspiracy requires (1) a combination or agreement between two or more persons (2) to do an unlawful act or do a lawful act by unlawful means, (3) overt acts in furtherance of that agreement, (4) malice, and (5) resulting harm. *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). Crucially, once a defendant joins a conspiracy, they are "jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy." *Id.*
+
+**I. The Evidence Demonstrates an Unlawful Agreement and Coordinated Overt Acts, Not "Routine Administration."**
+
+Defendants argue that Dean A’s consultation with Dr. Selcer was "routine academic administration" and that the institutional responses were merely "well-established university processes." (Dkt. 34 at 10; Dkt. 25 at 6). The evidence proves the opposite: a coordinated effort to bypass independent oversight and maintain control over Plaintiff through unlawful means.
+
+First, Dean A’s "consultation" with Dr. Selcer regarding a conflict-of-interest disclosure concerning *Selcer himself* was a facial violation of university policy. TAP 33 § IV.4 requires "independent review" of such disclosures. (TAP 33 § IV.4). Instead of an independent review, Dean A admits in writing: "I did need to consult Dr. Selcer... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled." (Exhibit K-2). This is not "routine administration"; it is a written admission of a joint determination made with the conflicted party, rendering the "review" a sham.
+
+Second, the "coordinated institutional response" Defendants defend was characterized by the systematic removal of federal and senior oversight. Four defendants coordinated to remove the Office for Civil Rights (OCR) and senior administration from correspondence at critical junctures to prevent corrective information from reaching the victims. (Counter-Statement ¶ 7). Specifically, Dr. Selcer removed Dean A herself from the September 3 "final directive" (Exhibit J; Selcer Sept 3 email), demonstrating a pattern of siloing communications to avoid accountability. Such conduct is not a "university process" but an overt act in furtherance of a conspiracy to obstruct Plaintiff’s access to federal protections.
+
+**II. Genuine Disputes Exist Regarding the Underlying Torts and the Lawfulness of Defendants' Actions.**
+
+Defendants contend that no underlying tort exists because Dean A’s TAP 33 analysis was "correct on the policy's plain terms." (Dkt. 34 at 10). This argument fails for two reasons.
+
+First, as noted above, Dean A’s reliance on Selcer to determine Selcer’s own conflict of interest contradicts the "independent review" mandate of TAP 33 § IV.4. (Exhibit K-2; TAP 33 § IV.4).
+
+Second, under *Thompson Coal*, Dean A’s liability does not depend on her personally committing every underlying tort, but rather on her joining a conspiracy that committed them. *412 A.2d at 472-73*. The record contains evidence of multiple underlying torts committed by co-conspirators:
+*   **Fraud and Fabrication:** Dr. Selcer fabricated "performance issues" to threaten Plaintiff’s stipend through 2029. (Exhibit X-8). This fabrication is contradicted by the very source Selcer cited on the same day; Faculty B’s email on February 13, 2026, requested reassignment due to "tensions" but contained no complaint of "performance issues" and explicitly stated her "door is always open" to Plaintiff. (Exhibit X-7).
+*   **Retaliation:** Dr. Sawa threatened Plaintiff with Student Code of Conduct charges simply for sending emails to university officials regarding his safety and access. (Exhibit B-7).
+
+These acts—fabricating academic failure and threatening disciplinary action for exercising protected speech—constitute the "unlawful means" necessary to sustain a conspiracy claim.
+
+**III. The Record Establishes Malice and Retaliatory Intent, Not an "Intent to Help."**
+
+Defendants claim the consultation between Dean A and Selcer evidenced an "intent to help" via offers of academic support. (Dkt. 34 at 10). However, the "support" offered was a facade for coercion and retaliation.
+
+The "academic support" was conditioned on Plaintiff returning to a classroom taught by a named defendant in his own federal lawsuit—a situation Dean A and Selcer "strongly concur[red]" was appropriate despite the obvious conflict. (Exhibit K-2). Furthermore, Dr. Selcer used his role as instructor to implement a "countdown clock" for Zoom access, which he used as a tool of coercion. (Exhibit I-1; Exhibit J). This "countdown" was designed to force Plaintiff to "drop [his] requests for accommodation" or face a sudden loss of access. (Exhibit J).
+
+The malice is further evidenced by the timing of these actions. Dean A’s joint determination with Selcer occurred on October 22, 2025—just seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15. (Exhibit K-2; TRO Tr.). This temporal proximity, combined with the systematic removal of OCR from emails, creates a genuine dispute as to whether the Defendants acted with an intent to injure Plaintiff's academic standing and mental health.
+
+**IV. Selcer’s Continued Role as Instructor Was an Overt Act in Furtherance of the Conspiracy.**
+
+Defendants argue that Selcer’s role as instructor was not an overt act because he held the role before and after the protected activity. (Dkt. 34 at 10 n.3). This is a distinction without a difference. While the *title* remained the same, the *use* of the position changed.
+
+Selcer transformed his instructional role into a mechanism for retaliation. He used his authority to:
+1.  Implement a retaliatory "countdown" to Zoom access (Exhibit J);
+2.  Misrepresent Dr. Faculty C’s views to terminate remote access (Exhibit Q, Exhibit V); and
+3.  Fabricate "performance issues" to threaten the Plaintiff's financial viability in the program (Exhibit X-8).
+
+The act of maintaining the instructor role became an overt act of the conspiracy the moment it was used to facilitate these tortious acts.
+
+**CONCLUSION**
+
+Because the evidence shows a coordinated effort to violate TAP 33, fabricate performance records, obstruct federal oversight, and retaliate against a student for seeking safety and legal redress, genuine disputes of material fact exist. Defendants are not entitled to summary judgment.

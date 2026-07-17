@@ -1,0 +1,71 @@
+**ARGUMENT**
+
+**III. DEFENDANTS FAILED TO PROVIDE PLAINTIFF A REASONABLE ACCOMMODATION IN VIOLATION OF SECTION 504 OF THE REHABILITATION ACT AND THE ADA**
+
+Count III alleges that Duquesne University violated Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, and the Americans with Disabilities Act by failing to provide Plaintiff David Mullins with a reasonable accommodation for his disability. Following the Supreme Court's decision in *A.J.T. v. Osseo Area Schools*, 605 U.S. ___ (2025), Section 504 claims in educational settings are governed by the same failure-to-accommodate analysis applied in other disability discrimination contexts, without any heightened "bad faith or gross misjudgment" standard. *Osseo*, 605 U.S. at ___. To establish a failure-to-accommodate claim, a plaintiff must demonstrate: (1) he is a qualified individual with a disability; (2) the defendant had notice of his disability and need for accommodation; (3) he requested a reasonable accommodation; (4) the defendant denied that accommodation; and (5) he suffered resulting harm. As demonstrated below, Plaintiff has established each element and Defendants' motion for summary judgment must be denied.
+
+**A. Plaintiff Is a Qualified Individual with a Disability**
+
+The record establishes that Plaintiff is a doctoral candidate in good academic standing with no disciplinary record, and that his treating physician has diagnosed him with ADHD and depression. Exhibit F (Treating Physician Letter, Oct. 1, 2025). Medical documentation confirms that Plaintiff "reports homelessness since June 30th which has been very stressful and likely worsens his mental health conditions," and that "[w]orsening his mental health conditions is expected to negatively impact his graduate education." *Id.* The physician expressly recommended "all measures to protect him from his abuser and to provide stable housing be made." *Id.*
+
+Additionally, Plaintiff's treating physician stated under oath that Plaintiff "does not feel safe around a specific individual on campus," and that the physician believes "it's reasonable for him to have this fear." Exhibit F (Treating Physician Letter, Aug. 13, 2025). The physician further opined that "[t]o share a living space with this individual would cause him a great deal of stress, would be highly likely to worsen his medical condition, and could impair his academic functioning." *Id.* This medical documentation confirms that Plaintiff's mental health conditions—ADHD and depression—substantially limit major life activities including learning, concentrating, and interacting with others, rendering him a qualified individual with a disability under Section 504 and the ADA.
+
+**B. Defendants Had Adequate Notice of Plaintiff's Disability and Need for Accommodation**
+
+The Third Circuit has held that "[a]n employer who has received adequate notice of an employee's disability and desire for accommodations" cannot simply ignore that request. *Taylor v. Phoenixville School District*, 184 F.3d 296, 313 (3d Cir. 1999). The same standard applies to educational institutions under Section 504. *Id.*
+
+Plaintiff provided Defendants with explicit medical documentation of his disability and his need for accommodation. Exhibit F (Aug. 13, 2025 letter from Treating Physician). Plaintiff also repeatedly informed Defendants that he could not safely attend in-person classes without protective measures. Exhibit R (July 20, 2025 email to Selcer stating "I am scared of this person. I fear for my safety in any context where she knows my whereabouts"). Exhibit S (July 21, 2025 email stating "I fled my home at substantial cost in order to protect my own physical safety"). Exhibit I (Aug. 25, 2025 email from Selcer acknowledging Plaintiff's explanation that "you do not feel safe on campus because you fear Respondent").
+
+Plaintiff's specific accommodation request—Zoom access for class participation—was communicated clearly and repeatedly. Exhibit I (Aug. 25, 2025 exchange); Exhibit I-1 (Sept. 2, 2025 demands for retraction of retaliatory Zoom countdown). Plaintiff's medical documentation supported this request, as his physician confirmed that proximity to the individual he feared "is highly likely to worsen his medical condition." Exhibit F (Aug. 13, 2025).
+
+The undisputed facts establish that Defendants had notice: Selcer testified at the TRO hearing that Plaintiff had no performance issues, Plaintiff's medical documentation was provided to Defendants, and Plaintiff repeatedly explained that his inability to attend in person stemmed from documented medical need. *See* Statement of Undisputed Material Facts ¶¶ 1-2.
+
+**C. Plaintiff Requested a Reasonable Accommodation**
+
+Plaintiff requested Zoom access for his seminar classes as a medically necessary accommodation. Exhibit I (Aug. 25, 2025 Selcer directive). Zoom was already in active use in the same department by Faculty D for comparable graduate coursework, demonstrating that the requested accommodation was administratively feasible and did not fundamentally alter the nature of the program. Exhibit N (Faculty D syllabus providing that "[a]lthough we will meet in person, I will also keep a Zoom meeting running, so if you are not feeling well, please attend that session remotely!").
+
+Plaintiff's request was not merely a preference; it was a documented medical necessity. Exhibit F (physician letters). The requested accommodation was specifically tailored to address Plaintiff's documented fear of a specific individual on campus, a fear that his treating physician confirmed was reasonable and that, if unaddressed, would impair his academic functioning. *Id.*
+
+**D. Defendants Denied the Accommodation by Failing to Engage in the Interactive Process and Imposing an Unreasonable Time Limit**
+
+**1. Defendants Failed to Conduct Any Interactive Process**
+
+The Third Circuit has established that "[t]o show that an employer failed to participate in the interactive process, a disabled employee must demonstrate: 1) the employer knew about the employee's disability; 2) the employee requested accommodations or assistance for his or her disability; 3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and 4) the employee could have been reasonably accommodated but for the employer's lack of good faith." *Taylor*, 184 F.3d at 315.
+
+Here, the undisputed facts demonstrate Defendants' complete failure to engage: "No interactive process was conducted. Defendants did not assess Plaintiff's specific limitations, evaluate possible accommodations, discuss alternatives with Plaintiff, or involve disability services." Statement of Undisputed Material Facts ¶ 5. The record confirms that "[n]o university policy or departmental policy prohibits individual student Zoom access," and the Faculty Handbook "governs faculty course delivery modality, not individual student attendance accommodations." *Id.* ¶ 4.
+
+As the court recognized in *Oross v. Kutztown University*, No. 21-5032 (E.D. Pa. July 25, 2023), where a university applies a "blanket no-remote policy with no written basis, no individualized assessment of plaintiff's request," the accommodation request is effectively "dead on arrival"—constituting interference with the interactive process. *Oross*, slip op. at *.
+
+Here, Selcer admitted under oath that his objection to Zoom was based on personal preference, citing "divides attention" and a post-COVID departmental finding, but "could not identify any written policy, pedagogical study, or departmental standard supporting denial." Statement of Undisputed Material Facts ¶ 7. This is precisely the kind of ad hoc, unreasoned denial that the *Oross* court found impermissible.
+
+**2. The Conditional, Time-Limited Zoom Access Was Not a Reasonable Accommodation**
+
+Selcer's August 25 directive imposed a "three-week countdown on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation." Statement of Undisputed Material Facts ¶ 6. This was not an accommodation; it was "a conditional, time-limited measure designed to expire and coerce meeting attendance." *Id.*
+
+The Third Circuit has made clear that an employer "cannot fail to engage the employee in the interactive process of finding accommodations, increase the disabled employee's job responsibilities, and then simply document the employee's failures." *Taylor*, 184 F.3d at 313. Here, Defendants did precisely that: they offered a temporary, contingent measure with a built-in expiration date, conditioned on Plaintiff's compliance with other university processes, and then terminated the accommodation when Plaintiff did not satisfy those conditions. Exhibit J (Sept. 3, 2025 final directive ending Zoom access on Sept. 15).
+
+Moreover, when Plaintiff attempted to continue Zoom access through Professor Faculty C—who had independently authorized it—Selcer intervened and reversed that authorization. Exhibit W (Oct. 6-17, 2025 email sequence showing Faculty C initially authorizing Zoom, Selcer claiming Faculty C "did not identify a compelling reason to continue it," and Faculty C later expressing confusion). Exhibit V (Oct. 17, 2025 email from Selcer denying continued Zoom access). This pattern of interference with alternative accommodation arrangements further demonstrates bad faith.
+
+**3. The Refusal to Accommodate Is Not Justified by Any Legitimate Institutional Interest**
+
+The record establishes that Zoom is already used in the same department by other faculty for comparable coursework. Exhibit N (Faculty D syllabus). Selcer provided no written policy, pedagogical study, or departmental standard supporting his denial. Statement of Undisputed Material Facts ¶ 7. When another student, Colleague A, requested Zoom access from Selcer, he denied her request and told her he "can't explain why" Zoom was not available—demonstrating a pattern of denial with no articulable basis. *Id.* ¶ 8.
+
+There is no evidence that Plaintiff's requested accommodation would have imposed an undue burden or fundamentally altered the nature of the program. To the contrary, the accommodation had already been implemented for Plaintiff on a temporary basis, confirming its feasibility. The only reason for its revocation was Defendants' retaliatory response to Plaintiff's pursuit of his legal rights.
+
+**E. Plaintiff Suffered Resulting Harm**
+
+The record documents that Plaintiff's academic progress was severely impaired by Defendants' denial of accommodation. External Faculty Witness, a longtime academic mentor, declared that Plaintiff's "education and research have been severely derailed by his housing instability and the conflict with his former roommate," and that "supportive housing and protective measures are necessary for him to resume his academic work." Exhibit C (Sept. 30, 2025 declaration). Professor External Faculty Witness further documented that when Plaintiff encountered his former roommate outside his classroom on September 17, 2025, the incident caused "genuine distress" and "required hours of recovery time." Exhibit C (Supplemental Declaration).
+
+Medical documentation confirms that Plaintiff's homelessness and inability to access campus safely "worsens his mental health conditions" and is "expected to negatively impact his graduate education." Exhibit F (Oct. 1, 2025 letter). The physician recommended "all measures to protect him from his abuser and to provide stable housing be made" to "benefit and protect his mental health and his performance in his graduate program." *Id.*
+
+Plaintiff was also forced to miss classes and academic activities, and ultimately faced a retaliatory reassignment and threat of stipend suspension. Exhibit X-8 (Feb. 13, 2026 letter from Selcer fabricating "performance issues" and threatening stipend through 2029). The harm to Plaintiff's academic career and mental health is directly traceable to Defendants' refusal to provide the requested accommodation.
+
+**F. The Interactive Process Failure Alone Supports Liability**
+
+Under *Taylor*, "an employer who acts in bad faith in the interactive process will be liable if the jury can reasonably conclude that the employee would have been able to perform the job with accommodations." *Taylor*, 184 F.3d at 316. Here, the jury could readily conclude that Plaintiff could have continued his studies with the requested Zoom accommodation, which had already been temporarily implemented and was used by other students in the same department. Exhibit N. The record also demonstrates that no other accommodation was ever offered or discussed by Defendants, and that Defendants never involved Disability Services or any other office capable of facilitating an accommodation. Statement of Undisputed Material Facts ¶ 5.
+
+Because Defendants "had adequate notice of [Plaintiff's] disability and desire for accommodations" and "fail[ed] to engage [Plaintiff] in the interactive process of finding accommodations," they are liable for the resulting harm. *Taylor*, 184 F.3d at 313.
+
+**CONCLUSION**
+
+For the foregoing reasons, Plaintiff has established genuine disputes of material fact on each element of his Section 504 and ADA failure-to-accommodate claim. Defendants' motion for summary judgment on Count III must be denied.

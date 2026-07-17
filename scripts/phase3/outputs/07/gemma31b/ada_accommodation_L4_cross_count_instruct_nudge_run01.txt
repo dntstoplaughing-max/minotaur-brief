@@ -1,0 +1,37 @@
+**ARGUMENT**
+
+Plaintiff David Mullins is entitled to relief under Section 504 of the Rehabilitation Act (29 U.S.C. § 794) and the Americans with Disabilities Act (ADA). As the Supreme Court recently held in *A.J.T. v. Osseo Area Schools*, student claims under the ADA and Section 504 are subject to the "same standards that apply in other disability discrimination contexts," rejecting any heightened "bad faith or gross misjudgment" standard. 605 U.S. *** (2025). To prevail, Plaintiff must demonstrate that he is a qualified individual with a disability who provided notice of his disability and requested a reasonable accommodation, which the Defendant denied, resulting in harm.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+Plaintiff is a qualified individual under the ADA and Section 504. He is a doctoral candidate in the Department of Philosophy at Duquesne University who was, at all relevant times, an enrolled graduate student in good academic standing with no disciplinary record. (SUMF ¶ 2). Dr. Daniel Selcer testified under oath at the TRO hearing that Plaintiff had no performance issues. (SUMF ¶ 2).
+
+Plaintiff’s treating physician, Treating Physician, has diagnosed Plaintiff with ADHD and depression. (Exhibit F). Treating Physician has further attested that Plaintiff’s proximity to his abuser "would cause him a great deal of stress, would be highly likely to worsen his medical condition, and could impair his academic functioning." (Exhibit F).
+
+**II. Plaintiff Provided Notice of Disability and Requested Reasonable Accommodations**
+
+Plaintiff provided the University with actual notice of his disability and the resulting need for accommodations. Treating Physician provided medical documentation stating that it is "reasonable" for Plaintiff to fear a specific individual on campus and recommended that "every effort be made to avoid this" to protect Plaintiff's mental health and academic performance. (Exhibit F).
+
+Based on these medical necessities, Plaintiff requested reasonable accommodations to preserve his access to education, including:
+1. **Zoom Access for Class Participation:** Plaintiff requested remote access as a medically necessary accommodation. (SUMF ¶ 3).
+2. **Safety and Supportive Measures:** Plaintiff requested a no-contact order, a campus safety escort, and registrar-enforced separation. (Exhibit I).
+
+**III. Defendants Denied the Accommodations and Failed to Engage in the Interactive Process**
+
+Under Third Circuit precedent, an employer or institution that receives adequate notice of a disability "cannot fail to engage the employee [or student] in the interactive process of finding accommodations." *Taylor v. Phoenixville School District*, 184 F.3d 296, 299 (3d Cir. 1999). 
+
+Here, the Defendants completely bypassed the interactive process. They did not assess Plaintiff's specific limitations, evaluate possible accommodations, or involve disability services. (SUMF ¶ 5). Instead, the University’s response was characterized by arbitrary denials and coercion:
+
+*   **Arbitrary Denial Based on Preference:** Dr. Selcer testified that his objection to Zoom access was based on "personal preference," citing that it "divides attention," yet he could not identify any written policy, pedagogical study, or departmental standard to support this denial. (SUMF ¶ 7). This is contradicted by the fact that Zoom is already in active use within the same department by Faculty D for comparable graduate coursework. (Exhibit N; SUMF ¶ 3).
+*   **Application of Ad Hoc Policies:** Like the defendant in *Oross v. Kutztown University*, who denied remote accommodations based on an "ad hoc blanket policy with no written basis" and "no individualized assessment," Duquesne denied Plaintiff’s request without a formal basis. (No. 21-5032 (E.D. Pa. July 25, 2023); SUMF ¶ 7). This pattern of arbitrary denial is further evidenced by Dr. Selcer’s refusal of a similar Zoom request from another student, Colleague A, for which he admitted he "can't explain why." (SUMF ¶ 8; Exhibit L).
+*   **Coercive "Countdown" Measures:** Rather than engaging in a good-faith interactive process, Dr. Selcer imposed a "three-week countdown" on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation. (SUMF ¶ 6; Exhibit I). This was not a supportive measure, but a "conditional, time-limited measure designed to expire and coerce meeting attendance." (SUMF ¶ 6). Dr. Selcer later issued a "final directive" stating that unless the University's offices determined otherwise, Plaintiff was expected to attend seminars in person starting September 15. (Exhibit J).
+
+The University's failure to participate in the interactive process—specifically the failure to make a "good faith effort to assist the employee [student] in seeking accommodations"—constitutes a violation of the law. *Taylor*, 184 F.3d at 299.
+
+**IV. The Denial of Accommodations Resulted in Direct Harm**
+
+The University's refusal to provide reasonable accommodations has severely derailed Plaintiff's education. External Faculty Witness, an academic expert, declared that Plaintiff's "education and research have been severely derailed by his housing instability and the conflict with his former roommate." (Exhibit C). 
+
+Professor External Faculty Witness further noted that when Plaintiff was forced to return to campus without protective measures, an encounter with the abuser on September 17, 2025, caused "severe distress" and required "hours of recovery time," which "prevent[s] his educational participation." (Exhibit C). This is corroborated by Treating Physician, who noted that the stress of these circumstances "likely worsens his mental health conditions" and is "expected to negatively impact his graduate education." (Exhibit F).
+
+Because Plaintiff is a qualified individual with a disability who requested reasonable accommodations that were feasible and denied without an interactive process, the University is liable under Section 504 and the ADA.

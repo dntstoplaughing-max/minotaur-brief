@@ -1,0 +1,39 @@
+**ARGUMENT**
+
+Defendants are entitled to summary judgment only if there is no genuine dispute as to any material fact. Here, the record reveals a coordinated effort by University officials to evade federal mandates, obstruct oversight, and retaliate against Plaintiff. Under Pennsylvania law, a civil conspiracy exists where "two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 472 (1979). Once a defendant joins a conspiracy, they are "jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy." *Id.* at 472-73.
+
+**I. Dean A’s Consultation with Dr. Selcer was not "Routine Administration" but an Agreement to Bypass Independent Oversight.**
+
+Defendants argue that Dean A’s consultation with Dr. Selcer regarding Plaintiff’s transfer request was "routine academic administration" (Dkt. 34 at 10) and evidenced an "intent to help" (Dkt. 34 at 10). This characterization is contradicted by the evidence.
+
+First, the consultation was not routine; it was a direct violation of the University's own conflict-of-interest protocols. Plaintiff explicitly notified Dean A on October 20, 2025, that Dr. Selcer was a named defendant in a federal civil case and that his continued instruction of Plaintiff created a conflict of interest (Exhibit K-1). Despite TAP 33 § IV.4 requiring an *independent* review of such disclosures, Dean A admitted in writing: "I did need to consult Dr. Selcer as instructor... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled" (Exhibit K-2). 
+
+By consulting the very party whose conflict was being disclosed, Dean A abandoned the requirement for independence. This "joint determination" (Exhibit K-2) constitutes an agreement between two actors to maintain a conflicted power dynamic, satisfying the first element of a conspiracy. Far from evidencing an "intent to help," Dean A’s immediate demand that Plaintiff "return to class today" (Exhibit K-2) and her subsequent summary denial that TAP 33 applied (Exhibit K-5) demonstrate a coordinated effort to force Plaintiff back under the authority of a hostile party.
+
+**II. The "Coordinated Institutional Response" was a Conspiracy to Evade Federal Oversight and Deny Mandated Protections.**
+
+Defendants contend that the coordinated responses were merely "well-established university processes" (Dkt. 25 at 6). However, the record shows a systematic pattern of removing oversight to facilitate the denial of federally mandated supportive measures.
+
+The evidence demonstrates that four defendants systematically removed the Office for Civil Rights (OCR) and senior administration from correspondence at critical junctures to prevent corrective intervention (Counter-Statement ¶ 7). For example, in his "final directive" on September 3, 2025, Dr. Selcer removed Dean A herself from the CC line (Exhibit J). This occurred after Plaintiff had repeatedly restored OCR and senior leadership to the threads to ensure compliance with 34 C.F.R. § 106.44 (Exhibit B-5A).
+
+This was not "process"; it was a coordinated effort to silo the Plaintiff. While Defendants claim they were encouraging Plaintiff to "engage," the "process" they offered was a series of dead ends:
+1. Alicia Simpson initially accepted the Title IX complaint, then flipped jurisdiction 24 hours later, claiming the Title IX Office "does not have jurisdiction" (Exhibits B-5, B-6).
+2. Dr. Sawa threatened Plaintiff with Student Code of Conduct charges for the act of emailing university officials about his safety (Exhibit B-7).
+3. Dr. Wasilko denied housing assistance despite confirmed availability (Exhibit G).
+
+Under *Thompson Coal*, the agreement to use these unlawful means—including the deliberate indifference to known harassment and the removal of federal oversight—establishes the conspiracy.
+
+**III. Dr. Selcer’s Actions Constitute Overt Acts of Retaliation and Fabricated Tortious Conduct.**
+
+Defendants argue that Dr. Selcer’s continuation as instructor was not retaliatory because he held the role before and after the protected activity (Dkt. 34 at 10 n.3). This argument ignores the *manner* in which Dr. Selcer exercised that role and the overt acts he committed in furtherance of the conspiracy.
+
+The record establishes a "convincing mosaic" of circumstantial evidence showing retaliatory animus. *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022). Specifically, Dr. Selcer engaged in the following overt acts:
+1. **Fabrication of Performance Issues:** On February 10, 2026, Selcer met with Plaintiff and used a "collegial tone," confirming that Faculty B "doesn't make decisions about your stipend" and mentioning no performance problems (Exhibit X-6). Yet, three days later, Selcer emailed Plaintiff claiming "performance issues raised by two of the three faculty members" and threatened the suspension of Plaintiff's stipend through 2029 (Exhibit X-8).
+2. **Contradictory Evidence:** This fabrication is proven by Exhibit X-7, where Faculty B—the very supervisor Selcer implied was dissatisfied—requested a reassignment based on "tensions" but explicitly stated her "door is always open" and made no mention of performance failures.
+3. **Manipulation of Faculty:** Dr. Selcer misrepresented Dr. Faculty C’s position to cut off Plaintiff’s Zoom access. While Dr. Faculty C had previously authorized Zoom (Exhibit W, Email 2), Selcer claimed Faculty C "did not identify a compelling reason to continue it" (Exhibit V). Dr. Faculty C later expressed confusion, unaware he had been asked to make such a determination (Exhibit W, Email 5).
+
+These are not "routine" academic acts; they are overt acts of retaliation. Under *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997), this "pattern of antagonism" establishes the causal link between Plaintiff's protected activity (demanding Title IX compliance) and the adverse actions.
+
+**Conclusion**
+
+Because Dean A agreed to a joint determination with a conflicted party (Exhibit K-2), and because the Defendants coordinated to remove oversight (Exhibit J) and fabricate performance issues to threaten Plaintiff's funding (Exhibit X-8), genuine disputes of material fact exist regarding the agreement, the unlawful means, the overt acts, and the malice required for a civil conspiracy. Summary judgment must be denied.

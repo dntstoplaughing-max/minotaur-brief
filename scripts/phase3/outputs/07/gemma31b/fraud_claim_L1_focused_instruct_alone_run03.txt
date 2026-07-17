@@ -1,0 +1,44 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because genuine disputes of material fact exist regarding every element of Plaintiff’s fraud claim. Under Pennsylvania law, fraud requires: (1) a representation; (2) which is material to the transaction; (3) made falsely, with knowledge of its falsity or recklessness; (4) with the intent to mislead; (5) justifiable reliance; and (6) resulting injury proximately caused by that reliance. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994). As demonstrated below, the evidence reveals a systemic pattern of material misrepresentations and culpable concealments designed to obstruct Plaintiff’s access to safety and academic stability.
+
+**I. Defendants Fabricated a "Meeting Requirement" to Obstruct Title IX Supportive Measures**
+
+Defendants argue that their communications were intended to help Plaintiff and that Plaintiff’s claims are "internally inconsistent" because he alleges fraud both when Defendants responded and when they remained silent. (Dkt. 34 at 5, 10). This argument fails as a matter of law. Under *Moser v. DeSetta*, "the concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." 589 A.2d 679 (Pa. Super. 1991).
+
+Here, four Defendants (Simpson, Wasilko, Sawa, and Selcer) engaged in a coordinated campaign of affirmative misrepresentation. Between June 30 and August 14, 2025, these actors made 36 nearly identical false statements claiming that meeting attendance was a condition of receiving Title IX supportive measures. (Fact 1). Specifically, Wasilko stated, "We cannot assist you or provide you with further guidance unless you are willing to engage with the appropriate offices." (Ex. B-2). Simpson echoed this, claiming it was "necessary" for representatives to meet with Plaintiff to "assess appropriate next steps." (Ex. B-5).
+
+These representations were false. No provision of 34 C.F.R. Part 106 or TAP 61 conditions supportive measures on meeting attendance. (Fact 1). The falsity of this "requirement" is proven by Simpson’s own testimony under oath, where she admitted she made her jurisdictional determination "entirely on the written record" with "no meeting," and that she "could have emailed" Plaintiff for clarification but "chose not to." (Fact 5). This contradiction creates a genuine dispute of material fact regarding scienter; Defendants acted with "actual knowledge, deliberate ignorance, or reckless disregard" of the truth. *See United States ex rel. Moore & Co. v. Majestic Blue Fisheries, LLC*, 812 F.3d 294 (3d Cir. 2016).
+
+**II. Dean A’s Misrepresentations Regarding TAP 33 and Conflicts of Interest**
+
+Defendants contend that Dean A’s analysis of TAP 33 was consistent with the policy's plain language and that no conflict of interest existed. (Dkt. 34 at 6-8). However, the evidence suggests a reckless disregard for the truth.
+
+Dean A represented that TAP 33 did not apply because Plaintiff was not a "Covered Party" and the situation did not meet the definition of a "Conflict of Interest." (Ex. K-5). Yet, in preparing this determination, Dean A admitted: "I did need to consult Dr. Selcer as instructor to secure some additional details." (Ex. K-2). Dean A consulted the very party whose conflict was being questioned—a party who had been cross-examined under oath just seven days prior—to determine if that party was conflicted. (Fact 8). 
+
+This action directly contradicts the "Fairness, Equity, and Impartiality" standards required by the University's own training, which mandate that the Title IX team "identify and avoid... Conflicts of interest" and "avoid leading questions" or "pre-judgment." (Ex. Z-d, Slides 43, 45). Furthermore, Dean A bypassed the independent review required by TAP 33 § IV.4. (Fact 9). These facts create a genuine dispute as to whether Dean A’s representation was a knowing falsehood or a reckless disregard for policy intended to maintain the status quo.
+
+**III. Plaintiff’s Reliance Was Justifiable as Defendants Were the "Natural and Proper Source" of Information**
+
+Defendants argue that Plaintiff cannot prove justifiable reliance because he "immediately recognized" the error in Dean A's reading of TAP 33 and ceased relying on representations as of July 24, 2025. (Dkt. 34 at 8-9). This argument ignores established Pennsylvania precedent.
+
+First, reliance is presumed from materiality; if a party would not have entered a transaction (or in this case, submitted to a specific academic/administrative process) had the truth been known, reliance is "obvious." *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). 
+
+Second, the "duty to investigate" does not apply where the defendant is the "natural and proper source of the information." *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995). As the Dean of the College and the Title IX Coordinator, Dean A and Simpson were the sole authoritative sources for the interpretation of TAP 33 and TAP 61. Under *Neuman v. Corn Exchange National Bank & Trust Co.*, "nondisclosure of a material fact is equivalent to a fraudulent misrepresentation" when the party is the natural and proper source of that information. 356 Pa. 442, 51 A.2d 759 (1947). 
+
+Plaintiff’s attempt to correct the Defendants with specific policy citations (Fact 9) does not negate his reliance; rather, it demonstrates that he relied on the Defendants' *authority* to correct the record, which they refused to do.
+
+**IV. Defendants Cannot Shield Fraudulent Misrepresentations Behind "Academic Judgment"**
+
+Defendants argue that the Court should defer to the university's professional judgment regarding academic decisions. (Dkt. 34 at 8 n.2). This is a red herring. 
+
+The claims at issue are not about grading, curriculum, or pedagogical choices. They concern:
+1. The fabrication of a meeting requirement to deny federal supportive measures (Ex. B-2, B-5);
+2. The falsification of a meeting summary to impose a baseless "Zoom countdown" (Fact 7, Ex. I);
+3. The misrepresentation of federal and institutional law regarding stalking and conflicts of interest (Fact 4, Ex. K-5).
+
+There is no "academic judgment" that permits a university administrator to falsely represent the requirements of 34 C.F.R. Part 106 or the terms of TAP 33. Such representations are material to the "transaction" of Plaintiff’s continued enrollment and safety.
+
+**CONCLUSION**
+
+Because the evidence demonstrates that Defendants fabricated policy requirements, concealed material facts, and recklessly disregarded conflict-of-interest protocols, genuine disputes of material fact exist. Summary judgment must be denied.

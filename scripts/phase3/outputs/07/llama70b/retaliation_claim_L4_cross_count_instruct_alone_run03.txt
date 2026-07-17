@@ -1,0 +1,32 @@
+
+
+ARGUMENT
+
+Count II of the Complaint alleges retaliation under Title IX, 20 U.S.C. § 1681. To establish a prima facie case of retaliation, Plaintiff must show: (1) protected activity; (2) an adverse action that would deter a reasonable person from engaging in the protected activity; and (3) a causal connection between the protected activity and the adverse action. (Doe v. Mercy Catholic Medical Center, No. 16-1247 (3d Cir. 2017))
+
+Protected Activity
+
+Plaintiff engaged in continuous protected activity from June 30, 2025, through the present, including reporting sex-based harassment to Wasilko (June 30), formal Title IX escalation citing § 106.44(a) (July 24), filing a complaint with OCR (July 26), filing a federal lawsuit (September 9), filing a TRO motion (October 8), and testifying at the TRO hearing (October 15). (Exhibits B-0, B-0A, B-3A; ECF docket) This protected activity is sufficient to establish the first element of the prima facie case. (Atkinson v. Lafayette College, 460 F.3d 447 (3d Cir. 2006)) ("Demanding compliance with Title IX is protected activity.")
+
+Adverse Action
+
+Plaintiff has suffered numerous adverse actions that would deter a reasonable person from engaging in protected activity. These actions include:
+
+* Removal of OCR from the CC line on emails, despite Plaintiff's repeated requests to keep OCR informed (Exhibits B-3, B-3A);
+* Denial of housing assistance despite available resources (Exhibit G);
+* Threats of disciplinary charges for seeking help from university officials (Exhibit B-7);
+* Revocation of Zoom access (Exhibits Q, V);
+* Reassignment of TA position and fabrication of "performance issues" (Exhibits X-7, X-8);
+* Threats to stipend through Spring 2029 (Exhibit X-8);
+
+These actions are sufficient to establish the second element of the prima facie case. (Farrell v. Planters Lifesavers Co., 206 F.3d 271 (3d Cir. 2000)) ("Causation shown by proffered evidence 'looked at as a whole,' not just temporal proximity; inconsistent explanations establish causal link; McDonnell Douglas does not compartmentalize evidence between prima facie and pretext stages.")
+
+Causal Connection
+
+The causal connection between the protected activity and the adverse action is established by the temporal proximity between the two, as well as the inconsistent explanations provided by Defendants. (Jalil v. Avdel Corp., 873 F.2d 701 (3d Cir. 1989)) ("'Unusually suggestive' temporal proximity (two days) alone can establish causal connection for retaliation.") For example, the removal of OCR from the CC line occurred just two days after Plaintiff's OCR filing (Exhibit B-3), and the revocation of Zoom access occurred just two days after Plaintiff testified at the TRO hearing (Exhibits Q, V).
+
+Furthermore, the pattern of antagonism exhibited by Defendants towards Plaintiff, including the threats of disciplinary charges and the fabrication of "performance issues," establishes a causal link between the protected activity and the adverse action. (Kachmar v. SunGard Data Systems, Inc., 109 F.3d 173 (3d Cir. 1997)) ("Pattern of antagonism independently establishes causal link.")
+
+CONCLUSION
+
+In conclusion, Plaintiff has established a prima facie case of retaliation under Title IX, 20 U.S.C. § 1681. Defendants' actions, including the removal of OCR from the CC line, denial of housing assistance, threats of disciplinary charges, revocation of Zoom access, reassignment of TA position, and fabrication of "performance issues," are sufficient to establish the second element of the prima facie case. The causal connection between the protected activity and the adverse action is established by the temporal proximity between the two, as well as the inconsistent explanations provided by Defendants.

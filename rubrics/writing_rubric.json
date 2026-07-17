@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "version": "1.0",
+    "purpose": "Pre-registered five-axis writing-quality rubric for judge-based scoring of long-form legal advocacy outputs. Frozen prior to inspection of any main-run output.",
+    "scoring_scale": "1 (poor) through 5 (excellent). Each axis scored independently. Composite = mean of five axes.",
+    "judge_instructions": "Score each output on each of the five axes below using the anchor descriptions. Do NOT consider whether the brief is doctrinally correct (that is scored separately under doctrinal_rubric). Focus on advocacy craft: how forcefully and skillfully the brief makes its argument. Output a JSON object: {\"argumentative_force\": int, \"citation_integration\": int, \"element_discipline\": int, \"adverse_fact_treatment\": int, \"standard_articulation\": int, \"composite\": float, \"notes\": str (optional)}.",
+    "primary_judge": "Claude Sonnet 4.6 (us.anthropic.claude-sonnet-4-6)",
+    "self_consistency_passes": 3,
+    "validator_judge": "Claude Opus 4.6 (us.anthropic.claude-opus-4-6-v1)",
+    "human_anchor_n": 30,
+    "human_anchor_blinding": "Family and condition labels stripped; randomized order; first author scores prior to inspecting LLM-judge scores"
+  },
+  "axes": {
+    "argumentative_force": {
+      "description": "Does the brief make assertions or hedge on contested legal questions? Does it commit to a position?",
+      "anchors": {
+        "1": "Pervasive substantive hedging — refuses to commit on contested legal questions ('it could be argued', 'arguably', 'one might suggest', 'a court might find'); treats the case as if multiple framings are equally valid; reads as descriptive analysis rather than advocacy. NOTE: standard formal-register hedges expected in legal writing ('plaintiff respectfully submits', 'the court should find', 'plaintiff has demonstrated') do NOT count toward this score — these are professional formality, not argumentative weakness.",
+        "3": "Mixed: some confident assertions, some substantive hedging on contested points; commits to overall position but waffles on individual claims",
+        "5": "Forceful, committed assertions on every contested legal question; takes clear position throughout; reads as advocacy not analysis. Formal-register hedges may be present — they don't reduce this score."
+      }
+    },
+    "citation_integration": {
+      "description": "Are cases woven into argument or just dropped at the end of sentences?",
+      "anchors": {
+        "1": "Citations dropped at sentence-end without integration ('The court must apply X. (Smith v. Jones, 123 F.3d 456.)') — citations appear to be appended rather than load-bearing",
+        "3": "Mix of integrated and appended citations; some explanatory parentheticals or signal phrases; some citations remain unanchored",
+        "5": "Citations are load-bearing throughout; explanatory parentheticals or signal phrases connect each case to the proposition; signals (e.g., 'See', 'See also', 'Cf.') used appropriately"
+      }
+    },
+    "element_discipline": {
+      "description": "Does the brief stay on the right elements, or wander into adjacent doctrines?",
+      "anchors": {
+        "1": "Wanders away from the elements of the count being briefed; pulls in unrelated doctrines; loses focus on what must be proved",
+        "3": "Mostly on-element but occasional drift; some paragraphs analyze the right element but include extraneous material",
+        "5": "Tightly on-element throughout; each paragraph or section maps clearly to a required element; no doctrinal wandering"
+      }
+    },
+    "adverse_fact_treatment": {
+      "description": "Does it acknowledge unfavorable facts and recharacterize them, or ignore them?",
+      "anchors": {
+        "1": "Ignores adverse facts entirely; brief reads as if the record contains only favorable facts; treats the case as one-sided",
+        "3": "Acknowledges some adverse facts but treats them as if they don't matter; weak recharacterization or insufficient distinguishing of unfavorable cases",
+        "5": "Engages adverse facts directly; recharacterizes them in plaintiff's favor or distinguishes them; pre-empts likely defense responses"
+      }
+    },
+    "standard_articulation": {
+      "description": "Is the legal standard clearly stated and consistently applied?",
+      "anchors": {
+        "1": "Standard misstated, vague, or omitted; analysis proceeds without articulating what plaintiff must show",
+        "3": "Standard stated but inconsistently applied; some elements receive standard-driven analysis, others do not",
+        "5": "Standard clearly stated up front; each element analyzed against the standard; consistency throughout"
+      }
+    }
+  }
+}

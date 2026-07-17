@@ -1,0 +1,92 @@
+**ARGUMENT**
+
+**I. The McDonnell Douglas Burden-Shifting Framework Governs Title IX Retaliation Claims**
+
+Title IX retaliation claims are analyzed under the Title VII burden-shifting framework. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017). To establish a prima facie case of retaliation, Plaintiff must show: (1) protected activity; (2) an adverse action that would deter a reasonable person from engaging in protected activity; and (3) a causal connection between the protected activity and the adverse action. *Atkinson v. Lafayette College*, 460 F.3d 447, 456 (3d Cir. 2006). At the summary judgment stage, Plaintiff need only show that the protected activity was the “likely reason” for the adverse action—not the but-for reason. *Carvalho-Grevious v. Delaware State University*, No. 15-3521, slip op. at 12 (3d Cir. 2017). This low threshold is satisfied here.
+
+**II. Plaintiff Engaged in Continuous Protected Activity**
+
+Protected activity includes “demanding compliance with Title IX.” *Atkinson*, 460 F.3d at 456. Plaintiff need only hold an “objectively reasonable belief, in good faith” that the conduct opposed violates the statute. *Kengerski v. Harper*, No. 20-1307, slip op. at 5 (3d Cir. 2021). Plaintiff engaged in a sustained course of protected activity from June 30, 2025 through the present:
+
+- **June 30, 2025:** Plaintiff reported sex-based harassment to Dean Wasilko, explicitly requesting emergency housing and protective measures. (Ex. B-0.)
+- **July 24, 2025:** Plaintiff raised a gender-reversal hypothetical, questioning whether the University’s response would have been different had he been female, and formally escalated to Title IX. (Ex. B-0A.)
+- **July 26, 2025:** Plaintiff filed a complaint with the U.S. Department of Education Office for Civil Rights, explicitly citing Title IX violations and retaliation. (Ex. B-3A.)
+- **August 13, 2025:** Plaintiff submitted an Emergency Removal Request invoking 34 C.F.R. § 106.44 and § 106.30, demanding supportive measures, and insisting that OCR remain on all communications. (Ex. B-5A.)
+- **September 2, 2025:** Plaintiff demanded retraction of a retaliatory Zoom countdown, again invoking federal regulations. (Ex. I-1.)
+- **September 9, 2025:** Plaintiff filed a federal lawsuit.
+- **October 8, 2025:** Plaintiff filed a TRO motion.
+- **October 15, 2025:** Plaintiff testified at the TRO hearing.
+
+Each of these acts qualifies as protected activity. Defendants do not—and cannot—dispute that Plaintiff engaged in protected activity. The sole issue is whether Duquesne took materially adverse actions and whether a causal link exists.
+
+**III. Duquesne Took Multiple Materially Adverse Actions That Would Deter a Reasonable Person**
+
+An adverse action in the retaliation context is one that “might have dissuaded a reasonable [person] from making or supporting a charge of discrimination.” *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271, 279 (3d Cir. 2000). The undisputed record reveals at least eight distinct adverse actions:
+
+**A. Systematic Removal of OCR from Institutional Correspondence (July 28–October 2025)**
+
+On July 28, 2025—two days after Plaintiff filed his OCR complaint—Wasilko removed OCR from the CC line on a responsive email. (Ex. B-3.) Over the following months, four institutional actors (Wasilko, Simpson, Sawa, and others) systematically removed OCR on eight or more occasions, each time after Plaintiff restored OCR. (Exs. B-3 through B-7 series.) No federal authority or Duquesne policy authorizes removal of a federal enforcement agency from institutional correspondence. This removal was designed to silence Plaintiff’s federal oversight and constitutes an adverse action that would deter any reasonable person from continuing to report.
+
+**B. Simpson’s 19-Hour Jurisdiction Flip (August 13–14, 2025)**
+
+On August 13, 2025 at 2:02 PM, Simpson acknowledged Title IX jurisdiction using the § 106.30 term of art “supportive measures.” (Ex. B-5.) That same afternoon, Plaintiff sent three emails consisting entirely of protected activity and zero new facts about the underlying complaint. (Exs. B-5A, B-5B, B-5C.) On August 14 at 9:42 AM—nineteen hours later—Simpson reversed her jurisdictional determination on an identical factual record, stating the alleged conduct “does not meet TAP 61, nor TAP 31’s definitions of prohibited conduct, even if proven to be true.” (Ex. B-6.) No new facts were provided between the two emails. The only intervening event was Plaintiff’s insistence on copying OCR and his demand for immediate supportive measures. This reversal is classic retaliatory obstruction: acknowledging jurisdiction, then withdrawing it immediately after the complainant demands compliance.
+
+**C. Sawa’s Threat of Conduct Charges for Continued Reporting (August 15, 2025)**
+
+On August 15, 2025, Executive Director of Student Conduct Anne Sawa threatened Plaintiff with disciplinary charges if he continued emailing university officials about his concerns. (Ex. B-7: “If you want assistance from the University, you are expected to communicate directly with the resources offered to you and to do so in a respectful and civil manner. Failure to do so may result in charges against you for violating the Student Code of Conduct.”) This threat—issued one day after Simpson’s jurisdiction disclaimer—is a textbook example of retaliation: punishing the complainant for engaging in protected speech.
+
+**D. Selcer’s Zoom Revocation Immediately Following TRO Hearing (October 17, 2025)**
+
+On October 6, 2025, Professor Faculty C directly authorized Zoom access for Plaintiff. (Ex. W, email sequence 1-2.) On October 8, Plaintiff filed a TRO motion. On October 15, Plaintiff testified at the TRO hearing. On October 17—two days after the hearing—Selcer unilaterally revoked the Zoom authorization, claiming Faculty C had found “no compelling reason” to continue it. (Ex. V.) But Faculty C himself later expressed confusion, stating he was unaware of any such “compelling reason” test and that he thought Zoom was only for one day. (Ex. W, email 5.) The timeline could not be more suspicious: filing a TRO and testifying triggers revocation within 48 hours.
+
+**E. Selcer’s Shifting Justifications for Zoom Denial**
+
+Selcer initially stated the Zoom denial was based on Faculty C’s assessment, but Faculty C contradicted him. Selcer then told Colleague A he “can’t explain why” Zoom was denied. (SJ 7.3.) No university or departmental policy constrains Zoom access; indeed, other professors have maintained Zoom availability. (Ex. N, Faculty D syllabus: “I will also keep a Zoom meeting running, so if you are not feeling well, please attend that session remotely.”) Shifting justifications are independently evidence of pretext. *Farrell*, 206 F.3d at 286 (inconsistent explanations support inference of retaliation).
+
+**F. Dean A’s Threat of Academic Failure During Active Litigation (September–October 2025)**
+
+In September 2025, Dean A threatened Plaintiff with academic failure if he did not attend Selcer’s class in person during active federal litigation against Selcer. (Exs. K-1, K-2, K-5.) When Plaintiff raised a conflict of interest—Selcer was a named defendant—Dean A consulted Selcer himself and then announced their joint determination that no conflict existed and Plaintiff must return to class or fail. (Ex. K-2.) This is retaliation by design: forcing a litigant to submit to instruction by his adversary.
+
+**G. Selcer’s Fabrication of “Performance Issues” and Stipend Threat (February 13, 2026)**
+
+On February 5, 2026, Faculty B emailed Plaintiff that she was “upset by what happened” and asked him not to attend class. (Ex. X-4.) Faculty B’s email contains no allegation of performance issues. At a February 10 meeting, Selcer used no “performance issues” language, confirmed that Faculty B did not control Plaintiff’s stipend, and maintained a collegial tone. (Ex. X-6.) On February 13, Faculty B requested reassignment but explicitly stated “this will not affect your funding” and “my office door is always open”—again, no performance complaint. (Ex. X-7.)
+
+Later that same day, Selcer sent a reassignment letter that, for the first time, introduced the phrase “performance issues raised by two of the three faculty members,” and threatened that future “significant performance issues” could result in suspension of Plaintiff’s stipend through Spring 2029. (Ex. X-8.) Faculty B’s own same-day email contradicts Selcer’s characterization. Selcer fabricated a performance problem to justify punitive action after months of Plaintiff’s protected activity. *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747, slip op. at 8 (3d Cir. 2022) (employer’s motivation for investigating plaintiff is itself evidence of pretext).
+
+**H. Wasilko’s Denial of Housing Assistance Despite Available Resources (July 24, 2025)**
+
+Wasilko told Plaintiff “the only rooms we have are in the first year buildings. Obviously, that is not helpful at this juncture.” (Ex. G.) Yet the University had available housing and declined to provide it. This denial of supportive measures—mandated by 34 C.F.R. § 106.30—was an adverse action that exacerbated Plaintiff’s homelessness and deterred him from seeking further assistance.
+
+**IV. Strong Circumstantial Evidence Establishes the Requisite Causal Connection**
+
+At the prima facie stage, “the proffered evidence, looked at as a whole, may suffice to raise the inference” of causation. *Farrell*, 206 F.3d at 281. Temporal proximity, pattern of antagonism, and pretextual explanations all support the inference here.
+
+**A. Unusually Suggestive Temporal Proximity**
+
+The two-day gap between the TRO hearing (October 15) and Zoom revocation (October 17) is “unusually suggestive” and alone can establish causation. *Jalil v. Avdel Corp.*, 873 F.2d 701, 708 (3d Cir. 1989). Similarly, the five-day gap between Plaintiff’s August 13 protected emails and Simpson’s jurisdiction reversal (Exs. B-5A through B-6) supports an inference of retaliation. *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259, 267 (3d Cir. 2007) (temporal proximity plus contextual evidence sufficient).
+
+**B. Pattern of Antagonism**
+
+The record reveals an escalating pattern of antagonism that directly parallels Plaintiff’s protected activity:
+
+- **June 30**: Protected activity → Wasilko dismisses report. (Ex. B-0.)
+- **July 23-24**: Gender-reversal hypothetical → Wasilko denies housing. (Exs. B-0A, G.)
+- **July 26**: OCR filing → Two days later, Wasilko removes OCR from CC. (Ex. B-3.)
+- **August 13**: Plaintiff restores OCR, demands supportive measures → Nineteen hours later, Simpson disclaims jurisdiction. (Exs. B-5A, B-6.)
+- **August 15**: Sawa threatens conduct charges. (Ex. B-7.)
+- **October 15**: TRO testimony → October 17: Selcer revokes Zoom. (Exs. Q, V.)
+- **February 13, 2026**: Fabrication of performance issues and stipend threat. (Exs. X-7, X-8.)
+
+A “pattern of antagonism” following the protected conduct independently establishes the causal link. *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173, 178 (3d Cir. 1997).
+
+**C. Pretextual and Shifting Explanations**
+
+Selcer provided shifting justifications for the Zoom denial. (Exs. V, W; SJ 7.3.) Simpson reversed jurisdiction on an identical factual record after Plaintiff’s protected emails. (Exs. B-5, B-6.) Selcer fabricated “performance issues” that Faculty B herself never raised. (Exs. X-7, X-8.) These inconsistencies are powerful evidence of pretext. *Canada*, slip op. at 8; *Farrell*, 206 F.3d at 286.
+
+**D. Convincing Mosaic of Circumstantial Evidence**
+
+“A convincing mosaic of circumstantial evidence is sufficient to establish causation for retaliation claims.” *Canada*, slip op. at 8. The mosaic here includes: (1) temporal proximity on multiple occasions; (2) a pattern of antagonism escalating with each protected act; (3) shifting and contradictory justifications; (4) removal of OCR from communications; (5) fabrication of performance problems; and (6) threats of disciplinary action and stipend suspension. This evidence, taken together, more than satisfies Plaintiff’s burden at the prima facie stage.
+
+**V. Conclusion**
+
+Plaintiff has presented undisputed evidence of continuous protected activity, multiple adverse actions that would deter a reasonable person, and a strong causal connection supported by temporal proximity, pattern of antagonism, and pretext. Because genuine disputes of material fact exist on each element of the retaliation claim, summary judgment must be denied.

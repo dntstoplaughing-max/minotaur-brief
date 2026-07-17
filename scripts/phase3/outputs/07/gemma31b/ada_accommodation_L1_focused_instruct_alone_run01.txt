@@ -1,0 +1,38 @@
+**ARGUMENT**
+
+Plaintiff David Mullins is entitled to judgment on Count III, as Defendant Duquesne University failed to provide reasonable accommodations for his disability in violation of Section 504 of the Rehabilitation Act (29 U.S.C. § 794) and the Americans with Disabilities Act (ADA). To prevail on a failure-to-accommodate claim, a plaintiff must demonstrate that they are: (1) a qualified individual with a disability; (2) the defendant had notice of the disability and the need for accommodation; (3) a request for reasonable accommodation was made; (4) the accommodation was denied; and (5) the denial resulted in harm.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+Plaintiff is a doctoral candidate in the Department of Philosophy who was, at all relevant times, an enrolled graduate student in good academic standing with no disciplinary record. (SUMF 2). His status as a "qualified individual" is further supported by the testimony of Dr. Selcer, who admitted at the TRO hearing that Plaintiff had no performance issues. (SUMF 2). Plaintiff suffers from diagnosed ADHD and depression, conditions for which he is currently receiving treatment. (Exhibit F).
+
+**II. Defendant Had Notice of Disability and Plaintiff Requested a Reasonable Accommodation**
+
+Plaintiff provided Defendant with adequate notice of his disability and the necessity of accommodations. Specifically, Plaintiff submitted documentation from his treating physician, Treating Physician, stating that Plaintiff "does not feel safe around a specific individual on campus" and that this fear is "reasonable." (SUMF 1; Exhibit F). Treating Physician further attested that proximity to this individual would "be highly likely to worsen his medical condition, and could impair his academic functioning." (Exhibit F).
+
+Based on these medical needs, Plaintiff requested Zoom access for class participation as a medically necessary accommodation. (SUMF 3). This request was reasonable because Zoom is already in active use within the same department for comparable graduate coursework, as evidenced by Faculty D’s syllabus, which explicitly allows students to attend remotely if they are "not feeling well." (SUMF 3; Exhibit N).
+
+**III. Defendant Denied the Accommodation and Failed to Engage in the Interactive Process**
+
+Under the standard established in *A.J.T. v. Osseo Area Schools*, 605 U.S. ___ (2025), student claims under the ADA and Section 504 are subject to the same standards as other disability discrimination contexts; students are not required to show "bad faith or gross misjudgment." (SUMF 9; *Osseo* Key Passage 1). Accordingly, the analysis follows the framework set forth in *Taylor v. Phoenixville School District*, 184 F.3d 296 (3d Cir. 1999), which requires a disabled individual to demonstrate that the employer/institution knew of the disability, the employee requested accommodation, the institution failed to make a good faith effort to assist, and the individual could have been reasonably accommodated. (*Taylor* Key Passage 2).
+
+Defendant failed this test on multiple fronts:
+
+**A. Failure to Engage in the Interactive Process**
+Defendant conducted no interactive process. It did not assess Plaintiff's specific limitations, evaluate possible accommodations, or involve disability services. (SUMF 5). Instead of engaging in a good faith dialogue, Dr. Selcer imposed a "three-week countdown" on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation. (SUMF 6; Exhibit I). This conditional, time-limited measure was designed to "coerce meeting attendance" rather than accommodate a disability. (SUMF 6).
+
+**B. Reliance on Ad Hoc Blanket Policies**
+Defendant’s denial was based on personal preference rather than legitimate pedagogical or policy-based constraints. Dr. Selcer testified that his objection to Zoom was based on personal preference (claiming it "divides attention"), yet he could not identify any written policy or departmental standard supporting the denial. (SUMF 7). Furthermore, the Faculty Handbook governs course delivery modality for faculty, not individual student attendance accommodations. (SUMF 4; Exhibit Y). 
+
+This mirrors the facts in *Oross v. Kutztown University*, where the court found that a university's denial of a remote accommodation based on a "blanket no-remote policy with no written basis" and "no individualized assessment" constituted interference with the interactive process. (Oross Key Passage 1, 2). Like the defendant in *Oross*, Duquesne applied an ad hoc, unwritten preference to deny a request that was feasible, rendering the accommodation "dead on arrival."
+
+**C. Pattern of Arbitrary Denial**
+The arbitrary nature of the denial is evidenced by the treatment of other students. Colleague A, a student in the same seminar, requested Zoom access and was denied; Dr. Selcer admitted he "can't explain why" Zoom was unavailable to her. (SUMF 8). Additionally, while Dr. Selcer claimed remote attendance was not viable, Professor Faculty C authorized Zoom access for Plaintiff on October 6, 2025, stating it "would work fine." (Exhibit W). Despite this, Dr. Selcer later removed the Zoom access and falsely claimed that Dr. Faculty C "did not identify a compelling reason to continue it." (Exhibit Q, V).
+
+**IV. Resulting Harm**
+
+The denial of reasonable accommodation has caused Plaintiff significant educational and psychological harm. Treating Physician noted that Plaintiff's housing instability and the lack of protective measures "likely worsens his mental health conditions," which is "expected to negatively impact his graduate education." (Exhibit F). External Faculty Witness further declared that Plaintiff's education and research have been "severely derailed" and that encounters with the individual he fears cause "severe distress" and require "hours of recovery time," preventing his educational participation. (Exhibit C).
+
+**Conclusion**
+
+Defendant had notice of Plaintiff's disability and a reasonable request for accommodation. Rather than engaging in the interactive process, Defendant relied on unwritten preferences and coercive deadlines to deny access. Because Plaintiff could have been reasonably accommodated via Zoom—a tool already utilized in the department—Defendant is liable for failure to accommodate under Section 504 and the ADA.

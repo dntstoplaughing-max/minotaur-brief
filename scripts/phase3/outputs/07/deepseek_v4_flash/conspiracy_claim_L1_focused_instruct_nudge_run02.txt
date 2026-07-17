@@ -1,0 +1,97 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has adduced substantial evidence creating genuine disputes of material fact on every element of his civil conspiracy claim under Pennsylvania common law and 42 U.S.C. § 1985. Summary judgment must be denied because a reasonable jury could find that Defendants Dean A, Selcer, and others—acting through coordinated communications and joint decision-making—combined to retaliate against Plaintiff for engaging in protected activity, using unlawful means, with malice, causing concrete harm to his academic standing and livelihood.
+
+**I. The Record Creates a Genuine Dispute That Dean A's Consultation with Selcer Was an Agreement in Furtherance of a Conspiracy, Not Routine Administration**
+
+Defendants contend that Dean A's consultation with Selcer was "routine academic administration" and that she "could not respond to Plaintiff's transfer request without checking course availability and academic progress with the department chair." Dkt. 34 at 10. This characterization is flatly contradicted by the documentary record.
+
+**A. Dean A's Written Admission of a "Joint Determination" Constitutes Direct Evidence of Agreement**
+
+On October 22, 2025, Dean A wrote to Plaintiff: "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." Exhibit K-2 (emphasis added). This is not routine consultation—it is a written admission of a **joint determination** reached by two Defendants acting together. The phrase "both of us, together" is the textbook definition of an agreement. *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979) (conspiracy requires "two or more persons combined or agreed with intent to do an unlawful act"). Under *Thompson Coal*, once Dean A joined the conspiracy by agreeing with Selcer, she became jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy. *Id.*
+
+**B. The Consultation Violated TAP 33's Independent Review Requirement, Undermining Defendants' Characterization**
+
+TAP 33 § IV.4 requires **independent** review of conflict-of-interest disclosures. Exhibit K-2. Plaintiff had disclosed a conflict concerning Selcer—the very person Dean A consulted. A "consultation" with the conflicted party cannot constitute "independent review" under any plausible reading of the policy. The timing is particularly damning: Dean A consulted Selcer just seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. Exhibit K-2; TRO Tr. A reasonable jury could infer that Dean A's consultation was not a neutral academic inquiry but a coordinated response to Plaintiff's protected litigation activity.
+
+**C. The Agreement Extended Beyond the October 22 Email**
+
+The conspiracy did not begin and end with the October 22 email. On February 13, 2026, Selcer's reassignment email referenced a "recommendation to the Dean of Liberal Arts"—Dean A's exact title—demonstrating ongoing communication and coordination between Selcer and Dean A in the days preceding the fabricated "performance issues" threat. Exhibit X-8. Critically, the "recommendation to the Dean" language did not appear in the February 10, 2026 meeting between Selcer and Plaintiff, proving **intervening communication** between Selcer and Dean A. Exhibit X-6; Exhibit X-8. This sequence of events—(1) no mention of a recommendation in the February 10 meeting, (2) intervening communication between Selcer and Dean A, (3) Dean A's title appearing in the February 13 email—provides strong circumstantial evidence of an ongoing agreement.
+
+**II. The Record Creates a Genuine Dispute That the Consultation Evidenced Malice, Not Benign Intent**
+
+Defendants assert that the consultation "resulted in assurances of fair treatment and offers of academic support." Dkt. 34 at 10. This spin ignores the full evidentiary context.
+
+**A. The "Assurances" Were Accompanied by Threats and Conditions**
+
+Dean A's October 22 email simultaneously offered support and imposed conditions that would lead to Plaintiff's failure: requiring attendance on the same day, catching up on missed content without accommodations, and completing a syllabus draft, critique, and revision—all while Selcer remained the instructor. Exhibit K-2. This was not genuine support; it was a setup for failure masked as assistance.
+
+**B. A Pattern of Coordinated Retaliation Demonstrates Malice**
+
+The conspiracy's malice is evidenced by a systematic pattern of coordinated conduct:
+
+- **Systematic Removal of Oversight:** Four Defendants (Selcer, Dean A, Wasilko, Simpson, and Sawa) systematically removed OCR and senior administrative oversight from correspondence at critical junctures, preventing Plaintiff from receiving corrective information. Selcer removed Dean A herself from the September 3 "final directive." Exhibits B-3 through B-7; Selcer Sept 3 email (Exhibit J). This coordinated removal of oversight reflects an intent to injure by ensuring Plaintiff could not access neutral decision-makers.
+
+- **Fabricated Performance Issues:** On February 10, 2026, Selcer met with Plaintiff and used no "performance issues" language, confirmed that Faculty B had no stipend authority, and maintained a collegial tone. Exhibit X-6. Three days later, after intervening communication with Dean A, Selcer's February 13 email (Exhibit X-8) introduced "performance issues raised by two of the three faculty members" and threatened stipend suspension through 2029—directly contradicting his own February 10 statements and Faculty B's own email, which stated her door was "always open" and contained no performance complaint. Exhibit X-7.
+
+- **Manufactured Zoom Removal:** When Faculty C independently authorized Zoom access on October 6, Selcer intervened after the October 15 TRO hearing (where Selcer testified under oath that Zoom would continue). Selcer then contacted Faculty C, reframed the inquiry as a "compelling reason" test Faculty C never knew he was administering, and reported the result as Faculty C's independent judgment—when Faculty C was actually confused and unaware his prior authorization had been overridden. Exhibit Q (Oct 6-17 sequence).
+
+- **False Statements Fabricating a Meeting Requirement:** As alleged in the SAC, Defendants made 36 false statements fabricating a meeting requirement that did not exist under any applicable policy. Plaintiff's Counter-Statement of Material Facts ¶ 9. These false statements were used to deny Plaintiff's requests for supportive measures.
+
+This pattern of coordinated conduct—timed to coincide with Plaintiff's protected activity (TRO hearing, OCR complaints) and consistently resulting in adverse actions—is precisely the kind of circumstantial evidence that permits a jury to infer malice. *Desert Palace, Inc. v. Costa*, 539 U.S. 90, 101-02 (2003) ("Direct evidence of discrimination is not required"; circumstantial evidence suffices).
+
+**III. The Record Creates a Genuine Dispute That Underlying Torts Support the Conspiracy**
+
+Defendants argue that no underlying tort exists because Dean A's TAP 33 analysis was "correct on the policy's plain terms." Dkt. 34 at 10. This argument fails for two independent reasons.
+
+**A. The Underlying Torts Are Not Limited to Dean A's Conduct**
+
+Under *Thompson Coal*, "once a defendant joins a conspiracy, that defendant is jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy." 412 A.2d at 472-73. Dean A need not have personally committed the underlying torts to be liable for them. The record establishes multiple tortious acts by co-conspirators:
+
+- **Defamation/Fraud:** Selcer fabricated "performance issues" that were contradicted by the source he cited on the same day (Exhibits X-7, X-8—Faculty B requesting reassignment without performance complaint, Selcer simultaneously claiming "performance issues raised by two of the three faculty members").
+
+- **Retaliation in violation of Title IX and the ADA:** The coordinated removal of Zoom access (Exhibit Q), the threatened conduct charges for continuing to email officials (Exhibit B-7), and the fabricated performance issues (Exhibit X-8) all occurred after Plaintiff engaged in protected activity.
+
+- **Fraud/Misrepresentation:** The 36 false statements fabricating a meeting requirement that did not exist under any policy. Plaintiff's Counter-Statement ¶ 9.
+
+**B. Even If Dean A's TAP 33 Analysis Was Correct, Other Unlawful Means Were Employed**
+
+The conspiracy's unlawful means include the systematic removal of OCR oversight from correspondence (Exhibits B-3 through B-7), the fabrication of performance issues (Exhibit X-8), and the coordinated Zoom removal (Exhibit Q). *Thompson Coal* requires only that "two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means." 412 A.2d at 472. The removal of oversight and fabrication of performance issues are plainly unlawful means regardless of the technical correctness of Dean A's policy analysis.
+
+**IV. The Record Creates a Genuine Dispute That This Was a Coordinated Conspiracy, Not Just Institutional Processes**
+
+Defendants characterize Plaintiff's claims as "his refusal to engage with well-established university processes." Dkt. 25 at 6. This argument ignores the evidence.
+
+**A. Plaintiff Did Engage, But Was Met With Coordinated Resistance**
+
+Plaintiff sent multiple escalations directly to Dean A citing federal law, identifying specific violations, and requesting intervention. Dean A did not intervene. Dean A's silence, combined with her active coordination with Selcer, furthered the conspiracy's objective of maintaining Defendants' control without independent oversight. Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417. Plaintiff's engagement with the "processes" was met not with good-faith responses but with threats (Exhibit B-7—Sawa threatening conduct charges for emailing), jurisdictional disclaimers that contradicted the policy's plain terms (Exhibit B-6), and coordinated adverse actions timed to coincide with protected activity.
+
+**B. The Coordination Exceeded Legitimate Process**
+
+The Zoom removal sequence (Exhibit Q) illustrates how the conspiracy operated: Faculty C independently authorized Zoom on October 6; Selcer testified under oath on October 15 that Zoom would continue; the Zoom link disappeared on October 16; Selcer claimed on October 17 that Faculty C found "no compelling reason" for continued Zoom; Faculty C revealed on October 17 that he was confused and had never rescinded his authorization. This is not "well-established university process"—it is coordinated deception designed to manufacture a basis for adverse action.
+
+Similarly, the February 10 to February 13 sequence (Exhibits X-6 through X-8) shows Selcer reassuring Plaintiff on February 10 that no performance issues existed, then fabricating "performance issues raised by two of the three faculty members" on February 13 after communicating with Dean A. This is not process; it is coordinated retaliation.
+
+**V. The Record Creates a Genuine Dispute That Selcer's Actions Constituted Overt Acts in Furtherance of the Conspiracy**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because "he held that role before and after Plaintiff's protected activity." Dkt. 34 at 10 n.3. This argument misstates the overt acts at issue.
+
+**A. The Overt Acts Include Selcer's Fabrication and Coordination, Not Mere Continuation**
+
+Selcer did not merely continue as Plaintiff's instructor. He:
+
+- Fabricated "performance issues" that did not exist (Exhibit X-8, contradicted by Exhibit X-7 and Exhibit X-4)
+- Coordinated with Dean A to remove independent oversight (Exhibits K-2, X-8)
+- Intervened to remove Zoom access after Plaintiff cross-examined him under oath (Exhibit Q)
+- Issued a "final directive" conditioning Plaintiff's remote attendance on engagement with processes that had already disclaimed jurisdiction (Exhibit J)
+- Removed Dean A from the September 3 directive to prevent oversight (Selcer Sept 3 email, cited in Plaintiff's Counter-Statement ¶ 7)
+
+Each of these actions is a separate overt act in furtherance of the conspiracy, not mere continuation of a pre-existing role.
+
+**B. The Overt Acts Were Timed to Protected Activity**
+
+The Zoom removal occurred the day after the October 15 TRO hearing where Selcer was cross-examined under oath. The fabricated "performance issues" threats escalated in February 2026 following ongoing OCR complaints. The October 22 joint determination occurred seven days after the TRO hearing. This temporal proximity alone creates a genuine dispute of material fact regarding retaliatory motive. *Desert Palace*, 539 U.S. at 101-02 (circumstantial evidence including timing suffices to show forbidden consideration).
+
+**CONCLUSION**
+
+Plaintiff has presented direct evidence of agreement (Exhibit K-2's admission of a "joint determination"), circumstantial evidence of ongoing coordination (the February 10-13 sequence, the Zoom removal sequence, the systematic OCR removal), and evidence of multiple underlying torts (false statements, fabricated performance issues, retaliatory conduct threats). A reasonable jury could find all elements of civil conspiracy: agreement, unlawful acts/unlawful means, overt acts in furtherance, malice, and resulting harm. Summary judgment on Count V must be denied.

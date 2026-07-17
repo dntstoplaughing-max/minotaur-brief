@@ -1,0 +1,39 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has established a prima facie case of retaliation under Title IX, as the claims are analyzed under the Title VII burden-shifting framework. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017). To prevail, Plaintiff must demonstrate: (1) engagement in protected activity; (2) an adverse action that would deter a reasonable person; and (3) a causal connection between the two.
+
+**I. Plaintiff Engaged in Continuous Protected Activity**
+
+Plaintiff engaged in a consistent pattern of protected activity from June 30, 2025, through the present. (SUMF ¶ 1). This activity includes reporting sex-based harassment to Dean Wasilko (SUMF ¶ 1), questioning whether the University’s response would have differed "had the genders in this situation been reversed" (Exhibit B-0A), and filing a formal Title IX escalation citing § 106.44(a) (SUMF ¶ 1). 
+
+Furthermore, Plaintiff’s actions in seeking external oversight and legal remedy constitute protected activity. These include filing a complaint with the Office for Civil Rights (OCR) (Exhibit B-3A, SUMF ¶ 1), filing a federal lawsuit (SUMF ¶ 1), and testifying at a TRO hearing (SUMF ¶ 1). Under *Atkinson v. Lafayette College*, 460 F.3d 447 (3d Cir. 2006), "demanding compliance with Title IX is protected activity." Plaintiff did exactly this by emailing Dr. Selcer to assert that "supportive measures are my right under Title IX" and demanding the retraction of a "retaliatory" Zoom limitation that violated § 106.44(g). (Exhibit I, I-1). Even if the University disputes the merits of these claims, Plaintiff is protected because he held an "objectively reasonable belief, in good faith" that the conduct violated the statute. *Kengerski v. Harper*, No. 20-1307 (3d Cir. 2021).
+
+**II. Plaintiff Suffered Multiple Adverse Actions**
+
+The University took several adverse actions that would deter a reasonable person from engaging in protected activity:
+
+*   **Administrative Obstruction:** Institutional actors systematically removed the OCR from the CC line on eight or more occasions after Plaintiff restored them, effectively attempting to silo the University's communications from federal oversight. (SUMF ¶ 2, 3; Exhibits B-3 through B-7).
+*   **Jurisdictional Reversal:** Within nineteen hours of Plaintiff sending three emails consisting entirely of protected activity, Alicia Simpson reversed her previous jurisdictional determination on an identical factual record. (SUMF ¶ 4; Exhibits B-5, B-5A, B-5B, B-5C, B-6).
+*   **Threats of Disciplinary and Academic Action:** Dr. Anne Sawa threatened Plaintiff with charges for violating the Student Code of Conduct for "sending mass emails to University officials" regarding his concerns. (Exhibit B-7). Similarly, Dean A threatened Plaintiff with academic failure if he did not attend Dr. Selcer’s class in person while active federal litigation was pending against Selcer. (SUMF ¶ 7; SAC ¶¶ 66, 76, 336).
+*   **Revocation of Educational Access:** Despite having no university policy constraining Zoom access, Dr. Selcer manufactured a revocation of Plaintiff’s Zoom access. (SUMF ¶ 5, 6; Exhibit L).
+*   **Employment and Financial Threats:** Dr. Selcer reassigned Plaintiff’s TA position and threatened the suspension of Plaintiff's stipend through Spring 2029 based on fabricated "performance issues." (SUMF ¶ 8; Exhibit X-8).
+
+**III. A Causal Connection Exists Between the Protected Activity and the Adverse Actions**
+
+The causal link is established through "unusually suggestive" temporal proximity and a "convincing mosaic" of circumstantial evidence. *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022).
+
+**A. Temporal Proximity**
+Under *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989), a two-day temporal proximity between protected activity and adverse action is sufficient to establish causation. Here, the University’s actions mirror this timeline:
+1.  **OCR Filing $\rightarrow$ Communication Siloing:** Two days after Plaintiff’s OCR filing on July 26, Wasilko removed OCR from the CC line. (SUMF ¶ 2; Exhibit B-3).
+2.  **TRO Hearing $\rightarrow$ Zoom Revocation:** Two days after Plaintiff testified at the TRO hearing on October 15, Selcer revoked Plaintiff's Zoom access. (SUMF ¶ 5).
+
+**B. Pattern of Antagonism and Pretext**
+Beyond temporal proximity, the evidence "looked at as a whole" establishes a causal link. *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000). A "pattern of antagonism" following protected conduct independently establishes causation. *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997).
+
+The University’s justifications for its actions are inconsistent and fabricated, which establishes a causal link. *Farrell*, 206 F.3d at 271. Most notably, Dr. Selcer claimed Plaintiff’s TA reassignment was due to "performance issues raised by two of the three faculty members." (Exhibit X-8). However, this is contradicted by:
+1.  **Direct Evidence:** Faculty B’s same-day email stated there was "no performance complaint" and that her "door is always open" to Plaintiff. (Exhibit X-7).
+2.  **Sworn Testimony:** Dr. Selcer testified at the TRO hearing that Plaintiff had *no* performance issues. (SUMF ¶ 9).
+
+Because the employer's motivation for investigating or penalizing a plaintiff is itself evidence of pretext, *Canada*, No. 20-2747 (3d Cir. 2022), the fabrication of performance issues to threaten Plaintiff's stipend—immediately following his demands for Title IX compliance—demonstrates retaliatory animus. *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259 (3d Cir. 2007).
+
+At this stage, Plaintiff need only show that the protected activity was the "likely reason" for the adverse actions. *Carvalho-Grevious v. Delaware State University*, No. 15-3521 (3d Cir. 2017). The combination of two-day temporal gaps, the systematic removal of federal regulators from correspondence, and the documented fabrication of performance issues constitutes a convincing mosaic of retaliation.

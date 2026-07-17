@@ -1,0 +1,41 @@
+**ARGUMENT**
+
+To state a claim for damages under Title IX, a plaintiff must plausibly allege that a federally-funded institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 207 (3d Cir. 2020). Where the harassment is student-on-student, the institution is liable if it acts with "deliberate indifference to known acts of harassment" that are "so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities or benefits provided by the school." *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999). A response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Id.*; *Foster v. Board of Regents of University of Michigan*, No. 19-1314, (6th Cir. Dec. 11, 2020) (en banc).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Under Title IX, "actual knowledge" is triggered when notice is provided to the Title IX Coordinator or any official with the authority to institute corrective measures. *See* Exhibit Z-e (Slide 30). Defendant Duquesne University had actual knowledge of the harassment through multiple officials:
+
+First, Plaintiff reported the harassment to Dean Adam Wasilko on June 30, 2025, describing a physical pursuit and confrontation. (Exhibit B-0). As the Associate Vice President for Student Life and Dean of Students, Wasilko is an official with the authority to institute corrective measures. *See* Exhibit Z-e (Slide 32).
+
+Second, Plaintiff notified Dr. Daniel Selcer, Chair of the Department of Philosophy, on July 20, 2025, explicitly stating, "I am scared of this person" and "I fear for my safety." (Exhibit R).
+
+Third, Plaintiff provided formal notice to the Title IX Coordinator, Alicia Simpson, on July 24, 2025. (Exhibit B-1). Simpson acknowledged receipt of these allegations, confirming that her office is notified of "reported incidents of alleged sexual harassment or sexual misconduct involving students." (Exhibit B-1).
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff exceeds the threshold of being objectively offensive. On June 30, 2025, the harasser confronted Plaintiff, yelled obscenities, and "aggressively followed" him through the apartment, explicitly stating, "I'm coming up," as she pursued him toward his bedroom. (Exhibit B-0). This followed a pattern of behavior including lockouts and manipulation. (Exhibit D).
+
+The severity of this conduct is corroborated by medical evidence. Treating Physician, a treating physician, stated that it was "reasonable" for Plaintiff to fear for his safety and warned that sharing a living space with the harasser would "cause him a great deal of stress" and "impair his academic functioning." (Exhibit F).
+
+**III. The Harassment Deprived Plaintiff of Equal Access to Educational Opportunities**
+
+The harassment and the resulting instability deprived Plaintiff of the benefits of his doctoral candidacy. Due to the safety risks, Plaintiff was forced to flee his home on July 1, 2025, resulting in homelessness. (Exhibit D). This displacement led to severe financial distress, with bank records showing a balance of $16.65 on July 25 and negative $2.55 by August 12, 2025. (Fact 11).
+
+Furthermore, the psychological toll of the harassment and homelessness "negatively impact[ed] his graduate education," according to Treating Physician. (Exhibit F). Plaintiff was further deprived of educational opportunities when the logistical and financial disruption caused by the harassment prevented him from traveling to Germany for an award he had received. (Exhibit S).
+
+**IV. Defendant’s Response Was Clearly Unreasonable and Deliberately Indifferent**
+
+Defendant’s response over a 45-day period was not only ineffective but "clearly unreasonable in light of the known circumstances." *Davis*, 526 U.S. at 648.
+
+**A. Failure to Provide Mandatory Supportive Measures**
+Under Title IX, supportive measures are "non-disciplinary" and "available at any time after a report of sexual harassment." *See* Exhibit Z-c (Slides 38-39). Despite Plaintiff’s repeated requests for emergency housing and safety measures starting June 30, Defendant provided zero supportive measures. (Fact 8). Between June 30 and August 14, Defendant’s communications were limited to requests for meetings and jurisdictional disclaimers. (Fact 8). This stands in stark contrast to the response in *McAvoy v. Dickinson College*, where the university provided no-contact directives and academic accommodations. No. 23-2939 (3d Cir. Aug. 16, 2024).
+
+**B. The Jurisdictional Reversal and Procedural Failures**
+The conduct of Title IX Coordinator Alicia Simpson demonstrates deliberate indifference. On August 13, 2025, Simpson admitted that Plaintiff’s allegations "warrant further information gathering and review" and offered to discuss "supportive measures." (Exhibit B-5). However, nineteen hours later—and after Plaintiff sent emails asserting his regulatory rights under §§ 106.44, 106.30, and 106.71—Simpson abruptly reversed her position. (Fact 5, 6).
+
+On August 14, Simpson declared the Title IX Office had no jurisdiction, stating the conduct did not meet policy definitions "even if proven to be true." (Exhibit B-6). Critically, no new factual information had entered the record between the August 13 acknowledgment and the August 14 dismissal. (Fact 7).
+
+Finally, Simpson failed to perform any of the five mandatory obligations under § 106.44(a), including failing to inform Plaintiff of the availability of supportive measures or explain the formal complaint process. (Fact 10). She further denied Plaintiff his regulatory right to appeal the dismissal. (Fact 9).
+
+As noted in *Foster*, "minimal, ineffective, or belated efforts to respond to sexual harassment" can be clearly unreasonable as a matter of law. No. 19-1314 (6th Cir. 2020). Here, Defendant did not provide minimal efforts; it provided no supportive measures for 45 days and dismissed the claim only after Plaintiff demanded written compliance with federal law. This constitutes deliberate indifference under Title IX.

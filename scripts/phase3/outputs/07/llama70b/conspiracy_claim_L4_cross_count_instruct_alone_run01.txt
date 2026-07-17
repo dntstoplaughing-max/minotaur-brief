@@ -1,0 +1,39 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count V — Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) is denied. Genuine disputes of material fact preclude summary judgment.
+
+I. Agreement between two or more actors
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not routine, as she explicitly stated that "both Dr. Selcer and I strongly concur" on the decision to keep Plaintiff enrolled in the required teaching seminar. This joint determination is evidence of an agreement between Dean A and Selcer, which is a necessary element of a civil conspiracy claim. (Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979)).
+
+Moreover, Exhibit K-5 shows that Dean A denied the applicability of TAP 33, which governs conflicts of interest, despite Plaintiff's clear disclosure of a conflict of interest involving Selcer. This denial is evidence of a deliberate attempt to circumvent university policies and procedures, further supporting the existence of an agreement between Dean A and Selcer.
+
+II. Unlawful act or unlawful means
+
+Defendants argue that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-5 reveals that Dean A's analysis was flawed, as she incorrectly determined that Plaintiff was not a "Covered Party" under TAP 33. This error is evidence of an unlawful act, as it demonstrates a deliberate attempt to disregard university policies and procedures.
+
+Furthermore, Exhibit B-6 shows that Simpson disclaimed jurisdiction over Plaintiff's Title IX complaint without any legal basis, which is an unlawful act that supports the conspiracy claim.
+
+III. Overt acts in furtherance
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit K-2 reveals that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's clear disclosure of a conflict of interest involving Selcer. This joint determination is an overt act in furtherance of the conspiracy, as it demonstrates a deliberate attempt to disregard university policies and procedures.
+
+Moreover, Exhibit X-8 shows that Selcer fabricated "performance issues" raised by two faculty members, which is an overt act in furtherance of the conspiracy.
+
+IV. Malice (legal or actual)
+
+Defendants argue that the consultation between Dean A and Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's clear disclosure of a conflict of interest involving Selcer. This joint determination is evidence of malice, as it demonstrates a deliberate attempt to disregard university policies and procedures.
+
+Furthermore, Exhibit X-8 shows that Selcer fabricated "performance issues" raised by two faculty members, which is evidence of malice.
+
+V. Resulting harm
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 34 at 6). However, Exhibit B-3A reveals that Plaintiff escalated his concerns to OCR, which is evidence of his good-faith effort to engage with university processes.
+
+Moreover, Exhibit F shows that Plaintiff suffered emotional distress and academic disruption as a result of the conspiracy, which is evidence of resulting harm.
+
+CONCLUSION
+
+In conclusion, genuine disputes of material fact preclude summary judgment on Count V — Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985). Defendants' motion for summary judgment is denied.

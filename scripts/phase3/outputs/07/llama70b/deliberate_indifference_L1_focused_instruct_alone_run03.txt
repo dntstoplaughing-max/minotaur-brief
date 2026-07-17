@@ -1,0 +1,49 @@
+
+
+ARGUMENT
+
+Count I: Deliberate Indifference to Sexual Harassment under Title IX (20 U.S.C. § 1681)
+
+Plaintiff David Mullins brings this claim against Defendant Duquesne University of the Holy Spirit, alleging deliberate indifference to known acts of student-on-student sexual harassment in violation of Title IX. The evidence demonstrates that Duquesne University had actual knowledge of the harassment, responded unreasonably, and failed to provide supportive measures, thereby denying Plaintiff equal access to educational opportunities.
+
+Actual Knowledge by Official with Authority to Act
+
+The evidence shows that Duquesne University had actual knowledge of the harassment through various reports and communications. On June 30, 2025, Plaintiff reported the incident to Dean Wasilko, describing a physical pursuit and confrontation by his roommate, Respondent (Exhibit B-0). On July 24, 2025, Plaintiff sent a formal Title IX escalation to Simpson, the university president, provost, and legal affairs, citing 34 C.F.R. § 106.44(a) and demanding supportive measures within 48 hours (SAC ¶¶ 168-172). These reports demonstrate that Duquesne University had actual knowledge of the harassment, as defined by the training slides (Exhibit Z-e, Slide 30).
+
+Clearly Unreasonable Response (Deliberate Indifference)
+
+The evidence demonstrates that Duquesne University's response to the harassment was clearly unreasonable. Despite Plaintiff's repeated requests for supportive measures, the university failed to provide any meaningful assistance. On August 13, 2025, Simpson responded to Plaintiff's request for emergency removal, stating that the Title IX Office would "discuss your current needs relating to supportive measures" (Exhibit B-5). However, Simpson's response was conditional on Plaintiff's willingness to meet with her, which Plaintiff refused due to safety concerns (Exhibit B-5A). The next day, Simpson reversed her jurisdictional determination, stating that the Title IX Office did not have jurisdiction over the report (Exhibit B-6). This reversal was not based on any new factual information, but rather on Plaintiff's refusal to meet with Simpson.
+
+The training slides define deliberate indifference as a response that is "clearly unreasonable under the known circumstances" (Exhibit Z-b, Slide 65). Duquesne University's response meets this definition, as it failed to provide supportive measures despite Plaintiff's repeated requests and safety concerns. The university's actions were not merely inadequate, but rather, they were "clearly unreasonable" in light of the known circumstances.
+
+Severe, Pervasive, Objectively Offensive Harassment
+
+The evidence demonstrates that the harassment was severe, pervasive, and objectively offensive. The Signal transcript and timeline (Exhibit D) show that Respondent engaged in a pattern of behavior that included bullying, coercion, and stalking. Respondent's actions caused Plaintiff to fear for his safety, leading him to flee his home and seek emergency housing (Exhibit B-0). The medical documentation from Treating Physician (Exhibit F) confirms that Plaintiff's fear was reasonable and that sharing a living space with Respondent would cause him significant stress and harm.
+
+Denial of Equal Educational Access
+
+The evidence demonstrates that Duquesne University's failure to respond to the harassment denied Plaintiff equal access to educational opportunities. Plaintiff was forced to flee his home and seek emergency housing, which caused him significant financial and emotional distress (Exhibit B-0). The university's failure to provide supportive measures, such as a mutual no-contact order or housing assistance, further exacerbated Plaintiff's situation (Exhibit B-5A). As a result, Plaintiff was denied equal access to educational opportunities, including his graduate program and campus resources.
+
+Conclusion
+
+In conclusion, the evidence demonstrates that Duquesne University had actual knowledge of the harassment, responded unreasonably, and failed to provide supportive measures, thereby denying Plaintiff equal access to educational opportunities. The university's actions meet the definition of deliberate indifference, as they were "clearly unreasonable under the known circumstances" (Exhibit Z-b, Slide 65). Therefore, Plaintiff is entitled to relief under Title IX for Duquesne University's deliberate indifference to known acts of student-on-student sexual harassment.
+
+Citing Authorities:
+
+* Davis v. Monroe County Board of Education, 526 U.S. 629 (1999)
+* Doe v. University of the Sciences, 961 F.3d 203 (3d Cir. 2020)
+* Hall v. Millersville University, No. 19-3275 (3d Cir. Jan. 11, 2022)
+* McAvoy v. Dickinson College, No. 23-2939 (3d Cir. Aug. 16, 2024)
+* Foster v. Board of Regents of University of Michigan, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc)
+
+Citing Exhibits:
+
+* Exhibit B-0: Initial Request for Emergency Housing (Jun 30, 2025)
+* Exhibit B-1: Simpson Title IX Exchange (Jul 24, 2025)
+* Exhibit B-5: Simpson Emergency Response (Aug 13, 2025)
+* Exhibit B-5A: Plaintiff Meeting Refusal & OCR Restoration (Aug 13, 2025)
+* Exhibit B-6: Simpson Jurisdiction Disclaimer (Aug 14, 2025)
+* Exhibit D: Signal Transcript & Timeline (Jun 23–30, 2025)
+* Exhibit F: Medical Documentation – Treating Physician (Aug 13 & Oct 1, 2025)
+* Exhibit Z-b: Deliberate Indifference Standard — Training Definition (Jul 28, 2020)
+* Exhibit Z-e: Actual Knowledge & Responsible Employee Program (Jul 28, 2020)

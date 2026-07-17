@@ -1,0 +1,188 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "extract": "cr:extract",
+    "fileObject": "cr:fileObject",
+    "jsonPath": "cr:jsonPath"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "name": "Minotaur-Brief",
+  "description": "A pre-registered benchmark for long-form federal-court advocacy across doctrines and procedural postures, drawn from a single public federal docket (Mullins v. Duquesne Univ., No. 2:25-cv-01366 (W.D. Pa.)). Twenty-two elements across five doctrinal architectures (three federal claims at the motion-for-partial-summary-judgment posture; two state claims at the opposition-to-motion-for-summary-judgment posture), 38 documentary exhibits, a 31-case controlling-authority database, four context-noise levels, and a frozen pre-registered three-layer scoring framework. Layer 1 deterministic gates; Layer 2 LM-judged doctrinal (Claude Haiku 4.5) and writing rubrics (Claude Sonnet 4.6) on five axes (argumentative force, citation integration, element discipline, adverse-fact treatment, standard articulation); Layer 3 within-vendor convergent validity (Claude Opus 4.6) and cross-vendor convergent validity (Mistral Large 3 via Amazon Bedrock) on a stratified subsample. Released JSON files use LF line endings.",
+  "url": "https://huggingface.co/datasets/moodnaut/minotaur-brief",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0.0",
+  "datePublished": "2026-05-07",
+  "creator": {
+    "@type": "Person",
+    "name": "Mullins, David"
+  },
+  "citeAs": "@misc{mullins_minotaurbrief_2026, title={Minotaur-Brief: A Benchmark for Long-Form Pro Se Legal Filing Production}, author={Mullins, David}, year={2026}, howpublished={Hugging Face dataset, \\url{https://huggingface.co/datasets/moodnaut/minotaur-brief}}, note={CC BY 4.0}}",
+  "keywords": [
+    "legal NLP",
+    "long-form generation",
+    "benchmark",
+    "federal court",
+    "advocacy",
+    "Title IX",
+    "ADA"
+  ],
+  "rai:dataLimitations": "Single-case generalization: the benchmark is drawn from one federal docket and is not a sampling-based survey of federal litigation. Doctrinal coverage is restricted to five architectures (Title IX deliberate indifference, Title IX retaliation, ADA Title II / Rehabilitation Act Section 504 accommodation, Pennsylvania common-law fraud, Pennsylvania civil conspiracy); procedural-posture coverage is restricted to motion-for-partial-summary-judgment (federal claims) and opposition-to-motion-for-summary-judgment (state claims). Layer 3 convergent-validity numbers in the accompanying paper are based on an N=16 stratified preview; the preregistered N=144 full subsample is reserved for camera-ready. Not recommended for: ranking model capability beyond the dimensions surfaced by the scoring framework, general legal-reasoning evaluation outside the five doctrinal architectures, or as a fine-tuning corpus for legal-brief generation.",
+  "rai:dataBiases": "Plaintiff-perspective bias: the source filings (Second Amended Complaint, supporting exhibits) are plaintiff-drafted, so the benchmark elements and exhibit annotations reflect a plaintiff's framing of the underlying dispute. Single-jurisdiction bias: all controlling-authority citations are drawn from the U.S. District Court for the Western District of Pennsylvania, the Third Circuit, and the Pennsylvania state-court system. Single-doctrinal-domain bias: the doctrines covered are concentrated in education-context discrimination law and Pennsylvania state torts, not the broader federal docket. Single-drafter bias: the first author of the accompanying paper is the plaintiff in the source case and the primary drafter of the source filings, which influenced selection of which exhibits, elements, and authorities to include in the benchmark. Effect on model behavior: scoring may reward generation patterns that match a single drafter's voice or doctrinal emphases and underweight alternative valid framings.",
+  "rai:personalSensitiveInformation": "The first author and the named defendants in the source case (Mullins v. Duquesne Univ.) are not pseudonymized, in keeping with the publicly-filed federal docket. All third-party identifiers (witnesses, faculty, treating physician, public-safety officers, colleagues, university administrators not named as defendants, the respondent in the underlying Title IX matter, the landlord) are replaced with role-based pseudonyms (e.g., Faculty A-D, Treating Physician, Public Safety Officer A/B, Colleague A-C). The benchmark contains incidental references to harassment allegations, mental- health and physical-disability accommodation requests, and emergency-housing concerns, all in their public-docket form. Released files do NOT contain medical records, financial records, social-security numbers, or any personally-identifying information beyond what is in the public federal docket.",
+  "rai:dataUseCases": "Construct: long-form federal-court advocacy quality across doctrines and procedural postures, decomposed into element-grounded sub-tasks (element discipline, citation integration, adverse-fact treatment, argumentative force, standard articulation). Validated uses: as a construct-validity instrument for long-form legal-brief generation; as a calibration target for cross-vendor LM-judge agreement on element-grounded scoring rubrics. Uses for which validity has NOT been established: model capability ranking, general legal-reasoning evaluation, fine-tuning data for legal-brief generation, deployment evaluation for production legal-AI tools. The accompanying paper frames the empirical results as illustrative of the scoring framework's discriminative range, not as model-capability claims.",
+  "rai:dataSocialImpact": "Intended positive impacts: more rigorous, decomposable evaluation infrastructure for long-form legal generation; transparent disclosure of evaluation limitations and pre-registered scoring discipline; lowered barrier to construct-validity work in legal NLP. Potential negative impacts and risks of misuse: the benchmark must NOT be used to certify or rank legal-AI tools for production deployment; using it as a hiring or admissions gate (e.g., for legal practitioners) would be inappropriate; framing strong scores as evidence of legal competence rather than rubric agreement is a misuse. Fairness implications: because the benchmark is a single-case instrument with single-jurisdiction and single-drafter biases, scoring outcomes should not be used to draw comparative conclusions about model capability across populations, jurisdictions, or doctrinal areas it does not cover. Mitigations: framing-rule discipline against capability claims throughout the accompanying paper, pre-registered scoring rubrics, third-party anonymization, and explicit limitations disclosure in the paper's Limitations section.",
+  "rai:hasSyntheticData": false,
+  "prov:wasDerivedFrom": "Public federal-court docket: Mullins v. Duquesne Univ., No. 2:25-cv-01366 (W.D. Pa.), accessible via PACER. The Second Amended Complaint, plaintiff exhibits, and identified controlling authorities constitute the source record. No model-generated content is included as ground-truth content.",
+  "prov:wasGeneratedBy": "Data collection: source-record assembly from the public docket (filed papers and exhibits), April-May 2026, by the first author. Preprocessing: (a) element extraction from controlling-authority case law into a 22-element schema across five doctrinal architectures; (b) (element, exhibit) mapping with 119 annotated pairs; (c) construction of a 31-case controlling-authority database with reporter-pagination markers and slip-opinion handling; (d) construction of a four-level context-noise ladder (focused, exhibit-noise, full-noise, cross-count); (e) anonymization protocol applied to third-party identifiers (replacement of 19 third-party real-name variants with role-based pseudonyms; first author and named defendants kept unredacted per public-docket nature); (f) CRLF-to-LF line-ending normalization on released JSON files. Data annotation: element-presence and exhibit-relevance labeling by the first author; pre-registered Layer 2 doctrinal rubric (per-element 0/1/2) and writing rubric (five 1-5 axes); Layer 2 LM-judges are Claude Haiku 4.5 (doctrinal) and Claude Sonnet 4.6 (writing); Layer 3 convergent-validity judges are Claude Opus 4.6 (within-vendor) and Mistral Large 3 served via Amazon Bedrock (cross-vendor). No human inter-annotator-agreement assessment was conducted; reliability of the scoring framework is established via cross-vendor and within-vendor LM-judge agreement on a stratified subsample, as detailed in the accompanying paper.",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "prompts/tasks.json",
+      "name": "prompts/tasks.json",
+      "description": "Task definitions across five doctrinal architectures.",
+      "contentSize": "37281",
+      "contentUrl": "prompts/tasks.json",
+      "encodingFormat": "application/json",
+      "sha256": "8fe2b0ca5a87051589661d524233663d642c0d08328608fe11f389468ed5a46f"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "prompts/ground_truth.json",
+      "name": "prompts/ground_truth.json",
+      "description": "Per-task relevant exhibits and exhibit universe.",
+      "contentSize": "7888",
+      "contentUrl": "prompts/ground_truth.json",
+      "encodingFormat": "application/json",
+      "sha256": "7b93384dbac3cde0af9c61fb538ab3def8220336ce1a148cefc04891247926da"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "prompts/exhibit_pool.json",
+      "name": "prompts/exhibit_pool.json",
+      "description": "The 38-document exhibit pool.",
+      "contentSize": "98503",
+      "contentUrl": "prompts/exhibit_pool.json",
+      "encodingFormat": "application/json",
+      "sha256": "90a89cae11e1aa0d48f7df1ae0960e2520df68b03c160035c9237c799ac37c37"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "prompts/context_ladder.json",
+      "name": "prompts/context_ladder.json",
+      "description": "The four context-noise levels.",
+      "contentSize": "1166",
+      "contentUrl": "prompts/context_ladder.json",
+      "encodingFormat": "application/json",
+      "sha256": "5bbfe05700db9e6e97a1c3d19afa83588b2413666a4e94027b43551834c76b61"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "rubrics/doctrinal_rubric.json",
+      "name": "rubrics/doctrinal_rubric.json",
+      "description": "Layer 2 doctrinal per-element 0/1/2 schema.",
+      "contentSize": "5405",
+      "contentUrl": "rubrics/doctrinal_rubric.json",
+      "encodingFormat": "application/json",
+      "sha256": "6f4e70e1cb3ee0d2857fdec121532dc27a03c41626f0ac692f3152165173d043"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "rubrics/writing_rubric_v2.md",
+      "name": "rubrics/writing_rubric_v2.md",
+      "description": "Layer 2 writing-quality v2 rubric, five 1-5 axes.",
+      "contentSize": "13542",
+      "contentUrl": "rubrics/writing_rubric_v2.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "636ac199a8451e1fb558051e9fbc0b957bb548eb7b4999fdb64c2b3c96036493"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "rubrics/PREREGISTRATION.md",
+      "name": "rubrics/PREREGISTRATION.md",
+      "description": "Pre-registration document for Layer 2/3 scoring.",
+      "contentSize": "9855",
+      "contentUrl": "rubrics/PREREGISTRATION.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "526577aa422e943ae12dbcfd0e31b742c7404f1737ba6e3ab6930db2a8de1f48"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "rubrics/GROUND_TRUTH_PROVENANCE.md",
+      "name": "rubrics/GROUND_TRUTH_PROVENANCE.md",
+      "description": "Element-mapping provenance for the ground truth.",
+      "contentSize": "52537",
+      "contentUrl": "rubrics/GROUND_TRUTH_PROVENANCE.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "ceb0bf655c9d7948c9f8aca06fa0780067ca1cae097566475e882e7de5bc413b"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "tasks",
+      "name": "tasks",
+      "description": "Task records: (count, posture) pairs with required elements and ground-truth exhibits across five doctrinal architectures.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "tasks/id",
+          "name": "id",
+          "description": "Unique task identifier (e.g., deliberate_indifference, retaliation_claim, ada_accommodation, fraud_claim, conspiracy_claim).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "prompts/tasks.json"
+            },
+            "extract": {
+              "jsonPath": "$.tasks[*].id"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tasks/doc_type",
+          "name": "doc_type",
+          "description": "Procedural-posture document type ('motion' for federal MPSJ claims, 'opposition' for state-law opposition-to-MSJ claims).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "prompts/tasks.json"
+            },
+            "extract": {
+              "jsonPath": "$.tasks[*].doc_type"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tasks/required_elements",
+          "name": "required_elements",
+          "description": "Doctrinal elements required to make out the claim or opposition for the task.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "prompts/tasks.json"
+            },
+            "extract": {
+              "jsonPath": "$.tasks[*].required_elements[*]"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

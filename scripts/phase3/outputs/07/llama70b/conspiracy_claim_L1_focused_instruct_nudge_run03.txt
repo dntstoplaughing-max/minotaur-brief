@@ -1,0 +1,44 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied. Genuine disputes of material fact exist on each required element, precluding summary judgment.
+
+I. Agreement between two or more actors
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration, and that the consultation evidenced intent to help, not malice. However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." This language demonstrates a clear agreement between Dean A and Selcer, which is further evidenced by the fact that Dean A consulted Selcer about a conflict-of-interest disclosure concerning Selcer himself, just seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025.
+
+Moreover, Exhibit X-8 shows that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email (Exhibit X-7) requesting reassignment without mentioning any performance complaints. This fabrication demonstrates a malicious intent to harm Plaintiff, rather than a genuine concern for his performance.
+
+II. Unlawful act or unlawful means
+
+Defendants argue that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms. However, Exhibit K-2 shows that Dean A's consultation with Selcer was not independent review, as required by TAP 33 § IV.4. This failure to follow university policy constitutes an unlawful act.
+
+Furthermore, Exhibit X-8 demonstrates that Selcer's reassignment of Plaintiff was not based on any legitimate performance issues, but rather on a fabricated claim. This fabrication constitutes an unlawful means of harming Plaintiff.
+
+III. Overt acts in furtherance
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity. However, Exhibit X-8 shows that Selcer's reassignment of Plaintiff was a direct response to the tensions and confrontations that developed in the framework of Plaintiff's TA assignment for Faculty B's Environmental Philosophy class. This reassignment was an overt act in furtherance of the conspiracy, as it was intended to harm Plaintiff and limit his opportunities.
+
+IV. Malice (legal or actual)
+
+Defendants argue that the consultation between Dean A and Selcer evidenced intent to help, not malice. However, the evidence shows that Dean A and Selcer's actions were motivated by a desire to harm Plaintiff, rather than help him. Exhibit X-8 demonstrates that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email requesting reassignment without mentioning any performance complaints. This fabrication demonstrates actual malice.
+
+V. Resulting harm
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement. However, the evidence shows that Plaintiff has suffered harm as a result of the conspiracy. Exhibit F shows that Plaintiff's mental health conditions have worsened due to the stress and anxiety caused by the university's actions. Exhibit C shows that Plaintiff's academic progress has been severely impacted by the university's failure to provide supportive measures.
+
+In conclusion, genuine disputes of material fact exist on each required element of the civil conspiracy claim. Defendants' motion for summary judgment must be denied.
+
+CITED AUTHORITIES:
+
+* Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979)
+* Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003)
+
+CITED EXHIBITS:
+
+* Exhibit K-2: Dean A Consults Selcer and Announces Joint Determination
+* Exhibit X-7: Faculty B Requests Reassignment — Door Open, No Performance Complaint
+* Exhibit X-8: Selcer Fabricates 'Performance Issues' and Threatens Stipend Through 2029
+* Exhibit F: Medical Documentation – Treating Physician
+* Exhibit C: External Faculty Witness Academic Expert Declarations

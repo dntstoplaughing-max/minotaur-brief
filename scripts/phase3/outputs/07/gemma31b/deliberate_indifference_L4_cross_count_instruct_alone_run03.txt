@@ -1,0 +1,44 @@
+**ARGUMENT**
+
+To prevail on a claim of deliberate indifference to sexual harassment under Title IX, a plaintiff must demonstrate that: (1) the institution had actual knowledge of the harassment; (2) the harassment was so severe, pervasive, and objectively offensive that it deprived the victim of access to educational opportunities; and (3) the institution’s response was "clearly unreasonable in light of the known circumstances." *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Under Title IX, actual knowledge is triggered when notice is provided to the institution's Title IX Coordinator or any official who has the authority to institute corrective measures. *Exhibit Z-e* (Slides 30-32). Here, Plaintiff provided multiple notices to officials with clear authority to act.
+
+First, on June 30, 2025, Plaintiff reported a physical confrontation and pursuit by a fellow graduate student to Dr. Adam Wasilko, the Associate Vice President for Student Life and Dean of Students (Exhibit B-0). As a Dean of Students, Dr. Wasilko is an official with the authority to institute corrective measures. *See Exhibit Z-e* (Slide 32).
+
+Second, on July 24, 2025, Plaintiff sent a formal Title IX escalation to Alicia Simpson, the University’s Title IX Coordinator, as well as the University President, Provost, and Legal Affairs (SAC ¶¶ 168-172). Finally, on August 13, 2025, Plaintiff submitted an Emergency Removal Request directly to Coordinator Simpson, supported by sworn declarations and a physician's letter (Exhibit F). These communications constitute unequivocal actual knowledge.
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The conduct reported by Plaintiff was not a mere roommate dispute, but a pattern of intimidation and physical aggression. On June 30, 2025, the respondent aggressively followed Plaintiff through their shared apartment, yelling and using obscenities, and pursued him up the stairs toward his bedroom, stating, "I'm coming up" (Exhibit B-0, Exhibit D). This forced Plaintiff to lock himself in his room for safety (Exhibit B-0).
+
+This incident was the culmination of a pervasive pattern of behavior, including the respondent locking Plaintiff out of the apartment and manipulating the A/C to create an unlivable environment (Exhibit D). The severity of the harassment is further evidenced by the fact that Plaintiff felt compelled to flee his home on June 30 to protect his physical safety (Exhibit A). This fear was corroborated by Treating Physician, who stated it was "reasonable for [Plaintiff] to have this fear" and that sharing a living space with the respondent would "impair his academic functioning" (Exhibit F).
+
+**III. Duquesne University Acted With Deliberate Indifference**
+
+A university's response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Davis*, 526 U.S. at 648. Duquesne’s response was not only unreasonable but contradicted its own federal training and mandates.
+
+*A. Minimization and Failure to Provide Supportive Measures*
+Immediately following the June 30 report, Dean Wasilko minimized the event, stating it "doesn't sound like a code of conduct violation at this point" (Exhibit B-0). For 45 days—from June 30 to August 14—the University provided zero supportive measures to Plaintiff (Statement of Facts ¶ 8). This is a direct violation of Title IX requirements that supportive measures be "available at any time after a report of sexual harassment" and be "non-disciplinary" and "non-punitive." *Exhibit Z-c* (Slide 39).
+
+*B. The "Jurisdiction Flip" and Regulatory Non-Compliance*
+The conduct of Title IX Coordinator Alicia Simpson demonstrates a "clearly unreasonable" response. On August 13, 2025, at 2:02 PM, Simpson acknowledged that Plaintiff’s allegations "warrant further information gathering and review" and offered to discuss "supportive measures" (Exhibit B-5). However, less than twenty-four hours later, on August 14, 2025, Simpson reversed her position, stating the Title IX Office "does not have jurisdiction" and "cannot take action or provide assistance" because the conduct did not meet the definitions of prohibited conduct "even if proven to be true" (Exhibit B-6).
+
+Critically, no new factual information entered the record between these two emails; the only intervening events were Plaintiff’s demands for written communication and his restoration of the Office for Civil Rights (OCR) to the email chain (Statement of Facts ¶ 5, 7). This abrupt reversal, conditioned on Plaintiff's refusal to attend meetings, is an unreasonable response to a known safety threat. Furthermore, Simpson performed zero of the five mandatory obligations under 34 C.F.R. § 106.44(a), including failing to promptly discuss supportive measures or explain the formal complaint process (Statement of Facts ¶ 10).
+
+*C. Conditioning Safety on Procedural Compliance*
+The University repeatedly conditioned the provision of safety measures on Plaintiff’s willingness to attend in-person meetings (Exhibits B-2, B-3, B-6). This is "clearly unreasonable" because supportive measures are designed to "restore or preserve equal access" and "protect the safety of all parties" regardless of whether a formal complaint is filed or a meeting is held. *Exhibit Z-c* (Slide 38).
+
+**IV. The University’s Inaction Denied Plaintiff Equal Educational Access**
+
+The University's deliberate indifference resulted in a total denial of educational access. Due to the University's failure to provide housing or protective measures, Plaintiff became homeless on June 30, 2025 (Exhibit A), with his bank account eventually falling to negative $2.55 (Statement of Facts ¶ 11).
+
+External Faculty Witness declared that Plaintiff’s "education and research have been severely derailed by his housing instability and the conflict with his former roommate" (Exhibit C). The lack of protective measures, such as no-contact orders or registrar-enforced separation, created a hostile environment where Plaintiff feared encountering the respondent on campus. This fear was realized on September 17, 2025, when the respondent was found waiting outside Plaintiff's classroom, causing "severe distress" that required hours of recovery time and prevented educational participation (Exhibit C).
+
+Finally, rather than providing a reasonable accommodation, Dr. Daniel Selcer imposed a "countdown" on Plaintiff's remote access, threatening to force an in-person return by September 15 despite the University's ongoing failure to implement safety measures (Exhibits I, J). This coercive approach—threatening the loss of the only viable means of educational access—further illustrates the University's deliberate indifference.
+
+**Conclusion**
+
+Duquesne University had actual knowledge of severe and offensive harassment but responded with minimization, procedural obstruction, and a total failure to provide mandated supportive measures. This response was clearly unreasonable and directly resulted in Plaintiff's homelessness and the derailment of his doctoral studies. Accordingly, Defendant is liable for deliberate indifference under Title IX.

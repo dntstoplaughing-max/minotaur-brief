@@ -1,0 +1,91 @@
+# ARGUMENT
+
+Plaintiff David Mullins respectfully submits that Defendants' Motion for Summary Judgment on Count V (Civil Conspiracy) must be denied because genuine disputes of material fact exist on every element of the claim. Defendants' arguments mischaracterize the record, ignore direct evidence of agreement, and rely on factual assertions that are squarely contradicted by documentary evidence.
+
+## I. DEFENDANTS CANNOT SHOW ENTITLEMENT TO JUDGMENT AS A MATTER OF LAW ON THE CONSPIRACY CLAIM
+
+Under Pennsylvania law, a civil conspiracy requires "(1) a combination of two or more persons acting with a common purpose to do an unlawful act or to do a lawful act by unlawful means, (2) an overt act done in furtherance of the common purpose, and (3) actual legal damage." *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472 (1979). "Proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy." *Id.*
+
+Once a defendant joins a conspiracy, that defendant is jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy. *Thompson Coal*, 412 A.2d at 472-73. This principle is critical here because Plaintiff need not prove that each defendant personally committed each overt act—only that each agreed to the common unlawful purpose and that co-conspirators committed overt acts in furtherance.
+
+The record contains ample direct and circumstantial evidence of: (1) an agreement among Defendants Dean A, Selcer, Wasilko, Simpson, and Sawa to retaliate against Plaintiff for his protected activity and to deprive him of access to education; (2) overt acts including false statements, removal of oversight, and threats; (3) malice; and (4) resulting harm.
+
+## II. DEFENDANTS' SPECIFIC ARGUMENTS ARE REFUTED BY THE RECORD
+
+### A. Dean A's Consultation with Selcer Was Not "Routine Administration"—It Was Direct Evidence of Conspiracy
+
+**Defendants' Argument (1):** Dean A's consultation with Selcer was "routine academic administration" because she "could not respond to Plaintiff's transfer request without checking course availability and academic progress with the department chair" (Dkt. 34 at 10).
+
+**Response:** This argument is flatly contradicted by the documentary evidence. Plaintiff's conflict-of-interest disclosure to Dean A specifically identified the conflict: Dr. Selcer was a named defendant in Plaintiff's federal lawsuit against the University. (Exhibit K-1). Rather than conducting an independent review, Dean A admitted in writing: "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strong concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2, emphasis added).
+
+This is not "routine administration"—it is a written admission of a *joint determination* with the very person whose conflict was disclosed. The phrase "both of us, together" demonstrates agreement, not independent judgment. Moreover, TAP 33 § IV.4 requires *independent* review of conflict-of-interest disclosures. (TAP 33 § IV.4; Exhibit K-2). Dean A's "consultation" with the conflicted party does not constitute independent review under any reading of the policy. Plaintiff's Counter-Statement of Material Facts ¶ 4.
+
+The timing is also damning: Dean A consulted Selcer about a conflict-of-interest disclosure concerning Selcer himself—exactly seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.). This temporal proximity alone supports an inference of retaliatory conspiracy. *Jalil v. Avdel Corp.*, 873 F.2d 701, 708 (3d Cir. 1989) (two-day temporal proximity sufficient to establish causation).
+
+### B. The "Intent to Help" Characterization Is Belied by the Record
+
+**Defendants' Argument (2):** The consultation evidenced "intent to help, not malice—it resulted in assurances of fair treatment and offers of academic support" (Dkt. 34 at 10).
+
+**Response:** Defendants ask this Court to accept their self-serving characterization of events, but the record tells a different story. The "support" offered by Dean A and Selcer was contingent and coercive. Plaintiff was told he must return to class immediately, schedule meetings with Selcer to review missed content, and complete all requirements—all under the supervision of a defendant in his federal lawsuit. (Exhibit K-2). This is not support; it is control.
+
+More fundamentally, the conspiracy's malice is demonstrated by the broader pattern. Four defendants systematically removed OCR and senior administrative oversight from correspondence at critical junctures. (Exhibits B-3 through B-7; Selcer Sept 3 email removing Dean A from CC line). Plaintiff sent multiple escalations directly to Dean A citing federal law, identifying specific violations, and requesting intervention. Dean A did not intervene. (Exhibits K-2, K-5). Dean A's silence, combined with her active coordination with Selcer, furthered the conspiracy's objective of maintaining defendants' control without independent oversight. Plaintiff's Counter-Statement of Material Facts ¶ 8.
+
+Malice can be inferred from the coordinated denial of rights. *Thompson Coal*, 412 A.2d at 472 ("Proof of malice, i.e., an intent to injure, is essential in proof of a conspiracy"). The evidence shows a pattern: when Plaintiff exercised his rights—filing complaints, demanding accommodations, cross-examining Selcer—the defendants responded with coordinated resistance, not assistance.
+
+### C. There Are Multiple Underlying Torts to Support the Conspiracy
+
+**Defendants' Argument (3):** "No underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms" (Dkt. 34 at 10).
+
+**Response:** Defendants' argument erroneously conflates the existence of an underlying tort with the correctness of a single policy analysis. The underlying torts here are well-documented and include:
+
+**Fraudulent Misrepresentation:** Defendants made multiple false statements to Plaintiff, including: (1) 36 false statements fabricating a meeting requirement (Conspiracy 1); (2) Simpson's false disclaimer of Title IX jurisdiction (Exhibit B-6); and (3) Selcer's fabrication of "performance issues" on February 13, 2026, which was contradicted by the very source he cited—Faculty B—on the same day. (Compare Exhibit X-8 [Selcer's email claiming "performance issues raised by two of the three faculty members"] with Exhibit X-7 [Faculty B's email: "My office door is always open" with no mention of performance issues]).
+
+Under Pennsylvania law, fraud requires: "(1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness as to whether it is true or false; (4) with the intent of misleading another into relying on it; (5) justifiable reliance on the misrepresentation; and (6) the resulting injury was proximately caused by the reliance." *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882, 889 (1994). "The concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." *Moser v. DeSetta*, 589 A.2d 679, 682 (Pa. Super. 1991).
+
+Here, Selcer's February 13 email claimed "performance issues raised by two of the three faculty members." (Exhibit X-8). But just hours earlier, Faculty B—the only faculty member who had raised any concern—had written: "My office door is always open to you during my office hours, and I look forward to seeing you in our Schelling class." (Exhibit X-7). Faculty B never alleged "performance issues." The February 10 meeting between Selcer and Plaintiff contains no "performance issues" language. (Exhibit X-6). The "recommendation to the Dean of Liberal Arts" language in Selcer's February 13 email—Dean A's exact title—did not appear in the February 10 meeting, proving intervening communication between Selcer and Dean A. Plaintiff's Counter-Statement of Material Facts ¶¶ 5-6.
+
+**Intentional Infliction of Emotional Distress and Retaliation:** The systematic removal of OCR oversight, threats of conduct charges (Exhibit B-7), the Zoom removal sequence (Exhibit Q), and the three-week "countdown" on remote access (Exhibit J) all constitute tortious conduct. The deliberate indifference to Plaintiff's homelessness despite available housing resources (Exhibits G, A) further establishes a pattern of injury-causing conduct.
+
+Under *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999), a funding recipient is liable where it "acts with deliberate indifference to known acts of harassment in its programs or activities." The response must not be "clearly unreasonable in light of the known circumstances." *Id.* at 649. Here, the university had actual knowledge of Plaintiff's homelessness, medical documentation confirming its harmful effects (Exhibit F), and available housing—yet did nothing.
+
+Because Plaintiff has established genuine disputes on multiple underlying torts, the conspiracy claim cannot be dismissed for lack of an underlying tort. Moreover, under *Thompson Coal*, Dean A need not have personally committed these torts to be liable for them—liability extends to all co-conspirators' acts in furtherance of the conspiracy. *Thompson Coal*, 412 A.2d at 472-73; Plaintiff's Counter-Statement of Material Facts ¶ 9.
+
+### D. The Evidence Shows an Unlawful Agreement, Not "Well-Established University Processes"
+
+**Defendants' Argument (4):** "Plaintiff's characterization of coordinated institutional responses as 'conspiracy' reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement" (Dkt. 25 at 6).
+
+**Response:** This argument is a red herring. Plaintiff did not "refuse" to engage—he engaged extensively in writing, provided medical documentation, requested specific supportive measures, and escalated to OCR when the university failed to respond. The issue is not Plaintiff's engagement but the defendants' coordinated refusal to provide legally mandated protections.
+
+The evidence of agreement is direct, not circumstantial:
+
+**1. Written documentation of joint decision-making.** Dean A's October 22 email states she "did need to consult Dr. Selcer" and that "both Dr. Selcer and I strongly concur." (Exhibit K-2). This is a written admission of agreement—precisely the "combination or agreement" required under *Thompson Coal*.
+
+**2. Coordinated removal of oversight.** The record shows systematic removal of OCR and senior administrators from communications at critical junctures. Selcer removed Dean A herself from the September 3 "final directive." (Exhibits B-3 through B-7; Exhibit J). This pattern demonstrates shared purpose among defendants: maintain control, exclude oversight, and prevent corrective information from reaching Plaintiff.
+
+**3. Intervening communications before adverse actions.** The "recommendation to the Dean" language appeared in Selcer's February 13 email but was absent from the February 10 meeting, proving intervening communication between Selcer and Dean A. Plaintiff's Counter-Statement of Material Facts ¶¶ 5-6.
+
+**4. Coordinated Zoom removal.** The sequence is telling: On October 6, Professor Faculty C independently authorized Zoom access. (Exhibit W). On October 15, Selcer testified under oath at the TRO hearing that he would continue Zoom access. (Exhibit Q). On October 16, the Zoom link disappeared. On October 17, Selcer emailed Plaintiff claiming Faculty C found "no compelling reason" for Zoom—but Faculty C later expressed confusion, stating he was unaware this "compelling reason" test was being applied. (Exhibits V, W). This sequence shows coordination among Selcer and others to reverse an accommodation that had been granted.
+
+The Third Circuit has recognized that circumstantial evidence of this nature suffices to establish conspiracy. *Heffernan v. Hunter*, 189 F.3d 405, 412 (3d Cir. 1999) (recognizing that conspiracy may be proven by circumstantial evidence). Here, the evidence is far from circumstantial—it is documentary.
+
+### E. Selcer's Continued Role as Instructor Was Retaliatory—and an Overt Act in Furtherance of Conspiracy
+
+**Defendants' Argument (5):** "Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity—therefore not an overt act in furtherance of conspiracy" (Dkt. 34 at 10 n.3).
+
+**Response:** This argument fundamentally misunderstands the nature of overt acts in conspiracy. An overt act need not be a change in status—it can be any act in furtherance of the conspiracy's unlawful purpose. Here, Selcer's continuation as Plaintiff's instructor, combined with the coordinated response to the conflict-of-interest disclosure, constituted an overt act.
+
+When Plaintiff disclosed the conflict of interest (Exhibit K-1), the proper response under TAP 33 § IV.4 was independent review—not consultation with the conflicted party. Defendants' refusal to transfer Plaintiff, their imposition of coercive conditions, and Dean A's joint determination with Selcer (Exhibit K-2) all constituted overt acts.
+
+Moreover, Selcer's continued instruction was accompanied by specific adverse acts: the September 3 "final directive" imposing a three-week Zoom limit (Exhibit J), the October 17 removal of Zoom access (Exhibit V), and the February 13, 2026 fabrication of "performance issues" threatening Plaintiff's stipend through 2029 (Exhibit X-8). These are not neutral continuations of prior arrangements—they are escalating retaliatory actions.
+
+Under *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022), "The employer's motivation for investigating the plaintiff is itself evidence of pretext." Here, Selcer's "performance issues" claim was fabricated—contradicted by the source he cited on the same day (Exhibit X-7)—and was designed to create a paper trail justifying future adverse action. This is a classic overt act in furtherance of conspiracy.
+
+## III. THE INTRACORPORATE CONSPIRACY DOCTRINE DOES NOT BAR THIS CLAIM
+
+The Third Circuit has held that the intracorporate conspiracy doctrine bars § 1985 conspiracy claims when employees act within the scope of their employment. *Heffernan v. Hunter*, 189 F.3d at 412-13. However, the doctrine has an exception: "if challenged conduct occurs outside scope of representation, no immunity exists." *Id.*
+
+Here, the conduct at issue falls outside the scope of legitimate employment for multiple reasons:
+
+**First,** the systematic removal of OCR oversight from communications and the coordinated denial of supportive measures were not within defendants' authorized duties. Under *Brumfield v. Sanders*, 232 F.3d 376, 381 (3d Cir. 2000), applying Pennsylvania law, conduct is within the scope of employment only if it is "(a) the kind [the employee] is employed to perform; (b) it occurs substantially within the authorized time and space limits [and] (c) it is actuated, at least in part, by a purpose to serve the master."
+
+The defendants' actions were not "actuated by a purpose to serve the master"—they were designed to retaliate against Plaintiff for protected activity, suppress oversight, and maintain control—all contrary to the university's Title IX obligations. No legitimate university

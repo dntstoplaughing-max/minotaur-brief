@@ -1,0 +1,55 @@
+
+
+ARGUMENT
+
+Defendants' motion for summary judgment on Count V — Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied. The record reveals genuine disputes of material fact on each element of the conspiracy claim, precluding summary judgment.
+
+I. Agreement between two or more actors
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent review as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar" (Exhibit K-2). This written admission of joint determination with Selcer, a conflicted party, raises a genuine dispute of material fact as to whether Dean A and Selcer agreed to act in concert.
+
+Moreover, Exhibit X-8 shows that Selcer's reassignment email referenced a "recommendation to the Dean of Liberal Arts" — Dean A's exact title — demonstrating communication between Selcer and Dean A in the days preceding the fabricated "performance issues" threat. This communication, combined with Dean A's active coordination with Selcer, further supports the existence of an agreement between two or more actors.
+
+II. Unlawful act or unlawful means
+
+Defendants claim that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A's consultation with Selcer did not constitute independent review under any reading of the policy. This failure to follow university policy raises a genuine dispute of material fact as to whether Dean A and Selcer engaged in an unlawful act or used unlawful means.
+
+Furthermore, Exhibit X-8 reveals that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which is an unlawful act. This fabrication, combined with the underlying torts committed by co-conspirators, including 36 false statements fabricating a meeting requirement (Conspiracy 1), systematic OCR removal across four actors (Conspiracy 2), and Selcer's fabrication of "performance issues" (Exhibits X-7, X-8), supports the existence of an unlawful act or unlawful means.
+
+III. Overt acts in furtherance
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-6 shows that Selcer's meeting with Plaintiff on February 10, 2026, did not mention "performance issues" language, and Selcer confirmed that Faculty B has no stipend authority. Three days later, Selcer's written reassignment letter (Exhibit X-8) introduced the phrase "performance issues" for the first time, threatening stipend suspension through 2029. This sudden introduction of "performance issues" language, combined with the timing of the reassignment, raises a genuine dispute of material fact as to whether Selcer's actions were overt acts in furtherance of the conspiracy.
+
+IV. Malice (legal or actual)
+
+Defendants claim that Dean A's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A's consultation with Selcer resulted in a joint determination that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's concerns about Selcer's conflict of interest. This joint determination, combined with Dean A's active coordination with Selcer, raises a genuine dispute of material fact as to whether Dean A and Selcer acted with malice.
+
+Moreover, Exhibit X-8 reveals that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which demonstrates actual malice. This fabrication, combined with the underlying torts committed by co-conspirators, supports the existence of malice.
+
+V. Resulting harm
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, the record reveals that Plaintiff did engage with university processes, including filing a report with the Title IX Office and seeking accommodations from the Disability Services Office. Despite these efforts, Defendants' actions resulted in harm to Plaintiff, including the denial of supportive measures, the fabrication of "performance issues," and the threat of stipend suspension.
+
+In conclusion, the record reveals genuine disputes of material fact on each element of the conspiracy claim, precluding summary judgment. Defendants' motion for summary judgment on Count V — Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied.
+
+Citing case authorities:
+
+* Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979) (requiring combination or agreement with intent to do an unlawful act, proof of malice essential; bare allegations insufficient)
+* Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003) (holding that direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII; circumstantial evidence suffices to show an employer used a forbidden consideration in any employment practice)
+
+Citing exhibit evidence:
+
+* Exhibit K-2 (Dean A's consultation with Selcer and joint determination)
+* Exhibit X-8 (Selcer's fabrication of "performance issues" and threat of stipend suspension)
+* Exhibit X-6 (Selcer's meeting with Plaintiff and introduction of "performance issues" language)
+* Exhibit X-7 (Faculty B's request for reassignment and lack of performance complaint)
+* Exhibit B-1 (Simpson's initial email and offer to meet with Plaintiff)
+* Exhibit B-5 (Simpson's emergency response and request for meeting)
+* Exhibit B-7 (Sawa's retaliation threat)
+* Exhibit C (External Faculty Witness's academic expert declarations)
+* Exhibit D (Signal transcript and timeline)
+* Exhibit F (Medical documentation — Treating Physician)
+* Exhibit G (Wasilko's housing denial)
+* Exhibit I (Selcer's meeting exchange)
+* Exhibit J (Selcer's final directive)
+* Exhibit Q (Zoom removal sequence)

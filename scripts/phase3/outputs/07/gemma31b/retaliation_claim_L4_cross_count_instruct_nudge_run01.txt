@@ -1,0 +1,44 @@
+**ARGUMENT**
+
+Plaintiff David Mullins has established a prima facie case of retaliation under Title IX (20 U.S.C. § 1681). Title IX retaliation claims are analyzed under the Title VII burden-shifting framework. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017). To prevail, a plaintiff must demonstrate: (1) engagement in protected activity; (2) an adverse action that would deter a reasonable person; and (3) a causal connection between the protected activity and the adverse action.
+
+**I. Plaintiff Engaged in Continuous Protected Activity**
+
+Plaintiff engaged in a sustained pattern of protected activity from June 30, 2025, through the present. This activity includes reporting sex-based harassment, opposing discriminatory institutional responses, and participating in federal administrative and judicial proceedings.
+
+First, Plaintiff reported sex-based harassment and safety threats to Dean Wasilko on June 30, 2025 (Exhibit B-0). He further opposed the University's response by questioning whether Dean Wasilko’s minimization of the threat was based on gender bias (Exhibit B-0A). Demanding compliance with Title IX is recognized as protected activity. *Atkinson v. Lafayette College*, 460 F.3d 447 (3d Cir. 2006). Plaintiff’s demands for federally mandated supportive measures and his citations of 34 C.F.R. § 106.44 and § 106.30 (Exhibit B-5A) constitute such activity. Furthermore, a plaintiff need only hold an "objectively reasonable belief, in good faith" that the conduct opposed violates the statute. *Kengerski v. Harper*, No. 20-1307 (3d Cir. 2021).
+
+Second, Plaintiff participated in formal external and judicial processes, including:
+*   Filing a formal Title IX escalation on July 24, 2025 (Exhibit B-1);
+*   Filing a complaint with the Office for Civil Rights (OCR) on July 26, 2025 (Exhibit B-3A);
+*   Filing a federal lawsuit on September 9, 2025 (ECF docket);
+*   Filing a TRO motion on October 8, 2025 (ECF docket); and
+*   Testifying at the TRO hearing on October 15, 2025 (TRO transcript).
+
+**II. Defendant Took Multiple Adverse Actions Likely to Deter a Reasonable Person**
+
+Defendant Duquesne University, through its agents, took several adverse actions that would deter a reasonable student from engaging in protected activity.
+
+*   **Administrative Obstruction and Threats:** Between July 28 and October 2025, institutional actors—including Wasilko, Simpson, and Sawa—systematically removed the OCR from the CC line on correspondence eight or more times after Plaintiff restored them (Exhibits B-3 through B-7). Additionally, Dr. Sawa threatened Plaintiff with Student Code of Conduct charges for sending "mass emails" to University officials regarding his safety and access (Exhibit B-7).
+*   **Jurisdictional Reversal:** On August 13, 2025, Alicia Simpson acknowledged Title IX jurisdiction by offering "supportive measures" (Exhibit B-5). However, within nineteen hours—and after Plaintiff sent emails consisting entirely of protected activity (Exhibits B-5A, B-5B, B-5C)—Simpson reversed this determination, claiming the Title IX Office lacked jurisdiction (Exhibit B-6).
+*   **Revocation of Educational Access:** On October 17, 2025, Dr. Selcer revoked Plaintiff’s Zoom access to his graduate seminar (Exhibit V), despite having testified under oath at the TRO hearing on October 15 that he would continue such access (TRO transcript). This occurred after Dean A threatened Plaintiff with academic failure if he did not attend Selcer’s class in person during active federal litigation against Selcer (SAC ¶¶ 66, 76, 336).
+*   **Employment Retaliation and Financial Threats:** On February 13, 2026, Selcer reassigned Plaintiff’s TA position (Exhibit X-8). In doing so, Selcer fabricated "performance issues," threatening the viability of Plaintiff's future assignments and his stipend through Spring 2029 (Exhibit X-8).
+
+**III. A Causal Connection Exists Between the Protected Activity and the Adverse Actions**
+
+Plaintiff has established causation through a "convincing mosaic" of circumstantial evidence, including unusually suggestive temporal proximity and a pattern of antagonism. *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022); *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997).
+
+**A. Suggestive Temporal Proximity**
+Temporal proximity alone can establish causation when it is "unusually suggestive." *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989). Here, the timing is stark:
+1.  **Two days** after Plaintiff filed his OCR complaint (July 26), Dean Wasilko removed OCR from the CC line (July 28) (Exhibits B-3, B-3A).
+2.  **Nineteen hours** after Plaintiff’s protected activity emails on August 13, Alicia Simpson reversed her jurisdictional determination (Exhibit B-6).
+3.  **Two days** after Plaintiff testified at the TRO hearing (October 15), Dr. Selcer revoked his Zoom access (October 17) (Exhibit Q, V).
+
+**B. Pretext and Pattern of Antagonism**
+The causal link is further strengthened by the University's inconsistent and fabricated justifications for its actions. Inconsistent explanations are evidence of a causal link. *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000).
+
+Regarding the Zoom revocation, Selcer claimed Dr. Faculty C found "no compelling reason" to continue remote access (Exhibit V). However, Dr. Faculty C’s own email revealed he was unaware of the prior authorization and was confused by Selcer's framing (Exhibit W). Furthermore, Selcer admitted in the TRO transcript and to a third party (Colleague A) that he "can't explain why" Zoom was denied (Exhibit L, SJ 7.3).
+
+Regarding the TA reassignment, Selcer’s claim of "performance issues" is demonstrably false. Faculty B’s same-day email explicitly stated there was "no performance complaint" and that her "door is always open" to Plaintiff (Exhibit X-7). This contradicts Selcer’s written threat that "performance issues [were] raised by two of the three faculty members" (Exhibit X-8). Selcer further contradicted his own written record by testifying at the TRO hearing that Plaintiff had no performance issues (TRO Tr.).
+
+Because the protected activity was the "likely reason" for these adverse actions, *Carvalho-Grevious v. Delaware State University*, No. 15-3521 (3d Cir. 2017), and the University's justifications are pretextual, Plaintiff has sufficiently established a causal connection.

@@ -1,0 +1,27 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) is denied. The record reveals genuine disputes of material fact on each element of civil conspiracy, and Defendants' arguments are unpersuasive.
+
+**I. Agreement between two or more actors**
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the teaching seminar, despite the conflict of interest. This written admission of joint determination demonstrates an agreement between Dean A and Selcer, which is sufficient to establish the first element of civil conspiracy. (Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979)).
+
+**II. Unlawful act or unlawful means**
+
+Defendants claim that Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-5 shows that Dean A denied the applicability of TAP 33, despite the clear conflict of interest. This denial was unlawful, as it failed to provide Plaintiff with the necessary protections under the policy. (TAP 33 § IV.4).
+
+**III. Overt acts in furtherance**
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-8 reveals that Selcer fabricated "performance issues" to justify Plaintiff's reassignment, which was a clear overt act in furtherance of the conspiracy. (Farrell v. Planters Lifesavers Co., 206 F.3d 271 (3d Cir. 2000)).
+
+**IV. Malice (legal or actual)**
+
+Defendants contend that the consultation between Dean A and Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the teaching seminar, despite the conflict of interest. This joint determination shows a reckless disregard for Plaintiff's rights, which is sufficient to establish malice. (Hutchison v. Luddy, 870 A.2d 766 (Pa. 2005)).
+
+**V. Resulting harm**
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, the record reveals that Plaintiff was subjected to a series of adverse actions, including the denial of supportive measures, the fabrication of "performance issues," and the reassignment of his TA position. These actions caused Plaintiff harm, including emotional distress, academic disruption, and financial loss. (Gibbs v. Ernst, 538 Pa. 193, 647 A.2d 882 (1994)).
+
+In conclusion, the record reveals genuine disputes of material fact on each element of civil conspiracy. Defendants' arguments are unpersuasive, and their motion for summary judgment on Count V is denied.

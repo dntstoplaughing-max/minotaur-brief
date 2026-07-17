@@ -1,0 +1,41 @@
+**ARGUMENT**
+
+To state a claim under Title IX, the alleged facts must support a "plausible inference that a federally-funded college or university discriminated against a person on the basis of sex." *Doe v. University of the Sciences*, 961 F.3d 203, 206 (3d Cir. 2020). Under the standard established in *Davis v. Monroe County Board of Education*, a funding recipient is liable for student-on-student harassment where it "acts with deliberate indifference to known acts of harassment" that are "so severe, pervasive, and objectively offensive that it can be said to deprive the victims of access to the educational opportunities or benefits provided by the school." 526 U.S. 629, 648 (1999). A university's response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Id.*; *see also Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. Dec. 11, 2020) (en banc).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Actual knowledge is triggered when notice of sexual harassment is provided to the recipient's Title IX Coordinator or "any official of the recipient who has authority to institute corrective measures." Exhibit Z-e (Slide 30). This authority includes the "Provost, VP for Student Affairs, [and] Dean of Students." *Id.* (Slide 32).
+
+Here, Plaintiff provided actual knowledge to multiple officials with authority to act. On June 30, 2025, Plaintiff reported a physical pursuit and confrontation by a fellow graduate student to Dr. Adam Wasilko, the Associate Vice President for Student Life and Dean of Students. (Exhibit B-0). On July 24, 2025, Plaintiff sent a formal Title IX escalation to Alicia Simpson, the Title IX Coordinator. (SAC ¶¶ 168-172). Ms. Simpson explicitly acknowledged receipt of these allegations on August 13, 2025, stating that Plaintiff's "concerns and allegations warrant further information gathering and review." (Exhibit B-5).
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The harassment reported by Plaintiff was not a mere roommate dispute, but a series of escalating confrontations that created a reasonable fear for his physical safety. On June 30, 2025, a fellow student aggressively followed Plaintiff through their apartment, yelling and using obscenities, and explicitly stated she was "coming up" to his bedroom, forcing Plaintiff to lock himself in his room to remain safe. (Exhibit B-0, Exhibit D). This followed a pattern of "bullying, manipulative, and cruel behaviors," including being locked out of his home and the manipulation of essential utilities. (Exhibit D, Exhibit S).
+
+The objective offensiveness and severity of this conduct are corroborated by medical evidence. Treating Physician stated that it was "reasonable for [Plaintiff] to have this fear" and warned that sharing a living space with the individual would "be highly likely to worsen his medical condition, and could impair his academic functioning." (Exhibit F).
+
+**III. Defendant’s Response Was Clearly Unreasonable and Deliberately Indifferent**
+
+Defendant’s response to the known harassment was clearly unreasonable as a matter of law. For 45 days—from June 30, 2025, to August 14, 2025—the University provided zero supportive measures to the Plaintiff. (SUMF 8). Instead, the University's response was characterized by minimization and regulatory failure.
+
+First, Dean Wasilko minimized the reported physical pursuit, stating it "doesn't sound like a code of conduct violation at this point." (Exhibit B-0). This dismissal persisted even after Plaintiff provided a detailed list of potential violations, including "Stalking," "Bullying," and "Endangering Health or Safety of Another Person." (Exhibit S).
+
+Second, the Title IX Coordinator’s handling of the report was contradictory and arbitrary. On August 13, 2025, at 2:02 PM, Ms. Simpson acknowledged the allegations warranted review and offered to discuss "supportive measures"—a term of art designed to "restore or preserve equal access" and "protect the safety of all parties." (Exhibit B-5, Exhibit Z-c). However, nineteen hours later, Ms. Simpson reversed her jurisdictional determination, stating the Title IX Office "does not have jurisdiction over your report and cannot take action or provide assistance as requested" because the conduct did not meet the definitions of prohibited conduct "even if proven to be true." (Exhibit B-6).
+
+Crucially, no new factual information entered the record between these two communications. (SUMF 7). The only intervening events were three emails from Plaintiff demanding written communication and citing federal regulations—activities that are protected under 34 C.F.R. § 106.71. (SUMF 5, 7).
+
+Third, Ms. Simpson failed to perform any of the five mandatory obligations under 34 C.F.R. § 106.44(a), including failing to promptly contact the Plaintiff to discuss supportive measures or inform him of their availability. (SUMF 10). She further failed to offer appeal rights or provide simultaneous written notice to the respondent as required by § 106.45. (SUMF 9).
+
+Unlike the university in *McAvoy v. Dickinson College*, which maintained "ongoing communication and support" despite delays, (No. 23-2939 (3d Cir. Aug. 16, 2024)), Duquesne University’s response consisted exclusively of requests for meetings and jurisdictional disclaimers. (SUMF 8). Such a failure to act on known safety threats is "clearly unreasonable." *Davis*, 526 U.S. at 648; *see also Hall v. Millersville University*, No. 19-3275 (3d Cir. Jan. 11, 2022) (finding that failure to forward reports to the Title IX Coordinator can constitute a clearly unreasonable response).
+
+**IV. The University’s Indifference Denied Plaintiff Equal Educational Access**
+
+The University’s deliberate indifference resulted in a severe denial of educational opportunities. Because the University refused to implement basic supportive measures—such as a no-contact order, registrar separation, or emergency housing—Plaintiff was forced into a state of homelessness and extreme financial instability. (Exhibit A, Bank records).
+
+This instability directly derailed Plaintiff's academic progress. External Faculty Witness declared that Plaintiff's "education and research have been severely derailed by his housing instability and the conflict with his former roommate." (Exhibit C). Furthermore, the lack of protective measures prevented Plaintiff from safely attending in-person seminars, as evidenced by a September 17, 2025, encounter where the harasser was "literally waiting outside" of Plaintiff's classroom, causing "genuine distress" and requiring "hours of recovery time." (Exhibit C).
+
+Treating Physician confirmed that the resulting homelessness "likely worsens his mental health conditions" and "is expected to negatively impact his graduate education." (Exhibit F). By failing to provide the "mandatory, non-punitive, [and] individualized" supportive measures required by Title IX (Exhibit Z-c), Defendant effectively foreclosed Plaintiff's ability to participate in campus life and pursue his doctoral degree.
+
+**Conclusion**
+
+Defendant had actual knowledge of severe harassment, responded with a clearly unreasonable "jurisdiction flip" and a total failure to provide mandated supportive measures, and consequently deprived Plaintiff of equal access to his education. Accordingly, Defendant is liable for deliberate indifference under Title IX.

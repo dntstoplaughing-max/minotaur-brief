@@ -1,0 +1,59 @@
+**ARGUMENT**
+
+Plaintiff David Mullins satisfies all five elements of a failure-to-accommodate claim under Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, and the Americans with Disabilities Act, as incorporated through the same substantive standard. The Supreme Court recently confirmed in *A.J.T. v. Osseo Area Schools*, 605 U.S. ___ (2025), that "schoolchildren bringing ADA and Rehabilitation Act claims related to their education are not required to make a heightened showing of 'bad faith or gross misjudgment' but instead are subject to the same standards that apply in other disability discrimination contexts." This Court therefore applies ordinary failure-to-accommodate analysis.
+
+**A. Plaintiff Is a Qualified Individual with a Disability**
+
+Plaintiff David Mullins is a doctoral candidate in good academic standing with no disciplinary record. (TRO Tr. at *:*; SJ 7.2.) Treating Physician, Plaintiff's treating physician, has diagnosed Plaintiff with ADHD and depression, and has documented that these conditions are "likely worsens [sic] his mental health conditions" and that "worsening his mental health conditions is expected to negatively impact his graduate education." (Exhibit F, Oct 1 Letter.) Plaintiff is therefore an individual with a disability within the meaning of Section 504 and the ADA.
+
+**B. Defendant Had Adequate Notice of Plaintiff's Disability and Need for Accommodation**
+
+Under *Taylor v. Phoenixville School District*, 184 F.3d 296 (3d Cir. 1999), "an employer who has received adequate notice of an employee's disability and desire for accommodations, cannot fail to engage the employee in the interactive process." The same standard applies in the educational setting for Section 504 claims. *Osseo*, 605 U.S. ___.
+
+Plaintiff provided Defendant with medical documentation from Treating Physician stating: "I am a physician treating David Mullins. He's informed me he does not feel safe around a specific individual on campus, and from what he's described to me, I believe its reasonable for him to have this fear." (Exhibit F, Aug 13 Letter.) This documentation was provided directly to Defendant. Treating Physician further recommended "all measures to protect him from his abuser and to provide stable housing be made" to "benefit and protect his mental health and his performance in his graduate program." (Exhibit F, Oct 1 Letter.)
+
+Defendant's receipt of this documentation is not disputed. Indeed, Defendant's own departmental chair, Dr. Daniel Selcer, acknowledged Plaintiff's medical concerns and conditioned continued Zoom access on Plaintiff's engagement with university offices. (Exhibit I, Aug 25 Email; Exhibit J, Sep 3 Email.) This constitutes actual knowledge of Plaintiff's disability-related limitations and the need for accommodation.
+
+**C. Plaintiff Requested a Reasonable Accommodation**
+
+On multiple occasions, Plaintiff requested Zoom access for class participation as a medically necessary accommodation. (Exhibit I, Aug 25 Email; Exhibit I-1, Sep 2 Email; Exhibit W, Oct 6 Email.) The requested accommodation—remote attendance via Zoom—was neither unprecedented nor operationally burdensome. Faculty D in the same Philosophy Department already "keep[s] a Zoom meeting running" for comparable graduate coursework, instructing students that "if you are not feeling well, please attend that session remotely." (Exhibit N, Faculty D Syllabus.) No university policy or departmental policy prohibits individual student Zoom access; the Faculty Handbook governs "faculty course delivery modality, not individual student attendance accommodations." (Faculty Handbook 2025-2026, pp. 10-11; SJ 7.3.)
+
+The *Oross* court confronted an analogous situation: "University applied blanket no-remote policy with no written basis, no individualized assessment of plaintiff's request." *Oross v. Kutztown University*, No. 21-5032 (E.D. Pa. July 25, 2023). Here, as in *Oross*, Defendant had no written policy prohibiting the requested accommodation—and indeed, Zoom was already in active use in the same department.
+
+**D. Defendant Denied the Reasonable Accommodation Through Its Refusal to Engage in the Interactive Process and Ultimate Termination of Zoom Access**
+
+Defendant's response to Plaintiff's accommodation request failed every requirement of the interactive process established under *Taylor*:
+
+**1. No Individualized Assessment Was Conducted**
+
+Selcer testified under oath that his objection to Zoom was based on personal preference, citing that Zoom "divides attention" and a post-COVID departmental finding—but "could not identify any written policy, pedagogical study, or departmental standard supporting denial." (TRO Tr. at *:*.) This is precisely the type of ad hoc, unsubstantiated denial that *Oross* found to be "interference with the interactive process" that rendered the accommodation request "dead on arrival." *Oross*, No. 21-5032.
+
+**2. No Interactive Process Occurred**
+
+As the undisputed facts establish, "no interactive process was conducted. Defendants did not assess Plaintiff's specific limitations, evaluate possible accommodations, discuss alternatives with Plaintiff, or involve disability services." (SJ 7.2.) Under *Taylor*, a defendant who has "received adequate notice of an employee's disability and desire for accommodations cannot fail to engage the employee in the interactive process of finding accommodations." 184 F.3d at 312.
+
+**3. The Accommodation Provided Was Conditional, Time-Limited, and Retaliatory**
+
+On August 25, 2025, Selcer "imposed a three-week countdown on Plaintiff's Zoom access, after which Plaintiff would be required to attend in person regardless of medical documentation." (Exhibit I, Aug 25 Email; Exhibit J, Sep 3 Email.) This was "a conditional, time-limited measure designed to expire and coerce meeting attendance." (Exhibit I-1, Sep 2 Email.) A conditional accommodation that requires the disabled individual to forfeit their accommodation after a fixed period is no accommodation at all—it is a temporary reprieve that preserves the underlying denial.
+
+**4. The Accommodation Was Ultimately Terminated Without Basis**
+
+On October 17, 2025, after Plaintiff had been attending via Zoom with Professor Faculty C's direct authorization (Exhibit W, Oct 6 Email), Selcer unilaterally terminated remote access, claiming Faculty C "did not identify a compelling reason to continue it." (Exhibit V; Exhibit Q.) However, Faculty C himself was "confused, unaware of prior authorization," and had never been asked to evaluate a "compelling reason" test. (Exhibit Q, Oct 17 Email; Exhibit W, Oct 17 Email.) Selcer "went to a professor who had already authorized Zoom, reframed it as a 'compelling reason' test Faculty C never knew he was administering, and reported the result as Faculty C's independent judgment." (Exhibit Q.)
+
+**5. Defendant Demonstrated a Pattern of Denial with No Articulable Basis**
+
+Colleague A, another student in Selcer's Graduate Teaching Seminar, separately requested Zoom access. Selcer "denied her request and told her he 'can't explain why' Zoom was not available—demonstrating a pattern of denial with no articulable basis." (Exhibit L.) This pattern confirms that Defendant's denial was not based on individualized assessment but on an unwritten, ad hoc preference for in-person attendance that effectively functioned as a blanket prohibition—precisely the type of conduct *Oross* found unlawful.
+
+Under *Taylor*, the Court examines whether "the employer did not make a good faith effort to assist the employee in seeking accommodations." 184 F.3d at 312. Here, Defendant made no effort whatsoever. It imposed a time-limited conditional access, refused to engage in any interactive process, and ultimately terminated access through an improper process that circumvented the professor who had authorized the accommodation.
+
+**E. Plaintiff Suffered Resulting Harm**
+
+Plaintiff's ability to participate in and benefit from his education was directly impaired by Defendant's denial of his requested accommodation. Treating Physician documented that encountering his abuser on campus "would be highly likely to worsen his medical condition, and could impair his academic functioning." (Exhibit F, Aug 13 Letter.) External Faculty Witness confirmed that Plaintiff "cannot focus on his PhD research when he is experiencing encounters that cause this level of distress and require hours of recovery time." (Exhibit C, Supplemental Declaration.)
+
+On September 17, 2025, Plaintiff's fear was realized: "Respondent had been waiting outside his Philosophy seminar classroom." (Exhibit C, Facebook Messenger Conversation.) Plaintiff's delayed response of "better now" to Professor External Faculty Witness's inquiry "made [External Faculty Witness] concerned that the encounter had been more serious than [Plaintiff's] initial brief report suggested." (Exhibit C, Supplemental Declaration.)
+
+Plaintiff was ultimately removed from his classes, unable to attend in person due to safety concerns and unable to attend remotely due to Defendant's denial of accommodation. (Exhibit Q; Exhibit V; Exhibit W.) Under *Taylor*, "an employer who acts in bad faith in the interactive process will be liable if the jury can reasonably conclude that the employee would have been able to perform the job with accommodations." 184 F.3d at 315. The same standard applies here: Plaintiff could have continued his education with the simple accommodation of Zoom access—an accommodation already in use in his own department—but for Defendant's refusal to provide it.
+
+**Conclusion**
+
+Defendant failed to engage in any interactive process, denied a reasonable accommodation that was already available in the same department, and ultimately terminated that accommodation through a procedurally improper process. Plaintiff has established each element of a failure-to-accommodate claim under Section 504 and the ADA. *See Osseo*, 605 U.S. ___; *Taylor*, 184 F.3d at 312; *Oross*, No. 21-5032.

@@ -1,0 +1,31 @@
+
+
+**ARGUMENT**
+
+**COUNT II: RETALIATION UNDER TITLE IX (20 U.S.C. § 1681)**
+
+Plaintiff David Mullins brings this claim against Defendant Duquesne University of the Holy Spirit, alleging retaliation in violation of Title IX. The evidence demonstrates that Duquesne University retaliated against Mullins for engaging in protected activity, including reporting sex-based harassment and seeking Title IX protections.
+
+**Protected Activity**
+
+Mullins engaged in continuous protected activity from June 30, 2025, through the present, including reporting sex-based harassment to Dean Wasilko (June 30), filing a formal Title IX complaint (July 24), and filing a complaint with the Office for Civil Rights (OCR) (July 26) (Exhibits B-0, B-0A, B-3A). These actions are protected under Title IX, as they involve reporting and opposing sex-based harassment. (See Doe v. University of the Sciences, 961 F.3d 203, 208 (3d Cir. 2020) ("Demanding compliance with Title IX is protected activity")).
+
+**Adverse Action**
+
+Duquesne University took several adverse actions against Mullins, including:
+
+1. Removing OCR from the CC line on emails, despite Mullins's request to keep OCR informed (Exhibit B-3);
+2. Failing to provide supportive measures, including housing assistance, despite Mullins's repeated requests (Exhibits B-0, B-5, B-5A);
+3. Threatening Mullins with disciplinary charges for emailing university officials about his safety concerns (Exhibit B-7);
+4. Revoking Mullins's Zoom access, despite prior authorization by Professor Faculty C (Exhibit Q);
+5. Reassigning Mullins's TA position and threatening his stipend (Exhibits X-7, X-8).
+
+These actions would deter a reasonable person from engaging in protected activity. (See Jalil v. Avdel Corp., 873 F.2d 701, 706 (3d Cir. 1989) ("Unusually suggestive" temporal proximity between protected activity and adverse action is sufficient to establish causation)).
+
+**Causal Connection**
+
+The evidence demonstrates a causal connection between Mullins's protected activity and the adverse actions taken by Duquesne University. For example, the removal of OCR from the CC line occurred just two days after Mullins filed his OCR complaint (Exhibit B-3). Similarly, the revocation of Mullins's Zoom access occurred just two days after he testified at the TRO hearing (Exhibit Q). This temporal proximity, combined with the context of the actions, establishes a causal connection between Mullins's protected activity and the adverse actions. (See Lauren W. ex rel. Jean W. v. DeFlaminis, 480 F.3d 259, 267 (3d Cir. 2007) ("Temporal proximity combined with contextual evidence of retaliatory animus is sufficient to establish causation")).
+
+**Conclusion**
+
+In conclusion, the evidence demonstrates that Duquesne University retaliated against Mullins for engaging in protected activity under Title IX. The university's actions, including removing OCR from the CC line, failing to provide supportive measures, threatening disciplinary charges, revoking Zoom access, and reassigning Mullins's TA position, would deter a reasonable person from engaging in protected activity. The causal connection between Mullins's protected activity and the adverse actions is established through temporal proximity and contextual evidence. Therefore, Mullins's retaliation claim under Title IX should survive summary judgment.

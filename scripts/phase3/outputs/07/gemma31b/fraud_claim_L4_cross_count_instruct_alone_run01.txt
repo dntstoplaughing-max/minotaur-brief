@@ -1,0 +1,37 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment must be denied because genuine disputes of material fact exist regarding every element of Plaintiff’s fraud claim. Under Pennsylvania law, fraud requires: (1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness; (4) with the intent of misleading another into relying on it; (5) justifiable reliance; and (6) resulting injury proximately caused by the reliance. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994). As demonstrated below, Defendants’ conduct satisfies these elements.
+
+**I. Defendants Fabricated a "Meeting Requirement" to Obstruct Federally Mandated Supportive Measures**
+
+Defendants contend that their communications were consistent with policy and intended to help. However, the record reveals a systematic campaign of false representations. Between June 30 and August 14, 2025, four defendants (Simpson, Wasilko, Sawa, and Selcer) made 36 nearly identical false statements claiming that meetings were a prerequisite for receiving Title IX supportive measures. (Fact 1). 
+
+Specifically, Dean Wasilko stated on July 25, 2025, that the University “cannot assist you or provide you with further guidance unless you are willing to engage with the appropriate offices.” (Ex. B-2). This representation was material because it conditioned Plaintiff’s access to safety and housing—essential for his education—on a requirement that exists neither in 34 C.F.R. Part 106 nor in TAP 61. (Fact 1).
+
+The falsity and scienter of this representation are proven by Alicia Simpson’s own sworn testimony. Simpson admitted at the TRO hearing that she made her jurisdictional determination “entirely on the written record” with “no meeting” prior to the decision, and acknowledged she “could have emailed” Plaintiff for clarification but “chose not to.” (Fact 5). This admission proves that the “essential” meeting requirement touted in Exhibits B-1 through B-5 was a fabrication used to delay or deny assistance. Under *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991), such misrepresentations uttered with the intent to induce action (or inaction) constitute fraud.
+
+**II. Dean A’s TAP 33 Analysis and Consultation with Dr. Selcer Constitute Culpable Misrepresentation**
+
+Defendants argue that Dean A’s determination that Plaintiff was not a “Covered Party” and that no “Conflict of Interest” existed under TAP 33 was a correct application of policy. (Dkt. 34 at 6-8). This argument is belied by the facts.
+
+First, Dean A’s process for determining the absence of a conflict was fundamentally flawed: she consulted the very party whose conflict was being questioned. (Ex. K-2). On October 22, 2025, Dean A stated, “I did need to consult Dr. Selcer as instructor... Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled.” (Ex. K-2). Consulting a named defendant in a federal civil case to determine if his role as the Plaintiff's sole instructor in a required course is a conflict is a reckless disregard for the truth and the integrity of the process.
+
+Second, Dean A’s bypass of the independent review required by TAP 33 § IV.4 (Fact 9) demonstrates that her “analysis” was not a good-faith application of policy, but a pretext to maintain the status quo. When Plaintiff corrected her within 90 minutes using specific policy citations, Dean A’s summary response of “no change” (Ex. K-5) further establishes a reckless disregard for the material facts of the university’s own policies.
+
+**III. Defendants Cannot Evade Liability by Claiming a Lack of Fiduciary Duty or Justifiable Reliance**
+
+Defendants argue that Dean A’s silence on the August 25 email was not actionable because no fiduciary relationship existed. (Dkt. 34 at 9). This is a misstatement of Pennsylvania law. Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442 (1947), where a party is the “natural and proper source of information,” nondisclosure of a material fact is equivalent to a fraudulent misrepresentation. As the Dean of the College of Liberal Arts, Dean A is the natural and proper source for the interpretation and application of TAP 33.
+
+Furthermore, Defendants argue that Plaintiff’s admission that he “recognized” the error on July 24 precludes justifiable reliance. (Dkt. 34 at 8-9). This is legally incorrect. Reliance is presumed from materiality where a party would not have entered the transaction (or accepted the conditions) had the truth been known. *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). 
+
+Plaintiff’s “recognition” of the fraud did not cure the fraud; rather, it highlighted the trap. Plaintiff remained subject to the consequences of Defendants' misrepresentations, including the “three-week Zoom countdown” imposed by Dr. Selcer (Ex. I), which was conditioned on Plaintiff “fully engage[ing]” with the very offices that had fabricated the meeting requirement. (Ex. I). Plaintiff’s reliance on the *necessity* of these processes—and the subsequent harm caused by their falsity—is a genuine dispute of material fact.
+
+**IV. Plaintiff’s Claims are Consistent and Not Subject to Academic Deference**
+
+Defendants claim that Plaintiff’s allegations are internally inconsistent because he alleges fraud both when Defendants responded (Selcer) and when they did not (Dean A). (Dkt. 34 at 5). To the contrary, these are two distinct forms of fraud recognized under Pennsylvania law: (1) intentional false statements (e.g., Selcer’s falsified meeting summary and fabricated requirements in Ex. I) and (2) the concealment of material facts (e.g., Dean A’s refusal to apply TAP 33 and her silence regarding the required independent review). *Moser*, 589 A.2d at 681.
+
+Finally, Defendants’ reliance on *Jain v. Carnegie Mellon Univ.* to argue for deference to “academic judgment” is misplaced. (Dkt. 34 at 8 n.2). Academic deference applies to pedagogical and curricular decisions, not to the fraudulent misrepresentation of federal law or university policy. There is no “academic judgment” involved in falsely claiming that 34 C.F.R. Part 106 requires a meeting before supportive measures can be provided, nor is there academic deference for the fabrication of a meeting summary. (Ex. I).
+
+**Conclusion**
+
+Because there are genuine disputes of material fact regarding the falsity of the meeting requirements, the recklessness of Dean A’s conflict-of-interest analysis, and the resulting damages to Plaintiff’s education and health (Ex. F), summary judgment is inappropriate.

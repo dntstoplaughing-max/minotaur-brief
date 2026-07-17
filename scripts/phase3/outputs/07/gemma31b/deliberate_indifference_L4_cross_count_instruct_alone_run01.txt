@@ -1,0 +1,53 @@
+**ARGUMENT**
+
+To establish a claim for damages under Title IX, a plaintiff must demonstrate that: (1) the institution had actual knowledge of the harassment; (2) the harassment was so severe, pervasive, and objectively offensive that it deprived the victim of access to educational opportunities; and (3) the institution’s response was "clearly unreasonable in light of the known circumstances," amounting to deliberate indifference. *Davis v. Monroe County Board of Education*, 526 U.S. 629, 648 (1999). Under the pleading standard adopted by the Third Circuit, the alleged facts must support a "plausible inference" that the institution discriminated on the basis of sex. *Doe v. University of the Sciences*, 961 F.3d 203, 207 (3d Cir. 2020).
+
+**I. Defendant Had Actual Knowledge of the Harassment**
+
+Actual knowledge is triggered when notice is provided to the institution's Title IX Coordinator or any official with the authority to institute corrective measures. *See* Exhibit Z-e (Slide 30). Here, Plaintiff provided multiple notices to high-level officials:
+
+First, on June 30, 2025, Plaintiff reported a physical confrontation and pursuit by a fellow student to Dr. Adam Wasilko, Associate Vice President for Student Life and Dean of Students (Exhibit B-0). As a Dean of Students, Dr. Wasilko is an official with the authority to institute corrective measures. *See* Exhibit Z-e (Slide 32).
+
+Second, on July 20, 2025, Plaintiff notified Dr. Daniel Selcer, Department Chair, that he was "scared" of the respondent and feared for his safety in any context where the respondent knew his whereabouts (Exhibit R).
+
+Third, on July 24, 2025, Plaintiff sent a formal Title IX escalation to Alicia Simpson, the University’s Title IX Coordinator (Exhibit B-1). Under the University's own policy, the Title IX Coordinator is the primary point of contact for reports of sex discrimination and sexual harassment. *See* Exhibit P.
+
+Finally, on July 26, 2025, Plaintiff escalated the matter to the University President, Provost, and Legal Affairs (Exhibit B-3A). Consequently, Defendant had actual knowledge of the harassment through multiple authoritative channels.
+
+**II. The Harassment Was Severe, Pervasive, and Objectively Offensive**
+
+The harassment suffered by Plaintiff was not a mere "roommate communication" problem, but a series of escalating threats. On June 30, 2025, the respondent aggressively followed Plaintiff through their apartment, yelling and using obscenities, and explicitly stated, "I'm coming up," as she pursued him toward his bedroom (Exhibit B-0, Exhibit D). Plaintiff was forced to lock himself in his room to ensure his safety (Exhibit B-0).
+
+This incident was part of a broader pattern of "bullying, manipulative, and cruel behaviors," including lockouts and manipulation of essential utilities (Exhibit S, Exhibit D). The severity of the harassment is further evidenced by Plaintiff’s reasonable fear that the respondent possesses an unregistered firearm (Exhibit I). This fear was clinically validated by Treating Physician, who stated it was "reasonable for [Plaintiff] to have this fear" and that sharing a living space with the respondent would "impair his academic functioning." (Exhibit F).
+
+**III. Defendant’s Response Was Clearly Unreasonable and Deliberately Indifferent**
+
+A university's response is deliberately indifferent if it is "clearly unreasonable in light of the known circumstances." *Davis*, 526 U.S. at 648. While minimal or belated efforts do not always establish indifference, they may be clearly unreasonable as a matter of law. *Foster v. Board of Regents of University of Michigan*, No. 19-1314 (6th Cir. 2020).
+
+Defendant’s response in this case was not merely minimal; it was an active failure to provide federally mandated protections.
+
+**A. Failure to Provide Supportive Measures**
+Under 34 C.F.R. § 106.30, supportive measures—such as no-contact orders and changes in housing—are non-disciplinary, non-punitive, and must be offered to restore or preserve equal access to education. *See* Exhibit Z-c (Slides 38-40). Despite Plaintiff’s urgent requests for emergency housing on June 30 (Exhibit B-0) and July 21 (Exhibit S), Dean Wasilko denied assistance on July 24, stating that available rooms in first-year buildings were "not helpful at this juncture." (Exhibit G).
+
+Between June 30 and August 14, 2025—a period of 45 days—Defendant provided zero supportive measures. (Statement of Undisputed Material Facts ¶ 8). Instead, officials consistently conditioned assistance on Plaintiff’s willingness to attend meetings (Exhibits B-2, B-3, B-5).
+
+**B. The "Jurisdictional Flip" and Regulatory Non-Compliance**
+The conduct of Title IX Coordinator Alicia Simpson demonstrates a clear lack of reasonable care. On August 13, 2025, Simpson acknowledged that Plaintiff's allegations "warrant further information gathering and review" and offered to discuss "supportive measures"—a specific Title IX term of art. (Exhibit B-5). 
+
+However, nineteen hours later, after Plaintiff demanded written communications and restored the Office for Civil Rights (OCR) to the email chain (Exhibit B-5A), Simpson reversed her position. She claimed the Title IX Office lacked jurisdiction because the conduct did not meet the definitions of prohibited conduct "even if proven to be true." (Exhibit B-6). No new factual information had entered the record between these two emails; the only intervening event was Plaintiff's protected activity in demanding regulatory compliance. (Statement of Undisputed Material Facts ¶ 7).
+
+Furthermore, Simpson failed to perform any of the five mandatory obligations under § 106.44(a), including failing to inform Plaintiff of the availability of supportive measures or the process for filing a formal complaint. (Statement of Undisputed Material Facts ¶ 10). She also failed to provide the required appeal rights or simultaneous notice to the respondent. (Statement of Undisputed Material Facts ¶ 9). Such a wholesale failure to follow federal regulations and internal policy is "clearly unreasonable." *See Hall v. Millersville University*, No. 19-3275 (3d Cir. 2022) (holding that failure to forward reports or contact victims can constitute a clearly unreasonable response).
+
+**IV. Denial of Equal Educational Access**
+
+The University's deliberate indifference resulted in a profound denial of Plaintiff's access to educational opportunities.
+
+First, the failure to provide supportive housing left Plaintiff homeless from June 30 through October 2025, with his bank account falling to a negative balance. (Exhibit A, Statement of Undisputed Material Facts ¶ 11). External Faculty Witness declared that Plaintiff's education and research were "severely derailed" by this housing instability. (Exhibit C).
+
+Second, the University's refusal to implement a no-contact order or registrar-enforced separation created a hostile environment. On September 17, 2025, Plaintiff encountered the respondent waiting outside his classroom, an event that caused severe distress and required "hours of recovery time." (Exhibit C).
+
+Third, the Department of Philosophy compounded this denial of access by imposing a "countdown" on Plaintiff's remote participation. Dr. Daniel Selcer authorized Zoom access for only three weeks, conditioning it on Plaintiff "fully engaging" with the very offices that had already disclaimed jurisdiction and threatened him with conduct charges. (Exhibit I, Exhibit J). This "countdown clock" functioned as a coercive tool rather than a supportive measure, forcing Plaintiff to choose between his physical safety and his academic standing.
+
+**CONCLUSION**
+
+Defendant had actual knowledge of severe harassment that physically and mentally endangered Plaintiff. In response, Defendant ignored federal mandates for supportive measures, issued a contradictory jurisdictional dismissal immediately following Plaintiff's demand for compliance, and left Plaintiff homeless and distressed. This response was clearly unreasonable and constitutes deliberate indifference under Title IX.

@@ -1,0 +1,86 @@
+**ARGUMENT**
+
+Plaintiff David Mullins respectfully submits that Defendants' Motion for Summary Judgment on Count V—Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied because genuine disputes of material fact exist on every essential element of the claim. Defendants' five arguments each founder on the record evidence, which demonstrates coordinated action, unlawful means, overt acts, malice, and resulting harm.
+
+**I. Genuine Disputes of Material Fact Exist on All Elements of Civil Conspiracy Under Pennsylvania Law**
+
+To establish a civil conspiracy under Pennsylvania law, Plaintiff must show: (1) an agreement between two or more actors; (2) an unlawful act or lawful act by unlawful means; (3) overt acts in furtherance; (4) malice, i.e., intent to injure; and (5) resulting harm. *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472-73 (1979). Direct evidence is not required; circumstantial evidence suffices. *Desert Palace, Inc. v. Costa*, 539 U.S. 90, 99-101 (2003). Each element is plainly disputed on this record.
+
+**A. The Record Evidence of Agreement Is "Written, Not Circumstantial": Dean Admits She and Selcer Acted Jointly.**
+
+Defendants contend that Dean A's consultation with Selcer was "routine academic administration." (Dkt. 34 at 10). The evidence proves otherwise.
+
+Exhibit K-2 is Dean A's October 22, 2025 email: *"I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar."* This is a written admission of joint determination—"both of us, together"—not independent review.
+
+Critically, Dean A consulted Selcer about a conflict-of-interest disclosure **concerning Selcer himself**, seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.; Counter-Statement Fact ¶3). TAP 33 § IV.4 requires **independent review** of conflict-of-interest disclosures. Consulting the conflicted party is not independent review under any reading of the policy. (Counter-Statement Fact ¶4).
+
+This alone creates a genuine dispute on agreement. *Thompson Coal* requires only a "combination or agreement"—it need not be formal. *Thompson Coal*, 412 A.2d at 472. Dean A and Selcer's written concurrence communicates coordination, not independent judgment, and directly contradicts Defendants' characterization.
+
+**B. The Consultation Reflected Malice, Not Help: Timing and Proximity to Protected Activity Establish Intent to Injure.**
+
+Defendants argue the consultation "evidenced intent to help, not malice," because it included "assurances of fair treatment and offers of academic support." (Dkt. 34 at 10). The record contradicts that characterization.
+
+The October 22 email was sent **seven days after Plaintiff cross-examined Selcer under oath**. (Exhibit K-2; TRO Tr.). An email that reaffirms enrollment with the very person Plaintiff just cross-examined—who is the subject of a conflict-of-interest disclosure—is not an act of support but an act of consolidation of power.
+
+Moreover, Selcer's September 3 "final directive" (Exhibit J) had already conditioned Plaintiff's remote attendance on "fully engaging" with offices that had already determined they had no jurisdiction (Exhibit B-6). Dean A's October 22 email enforced that directive, requiring Plaintiff to "return to class today" or fail. A "helpful" offer would not impose the same condition that the conflicted party created.
+
+The record also shows that **four defendants systematically removed OCR and senior administrative oversight** from correspondence at critical junctures, preventing Plaintiff from receiving corrective information. Selcer removed Dean A herself from the September 3 "final directive." (Exhibits B-3 through B-7; Selcer Sept 3 email). This pattern of removing oversight is not "help"—it is a concerted effort to isolate Plaintiff from independent review.
+
+Under *Thompson Coal*, "proof of malice, i.e., an intent to injure, is essential." *Id.* at 472. The proximity of Dean A's consultation to Plaintiff's TRO cross-examination, combined with systematic removal of oversight, raises a genuine dispute on malice. *Desert Palace* confirms that circumstantial evidence is sufficient to prove intent. 539 U.S. at 100.
+
+**C. Ample Underlying Torts Support the Conspiracy: False Statements and Policy Violations Are Unlawful Acts.**
+
+Defendants argue no underlying tort exists because "Dean A's TAP 33 analysis was correct on the policy's plain terms." (Dkt. 34 at 10). This is a factual assertion disputed by the record.
+
+The underlying torts committed by co-conspirators include: **36 false statements fabricating a meeting requirement** (Conspiracy 1); **systematic OCR removal across four actors** (Conspiracy 2); and **Selcer's fabrication of "performance issues" contradicted by the source he cited on the same day** (Conspiracy 3). (Counter-Statement Fact ¶9).
+
+Exhibit X-8 shows Selcer's February 13, 2026 email stating: *"I note that there have now been performance issues raised by two of the three faculty members for whom you have held TA assignments."* Yet Exhibit X-6 (the February 10 meeting transcript) contains **no "performance issues" language whatsoever**—Selcer framed the situation as an interpersonal issue he needed to understand, used no threat language, and confirmed Faculty B had no stipend authority.
+
+Exhibit X-7 shows Faculty B herself writing on February 13: *"I have asked Dan to reassign your TA position (he says this will not affect your funding). My office door is always open to you."* A genuine performance issue would not prompt an open-door invitation and a statement that funding is not affected.
+
+Exhibit X-4 (Feb 5) shows Faculty B asked Plaintiff not to come to class because *she* was "upset"—not because of any performance deficiency. Selcer's February 13 email transforms this into "performance issues" and threatens stipend suspension through 2029.
+
+Under *Thompson Coal*, once a defendant joins a conspiracy, that defendant is jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy. 412 A.2d at 472-73. Dean A need not have personally committed these acts. The fabrications, false statements, and policy violations are unlawful acts sufficient to support the conspiracy.
+
+**D. Plaintiff's Engagement with University Processes Is Irrelevant to Whether Defendants Conspired.**
+
+Defendants argue Plaintiff's claim "reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement." (Dkt. 25 at 6). This argument misstates the legal standard. Whether Plaintiff engaged with university processes is immaterial to whether Defendants **agreed** to harm him through unlawful means.
+
+The record shows Plaintiff **did** engage—he sent multiple escalations directly to Dean A citing federal law, identifying specific violations, and requesting intervention. Dean A did not intervene. (Exhibits K-2, K-5; Counter-Statement Fact ¶8). Dean A's silence, combined with her active coordination with Selcer, furthered the conspiracy's objective of maintaining control without independent oversight.
+
+The meeting letters (Exhibits B-1 through B-7) show a coordinated pattern: Wasilko, Sawa, and Simpson all insisted Plaintiff attend meetings. When Plaintiff did not attend, Sawa threatened conduct charges (Exhibit B-7). When Plaintiff filed OCR complaints, the same offices determined they had no jurisdiction (Exhibit B-6). This is not "refusal to engage"—it is a conspiracy to manufacture compliance hurdles while systematically denying the remedies sought.
+
+**E. Selcer's Continued Role as Instructor Is Not a Defense: Overt Acts Include His Post-Protected Activity Conduct.**
+
+Defendants argue "Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity—therefore not an overt act in furtherance of conspiracy." (Dkt. 34 at 10 n.3). This argument misses the point.
+
+The overt acts in furtherance of the conspiracy are not Selcer's continued role as instructor, but **what Selcer did in that role** after Plaintiff's protected activity. Those acts include:
+
+- The September 3 final directive conditioning remote attendance on engagement with offices that had no jurisdiction (Exhibit J);
+- Orchestrating the removal of Plaintiff's Zoom access to Faculty C's class on October 17, 2025, by reframing Faculty C's pre-existing authorization as a "compelling reason" test Faculty C never knew he was administering (Exhibit Q);
+- Fabricating "performance issues" on February 13, 2026, that did not exist in the February 10 meeting (Exhibits X-6, X-8);
+- Threatening stipend suspension through 2029 based on those fabricated issues (Exhibit X-8);
+- Coordinating with Dean A on the October 22 conflict-of-interest determination despite being the conflicted party (Exhibit K-2).
+
+Each of these is a distinct overt act taken **after** Plaintiff engaged in protected activity. The fact that Selcer was Plaintiff's instructor before the protected activity does not immunize his subsequent retaliatory acts. *See Desert Palace*, 539 U.S. at 99 (Title VII retaliation is not negated by prior relationship).
+
+**II. Genuine Disputes of Material Fact on Every Element Preclude Summary Judgment on § 1985 Conspiracy (Count V)**
+
+The same evidence supporting the Pennsylvania common law conspiracy also supports § 1985(3). The coordinated removal of OCR oversight, the fabrication of performance issues, and the joint determination by the conflicted party all demonstrate a conspiracy to deprive Plaintiff of his rights.
+
+**III. Conclusion**
+
+Defendants ask this Court to accept their characterization of events: that an email from a Dean stating "both Dr. Selcer and I strongly concur" is "routine administration"; that consulting the conflicted party is "independent review"; that fabricating performance issues three days after a meeting that did not contain them is "helpful"; and that systematic removal of OCR oversight is "engagement with university processes."
+
+These are not undisputed facts. They are hotly contested factual assertions, each contradicted by documentary evidence. The jury must decide whether Dean A's consultation with Selcer constituted independent review or joint action; whether the "performance issues" threat was fabricated; and whether the coordination across four defendants evidenced intent to help or intent to injure.
+
+Because genuine disputes of material fact exist on every element of civil conspiracy—agreement, unlawful act, overt acts, malice, and harm—summary judgment must be denied.
+
+Dated: _______________
+
+Respectfully submitted,
+
+David Michael Mullins
+Plaintiff, Pro Se
+PhD Candidate, Department of Philosophy
+Duquesne University

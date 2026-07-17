@@ -1,0 +1,79 @@
+# ARGUMENT
+
+## I. Genuine Disputes of Material Fact Preclude Summary Judgment on Plaintiff's Fraud Claim
+
+Defendants seek summary judgment on Count IV (Pennsylvania common law fraud) based on six arguments. Each fails because the record reveals genuine disputes of material fact on every element of fraud: (1) false representation, (2) scienter, (3) intent to induce reliance, (4) justifiable reliance, (5) proximate causation, and (6) damages. *See Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882, 887 (1994). Summary judgment must be denied.
+
+## II. Defendants' Arguments Rebutted
+
+### A. Dean A's TAP 33 Analysis Was Not Consistent with Plain Language; Genuine Disputes Exist Regarding Whether Dean A Made False Representations of Material Fact
+
+Defendants argue that Dean A's TAP 33 analysis "was consistent with the policy's plain language." (Dkt. 34 at 6-8.) The record flatly contradicts this assertion.
+
+**First**, TAP 33 defines "Covered Party" to include students, and the policy was designed to address conflicts of interest involving university personnel. (Exhibit K-5.) When Plaintiff disclosed that his instructor, Dr. Selcer, was a named defendant in his federal lawsuit—and that Selcer had imposed a retaliatory three-week Zoom countdown (Exhibit I) and directed him to "drop your requests for accommodation" (Exhibit J)—Dean A responded by *consulting the conflicted party himself*. (Exhibit K-2: "I did need to consult Dr. Selcer as instructor.") This circular consultation—asking the accused whether he has a conflict—is itself evidence that Dean A's subsequent denial of TAP 33's applicability was not made in good faith.
+
+**Second**, TAP 33 § IV.4 requires independent review of conflict-of-interest disclosures. Dean A bypassed this requirement entirely. (Exhibit K-5.) Plaintiff corrected Dean A within 90 minutes with specific policy citations (Exhibit K-2), yet Dean A responded "no change" within hours (Exhibit K-5). A jury could reasonably conclude this was not a good-faith reading but a predetermined outcome designed to protect Selcer and the University from the consequences of acknowledging a conflict.
+
+**Third**, the contention that an instructor-student evaluative relationship during litigation is "not a Conflict of Interest" defies common sense and the policy's own training materials. Exhibit Z-d defines a conflict of interest as "[a] conflict between the private interests and the official responsibilities of a person in a position of trust" and instructs that COI "must be avoided to protect process participants, ensure fairness, maintain the trust, integrity, and credibility of the Title IX process, comply with Title IX, avoid litigation." A reasonable jury could find that Selcer's status as a named defendant in litigation seeking to hold him liable for retaliation creates precisely the kind of "private interest" conflicting with his "official responsibility" to evaluate Plaintiff fairly.
+
+**Materiality** is established because the TAP 33 bypass directly affected Plaintiff's ability to complete his required teaching seminar—a condition for teaching in Fall 2026 (Exhibit K-2)—and because Plaintiff specifically relied on Dean A as the "proper source" for TAP 33 interpretation. *See Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759, 763 (1947) ("Where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation."); *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519, 528 (W.D. Pa. 2000) ("Reliance is presumed from materiality where a party would not have entered the transaction had the truth been known."). Dean A's misrepresentation that TAP 33 "does not apply" was material because it left Plaintiff trapped in an impossible position: remain in a course taught by his litigation adversary or withdraw and delay his degree.
+
+### B. Dean A's Silence and Affirmative Misrepresentations Were Actionable; No Fiduciary Relationship Required
+
+Defendants argue that "Dean A's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed." (Dkt. 34 at 9, citing *Sunquest Info. Sys.*, 40 F. Supp. 2d at 656.) This argument fails for multiple reasons.
+
+**First**, Pennsylvania law is clear that "the concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." *Moser v. DeSetta*, 589 A.2d 679, 682 (Pa. Super. 1991). Dean A did not remain silent; she made *affirmative misrepresentations*—first by claiming TAP 33 did not apply, and second by representing that consulting Selcer about his own conflict was appropriate. (Exhibits K-2, K-5.) These were not omissions; they were false statements.
+
+**Second**, even if Dean A's conduct could be characterized as silence, the "proper source" doctrine applies. As the Dean of the McAnulty College of Liberal Arts, Dean A was "naturally the proper source of information" regarding TAP 33's application. *Neuman*, 51 A.2d at 763. When Plaintiff disclosed his conflict of interest, he was entitled to rely on Dean A's interpretation. The Third Circuit has squarely held that "[t]he duty to investigate does not apply where the defendant is the natural and proper source of the information." *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604, 614 (3d Cir. 1995).
+
+**Third**, Defendants' reliance on *Sunquest* is misplaced. That case involved "sophisticated parties dealing at arm's length with equal access to information." *Id.* at 614. Here, Plaintiff is a doctoral candidate seeking policy guidance from the Dean who oversees his academic program. The power imbalance is stark. A university administrator's interpretation of university policy to a student is precisely the kind of "natural and proper source" relationship that creates a duty to speak truthfully.
+
+**Fourth**, Dean A's silence on the August 25 email—combined with her subsequent October 22 misrepresentations—constitutes a continuing course of fraudulent conduct. When Selcer falsely claimed in his August 25 summary (Exhibit I) that Plaintiff had agreed to conditions Plaintiff had not agreed to, and Dean A failed to correct this record despite being copied, and then *compounded* the misrepresentation on October 22 by rubber-stamping Selcer's conflict analysis, a jury could find these were not isolated errors but part of a coordinated effort to maintain the false narrative. *See Moser*, 589 A.2d at 682.
+
+### C. Plaintiff's "Immediate Recognition" Does Not Negate Justifiable Reliance; Genuine Disputes Exist
+
+Defendants argue that because Plaintiff "immediately recognized" Dean A's TAP 33 reading was wrong and "was no longer relying on Defendants' representations as of July 24, 2025," summary judgment is warranted. (Dkt. 34 at 8-9.) This argument misstates the record and the law.
+
+**First**, Defendants conflate two distinct time periods. Plaintiff's July 24 recognition referred to the *meeting-requirement* misrepresentations by Wasilko, Simpson, and Sawa—not to Dean A's October 22 TAP 33 misrepresentation. Plaintiff's fraud claim arises from multiple defendants' false statements across different time periods. The TAP 33 misrepresentation occurred on *October 22, 2025* (Exhibits K-2, K-5), three months after July 24. Plaintiff promptly corrected Dean A within 90 minutes, but that correction—and Dean A's refusal to change her position—does not eliminate the fact that Plaintiff relied on Dean A's authority when he initially submitted his conflict disclosure seeking guidance.
+
+**Second**, reliance is "justifiable" when the defendant is the proper source of information. *Neuman*, 51 A.2d at 763; *Duquesne Light*, 66 F.3d at 614. Plaintiff went to the Dean—the person with authority over TAP 33 determinations—seeking a remedy for an obvious conflict of interest. A jury could find that Plaintiff justifiably relied on Dean A's representation because: (a) Dean A was the decision-maker on TAP 33 matters; (b) Plaintiff had no reason to believe the Dean would knowingly apply the policy incorrectly; and (c) Plaintiff was a doctoral candidate, not a Title IX or conflicts-of-interest expert. *See Peerless Wall*, 85 F. Supp. 2d at 528.
+
+**Third**, even if Plaintiff immediately recognized a potential error, his recognition does not negate reliance. Plaintiff relied on Dean A's authority to *resolve* the conflict—not on the correctness of her TAP 33 analysis. When Dean A stated TAP 33 "does not apply," she was telling Plaintiff that no conflict existed and that there was no remedy available through proper channels. Plaintiff's recognition that Dean A's interpretation was *legally wrong* does not mean he was free to override the Dean's decision. He was stuck: Selcer remained his instructor, and the Dean had blessed that arrangement. A jury could find that Plaintiff's continued enrollment in Selcer's class—despite recognizing the conflict—was the direct result of Dean A's misrepresentation that no conflict existed.
+
+**Fourth**, the Third Circuit has held that fraud liability extends to third parties without privity "where reliance was specially foreseeable." *Woodward v. Dietrich*, 378 Pa. Super. 111, 548 A.2d 301, 308 (1988) (citing Restatement (Second) of Torts §§ 531, 533, 536). Dean A knew or should have known that her TAP 33 ruling would affect Plaintiff's academic status, his ability to complete his degree, and his exposure to an adversarial instructor. That reliance was both justifiable and foreseeable.
+
+### D. Plaintiff's Claims Are Not Internally Inconsistent; Each Defendant Made Distinct Fraudulent Misrepresentations
+
+Defendants argue that Plaintiff's claims are "internally inconsistent" because he alleges that "both responding to his emails (Selcer) and not responding (Dean A) constituted fraud." (Dkt. 34 at 5.) This is a false dichotomy that mischaracterizes the complaint.
+
+Plaintiff does not allege that "responding" and "not responding" are both fraudulent as a matter of form. Rather, Plaintiff alleges that *each defendant made specific false statements*:
+
+- **Simpson** falsely stated that a meeting was necessary to determine jurisdiction and offer supportive measures, then reversed course and denied jurisdiction without ever holding a meeting (Exhibits B-1, B-5, B-6; TRO Tr. at *:* [testifying she made her determination "entirely on the written record" with "no meeting"]).
+
+- **Wasilko** falsely stated that the University "cannot assist you or provide you with further guidance unless you are willing to engage" (Exhibits B-2, B-3)—a condition that appears nowhere in 34 C.F.R. Part 106 or TAP 61.
+
+- **Sawa** falsely stated that Plaintiff must "stop emailing" university officials and threatened conduct charges for seeking help (Exhibit B-7), despite federal regulations requiring recipients to maintain accessible reporting mechanisms.
+
+- **Selcer** falsely summarized the August 21 meeting (Exhibit I), imposed a retaliatory three-week Zoom countdown (Exhibits I, J), and fabricated "performance issues" that directly contradicted his own statements in the February 10 meeting (Exhibits X-6, X-8).
+
+- **Dean A** falsely applied TAP 33 and rubber-stamped Selcer's conflict after consulting the conflicted party (Exhibits K-2, K-5).
+
+These are not inconsistent theories. They are distinct fraudulent acts by different defendants, each designed to create the false impression that the University was following proper procedures when in fact it was systematically denying Plaintiff's federally mandated rights. The fact that some defendants acted (by making affirmative misrepresentations) and others omitted (by failing to correct known falsities) is not inconsistency; it is evidence of coordination.
+
+### E. The Dean A-Selcer Consultation Does Not Evidence "Intent to Help"; Genuine Disputes Exist Regarding Intent to Deceive
+
+Defendants argue that "the consultation between Dean A and Selcer produced assurances of fair treatment and offers of academic support—evidence of intent to help, not deceive." (Dkt. 34 at 10.) This argument ignores the obvious: Dean A consulted *the very person* whose conflict of interest was under review.
+
+Exhibit K-2 shows that Dean A "did need to consult Dr. Selcer as instructor to secure some additional details" before ruling on whether Selcer had a conflict. Asking a defendant whether he has a conflict—and then adopting his conclusion that he does not—is not "help"; it is the abandonment of independent judgment. The outcome was preordained: "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled." (Exhibit K-2.)
+
+A jury could reasonably infer that this consultation was not innocent but designed to: (1) protect Selcer from having to recuse himself; (2) allow Selcer to continue exercising control over Plaintiff's academic progress; (3) avoid the disruption of changing instructors mid-semester; and (4) insulate the University from liability by maintaining the appearance of administrative support while denying the requested remedy.
+
+Furthermore, the pattern of conduct—removing OCR from correspondence across eight or more instances (Exhibits B-3 through B-7 series), conditioning supportive measures on meetings that had no basis in regulation (Exhibits B-0 through B-7), and consulting the conflicted party about his own conflict (Exhibit K-2)—provides circumstantial evidence of a coordinated scheme to deceive. *See Moser*, 589 A.2d at 682 (concealment of material fact equals culpable misrepresentation).
+
+Pennsylvania law requires that a misrepresentation be made "with the intent of misleading another into relying on it." *Gibbs*, 647 A.2d at 887. The fact that Defendants *also* offered "support" does not negate an intent to deceive. Mixed motives are permissible. A jury could find that the offers of support were a smokescreen for the underlying deception: that the University never intended to provide meaningful relief through proper channels.
+
+### F. Deference to Academic Judgment Does Not Immunize Fraud
+
+Defendants cite *Jain v. Carnegie Mellon Univ.* for the proposition that "courts should defer to academic institutions' professional judgment regarding academic decisions." (Dkt. 34 at 8 n.2.) This is a non-sequitur. The fraud alleged here does not involve "academic decisions" about curriculum, grading, or pedagogical methods. It involves:
+
+- **False statements of fact**: That meetings were required before supportive

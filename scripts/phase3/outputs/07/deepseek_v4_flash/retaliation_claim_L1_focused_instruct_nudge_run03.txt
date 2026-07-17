@@ -1,0 +1,79 @@
+## ARGUMENT
+
+Plaintiff David Mullins satisfies each element of his Title IX retaliation claim under the framework adopted by the Third Circuit. *Doe v. Mercy Catholic Medical Center*, No. 16-1247 (3d Cir. 2017) (Title IX retaliation uses Title VII burden-shifting framework). The evidence—viewed as a whole—establishes that Mullins engaged in protected activity, suffered multiple adverse actions that would deter a reasonable person, and that a causal connection exists between the two. *Farrell v. Planters Lifesavers Co.*, 206 F.3d 271 (3d Cir. 2000) (proffered evidence “looked at as a whole” may suffice to raise inference of causation). Indeed, the record reveals a “convincing mosaic of circumstantial evidence” sufficient to prove causation, *Canada v. Samuel Grossi & Sons, Inc.*, No. 20-2747 (3d Cir. 2022), and Duquesne’s shifting, pretextual justifications for its actions further confirm retaliation. *Farrell*, 206 F.3d at 271 (inconsistent explanations establish causal link).
+
+### I. Mullins Engaged in Extensive Protected Activity
+
+Title IX protects individuals who “oppose” unlawful sex discrimination or “participate” in Title IX proceedings. *Atkinson v. Lafayette College*, 460 F.3d 447 (3d Cir. 2006) (“Demanding compliance with Title IX is protected activity”). The protected conduct need only be based on an objectively reasonable, good-faith belief that the opposed conduct violates the statute. *Kengerski v. Harper*, No. 20-1307 (3d Cir. 2021). Mullins satisfied this standard continuously from June 30, 2025, onward through multiple acts:
+
+- **June 30, 2025:** Reporting sex-based harassment to Dean Wasilko (Statement of Undisputed Material Facts ¶ 1; Exhibit B-0; ECF docket);
+- **July 23, 2025:** Sending a Gender Reversal Hypothetical to Wasilko that expressly questioned whether Wasilko’s response would have differed “had the genders in this situation been reversed” (Exhibit B-0A). This is a direct demand for equal treatment under Title IX, squarely protected under *Atkinson*;
+- **July 24, 2025:** Formal Title IX escalation citing 34 C.F.R. § 106.44(a) (SAC ¶ 1; ECF docket);
+- **July 26, 2025:** Filing a formal complaint with the U.S. Department of Education Office for Civil Rights (OCR), detailing sex discrimination and retaliation (Exhibit B-3A). That complaint explicitly invoked Title IX and accused Duquesne of gender-based disparate treatment;
+- **September 9, 2025:** Filing the instant federal lawsuit (SAC ¶ 1; ECF docket);
+- **October 8, 2025:** Filing a motion for a temporary restraining order (SAC ¶ 1; ECF docket);
+- **October 15, 2025:** Testifying at the TRO hearing (SAC ¶ 1; ECF docket).
+
+Additionally, Mullins repeatedly included OCR on institutional correspondence, demanding that Duquesne comply with its Title IX obligations (Exhibits B-3A, I, I-1). Each of these acts is protected activity under *Atkinson* and *Kengerski*.
+
+### II. Duquesue Took Multiple Adverse Actions That Would Deter a Reasonable Person
+
+An adverse action in the retaliation context is one that “well might have dissuaded a reasonable worker from making or supporting a charge of discrimination.” *Canada*, No. 20-2747. Duquesne engaged in a sustained campaign of retaliation, including:
+
+- **Systematic Removal of OCR from Email Communications:** Between July 28 and October 2025, four institutional actors (Wasilko, Simpson, Sawa, and others) removed OCR from the CC line on eight or more occasions, each time after Mullins restored OCR. No federal authority or Duquesne policy authorized removal of a federal enforcement agency from institutional correspondence (Statement of Undisputed Material Facts ¶ 3; Exhibits B-3 through B-7 series). This was an unambiguous attempt to silence Mullins’s access to federal oversight.
+- **Unexplained Reversal of Title IX Jurisdiction:** On August 13, 2025, Simpson acknowledged Title IX jurisdiction and used the § 106.30 term of art “supportive measures” (Exhibit B-5). Within hours after Mullins sent three emails consisting entirely of protected activity and zero new facts (Exhibits B-5A, B-5B, B-5C), Simpson reversed her jurisdictional determination on an identical factual record on August 14 (Exhibit B-6). The gap was nineteen hours. This reversal directly deprived Mullins of Title IX protections and remedies.
+- **Retaliatory Zoom Revocation:** On October 6, 2025, Faculty C authorized Zoom access for Mullins. On October 8, Mullins filed the TRO motion. On October 15, he testified at the TRO hearing. Two days later—on October 17—Selcer manufactured Zoom revocation (Statement of Undisputed Material Facts ¶ 5; TRO transcript; ECF docket; Timeline DB). Selcer provided shifting justifications and ultimately admitted he “can’t explain why” Zoom was denied (Exhibit L; SJ 7.3). The revocation directly followed Mullins’s most aggressive protected activity—litigation and testimony.
+- **Threat of Academic Failure:** In September 2025, Dean A threatened Mullins with academic failure if he did not attend Selcer’s class in person while active federal litigation against Selcer was pending (SAC ¶¶ 66, 76, 336). This threat was designed to force Mullins to choose between his safety and his academic standing.
+- **Fabricated TA Reassignment with Stipend Threat:** On February 13, 2026, Selcer reassigned Mullins’s TA position and claimed “performance issues raised by Faculty B” (Exhibit X-8). Yet Faculty B’s own email that same day described the reassignment request as keeping a “door open” with “no performance complaint” (Exhibit X-7). Selcer’s email mid-sentence recharacterized “tensions and confrontations” as “performance issues” and threatened Mullins’s stipend through Spring 2029 (Exhibit X-8). Selcer had testified at the TRO hearing that Mullins had no performance issues (TRO Tr. at *:*). This was a transparent effort to punish Mullins for his ongoing litigation.
+
+Each of these actions would deter a reasonable person from engaging in protected activity. *Canada*, No. 20-2747.
+
+### III. The Causal Connection Is Overwhelming
+
+Mullins can establish causation through (i) unusually suggestive temporal proximity, (ii) a pattern of antagonism, (iii) inconsistent explanations, and (iv) the “convincing mosaic” of circumstantial evidence. *Farrell*, 206 F.3d at 271; *Kachmar v. SunGard Data Systems, Inc.*, 109 F.3d 173 (3d Cir. 1997); *Canada*, No. 20-2747. At the prima facie stage, Mullins need only show that protected activity was the “likely reason” for the adverse action, not the but-for reason. *Carvalho-Grevious v. Delaware State University*, No. 15-3521 (3d Cir. 2017).
+
+#### A. Unusually Suggestive Temporal Proximity
+
+Third Circuit law is clear: extremely close temporal proximity can alone establish causation. *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989) (two days sufficient). Here, multiple adverse actions followed Mullins’s protected activity with exceptional speed:
+
+- Two days after Mullins filed his OCR complaint (July 26), Wasilko removed OCR from the CC line (July 28) (Exhibits B-3, B-3A). *Jalil* directly supports this sequence.
+- Nineteen hours after Mullins sent three emails of pure protected activity (August 13 afternoon), Simpson reversed her jurisdictional determination (August 14 morning) (Exhibits B-5, B-5A, B-5B, B-5C, B-6). The gap is less than one day—even more “unusually suggestive” than the two days in *Jalil*.
+- Two days after Mullins filed the TRO motion (October 8) and two days after he testified (October 15), Selcer revoked Zoom access (October 17) (Statement of Undisputed Material Facts ¶ 5).
+
+Temporal proximity alone establishes causation for these events.
+
+#### B. Pattern of Antagonism
+
+Even where temporal proximity is less precise, a “pattern of antagonism” following protected conduct suffices to prove causation. *Kachmar*, 109 F.3d at 173. Here, the pattern is relentless:
+
+- From July 28 onward, Duquesne officials repeatedly stripped OCR from emails, each time after Mullins restored OCR (Statement of Undisputed Material Facts ¶ 3).
+- On August 15, Sawa threatened Mullins with student conduct charges for continuing to email university officials about his safety—an explicit attempt to silence further protected activity (Exhibit B-7). *See* *Canada*, No. 20-2747 (employer’s motivation for investigating plaintiff is itself evidence of pretext).
+- In September, Dean A threatened academic failure for missing in-person class during active litigation (SAC ¶¶ 66, 76, 336).
+- On October 22, Dean A consulted with Selcer to issue a joint determination requiring Mullins to meet with Selcer—the very individual he was suing—to avoid failing the teaching seminar (Exhibit K-2).
+- In February 2026, Selcer fabricated “performance issues” and threatened Mullins’s stipend through 2029, despite Faculty B’s contemporaneous email confirming “no performance complaint” and Selcer’s own prior testimony that Mullins had no performance issues (Exhibits X-7, X-8; TRO Tr. at *:*).
+
+This pattern of escalating retaliation, each step triggered by Mullins’s persistent protected activity, independently establishes causation. *Kachmar*, 109 F.3d at 173 (“circumstantial evidence of a ‘pattern of antagonism’ following the protected conduct can also give rise to the inference”); *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259 (3d Cir. 2007) (temporal proximity plus contextual evidence sufficient for Title IX retaliation).
+
+#### C. Shifting and Inconsistent Explanations
+
+Farrell holds that “inconsistent explanations” from the employer establish a causal link. *Farrell*, 206 F.3d at 271. Here, Duquesne’s justifications are demonstrably false:
+
+- **Zoom revocation:** Selcer first claimed a policy constraint, then admitted he “can’t explain why” Zoom was denied (Exhibit L; SJ 7.3). No policy constrained Zoom access (Statement of Undisputed Material Facts ¶ 6).
+- **TA reassignment:** Selcer claimed “performance issues raised by Faculty B” (Exhibit X-8). But Faculty B wrote that same morning that the reassignment was to keep a “door open” with “no performance complaint” (Exhibit X-7). Selcer had also testified under oath that Mullins had no performance issues (TRO Tr. at *:*). The only explanation for this contradiction is retaliatory animus.
+- **Jurisdiction reversal:** Simpson acknowledged jurisdiction and used “supportive measures” language on August 13 (Exhibit B-5), then reversed on August 14 without any new facts (Exhibit B-6). The only intervening event was Mullins’s three protected emails. The reversal cannot be explained by the record—only by retaliation.
+
+Under *Canada*, “the employer’s motivation for investigating the plaintiff is itself evidence of pretext.” Here, Duquesne’s shifting, contradictory, and false justifications demonstrate that the stated reasons are pretextual and that retaliation was the real motive.
+
+#### D. The Convincing Mosaic
+
+Finally, “a convincing mosaic of circumstantial evidence is sufficient to establish causation for retaliation claims.” *Canada*, No. 20-2747. The sum total of the evidence—temporal proximity, pattern of antagonism, inconsistent explanations, threats, and fabricated performance issues—creates an overwhelming circumstantial case. As *Farrell* instructs, the court must look at the evidence “as a whole,” not compartmentalize it. *Farrell*, 206 F.3d at 271. The whole picture here reveals a university that systematically retaliated against Mullins for demanding his Title IX rights, beginning with small acts (removing OCR from emails) and escalating to threats of academic failure, loss of stipend, and fabricated performance issues.
+
+At the prima facie stage, Mullins need only show that protected activity was the “likely reason” for the adverse actions. *Carvalho-Grevious*, No. 15-3521. He has done so overwhelmingly.
+
+### IV. Duquesne’s Articulated Reasons Are Pretextual
+
+Even if Duquesne offers legitimate, non-retaliatory reasons for its actions, Mullins has ample evidence that those reasons are pretext. As detailed above, Simpson’s jurisdiction reversal had no factual basis; Selcer’s Zoom justification is inexplicable even to himself; and the “performance issues” in the TA reassignment were fabricated by Selcer mid-sentence. Under *Farrell*, “nothing about the McDonnell Douglas formula requires us to ration the evidence between one stage or the other.” Thus, the same evidence that establishes the prima facie case also demonstrates pretext. Duquesne cannot meet its burden at summary judgment or trial.
+
+### CONCLUSION
+
+For these reasons, the Court should deny any summary judgment motion by Duquesne and find that Mullins has established a prima facie case of retaliation under Title IX, with abundant evidence of causation and pretext.

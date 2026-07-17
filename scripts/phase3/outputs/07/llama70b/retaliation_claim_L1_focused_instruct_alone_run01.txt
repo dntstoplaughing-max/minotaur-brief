@@ -1,0 +1,18 @@
+
+
+ARGUMENT
+
+Count II of this complaint alleges retaliation under Title IX, 20 U.S.C. § 1681. To establish a prima facie case of retaliation, Plaintiff must show: (1) protected activity; (2) an adverse action that would deter a reasonable person; and (3) a causal connection between the protected activity and the adverse action. See Doe v. Mercy Catholic Medical Center, No. 16-1247 (3d Cir. 2017) (applying Title VII burden-shifting framework to Title IX retaliation claims).
+
+Protected Activity (Element 1)
+Plaintiff engaged in continuous protected activity from June 30, 2025, through the present, including reporting sex-based harassment, filing a complaint with OCR, and testifying at the TRO hearing (Exhibits B-0, B-0A, B-3A; ECF docket). Demanding Title IX compliance is protected activity under Atkinson v. Lafayette College, 460 F.3d 447 (3d Cir. 2006). Plaintiff's actions fall squarely within the scope of protected activity, as he reasonably believed that the conduct he opposed violated Title IX. See Kengerski v. Harper, No. 20-1307 (3d Cir. 2021).
+
+Adverse Action (Element 2)
+Defendant took several adverse actions that would deter a reasonable person from engaging in protected activity. These actions include: (1) removing OCR from the CC line on emails (Exhibits B-3, B-3A); (2) reversing jurisdictional determinations (Exhibit B-6); (3) threatening retaliation for emailing University officials (Exhibit B-7); (4) imposing a retaliatory "countdown" on Zoom access (Exhibits I, I-1, J); (5) revoking Zoom access (Timeline DB); (6) threatening academic failure (SAC ¶¶ 66, 76, 336); and (7) fabricating "performance issues" and threatening stipend suspension (Exhibits X-6, X-7, X-8).
+
+Causal Connection (Element 3)
+A convincing mosaic of circumstantial evidence establishes a causal connection between Plaintiff's protected activity and the adverse actions. See Canada v. Samuel Grossi & Sons, Inc., No. 20-2747 (3d Cir. 2022). The temporal proximity between protected activity and adverse action is unusually suggestive of retaliation. See Jalil v. Avdel Corp., 873 F.2d 701 (3d Cir. 1989). For example, Defendant removed OCR from the CC line just two days after Plaintiff's OCR filing (Exhibit B-3). Similarly, Defendant revoked Zoom access two days after Plaintiff testified at the TRO hearing (Timeline DB).
+
+Moreover, Defendant's inconsistent explanations and shifting justifications for the adverse actions demonstrate pretext. See Farrell v. Planters Lifesavers Co., 206 F.3d 271 (3d Cir. 2000). For instance, Defendant initially claimed that Plaintiff's Zoom access was revoked due to "performance issues," but later admitted that no such issues existed (Exhibits X-6, X-8). This pattern of antagonism, combined with the temporal proximity and inconsistent explanations, gives rise to an inference of retaliation. See Kachmar v. SunGard Data Systems, Inc., 109 F.3d 173 (3d Cir. 1997).
+
+In conclusion, Plaintiff has established a prima facie case of retaliation under Title IX. The evidence demonstrates a clear causal connection between Plaintiff's protected activity and the adverse actions taken by Defendant. Defendant's actions would deter a reasonable person from engaging in protected activity, and Plaintiff is entitled to relief.

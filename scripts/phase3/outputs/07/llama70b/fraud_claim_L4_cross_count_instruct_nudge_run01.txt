@@ -1,0 +1,31 @@
+
+
+**ARGUMENT**
+
+Defendants' motion for summary judgment on Count IV – Fraud (Pennsylvania common law) must be denied. Genuine disputes of material fact preclude summary judgment, and Defendants' arguments are unfounded in light of the record.
+
+**I. Dean A's TAP 33 Analysis**
+
+Defendants argue that Dean A's TAP 33 analysis was consistent with the policy's plain language, and Plaintiff is not a "Covered Party" as defined. However, Exhibit K-5 shows that Dean A's determination was made without the required independent review, and Plaintiff corrected her within 90 minutes with specific policy citations. Moreover, Dean A consulted the conflicted party, Dr. Selcer, about his own conflict, which is a clear violation of TAP 33. (Exhibit K-2). This creates a genuine dispute of material fact regarding Dean A's analysis and its consistency with the policy.
+
+**II. Dean A's Silence on the August 25, 2025 Email**
+
+Defendants claim that Dean A's silence on the August 25, 2025 email was not actionable because no fiduciary or confidential relationship existed between university administrators and Plaintiff. However, the Pennsylvania Supreme Court has held that "nondisclosure of a material fact is equivalent to a fraudulent misrepresentation" when a party is "naturally the proper source of information." (Neuman v. Corn Exchange National Bank & Trust Co., 356 Pa. 442, 51 A.2d 759 (1947)). As the Dean of the McAnulty College of Liberal Arts, Dean A had a duty to disclose material information to Plaintiff, and her silence constitutes a culpable misrepresentation. (Moser v. DeSetta, 589 A.2d 679 (Pa. Super. 1991)).
+
+**III. Justifiable Reliance**
+
+Defendants argue that Plaintiff admitted in his own pleadings that he "immediately recognized" Dean A's TAP 33 reading was wrong and was "no longer relying on Defendants' representations" as of July 24, 2025. However, this argument is based on a misreading of the record. Plaintiff's emails show that he was seeking clarification and correction of Defendants' representations, not abandoning his reliance on them. (Exhibit B-0A). Moreover, the doctrine of "special foreseeability" allows for reliance on misrepresentations even if the plaintiff is aware of their falsity. (Woodward v. Dietrich, 378 Pa. Super. 111, 548 A.2d 301 (1988)). This creates a genuine dispute of material fact regarding Plaintiff's justifiable reliance.
+
+**IV. Inconsistent Claims**
+
+Defendants argue that Plaintiff's claims are internally inconsistent because he alleges that both responding to his emails (Selcer) and not responding (Dean A) constituted fraud. However, this argument ignores the different contexts and circumstances surrounding each email exchange. Selcer's responses were part of a pattern of deliberate indifference and retaliation, while Dean A's silence was a culpable misrepresentation. (Exhibits I, K-5). These are not inconsistent claims, but rather different aspects of Defendants' fraudulent conduct.
+
+**V. Consultation between Dean A and Selcer**
+
+Defendants argue that the consultation between Dean A and Selcer produced assurances of fair treatment and offers of academic support, evidence of intent to help, not deceive. However, this argument ignores the fact that Dean A consulted the conflicted party, Dr. Selcer, about his own conflict, which is a clear violation of TAP 33. (Exhibit K-2). Moreover, the record shows that Defendants' actions were part of a pattern of deliberate indifference and retaliation, not a genuine attempt to provide fair treatment or academic support. (Exhibits I, K-5).
+
+**VI. Academic Institutions' Professional Judgment**
+
+Defendants argue that courts should defer to academic institutions' professional judgment regarding academic decisions. However, this argument is not relevant to the issue of fraud, which is a question of fact for the jury to decide. (Jain v. Carnegie Mellon Univ.). Moreover, the record shows that Defendants' actions were not based on a legitimate academic decision, but rather a deliberate attempt to deceive and retaliate against Plaintiff. (Exhibits I, K-5).
+
+In conclusion, Defendants' motion for summary judgment on Count IV – Fraud (Pennsylvania common law) must be denied. Genuine disputes of material fact preclude summary judgment, and Defendants' arguments are unfounded in light of the record.

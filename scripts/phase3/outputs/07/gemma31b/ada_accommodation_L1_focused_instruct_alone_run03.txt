@@ -1,0 +1,34 @@
+**ARGUMENT**
+
+Plaintiff David Mullins is entitled to relief under Section 504 of the Rehabilitation Act (29 U.S.C. § 794) and the Americans with Disabilities Act (ADA). To establish a failure to accommodate claim, a plaintiff must demonstrate that they are: (1) a qualified individual with a disability; (2) the defendant had notice of the disability and the need for accommodation; (3) a request for reasonable accommodation was made; (4) the accommodation was denied; and (5) the denial resulted in harm.
+
+**I. Plaintiff is a Qualified Individual with a Disability**
+
+Plaintiff is a doctoral candidate in the Department of Philosophy at Duquesne University. He is a "qualified individual" as he is an enrolled graduate student in good academic standing with no disciplinary record, and the Defendant’s own representative, Dr. Selcer, testified under oath that Plaintiff had no performance issues. (SUMF ¶ 2; TRO Tr.). Plaintiff’s disability is documented by his treating physician, Treating Physician, who has diagnosed Plaintiff with ADHD and depression. (Exhibit F).
+
+**II. Defendant Had Notice of Disability and the Need for Accommodation**
+
+Defendant was provided with explicit medical notice of Plaintiff’s condition and the resulting limitations. Treating Physician provided documentation stating that Plaintiff "does not feel safe around a specific individual on campus" and that this fear is "reasonable." (Exhibit F). Treating Physician further cautioned that proximity to this individual would "cause him a great deal of stress," "worsen his medical condition," and "impair his academic functioning." (Exhibit F). Dr. Selcer acknowledged this notice in an August 25, 2025, email, noting that Plaintiff "does not feel safe on campus because [he] fear[s] Respondent." (Exhibit I).
+
+**III. Plaintiff Requested Reasonable Accommodations**
+
+Plaintiff requested Zoom access for class participation as a medically necessary accommodation to ensure his safety and academic continuity. (SUMF ¶ 3). This request was reasonable and feasible, as Zoom is already in active use within the same department by Faculty D for comparable graduate coursework. (Exhibit N). Furthermore, the University’s own Faculty Handbook does not prohibit individual student Zoom accommodations; rather, it governs faculty course delivery modality. (SUMF ¶ 4; Exhibit Y).
+
+**IV. Defendant Denied the Accommodations and Failed to Engage in the Interactive Process**
+
+Defendant failed to provide the requested accommodation and, more critically, failed to engage in the mandatory interactive process. Under *Taylor v. Phoenixville School District*, an institution that receives notice of a disability and a request for accommodation "cannot fail to engage the employee [or student] in the interactive process of finding accommodations." 184 F.3d 296, 299 (3d Cir. 1999). To establish this failure, a plaintiff must show the employer/institution knew of the disability, the request was made, and the institution failed to make a good faith effort to assist. *Id.*
+
+Here, the evidence demonstrates a total absence of a good-faith interactive process. Defendant did not assess Plaintiff's specific limitations, evaluate possible accommodations, or involve disability services. (SUMF ¶ 5). Instead, Defendant’s response was characterized by coercion and ad hoc denials:
+
+1.  **The "Countdown" and Conditional Access:** On August 25, 2025, Dr. Selcer imposed a three-week "countdown" on Plaintiff’s Zoom access, stating it was "authorized only for the first three weeks of class" and conditioned upon Plaintiff engaging with other university offices. (Exhibit I). This was not a supportive measure, but a "conditional, time-limited measure designed to expire and coerce meeting attendance." (SUMF ¶ 6).
+2.  **The "Final Directive":** On September 3, 2025, Dr. Selcer issued a "final directive," stating his previous instructions were "not a request for dialogue" and demanding that Plaintiff either comply with internal processes or "drop [his] requests for accommodation and return to in-person attendance." (Exhibit J).
+3.  **Lack of Basis for Denial:** Dr. Selcer testified that his objection to Zoom was based on "personal preference," yet he could not identify any written policy, pedagogical study, or departmental standard to support the denial. (SUMF ¶ 7). This pattern of arbitrary denial is further evidenced by the fact that Dr. Selcer denied a similar request from another student, Colleague A, stating he "can't explain why" Zoom was unavailable. (SUMF ¶ 8).
+4.  **Deceptive Removal of Access:** After testifying at a TRO hearing on October 15 that he would continue Zoom access, Dr. Selcer removed the access on October 16. (Exhibit Q). He subsequently claimed that Faculty C found "no compelling reason" to continue the accommodation. (Exhibit V). However, documentary evidence reveals that Dr. Faculty C had previously authorized the Zoom access and was later confused by Selcer's characterization of the "compelling reason" test. (Exhibit W).
+
+The Supreme Court has recently clarified in *A.J.T. v. Osseo Area Schools* that students bringing ADA and Section 504 claims are "not required to make a heightened showing of 'bad faith or gross misjudgment'" but are subject to the same standards as other disability discrimination contexts. 605 U.S. ___ (2025). Under this standard, Defendant’s conduct mirrors the failures found in *Oross v. Kutztown University*, where the court found that a university’s application of a "blanket no-remote policy with no written basis [and] no individualized assessment" rendered the accommodation request "dead on arrival." No. 21-5032 (E.D. Pa. July 25, 2023).
+
+**V. Resulting Harm**
+
+The denial of reasonable accommodation has caused severe educational and psychological harm. External Faculty Witness declared that Plaintiff’s "education and research have been severely derailed" and that encounters with the abuser on campus cause "severe distress" requiring "hours of recovery time." (Exhibit C). Treating Physician further attested that the resulting instability and proximity to the abuser "worsens his mental health conditions," which is "expected to negatively impact his graduate education." (Exhibit F).
+
+Because Plaintiff could have reasonably performed his academic duties with the requested Zoom accommodation—as evidenced by the existing use of Zoom in the department (Exhibit N) and his good academic standing (SUMF ¶ 2)—Defendant is liable for its failure to accommodate.

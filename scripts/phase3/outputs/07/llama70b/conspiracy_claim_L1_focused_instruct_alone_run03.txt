@@ -1,0 +1,31 @@
+
+
+ARGUMENT
+
+Defendants' Motion for Summary Judgment on Count V – Civil Conspiracy must be denied. Defendants' arguments are based on flawed interpretations of the evidence and a misunderstanding of the legal elements required to prove civil conspiracy. This Court should find that genuine disputes of material fact exist on each of the required elements, precluding summary judgment.
+
+I. Agreement between two or more actors
+
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation was not independent, as required by TAP 33 § IV.4. Dean A's email states, "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2). This language demonstrates a joint determination, not an independent review. Furthermore, the timing of the consultation, seven days after Plaintiff cross-examined Selcer under oath, raises suspicions of coordination (Exhibit K-2; TRO Tr.).
+
+II. Unlawful act or unlawful means
+
+Defendants claim that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A's consultation with Selcer was not an independent review, violating TAP 33 § IV.4. This unlawful act is sufficient to support the conspiracy claim.
+
+III. Overt acts in furtherance
+
+Defendants argue that Selcer's continuation as Plaintiff's instructor was not retaliatory because he held that role before and after Plaintiff's protected activity (Dkt. 34 at 10 n.3). However, Exhibit X-8 reveals that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite no prior complaints or performance issues (Exhibit X-6). This overt act in furtherance of the conspiracy demonstrates Selcer's malice towards Plaintiff.
+
+IV. Malice (legal or actual)
+
+Defendants contend that Dean A's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, the evidence shows that Dean A's actions, in conjunction with Selcer's, demonstrate a pattern of coordination and retaliation against Plaintiff. Exhibit X-8's fabrication of "performance issues" and threat to Plaintiff's stipend demonstrate actual malice.
+
+V. Resulting harm
+
+Defendants argue that Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes, not evidence of unlawful agreement (Dkt. 25 at 6). However, the evidence shows that Plaintiff has suffered harm as a result of Defendants' actions, including the denial of supportive measures, removal of OCR oversight, and fabrication of "performance issues" (Exhibits B-1 through B-7, X-4, X-6, X-7, X-8).
+
+In Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979), the Pennsylvania Supreme Court held that once a defendant joins a conspiracy, that defendant is jointly and severally liable for all tortious acts committed by any co-conspirator in furtherance of the conspiracy. Here, the evidence demonstrates that Defendants have engaged in a conspiracy to deny Plaintiff's rights and cause him harm.
+
+In Desert Palace, Inc. v. Costa, 539 U.S. 90 (2003), the Supreme Court held that direct evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction under Title VII. Circumstantial evidence suffices to show an employer used a forbidden consideration in any employment practice. Similarly, in this case, circumstantial evidence demonstrates that Defendants have engaged in a conspiracy to deny Plaintiff's rights.
+
+In conclusion, genuine disputes of material fact exist on each of the required elements of civil conspiracy. Defendants' Motion for Summary Judgment on Count V – Civil Conspiracy should be denied.

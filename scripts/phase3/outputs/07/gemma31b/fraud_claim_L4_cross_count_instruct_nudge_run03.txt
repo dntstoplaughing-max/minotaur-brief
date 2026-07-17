@@ -1,0 +1,53 @@
+**ARGUMENT**
+
+Defendants’ Motion for Summary Judgment should be denied because genuine disputes of material fact exist regarding every element of Plaintiff’s fraud claim under Pennsylvania law. To survive summary judgment, Plaintiff must demonstrate a representation of material fact, made falsely or recklessly, with the intent to mislead, upon which he justifiably relied to his injury. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994). The record establishes a systematic pattern of misrepresentation by University officials designed to obstruct Plaintiff’s access to federally mandated supportive measures.
+
+**I. Genuine Disputes Exist Regarding the Falsity and Materiality of Defendants' Representations**
+
+Defendants argue that Dean A’s TAP 33 analysis was consistent with policy and that Plaintiff is not a "Covered Party." However, the record creates a sharp dispute regarding the truthfulness and recklessness of this representation. 
+
+First, Dean A admitted that in preparing her determination, she "did need to consult Dr. Selcer"—the very individual Plaintiff identified as a conflict of interest—to "secure some additional details." (Ex. K-2). This action directly contradicts the University’s own training on Conflict of Interest (COI), which mandates that the Title IX team "identify and avoid... conflicts of interest" to "ensure fairness" and "maintain the trust, integrity, and credibility" of the process. (Ex. Z-d, Slides 43, 46). Consulting the conflicted party to determine the existence of a conflict is a prima facie violation of these standards.
+
+Second, Plaintiff corrected Dean A’s reading of TAP 33 within 90 minutes, providing specific policy citations. (Fact 9). Dean A’s summary refusal to reconsider ("no change") despite these citations suggests a reckless disregard for the truth of the policy. (Ex. K-5). Under *Gibbs*, a representation made with "recklessness as to whether it is true or false" satisfies the falsity element.
+
+**II. Defendants’ Silence and Nondisclosure Constitute Actionable Misrepresentation**
+
+Defendants contend that Dean A’s silence regarding the August 25 email was not actionable because no fiduciary relationship existed. This argument fails under Pennsylvania law. 
+
+Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), "where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Dean A is the "natural and proper source" of information regarding the application of university policy (TAP 33) to a doctoral candidate’s enrollment. 
+
+Furthermore, *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995) clarifies that the "duty to investigate" does not apply when the defendant is the natural and proper source of the information. Plaintiff’s reliance on the Dean to accurately interpret the University's own conflict-of-interest policies was not only reasonable but necessary, as the Dean holds the exclusive authority to implement such changes.
+
+**III. Plaintiff’s Reliance Was Justifiable and Presumed from Materiality**
+
+Defendants argue that Plaintiff’s admission that he "recognized" a wrong reading of the policy precludes justifiable reliance. This is a misapplication of the law. 
+
+First, Pennsylvania law recognizes that "the concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991). The fraud here is not limited to a single email but is a "convincing mosaic" of misrepresentations. (Applying *Canada v. Samuel Grossi & Sons, Inc.*). Four defendants systematically fabricated a "meeting requirement" as a condition for receiving Title IX supportive measures. (Fact 1). Wasilko explicitly stated, "We cannot assist you... unless you are willing to engage with the appropriate offices." (Ex. B-2). This representation was material because it conditioned Plaintiff’s safety and housing on a requirement that exists neither in 34 C.F.R. Part 106 nor TAP 61. (Fact 1).
+
+Second, reliance is "presumed from materiality where a party would not have entered the transaction had the truth been known." *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). Plaintiff would not have remained in a state of homelessness and academic instability had he known that the "meeting requirement" was a fabrication used to delay the provision of supportive measures.
+
+**IV. Plaintiff’s Claims Are Not Internally Inconsistent**
+
+Defendants claim it is inconsistent to allege that both responding (Selcer) and not responding (Dean A) constituted fraud. This is a false dichotomy. 
+
+Fraud can manifest as both an affirmative lie and a culpable omission. *Moser* confirms that both intentional false statements and the concealment of material facts are actionable. 
+*   **Affirmative Fraud:** Dr. Selcer issued a "falsified meeting summary" misrepresenting agreements and imposing a "three-week Zoom countdown" without policy basis. (Fact 7, Ex. I).
+*   **Fraud by Omission:** Dean A’s refusal to acknowledge the correct policy citations and her silence on the conflict of interest served to conceal the University's failure to follow TAP 33. (Ex. K-5).
+
+Both tactics served the same intent: to mislead Plaintiff into believing the University was following policy while simultaneously denying him safe access to his education.
+
+**V. The "Intent to Help" Argument is Pretextual**
+
+Defendants argue that the consultation between Dean A and Selcer produced "assurances of fair treatment," proving an intent to help. This is belied by the record. 
+
+The "assurances" were conditioned on Plaintiff returning to a classroom taught by a defendant in his own federal lawsuit. (Ex. K-2). Dean A’s email warned that Plaintiff "will not pass" if he did not resume attendance immediately. (Ex. K-2). This is not "help"; it is the use of academic leverage to coerce a student into a conflicted environment. Furthermore, the "consultation" violated the very impartiality required by University training. (Ex. Z-d).
+
+**VI. Academic Deference Does Not Shield Fraudulent Misrepresentations of Law**
+
+Finally, Defendants cite *Jain v. Carnegie Mellon Univ.* to argue for deference to academic judgment. However, the decisions at issue here are not "academic" (e.g., grading or curriculum), but "administrative" and "legal." 
+
+The determination of whether a "meeting" is a prerequisite for Title IX supportive measures is a question of federal regulation (34 C.F.R. § 106.44) and university policy (TAP 61), not professional academic judgment. The fabrication of a regulatory requirement to deny a student housing and safety measures is a matter of law, not a discretionary academic decision.
+
+**Conclusion**
+
+Because there are genuine disputes of material fact regarding the falsity of the meeting requirements, the recklessness of the TAP 33 analysis, and the justifiability of Plaintiff's reliance on University officials as the proper sources of policy information, summary judgment must be denied.

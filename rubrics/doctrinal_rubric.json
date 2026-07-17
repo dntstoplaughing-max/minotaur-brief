@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "purpose": "Pre-registered doctrinal-element checklist for judge-based scoring of long-form legal advocacy outputs. Frozen prior to inspection of any main-run output.",
+    "scoring_scale": {
+      "0": "Element not addressed in the brief",
+      "1": "Element mentioned by name but not analyzed (no application to facts, no authority, or analysis incomplete/conclusory)",
+      "2": "Element correctly stated AND applied to facts AND supported with on-point authority"
+    },
+    "judge_instructions": "For each task, the brief must address the elements listed in `required_elements`. Score each element 0/1/2 per the scoring_scale. Do NOT penalize the brief for handling the cross-count injection at L4 — focus only on the primary count's elements. Apply the pitfall_to_score_rule (below) when scoring. Output a JSON object: {\"task_id\": str, \"element_scores\": {element_name: int}, \"pitfalls_observed\": [str], \"notes\": str (optional)}.",
+    "pitfall_to_score_rule": "If a `doctrinal_pitfall` listed for the task is observed in the brief's analysis of an element, the MAXIMUM score for that element is 1, regardless of other quality signals. An element scores 2 ONLY when (i) the legal standard is correctly stated, AND (ii) the standard is applied to the facts, AND (iii) supporting authority is cited, AND (iv) no listed pitfall for that element is committed. This rule is load-bearing: pitfalls cap the score; they are not a separate metric.",
+    "primary_judge": "Claude Haiku 4.5 (anthropic.claude-haiku-4-5)",
+    "validator_judge": "Claude Opus 4.6 (us.anthropic.claude-opus-4-6-v1)"
+  },
+  "tasks": {
+    "deliberate_indifference": {
+      "doctrine": "Title IX deliberate indifference (Davis v. Monroe County Board of Education, 526 U.S. 629 (1999))",
+      "required_elements": ["actual_knowledge", "clearly_unreasonable", "severe_pervasive", "denial_of_access"],
+      "doctrinal_pitfalls": [
+        "Conflating 'actual knowledge' with constructive notice",
+        "Failing to identify the specific official with authority to address (must be Title IX coordinator or equivalent)",
+        "Mischaracterizing the 'clearly unreasonable' standard as mere negligence",
+        "Stating severity element without addressing all three prongs (severe AND pervasive AND objectively offensive)"
+      ]
+    },
+    "retaliation_claim": {
+      "doctrine": "Title IX retaliation (Jackson v. Birmingham Bd. of Ed., 544 U.S. 167 (2005))",
+      "required_elements": ["protected_activity", "adverse_action", "causal_connection"],
+      "doctrinal_pitfalls": [
+        "Failing to apply but-for causation post Univ. of Texas Southwestern Med. Ctr. v. Nassar (2013); using mixed-motive or motivating-factor instead",
+        "Citing trivial actions as 'adverse' without applying the Burlington Northern deterrence standard",
+        "Conflating Title IX retaliation with Title VII (related but distinct frameworks; Doe v. Mercy Catholic addresses Title IX implied cause of action, not retaliation framework specifically)"
+      ]
+    },
+    "ada_accommodation": {
+      "doctrine": "ADA Title II / Rehabilitation Act Section 504 failure to accommodate (Taylor v. Phoenixville School District, 184 F.3d 296 (3d Cir. 1999))",
+      "required_elements": ["qualified_individual", "notice", "requested_accommodation", "denial", "resulting_harm"],
+      "doctrinal_pitfalls": [
+        "Establishing 'disability' via fear/distress alone without major-life-activity-substantially-limited analysis",
+        "Conflating ADA Title II standards with Title III (different defenses, different remedies)",
+        "Misstating A.J.T. v. Osseo Area Schools standard (the case requires bad faith or gross misjudgment for damages, NOT mere deliberate indifference)",
+        "Failing to address the interactive process requirement explicitly"
+      ]
+    },
+    "fraud_claim": {
+      "doctrine": "Pennsylvania common-law fraud (Bortz v. Noon, 729 A.2d 555 (Pa. 1999))",
+      "required_elements": ["false_representation", "scienter", "intent_to_induce", "justifiable_reliance", "resulting_damages"],
+      "doctrinal_pitfalls": [
+        "Treating fraudulent nondisclosure under Neuman v. Corn Exchange without establishing the requisite fiduciary or special-source relationship",
+        "Stating 'justifiable reliance' as a conclusion rather than analyzing reasonableness in light of plaintiff's information access",
+        "Eliding the scienter requirement (knowledge OR reckless disregard, not negligence)",
+        "Skipping causation/damages link"
+      ]
+    },
+    "conspiracy_claim": {
+      "doctrine": "Pennsylvania civil conspiracy + 42 U.S.C. § 1985 (Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198 (1979))",
+      "required_elements": ["agreement", "unlawful_act", "overt_acts", "malice", "resulting_harm"],
+      "doctrinal_pitfalls": [
+        "Confusing ordinary administrative consultation for the agreement element (must be agreement to commit unlawful act or use unlawful means)",
+        "Citing 'disregarding university policies' as the unlawful act (must be tort or crime under PA law)",
+        "Missing the underlying-tort requirement: there is no standalone civil conspiracy claim in PA — must allege a separate cognizable tort",
+        "For § 1985: omitting the class-based animus requirement (Griffin v. Breckenridge)"
+      ]
+    }
+  }
+}
