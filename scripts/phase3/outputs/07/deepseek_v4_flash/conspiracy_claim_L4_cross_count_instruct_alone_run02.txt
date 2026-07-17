@@ -2,47 +2,47 @@
 
 Plaintiff David Mullins respectfully submits that Defendants' Motion for Summary Judgment on Count V must be denied because genuine disputes of material fact exist on every element of civil conspiracy under Pennsylvania common law and 42 U.S.C. § 1985. The record evidence, viewed in the light most favorable to Plaintiff, demonstrates a coordinated agreement among multiple Defendants to deprive Plaintiff of his federally protected rights through a series of unlawful acts, each undertaken with the requisite intent to injure.
 
-## I. Blair's Consultation with Selcer Was Not Routine Academic Administration—It Was Coordinated Action with a Conflicted Party in Violation of University Policy
+## I. Dean A's Consultation with Selcer Was Not Routine Academic Administration—It Was Coordinated Action with a Conflicted Party in Violation of University Policy
 
-Defendants argue that Blair's consultation with Selcer was "routine academic administration" because Blair needed to "check course availability and academic progress with the department chair." Dkt. 34 at 10. This characterization is contradicted by the documentary record and by the plain text of TAP 33.
+Defendants argue that Dean A's consultation with Selcer was "routine academic administration" because Dean A needed to "check course availability and academic progress with the department chair." Dkt. 34 at 10. This characterization is contradicted by the documentary record and by the plain text of TAP 33.
 
-### A. The Written Record Establishes That Blair and Selcer Made a Joint Determination, Not an Independent Review
+### A. The Written Record Establishes That Dean A and Selcer Made a Joint Determination, Not an Independent Review
 
-On October 20, 2025, Plaintiff submitted a conflict-of-interest disclosure to Dean Blair, specifically identifying that Dr. Selcer was a named defendant in Plaintiff's federal lawsuit and requesting an alternate instructor for the required teaching seminar. Exhibit K-1. Blair's response on October 22, 2025, is the centerpiece of the conspiracy evidence:
+On October 20, 2025, Plaintiff submitted a conflict-of-interest disclosure to Dean A, specifically identifying that Dr. Selcer was a named defendant in Plaintiff's federal lawsuit and requesting an alternate instructor for the required teaching seminar. Exhibit K-1. Dean A's response on October 22, 2025, is the centerpiece of the conspiracy evidence:
 
 > "I did need to consult Dr. Selcer as instructor to secure some additional details. **Both Dr. Selcer and I strongly concur** that it is appropriate for you to remain enrolled in your required teaching seminar."
 
-Exhibit K-2 (emphasis added). This is not recitation of information received; it is an announcement of a *joint* decision. The phrase "both Dr. Selcer and I strongly concur" communicates that Blair and Selcer, together, exercised judgment. This is a written admission of an agreement between two actors to make a single decision affecting Plaintiff.
+Exhibit K-2 (emphasis added). This is not recitation of information received; it is an announcement of a *joint* decision. The phrase "both Dr. Selcer and I strongly concur" communicates that Dean A and Selcer, together, exercised judgment. This is a written admission of an agreement between two actors to make a single decision affecting Plaintiff.
 
 ### B. TAP 33 Requires Independent Review, Which Did Not Occur
 
-TAP 33 § IV.4 requires that conflict-of-interest determinations be made through "independent review." Exhibit K-2. Blair's consultation with the very person whose conflict was disclosed—Selcer himself—cannot constitute independent review under any reasonable reading of the policy. The conflict of interest was Selcer's status as a named defendant; the party least capable of reviewing that conflict objectively was Selcer himself. Yet Blair's first and only step was to ask Selcer for "additional details" and then announce their concurrence.
+TAP 33 § IV.4 requires that conflict-of-interest determinations be made through "independent review." Exhibit K-2. Dean A's consultation with the very person whose conflict was disclosed—Selcer himself—cannot constitute independent review under any reasonable reading of the policy. The conflict of interest was Selcer's status as a named defendant; the party least capable of reviewing that conflict objectively was Selcer himself. Yet Dean A's first and only step was to ask Selcer for "additional details" and then announce their concurrence.
 
-A reasonable jury could conclude that Blair's conduct violated TAP 33's independent-review requirement, establishing an unlawful means by which the conspiracy's objective was achieved.
+A reasonable jury could conclude that Dean A's conduct violated TAP 33's independent-review requirement, establishing an unlawful means by which the conspiracy's objective was achieved.
 
 ### C. The Timing Establishes Retaliatory Motivation
 
-Blair consulted Selcer on or about October 22, 2025—seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. Exhibit K-2; TRO Tr. The temporal proximity is not merely suggestive; it is independently damning. As the Third Circuit held in *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989), "[t]wo-day temporal proximity between protected activity and adverse action is sufficient to establish causation." Here, the interval is seven days, and the protected activity—testimony under oath in a federal proceeding—is unmistakably protected.
+Dean A consulted Selcer on or about October 22, 2025—seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. Exhibit K-2; TRO Tr. The temporal proximity is not merely suggestive; it is independently damning. As the Third Circuit held in *Jalil v. Avdel Corp.*, 873 F.2d 701 (3d Cir. 1989), "[t]wo-day temporal proximity between protected activity and adverse action is sufficient to establish causation." Here, the interval is seven days, and the protected activity—testimony under oath in a federal proceeding—is unmistakably protected.
 
-Under *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259 (3d Cir. 2007), "[t]emporal proximity combined with contextual evidence of retaliatory animus is sufficient to establish causation." The contextual evidence includes: (1) Selcer's direct involvement in substantively identical decision-making despite being the conflicted party; (2) Blair's failure to document any independent analysis; and (3) the absence of any reference to TAP 33's independent-review framework in Blair's response.
+Under *Lauren W. ex rel. Jean W. v. DeFlaminis*, 480 F.3d 259 (3d Cir. 2007), "[t]emporal proximity combined with contextual evidence of retaliatory animus is sufficient to establish causation." The contextual evidence includes: (1) Selcer's direct involvement in substantively identical decision-making despite being the conflicted party; (2) Dean A's failure to document any independent analysis; and (3) the absence of any reference to TAP 33's independent-review framework in Dean A's response.
 
 ## II. The Consultation Demonstrated Malice, Not Help—Designing a Joint Response That Foreclosed Plaintiff's Only Path to Redress
 
-Defendants argue that Blair's consultation "resulted in assurances of fair treatment and offers of academic support." Dkt. 34 at 10. This argument mischaracterizes both the substance and the effect of Blair's decision.
+Defendants argue that Dean A's consultation "resulted in assurances of fair treatment and offers of academic support." Dkt. 34 at 10. This argument mischaracterizes both the substance and the effect of Dean A's decision.
 
 ### A. The "Assurances" Came from the Conflicted Party
 
-Blair's email states that "Dr. Selcer is committed to providing you with the same consideration and opportunities as any other student." Exhibit K-2. The assurance comes from Selcer—the defendant—not from an independent decision-maker. Selcer's promise of fair treatment while he continues as Plaintiff's instructor, in the face of pending litigation, is not a reasonable accommodation; it is a demand that Plaintiff trust his adversary with his academic standing.
+Dean A's email states that "Dr. Selcer is committed to providing you with the same consideration and opportunities as any other student." Exhibit K-2. The assurance comes from Selcer—the defendant—not from an independent decision-maker. Selcer's promise of fair treatment while he continues as Plaintiff's instructor, in the face of pending litigation, is not a reasonable accommodation; it is a demand that Plaintiff trust his adversary with his academic standing.
 
-### B. Blair's Decision Foreclosed Any Genuine Relief
+### B. Dean A's Decision Foreclosed Any Genuine Relief
 
-TAP 33 is the only policy governing conflicts of interest in academic settings. By ruling that it "does not apply" (Exhibit K-5), Blair eliminated Plaintiff's only internal avenue for recusal of a conflicted instructor. Having done so, she then instructed Plaintiff to "return to class today" (Exhibit K-2) or face failing the required teaching seminar, which would in turn prevent him from teaching in Fall 2026. This is not "academic support"; it is a Hobson's choice between submitting to instruction by a litigation adversary or forfeiting his professional future.
+TAP 33 is the only policy governing conflicts of interest in academic settings. By ruling that it "does not apply" (Exhibit K-5), Dean A eliminated Plaintiff's only internal avenue for recusal of a conflicted instructor. Having done so, she then instructed Plaintiff to "return to class today" (Exhibit K-2) or face failing the required teaching seminar, which would in turn prevent him from teaching in Fall 2026. This is not "academic support"; it is a Hobson's choice between submitting to instruction by a litigation adversary or forfeiting his professional future.
 
 ### C. Malice Can Be Inferred from the Pattern of Coordinated Obstruction
 
 Under *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 472 (1979), "[p]roof of malice, i.e., an intent to injure, is essential in proof of a conspiracy." Malice may be inferred from circumstantial evidence, including the nature of the acts and the surrounding circumstances.
 
-The record establishes a pattern of coordinated obstruction extending well beyond the Blair-Selcer consultation:
+The record establishes a pattern of coordinated obstruction extending well beyond the Dean A-Selcer consultation:
 
 - **Wasilko's meeting requirement (July 25, 2025):** After Plaintiff escalated to OCR and senior leadership, Wasilko required Plaintiff to meet with Sawa and Simpson before receiving any assistance. Exhibit B-2. This contradicts Wasilko's July 1 email, which suggested Plaintiff was free to file a police report without meeting requirements. Exhibit B-0. A reasonable jury could infer that Wasilko manufactured the meeting requirement to delay and frustrate Plaintiff's access to supportive measures.
 
@@ -50,7 +50,7 @@ The record establishes a pattern of coordinated obstruction extending well beyon
 
 - **Sawa's threat of disciplinary charges (August 15, 2025):** After Plaintiff refused to meet and demanded written processing, Sawa warned that continued emailing "may result in charges against you for violating the Student Code of Conduct." Exhibit B-7. Threatening a reporting party with discipline for making reports is a textbook example of retaliation and, by extension, malice.
 
-- **Systematic removal of OCR from correspondence:** The record shows that at critical junctures, Defendants removed OCR and senior administrative oversight from communications, preventing Plaintiff from receiving corrective information. Exhibits B-3 through B-7; Selcer Sept 3 email (Exhibit J). Selcer removed Blair herself from the September 3 "final directive" (Exhibit J), while Blair was simultaneously coordinating with Selcer on the conflict-of-interest determination. This coordination to control the flow of information supports an inference of concerted action.
+- **Systematic removal of OCR from correspondence:** The record shows that at critical junctures, Defendants removed OCR and senior administrative oversight from communications, preventing Plaintiff from receiving corrective information. Exhibits B-3 through B-7; Selcer Sept 3 email (Exhibit J). Selcer removed Dean A herself from the September 3 "final directive" (Exhibit J), while Dean A was simultaneously coordinating with Selcer on the conflict-of-interest determination. This coordination to control the flow of information supports an inference of concerted action.
 
 ### D. Under *Thompson Coal*, Each Conspirator Is Liable for All Acts in Furtherance
 
@@ -60,19 +60,19 @@ The requirement of malice does not require Plaintiff to prove that each Defendan
 - **Conspiracy 2:** Systematic removal of OCR from correspondence across four actors. Exhibits B-3 through B-7, J.
 - **Conspiracy 3:** Selcer's fabrication of "performance issues" on February 13, 2026, contradicted by the source he cited on the same day. Exhibits X-7, X-8.
 
-Even if Blair did not personally commit each of these acts, she is liable for them as a co-conspirator if the evidence supports a finding that she joined the conspiracy. Her active coordination with Selcer on the conflict-of-interest determination, combined with her silence in response to Plaintiff's multiple escalations identifying specific violations (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417), provides sufficient evidence for a jury to find she was a participant.
+Even if Dean A did not personally commit each of these acts, she is liable for them as a co-conspirator if the evidence supports a finding that she joined the conspiracy. Her active coordination with Selcer on the conflict-of-interest determination, combined with her silence in response to Plaintiff's multiple escalations identifying specific violations (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417), provides sufficient evidence for a jury to find she was a participant.
 
 ## III. The Underlying Torts Supporting the Conspiracy Are Independent of TAP 33's Correctness
 
-Defendants argue that "no underlying tort exists to support the conspiracy because Blair's TAP 33 analysis was correct on the policy's plain terms." Dkt. 34 at 10. This argument fails for two independent reasons.
+Defendants argue that "no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms." Dkt. 34 at 10. This argument fails for two independent reasons.
 
 ### A. TAP 33's Plain Terms Contradict Defendants' Reading
 
-TAP 33 § IV.4 requires "independent review" of conflict-of-interest disclosures. Exhibit K-2. As demonstrated above, consulting the conflicted party and announcing a joint concurrence does not satisfy this requirement. A genuine dispute of material fact exists as to whether Blair's analysis was correct, and the evidence—including Blair's own words—strongly suggests it was not.
+TAP 33 § IV.4 requires "independent review" of conflict-of-interest disclosures. Exhibit K-2. As demonstrated above, consulting the conflicted party and announcing a joint concurrence does not satisfy this requirement. A genuine dispute of material fact exists as to whether Dean A's analysis was correct, and the evidence—including Dean A's own words—strongly suggests it was not.
 
 ### B. The Conspiracy Is Supported by Multiple Independent Torts
 
-Even if Blair's TAP 33 analysis were somehow correct, the conspiracy claim does not rest on that single action. As Plaintiff's Counter-Statement establishes, the underlying torts include:
+Even if Dean A's TAP 33 analysis were somehow correct, the conspiracy claim does not rest on that single action. As Plaintiff's Counter-Statement establishes, the underlying torts include:
 
 1. **Fraud and fraudulent misrepresentation:** Defendants made false statements to Plaintiff about meeting requirements that had no basis in university policy. Under *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882, 887 (1994), fraud requires "(1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness as to whether it is true or false; (4) with the intent of misleading another into relying on it; (5) justifiable reliance on the misrepresentation; and (6) the resulting injury was proximately caused by the reliance."
 

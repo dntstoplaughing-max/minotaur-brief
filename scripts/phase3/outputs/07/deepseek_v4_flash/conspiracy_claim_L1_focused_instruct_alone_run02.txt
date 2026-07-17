@@ -6,27 +6,27 @@ The elements of civil conspiracy under Pennsylvania law are: (1) a combination o
 
 **I. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS FORMED AN AGREEMENT**
 
-Defendants argue that Blair's consultation with Selcer was "routine academic administration." That characterization is itself a disputed fact requiring jury resolution.
+Defendants argue that Dean A's consultation with Selcer was "routine academic administration." That characterization is itself a disputed fact requiring jury resolution.
 
-Exhibit K-2 is a written admission from Dean Blair herself: *"I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar."* This is not independent review. It is a joint determination—"both of us, together"—reached with the very person who was the subject of Plaintiff's conflict-of-interest disclosure.
+Exhibit K-2 is a written admission from Dean A herself: *"I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar."* This is not independent review. It is a joint determination—"both of us, together"—reached with the very person who was the subject of Plaintiff's conflict-of-interest disclosure.
 
-The timing is devastating to Defendants' position. Blair consulted Selcer about himself—seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.) A reasonable jury could infer that Blair's "consultation" was not about course availability, but about closing ranks with a co-defendant after an adverse evidentiary hearing.
+The timing is devastating to Defendants' position. Dean A consulted Selcer about himself—seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.) A reasonable jury could infer that Dean A's "consultation" was not about course availability, but about closing ranks with a co-defendant after an adverse evidentiary hearing.
 
 TAP 33 § IV.4 requires *independent* review of conflict-of-interest disclosures. Consulting the conflicted party is the antithesis of independence. This violates the policy's plain terms and constitutes an agreement to act through unlawful means.
 
 Additional evidence of agreement includes:
 
-- **Exhibit X-6 and X-8:** On February 10, 2026, Selcer met with Plaintiff using collegial language, raised no "performance issues," and confirmed that Faculty B had no authority over Plaintiff's stipend. Three days later, Selcer's reassignment email (Exhibit X-8) introduced the phrase *"recommendation to the Dean of Liberal Arts"* —Blair's exact title—demonstrating intervening communication between Selcer and Blair. The "performance issues" language appeared for the first time after this communication.
+- **Exhibit X-6 and X-8:** On February 10, 2026, Selcer met with Plaintiff using collegial language, raised no "performance issues," and confirmed that Faculty B had no authority over Plaintiff's stipend. Three days later, Selcer's reassignment email (Exhibit X-8) introduced the phrase *"recommendation to the Dean of Liberal Arts"* —Dean A's exact title—demonstrating intervening communication between Selcer and Dean A. The "performance issues" language appeared for the first time after this communication.
 
-- **Exhibits B-3 through B-7:** Four defendants systematically removed OCR and senior administrative oversight from correspondence at critical junctures. Selcer removed Blair herself from the September 3 "final directive" (Exhibit J). This coordinated exclusion of oversight is circumstantial evidence of an agreement to prevent Plaintiff from receiving corrective information.
+- **Exhibits B-3 through B-7:** Four defendants systematically removed OCR and senior administrative oversight from correspondence at critical junctures. Selcer removed Dean A herself from the September 3 "final directive" (Exhibit J). This coordinated exclusion of oversight is circumstantial evidence of an agreement to prevent Plaintiff from receiving corrective information.
 
 - **Exhibit Q:** Selcer approached a professor (Faculty C) who had already authorized Plaintiff's Zoom attendance, reframed the authorization as requiring a "compelling reason" test Faculty C never knew he was administering, and reported Faculty C's "judgment" to justify cutting off Plaintiff's remote access. This coordinated manipulation of a third party is classic conspiracy evidence.
 
 **II. THERE IS A GENUINE DISPUTE WHETHER DEFENDANTS COMMITTED UNLAWFUL ACTS OR USED UNLAWFUL MEANS**
 
-Defendants contend no underlying tort exists because Blair's TAP 33 analysis was "correct on the policy's plain terms." But the policy requires independent review, and consulting the conflicted party violates it. That is an unlawful means—acting in violation of university policy to harm Plaintiff.
+Defendants contend no underlying tort exists because Dean A's TAP 33 analysis was "correct on the policy's plain terms." But the policy requires independent review, and consulting the conflicted party violates it. That is an unlawful means—acting in violation of university policy to harm Plaintiff.
 
-Moreover, Plaintiff identifies multiple underlying torts committed by co-conspirators for which Blair and all defendants are jointly and severally liable under *Thompson Coal*, 412 A.2d at 472-73:
+Moreover, Plaintiff identifies multiple underlying torts committed by co-conspirators for which Dean A and all defendants are jointly and severally liable under *Thompson Coal*, 412 A.2d at 472-73:
 
 1. **Fraud/Misrepresentation (Conspiracy 1):** 36 false statements fabricating a meeting requirement. Exhibits B-2, B-3, and B-5 show defendants repeatedly demanding meetings as a condition of receiving supportive measures, when no policy required such meetings. Exhibit B-7 (Sawa) threatened Plaintiff with conduct charges for emailing officials—a retaliatory threat that is itself an independent tort.
 
@@ -40,9 +40,9 @@ Defendants argue Selcer's continuation as Plaintiff's instructor cannot be an ov
 
 Selcer's continuation as instructor is not the overt act. The overt acts are:
 
-- **Exhibit K-2:** Blair's joint determination with Selcer, violating TAP 33's independent review requirement.
+- **Exhibit K-2:** Dean A's joint determination with Selcer, violating TAP 33's independent review requirement.
 
-- **Exhibit X-8:** Selcer's fabrication of "performance issues" referencing a "recommendation to the Dean" (Blair), threatening Plaintiff's stipend through 2029 based on misrepresentations.
+- **Exhibit X-8:** Selcer's fabrication of "performance issues" referencing a "recommendation to the Dean" (Dean A), threatening Plaintiff's stipend through 2029 based on misrepresentations.
 
 - **Exhibits B-3 through B-7:** Systematic removal of OCR oversight from correspondence.
 
@@ -59,11 +59,11 @@ The timing and pattern of defendants' conduct establish malice:
 - **October 15, 2025:** Plaintiff cross-examines Selcer under oath at TRO hearing.
 - **October 16, 2025:** Zoom link disappears without explanation.
 - **October 17, 2025:** Selcer claims Faculty C found "no compelling reason" for remote attendance—contrary to Faculty C's own contemporaneous statement that he had authorized it.
-- **October 22, 2025:** Blair writes joint determination with Selcer, violating conflict-of-interest policy.
+- **October 22, 2025:** Dean A writes joint determination with Selcer, violating conflict-of-interest policy.
 
 This sequence—adverse testimony followed within days by coordinated retaliation—is circumstantial evidence of intent to injure.
 
-Additionally, when Plaintiff sent multiple escalations directly to Blair citing federal law, identifying specific violations, and requesting intervention, Blair did *not* intervene. (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417.) Her silence, combined with her active coordination with Selcer, furthers the conspiracy's objective and demonstrates malice through conscious disregard of Plaintiff's federal rights.
+Additionally, when Plaintiff sent multiple escalations directly to Dean A citing federal law, identifying specific violations, and requesting intervention, Dean A did *not* intervene. (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417.) Her silence, combined with her active coordination with Selcer, furthers the conspiracy's objective and demonstrates malice through conscious disregard of Plaintiff's federal rights.
 
 **V. THERE IS A GENUINE DISPUTE WHETHER PLAINTIFF SUFFERED RESULTING HARM**
 

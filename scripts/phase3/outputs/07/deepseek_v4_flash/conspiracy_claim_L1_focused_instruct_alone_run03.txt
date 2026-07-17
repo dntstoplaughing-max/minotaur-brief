@@ -8,15 +8,15 @@ Direct evidence of conspiracy is not required; circumstantial evidence suffices.
 
 ---
 
-### I. Defendants' Argument (1): Blair's Consultation with Selcer Was Routine Academic Administration
+### I. Defendants' Argument (1): Dean A's Consultation with Selcer Was Routine Academic Administration
 
-**Rebuttal: The record shows Blair's consultation violated TAP 33 § IV.4, which requires *independent* review of conflict-of-interest disclosures. Consulting the conflicted party is the antithesis of independence.**
+**Rebuttal: The record shows Dean A's consultation violated TAP 33 § IV.4, which requires *independent* review of conflict-of-interest disclosures. Consulting the conflicted party is the antithesis of independence.**
 
-Exhibit K-2 conclusively demonstrates that Dean Blair did not conduct an independent review of Plaintiff's conflict-of-interest disclosure regarding Selcer. Instead, she admits: "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2.) This is not routine administration; it is a written admission of *joint determination* with the very person who is the subject of the conflict-of-interest disclosure—Selcer himself. The phrase "both Dr. Selcer and I strongly concur" reveals coordination, not independence.
+Exhibit K-2 conclusively demonstrates that Dean A did not conduct an independent review of Plaintiff's conflict-of-interest disclosure regarding Selcer. Instead, she admits: "I did need to consult Dr. Selcer as instructor to secure some additional details. Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2.) This is not routine administration; it is a written admission of *joint determination* with the very person who is the subject of the conflict-of-interest disclosure—Selcer himself. The phrase "both Dr. Selcer and I strongly concur" reveals coordination, not independence.
 
-TAP 33 § IV.4 requires that conflict-of-interest disclosures receive independent review. By consulting Selcer, Blair ensured that the conflicted party would participate in the decision about whether he should continue as Plaintiff's instructor. This violates the plain terms of the policy and creates a genuine dispute about whether Blair was acting in good faith or as a co-conspirator.
+TAP 33 § IV.4 requires that conflict-of-interest disclosures receive independent review. By consulting Selcer, Dean A ensured that the conflicted party would participate in the decision about whether he should continue as Plaintiff's instructor. This violates the plain terms of the policy and creates a genuine dispute about whether Dean A was acting in good faith or as a co-conspirator.
 
-Moreover, the timing is damning. Blair consulted Selcer seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.) This sequence raises a reasonable inference that Blair and Selcer were coordinating a response to Plaintiff's protected activity, not conducting neutral academic administration.
+Moreover, the timing is damning. Dean A consulted Selcer seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025. (Exhibit K-2; TRO Tr.) This sequence raises a reasonable inference that Dean A and Selcer were coordinating a response to Plaintiff's protected activity, not conducting neutral academic administration.
 
 ---
 
@@ -24,19 +24,19 @@ Moreover, the timing is damning. Blair consulted Selcer seven days after Plainti
 
 **Rebuttal: Offers of "help" that come with coercive conditions and follow a pattern of coordinated retaliation do not negate malice; they are overt acts in furtherance of the conspiracy.**
 
-Defendants characterize Blair's consultation as intending to help because it "resulted in assurances of fair treatment and offers of academic support." But the record shows that the "support" was conditional: Plaintiff must return to class, comply with Selcer's demands, and submit to a system where the conflicted party retains control. (Exhibit K-2.) This is not help; it is coercion designed to maintain the conspiracy's control over Plaintiff.
+Defendants characterize Dean A's consultation as intending to help because it "resulted in assurances of fair treatment and offers of academic support." But the record shows that the "support" was conditional: Plaintiff must return to class, comply with Selcer's demands, and submit to a system where the conflicted party retains control. (Exhibit K-2.) This is not help; it is coercion designed to maintain the conspiracy's control over Plaintiff.
 
-Malice—"an intent to injure"—can be inferred from circumstantial evidence. *Thompson Coal*, 412 A.2d at 472-73. The orchestrated removal of oversight from correspondence provides such evidence. Four Defendants systematically removed OCR and senior administrative oversight from critical junctures, preventing Plaintiff from receiving corrective information. Selcer removed Blair herself from the September 3 "final directive." (Exhibits B-3 through B-7; Selcer Sept. 3 email.) If the goal were truly to help, Defendants would have welcomed oversight, not eliminated it.
+Malice—"an intent to injure"—can be inferred from circumstantial evidence. *Thompson Coal*, 412 A.2d at 472-73. The orchestrated removal of oversight from correspondence provides such evidence. Four Defendants systematically removed OCR and senior administrative oversight from critical junctures, preventing Plaintiff from receiving corrective information. Selcer removed Dean A herself from the September 3 "final directive." (Exhibits B-3 through B-7; Selcer Sept. 3 email.) If the goal were truly to help, Defendants would have welcomed oversight, not eliminated it.
 
-Similarly, Plaintiff sent multiple escalations directly to Blair citing federal law, identifying specific violations, and requesting intervention. Blair did not intervene. (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417.) Blair's silence, combined with her active coordination with Selcer, furthers the inference that she was part of a common plan to maintain control without independent oversight. A jury could reasonably find that Blair's "help" was a pretext for coordinating retaliation.
+Similarly, Plaintiff sent multiple escalations directly to Dean A citing federal law, identifying specific violations, and requesting intervention. Dean A did not intervene. (Exhibits K-2, K-5; SAC ¶¶ 326, 338, 417.) Dean A's silence, combined with her active coordination with Selcer, furthers the inference that she was part of a common plan to maintain control without independent oversight. A jury could reasonably find that Dean A's "help" was a pretext for coordinating retaliation.
 
 ---
 
-### III. Defendants' Argument (3): No Underlying Tort Exists Because Blair's TAP 33 Analysis Was Correct
+### III. Defendants' Argument (3): No Underlying Tort Exists Because Dean A's TAP 33 Analysis Was Correct
 
-**Rebuttal: Even if Blair's analysis were correct (and it was not, because it violated the policy's plain terms), an underlying tort exists through the overt acts of co-conspirators. Defendants misunderstand the nature of conspiracy liability.**
+**Rebuttal: Even if Dean A's analysis were correct (and it was not, because it violated the policy's plain terms), an underlying tort exists through the overt acts of co-conspirators. Defendants misunderstand the nature of conspiracy liability.**
 
-Under *Thompson Coal*, once a defendant joins a conspiracy, that defendant is jointly and severally liable for *all tortious acts committed by any co-conspirator* in furtherance of the conspiracy. 412 A.2d at 472-73. Blair need not have personally committed each tortious act; she is liable for the acts of her co-conspirators.
+Under *Thompson Coal*, once a defendant joins a conspiracy, that defendant is jointly and severally liable for *all tortious acts committed by any co-conspirator* in furtherance of the conspiracy. 412 A.2d at 472-73. Dean A need not have personally committed each tortious act; she is liable for the acts of her co-conspirators.
 
 Here, the conspiracy's overt acts include:
 
@@ -44,9 +44,9 @@ Here, the conspiracy's overt acts include:
 
 - **Systematic removal of OCR oversight across four actors** (Conspiracy 2): Defendants coordinated to exclude OCR and senior administrators from communications, preventing Plaintiff from receiving federal protection. (Exhibits B-3 through B-7; Selcer Sept. 3 email.)
 
-- **Selcer's fabrication of "performance issues"** (Conspiracy 3): On February 13, 2026, Selcer claimed there were "performance issues raised by two of the three faculty members" for whom Plaintiff held TA assignments. (Exhibit X-8.) This is contradicted by the source Selcer himself cited on the same day—Faculty B's email, which states: "I have asked Dan to reassign your TA position (he says this will not affect your funding). My office door is always open to you during my office hours" (Exhibit X-7). Faculty B made *no* performance complaint. Nor did the February 10 meeting between Selcer and Plaintiff contain any "performance issues" language (Exhibit X-6), proving the fabrication occurred through intervening communication between Selcer and Blair (Exhibit X-8 referencing a "recommendation to the Dean of Liberal Arts"—Blair's title).
+- **Selcer's fabrication of "performance issues"** (Conspiracy 3): On February 13, 2026, Selcer claimed there were "performance issues raised by two of the three faculty members" for whom Plaintiff held TA assignments. (Exhibit X-8.) This is contradicted by the source Selcer himself cited on the same day—Faculty B's email, which states: "I have asked Dan to reassign your TA position (he says this will not affect your funding). My office door is always open to you during my office hours" (Exhibit X-7). Faculty B made *no* performance complaint. Nor did the February 10 meeting between Selcer and Plaintiff contain any "performance issues" language (Exhibit X-6), proving the fabrication occurred through intervening communication between Selcer and Dean A (Exhibit X-8 referencing a "recommendation to the Dean of Liberal Arts"—Dean A's title).
 
-These tortious acts—falsification, retaliation, obstruction—provide the underlying wrongdoing that supports the conspiracy claim. Blair is liable for all of them under *Thompson Coal*.
+These tortious acts—falsification, retaliation, obstruction—provide the underlying wrongdoing that supports the conspiracy claim. Dean A is liable for all of them under *Thompson Coal*.
 
 ---
 
@@ -63,7 +63,7 @@ Defendants argue that Plaintiff's claim reflects "his refusal to engage with wel
 - Submitted expert declarations from Professor External Faculty Witness (Exhibit C);
 - Provided Signal transcripts documenting the underlying harassment (Exhibit D);
 - Attended meetings with Selcer (Exhibits I, X-6);
-- Escalated concerns to Dean Blair (Exhibits K-2, K-5);
+- Escalated concerns to Dean A (Exhibits K-2, K-5);
 - And ultimately filed this lawsuit and participated in court proceedings.
 
 The conspiracy is not that processes existed, but that Defendants used those processes to coordinate retaliation. The Zoom removal sequence (Exhibit Q) illustrates this: Faculty C authorized Zoom access on October 6; Selcer confirmed Zoom would continue under oath on October 15; the Zoom link disappeared on October 16; and on October 17, Selcer claimed Faculty C found "no compelling reason" for remote attendance—while Faculty C himself was confused and unaware of his own prior authorization. This is not a student refusing to engage; it is administrators coordinating to deprive access.
@@ -76,14 +76,14 @@ Furthermore, Plaintiff faced a retaliation threat from Sawa for the very act of 
 
 **Rebuttal: This argument ignores that the conspiracy's overt acts—including coordinated decision-making, fabrication of reasons, and removal of oversight—occurred *after* Plaintiff's protected activity, and that Selcer's role as instructor was the vehicle for retaliation, not a neutral fact.**
 
-Defendants argue that Selcer's continuation as Plaintiff's instructor "was not retaliatory because he held that role before and after Plaintiff's protected activity." This misstates the nature of the conspiracy claim. The conspiracy is not that Selcer taught Plaintiff; it is that Selcer used his position as instructor to retaliate against Plaintiff for protected activity, with the active assistance of Blair and other Defendants.
+Defendants argue that Selcer's continuation as Plaintiff's instructor "was not retaliatory because he held that role before and after Plaintiff's protected activity." This misstates the nature of the conspiracy claim. The conspiracy is not that Selcer taught Plaintiff; it is that Selcer used his position as instructor to retaliate against Plaintiff for protected activity, with the active assistance of Dean A and other Defendants.
 
 The record shows:
 
 - **Before** Plaintiff's protected activity (TRO hearing on October 15, 2025): Selcer's role as instructor was uncontroversial.
-- **After** Plaintiff's protected activity (October 22, 2025): Blair consulted Selcer about the conflict-of-interest disclosure, and they issued a joint determination. (Exhibit K-2.) This coordination did not exist before.
-- **February 2026**: Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, referencing a "recommendation to the Dean of Liberal Arts"—Blair. (Exhibit X-8.) This communication did not exist before.
-- **The "recommendation to the Dean" language** did not appear in the February 10 meeting (Exhibit X-6) but appeared in the February 13 email (Exhibit X-8), proving intervening communication between Selcer and Blair.
+- **After** Plaintiff's protected activity (October 22, 2025): Dean A consulted Selcer about the conflict-of-interest disclosure, and they issued a joint determination. (Exhibit K-2.) This coordination did not exist before.
+- **February 2026**: Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, referencing a "recommendation to the Dean of Liberal Arts"—Dean A. (Exhibit X-8.) This communication did not exist before.
+- **The "recommendation to the Dean" language** did not appear in the February 10 meeting (Exhibit X-6) but appeared in the February 13 email (Exhibit X-8), proving intervening communication between Selcer and Dean A.
 
 The overt act is not Selcer's role; it is the coordinated decision-making, the fabrication of reasons, and the threat to Plaintiff's livelihood that occurred through Selcer's position. Under *Thompson Coal*, a co-conspirator's use of a pre-existing role to further the conspiracy is actionable.
 
@@ -93,10 +93,10 @@ The overt act is not Selcer's role; it is the coordinated decision-making, the f
 
 **A. Agreement: Direct evidence exists**
 
-Exhibit K-2 contains Blair's written admission: "I did need to consult Dr. Selcer. . . . Both Dr. Selcer and I strongly concur." This is direct evidence of an agreement to decide Plaintiff's conflict-of-interest disclosure jointly, in violation of TAP 33 § IV.4's independence requirement.
+Exhibit K-2 contains Dean A's written admission: "I did need to consult Dr. Selcer. . . . Both Dr. Selcer and I strongly concur." This is direct evidence of an agreement to decide Plaintiff's conflict-of-interest disclosure jointly, in violation of TAP 33 § IV.4's independence requirement.
 
 Additional circumstantial evidence of agreement includes:
-- The "recommendation to the Dean" language appearing in Selcer's February 13 email (Exhibit X-8) but not in the February 10 meeting (Exhibit X-6), proving intervening communication between Selcer and Blair.
+- The "recommendation to the Dean" language appearing in Selcer's February 13 email (Exhibit X-8) but not in the February 10 meeting (Exhibit X-6), proving intervening communication between Selcer and Dean A.
 - The systematic removal of OCR oversight across four Defendants (Exhibits B-3 through B-7; Selcer Sept. 3 email).
 - The Zoom removal sequence where Selcer spoke for Faculty C without authorization (Exhibit Q).
 
@@ -110,20 +110,20 @@ The conspiracy's unlawful means include:
 **C. Overt acts in furtherance: Numerous documented acts**
 
 The record contains multiple overt acts, including:
-1. Blair consulting Selcer and issuing a joint determination on a conflict-of-interest disclosure (Exhibit K-2).
+1. Dean A consulting Selcer and issuing a joint determination on a conflict-of-interest disclosure (Exhibit K-2).
 2. Selcer fabricating "performance issues" and threatening stipend suspension (Exhibit X-8).
 3. Simpson determining that Title IX had no jurisdiction after Plaintiff refused to meet (Exhibit B-6).
 4. Sawa threatening conduct charges (Exhibit B-7).
-5. Selcer removing Blair from the September 3 directive to eliminate oversight (Selcer Sept. 3 email).
+5. Selcer removing Dean A from the September 3 directive to eliminate oversight (Selcer Sept. 3 email).
 6. Selcer coordinating with Faculty C to remove Zoom access (Exhibit Q).
 
 **D. Malice (intent to injure): Inferred from circumstantial evidence**
 
 Malice can be inferred from:
-1. The timing of Blair's consultation with Selcer—seven days after Plaintiff cross-examined Selcer under oath (Exhibit K-2; TRO Tr.).
+1. The timing of Dean A's consultation with Selcer—seven days after Plaintiff cross-examined Selcer under oath (Exhibit K-2; TRO Tr.).
 2. The pattern of removing oversight four times across four Defendants (Conspiracy 2).
 3. Fabrication of performance issues contradicted by the source cited (Exhibits X-7, X-8).
-4. Blair's silence despite receiving multiple escalations citing federal law (Exhibits K-2, K-5).
+4. Dean A's silence despite receiving multiple escalations citing federal law (Exhibits K-2, K-5).
 
 **E. Resulting harm: Documented educational and professional injury**
 
@@ -138,6 +138,6 @@ Plaintiff has suffered:
 
 ### VII. Conclusion
 
-The record is replete with genuine disputes of material fact on every element of civil conspiracy. Defendants' arguments either mischaracterize the evidence or ignore it entirely. Blair's "consultation" with a conflicted party was not routine administration; it was a joint decision that violated TAP 33's independence requirement. The offers of "help" were conditioned on Plaintiff submitting to a system designed to retaliate, not assist. Underlying torts abound—falsification, retaliation, obstruction—and Blair is jointly and severally liable for all of them. Plaintiff engaged with university processes repeatedly; it was Defendants who manipulated those processes to coordinate retaliation. And Selcer's pre-existing role as instructor became the vehicle for post-protected-activity retaliation, not a neutral fact.
+The record is replete with genuine disputes of material fact on every element of civil conspiracy. Defendants' arguments either mischaracterize the evidence or ignore it entirely. Dean A's "consultation" with a conflicted party was not routine administration; it was a joint decision that violated TAP 33's independence requirement. The offers of "help" were conditioned on Plaintiff submitting to a system designed to retaliate, not assist. Underlying torts abound—falsification, retaliation, obstruction—and Dean A is jointly and severally liable for all of them. Plaintiff engaged with university processes repeatedly; it was Defendants who manipulated those processes to coordinate retaliation. And Selcer's pre-existing role as instructor became the vehicle for post-protected-activity retaliation, not a neutral fact.
 
 Circumstantial

@@ -6,7 +6,7 @@
 #SBATCH -A cis260106p
 #SBATCH -o download_v31-%j.out
 #SBATCH --mail-type=END,FAIL
-#SBATCH --mail-user=moodnaut@gmail.com
+#SBATCH --mail-user=CHANGE_ME@example.com
 
 # Focused V3.1-only download. Uses GPU-shared partition (1 GPU) for compute-node
 # bandwidth. Login node is throttled (~5 MB/s); compute node hit ~700+ MB/s

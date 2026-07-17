@@ -4,17 +4,17 @@ ARGUMENT
 
 Defendants' motion for summary judgment on Count V - Civil Conspiracy (Pennsylvania common law and 42 U.S.C. § 1985) must be denied because genuine disputes of material fact preclude summary judgment. Defendants' arguments are rebutted below.
 
-1. Blair's consultation with Selcer was routine academic administration.
+1. Dean A's consultation with Selcer was routine academic administration.
 
-This argument is belied by Exhibit K-2, where Blair admits to consulting Selcer about a conflict-of-interest disclosure concerning Selcer himself. This written admission of joint determination with the conflicted party ("both of us, together") rather than independent review, contradicts Defendants' claim of routine academic administration. Under TAP 33 § IV.4, independent review of conflict-of-interest disclosures is required, and Blair's "consult[ation]" with the conflicted party does not constitute independent review under any reading of the policy.
+This argument is belied by Exhibit K-2, where Dean A admits to consulting Selcer about a conflict-of-interest disclosure concerning Selcer himself. This written admission of joint determination with the conflicted party ("both of us, together") rather than independent review, contradicts Defendants' claim of routine academic administration. Under TAP 33 § IV.4, independent review of conflict-of-interest disclosures is required, and Dean A's "consult[ation]" with the conflicted party does not constitute independent review under any reading of the policy.
 
 2. The consultation evidenced intent to help, not malice.
 
-Exhibit K-2 shows that Blair's consultation with Selcer resulted in assurances of fair treatment and offers of academic support. However, this does not negate the fact that Blair's actions were part of a larger conspiracy to deny Plaintiff's rights. As the Pennsylvania Supreme Court held in Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979), proof of malice is essential in proof of a conspiracy. The fact that Blair's actions may have been intended to help does not preclude a finding of malice, as malice can be established by showing a reckless disregard for Plaintiff's rights.
+Exhibit K-2 shows that Dean A's consultation with Selcer resulted in assurances of fair treatment and offers of academic support. However, this does not negate the fact that Dean A's actions were part of a larger conspiracy to deny Plaintiff's rights. As the Pennsylvania Supreme Court held in Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466, 472-73 (1979), proof of malice is essential in proof of a conspiracy. The fact that Dean A's actions may have been intended to help does not preclude a finding of malice, as malice can be established by showing a reckless disregard for Plaintiff's rights.
 
 3. No underlying tort exists to support the conspiracy.
 
-Defendants argue that Blair's TAP 33 analysis was correct on the policy's plain terms. However, Exhibit K-5 shows that Blair denied the applicability of TAP 33, despite the clear conflict of interest presented by Selcer's role as both Plaintiff's instructor and a named defendant in Plaintiff's federal civil case. This denial of TAP 33's applicability is a tortious act that supports the conspiracy claim.
+Defendants argue that Dean A's TAP 33 analysis was correct on the policy's plain terms. However, Exhibit K-5 shows that Dean A denied the applicability of TAP 33, despite the clear conflict of interest presented by Selcer's role as both Plaintiff's instructor and a named defendant in Plaintiff's federal civil case. This denial of TAP 33's applicability is a tortious act that supports the conspiracy claim.
 
 4. Plaintiff's characterization of coordinated institutional responses as "conspiracy" reflects his refusal to engage with well-established university processes.
 
@@ -34,7 +34,7 @@ REQUIRED LEGAL ELEMENTS
 
 (3) Overt acts in furtherance: Exhibits X-8, Z-d, and Z-e demonstrate the overt acts committed by Defendants in furtherance of the conspiracy, including Selcer's fabrication of "performance issues" and the university's failure to provide supportive measures.
 
-(4) Malice (legal or actual): Exhibits K-2, X-8, and Z-d demonstrate the malice committed by Defendants, including Blair's reckless disregard for Plaintiff's rights and Selcer's fabrication of "performance issues."
+(4) Malice (legal or actual): Exhibits K-2, X-8, and Z-d demonstrate the malice committed by Defendants, including Dean A's reckless disregard for Plaintiff's rights and Selcer's fabrication of "performance issues."
 
 (5) Resulting harm: Exhibits F, X-4, and X-8 demonstrate the resulting harm suffered by Plaintiff, including his emotional distress, academic disruption, and financial losses.
 

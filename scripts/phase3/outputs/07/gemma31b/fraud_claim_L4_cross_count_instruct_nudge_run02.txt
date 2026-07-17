@@ -2,19 +2,19 @@
 
 Defendants’ Motion for Summary Judgment on Count IV (Fraud) must be denied because genuine disputes of material fact exist regarding every element of the claim. Under Pennsylvania law, fraud requires: (1) a representation; (2) which is material to the transaction at hand; (3) made falsely, with knowledge of its falsity or recklessness; (4) with the intent of misleading another into relying on it; (5) justifiable reliance; and (6) resulting injury proximately caused by the reliance. *Gibbs v. Ernst*, 538 Pa. 193, 647 A.2d 882 (1994).
 
-**I. Genuine Disputes Exist Regarding the Falsity and Materiality of Dean Blair’s TAP 33 Analysis**
+**I. Genuine Disputes Exist Regarding the Falsity and Materiality of Dean A’s TAP 33 Analysis**
 
-Defendants contend that Dean Blair’s determination—that Plaintiff is not a "Covered Party" and that the instructor-student relationship during litigation is not a "Conflict of Interest"—was consistent with the plain language of TAP 33. This is a disputed issue of material fact. 
+Defendants contend that Dean A’s determination—that Plaintiff is not a "Covered Party" and that the instructor-student relationship during litigation is not a "Conflict of Interest"—was consistent with the plain language of TAP 33. This is a disputed issue of material fact. 
 
-First, the process by which Dean Blair reached this conclusion was fundamentally flawed. Dean Blair admitted that in preparing her response, she "did need to consult Dr. Selcer as instructor" (Exhibit K-2). This means the Dean consulted the very party whose conflict was being questioned—a party who had been cross-examined under oath only seven days prior (Fact 8). 
+First, the process by which Dean A reached this conclusion was fundamentally flawed. Dean A admitted that in preparing her response, she "did need to consult Dr. Selcer as instructor" (Exhibit K-2). This means the Dean consulted the very party whose conflict was being questioned—a party who had been cross-examined under oath only seven days prior (Fact 8). 
 
-Second, Plaintiff corrected Dean Blair within 90 minutes of her determination, providing specific policy citations to demonstrate the error (Fact 9). Despite this, Blair responded "no change" (Exhibit K-5). Whether this representation was "made falsely, with knowledge of its falsity or recklessness" is a question for the jury. *Gibbs*, 647 A.2d at 882. The fact that the Dean relied on the conflicted party to determine the existence of a conflict creates a genuine dispute as to whether the representation was reckless or intentionally misleading.
+Second, Plaintiff corrected Dean A within 90 minutes of her determination, providing specific policy citations to demonstrate the error (Fact 9). Despite this, Dean A responded "no change" (Exhibit K-5). Whether this representation was "made falsely, with knowledge of its falsity or recklessness" is a question for the jury. *Gibbs*, 647 A.2d at 882. The fact that the Dean relied on the conflicted party to determine the existence of a conflict creates a genuine dispute as to whether the representation was reckless or intentionally misleading.
 
-**II. Dean Blair’s Silence Constitutes Actionable Misrepresentation Under Pennsylvania Law**
+**II. Dean A’s Silence Constitutes Actionable Misrepresentation Under Pennsylvania Law**
 
-Defendants argue that Dean Blair’s silence regarding the August 25 email was not actionable because no fiduciary relationship existed. This argument ignores established Pennsylvania precedent. 
+Defendants argue that Dean A’s silence regarding the August 25 email was not actionable because no fiduciary relationship existed. This argument ignores established Pennsylvania precedent. 
 
-Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), "where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Dean Blair is the natural and proper source of information regarding the application of University policies (TAP 33) to a student’s academic requirements. 
+Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), "where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Dean A is the natural and proper source of information regarding the application of University policies (TAP 33) to a student’s academic requirements. 
 
 Furthermore, the "duty to investigate" does not apply where the defendant is the natural and proper source of the information. *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995). By remaining silent or providing false assurances while withholding the correct policy application, Defendants engaged in "culpable misrepresentation." *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991).
 
@@ -28,17 +28,17 @@ The fact that Plaintiff recognized the error does not negate the fraud; rather, 
 
 **IV. Plaintiff’s Claims Are Not Internally Inconsistent**
 
-Defendants argue that Plaintiff cannot allege that both responding (Selcer) and not responding (Blair) constituted fraud. This is a false dichotomy. 
+Defendants argue that Plaintiff cannot allege that both responding (Selcer) and not responding (Dean A) constituted fraud. This is a false dichotomy. 
 
 Fraud may be committed through affirmative misrepresentation or through the concealment of material facts. *Moser*, 589 A.2d at 679. Here, Plaintiff alleges two distinct fraudulent schemes:
 1. **Affirmative Misrepresentation:** Dr. Selcer issued a "falsified meeting summary" on August 25, misrepresenting agreements and imposing a baseless "Zoom countdown" (Fact 7, Exhibit I).
-2. **Culpable Concealment:** Dean Blair and other administrators used silence and the denial of policy applicability to maintain a status quo that benefited the University and the conflicted instructor (Exhibit K-2, K-5).
+2. **Culpable Concealment:** Dean A and other administrators used silence and the denial of policy applicability to maintain a status quo that benefited the University and the conflicted instructor (Exhibit K-2, K-5).
 
 These are not inconsistent; they are complementary methods of deception used by different actors to obstruct Plaintiff’s access to education and safety.
 
-**V. The Consultation Between Blair and Selcer Evidence Intent to Deceive, Not Help**
+**V. The Consultation Between Dean A and Selcer Evidence Intent to Deceive, Not Help**
 
-Defendants point to the consultation between Blair and Selcer as evidence of an "intent to help." To the contrary, this is evidence of a conspiracy to mislead. 
+Defendants point to the consultation between Dean A and Selcer as evidence of an "intent to help." To the contrary, this is evidence of a conspiracy to mislead. 
 
 Consulting the conflicted party (Selcer) about his own conflict—especially after that party had been cross-examined under oath—demonstrates a total abandonment of impartiality. This consultation resulted in a "joint determination" that it was "appropriate" for Plaintiff to remain under the instruction of a defendant in his own lawsuit (Exhibit K-2). Such a determination is not an act of "help," but a calculated effort to maintain a power imbalance and ignore institutional conflict-of-interest policies.
 

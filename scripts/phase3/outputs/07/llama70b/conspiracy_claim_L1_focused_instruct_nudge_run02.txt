@@ -6,11 +6,11 @@ Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsyl
 
 **I. Agreement between two or more actors**
 
-Defendants argue that Blair's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Blair's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2). This written admission of joint determination creates a genuine dispute of material fact regarding the existence of an agreement between Blair and Selcer.
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." (Exhibit K-2). This written admission of joint determination creates a genuine dispute of material fact regarding the existence of an agreement between Dean A and Selcer.
 
 **II. Unlawful act or unlawful means**
 
-Defendants claim that Blair's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Blair's consultation with Selcer did not constitute independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding the unlawfulness of Blair's actions.
+Defendants claim that Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Dean A's consultation with Selcer did not constitute independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding the unlawfulness of Dean A's actions.
 
 **III. Overt acts in furtherance**
 
@@ -18,7 +18,7 @@ Defendants argue that Selcer's continuation as Plaintiff's instructor was not re
 
 **IV. Malice (legal or actual)**
 
-Defendants contend that Blair's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Blair's joint determination with Selcer was not an independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding Blair's intent.
+Defendants contend that Dean A's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 demonstrates that Dean A's joint determination with Selcer was not an independent review, as required by TAP 33 § IV.4. This failure to follow university policy creates a genuine dispute of material fact regarding Dean A's intent.
 
 **V. Resulting harm**
 
@@ -33,7 +33,7 @@ In conclusion, the record reveals genuine disputes of material fact on each elem
 
 **CITED EXHIBITS**
 
-* Exhibit K-2: Blair Consults Selcer and Announces Joint Determination
+* Exhibit K-2: Dean A Consults Selcer and Announces Joint Determination
 * Exhibit X-7: Faculty B Requests Reassignment — Door Open, No Performance Complaint
 * Exhibit X-8: Selcer Fabricates 'Performance Issues' and Threatens Stipend Through 2029
 * Exhibits B-3 through B-7: Removal of OCR and senior administrative oversight from correspondence

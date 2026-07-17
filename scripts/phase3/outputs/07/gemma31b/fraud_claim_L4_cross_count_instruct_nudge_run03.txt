@@ -4,17 +4,17 @@ Defendants’ Motion for Summary Judgment should be denied because genuine dispu
 
 **I. Genuine Disputes Exist Regarding the Falsity and Materiality of Defendants' Representations**
 
-Defendants argue that Dean Blair’s TAP 33 analysis was consistent with policy and that Plaintiff is not a "Covered Party." However, the record creates a sharp dispute regarding the truthfulness and recklessness of this representation. 
+Defendants argue that Dean A’s TAP 33 analysis was consistent with policy and that Plaintiff is not a "Covered Party." However, the record creates a sharp dispute regarding the truthfulness and recklessness of this representation. 
 
-First, Dean Blair admitted that in preparing her determination, she "did need to consult Dr. Selcer"—the very individual Plaintiff identified as a conflict of interest—to "secure some additional details." (Ex. K-2). This action directly contradicts the University’s own training on Conflict of Interest (COI), which mandates that the Title IX team "identify and avoid... conflicts of interest" to "ensure fairness" and "maintain the trust, integrity, and credibility" of the process. (Ex. Z-d, Slides 43, 46). Consulting the conflicted party to determine the existence of a conflict is a prima facie violation of these standards.
+First, Dean A admitted that in preparing her determination, she "did need to consult Dr. Selcer"—the very individual Plaintiff identified as a conflict of interest—to "secure some additional details." (Ex. K-2). This action directly contradicts the University’s own training on Conflict of Interest (COI), which mandates that the Title IX team "identify and avoid... conflicts of interest" to "ensure fairness" and "maintain the trust, integrity, and credibility" of the process. (Ex. Z-d, Slides 43, 46). Consulting the conflicted party to determine the existence of a conflict is a prima facie violation of these standards.
 
-Second, Plaintiff corrected Blair’s reading of TAP 33 within 90 minutes, providing specific policy citations. (Fact 9). Blair’s summary refusal to reconsider ("no change") despite these citations suggests a reckless disregard for the truth of the policy. (Ex. K-5). Under *Gibbs*, a representation made with "recklessness as to whether it is true or false" satisfies the falsity element.
+Second, Plaintiff corrected Dean A’s reading of TAP 33 within 90 minutes, providing specific policy citations. (Fact 9). Dean A’s summary refusal to reconsider ("no change") despite these citations suggests a reckless disregard for the truth of the policy. (Ex. K-5). Under *Gibbs*, a representation made with "recklessness as to whether it is true or false" satisfies the falsity element.
 
 **II. Defendants’ Silence and Nondisclosure Constitute Actionable Misrepresentation**
 
-Defendants contend that Dean Blair’s silence regarding the August 25 email was not actionable because no fiduciary relationship existed. This argument fails under Pennsylvania law. 
+Defendants contend that Dean A’s silence regarding the August 25 email was not actionable because no fiduciary relationship existed. This argument fails under Pennsylvania law. 
 
-Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), "where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Blair is the "natural and proper source" of information regarding the application of university policy (TAP 33) to a doctoral candidate’s enrollment. 
+Under *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947), "where a party to a transaction is the natural and proper source of information, nondisclosure of a material fact is equivalent to a fraudulent misrepresentation." As the Dean of the College of Liberal Arts, Dean A is the "natural and proper source" of information regarding the application of university policy (TAP 33) to a doctoral candidate’s enrollment. 
 
 Furthermore, *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995) clarifies that the "duty to investigate" does not apply when the defendant is the natural and proper source of the information. Plaintiff’s reliance on the Dean to accurately interpret the University's own conflict-of-interest policies was not only reasonable but necessary, as the Dean holds the exclusive authority to implement such changes.
 
@@ -28,19 +28,19 @@ Second, reliance is "presumed from materiality where a party would not have ente
 
 **IV. Plaintiff’s Claims Are Not Internally Inconsistent**
 
-Defendants claim it is inconsistent to allege that both responding (Selcer) and not responding (Blair) constituted fraud. This is a false dichotomy. 
+Defendants claim it is inconsistent to allege that both responding (Selcer) and not responding (Dean A) constituted fraud. This is a false dichotomy. 
 
 Fraud can manifest as both an affirmative lie and a culpable omission. *Moser* confirms that both intentional false statements and the concealment of material facts are actionable. 
 *   **Affirmative Fraud:** Dr. Selcer issued a "falsified meeting summary" misrepresenting agreements and imposing a "three-week Zoom countdown" without policy basis. (Fact 7, Ex. I).
-*   **Fraud by Omission:** Dean Blair’s refusal to acknowledge the correct policy citations and her silence on the conflict of interest served to conceal the University's failure to follow TAP 33. (Ex. K-5).
+*   **Fraud by Omission:** Dean A’s refusal to acknowledge the correct policy citations and her silence on the conflict of interest served to conceal the University's failure to follow TAP 33. (Ex. K-5).
 
 Both tactics served the same intent: to mislead Plaintiff into believing the University was following policy while simultaneously denying him safe access to his education.
 
 **V. The "Intent to Help" Argument is Pretextual**
 
-Defendants argue that the consultation between Blair and Selcer produced "assurances of fair treatment," proving an intent to help. This is belied by the record. 
+Defendants argue that the consultation between Dean A and Selcer produced "assurances of fair treatment," proving an intent to help. This is belied by the record. 
 
-The "assurances" were conditioned on Plaintiff returning to a classroom taught by a defendant in his own federal lawsuit. (Ex. K-2). Blair’s email warned that Plaintiff "will not pass" if he did not resume attendance immediately. (Ex. K-2). This is not "help"; it is the use of academic leverage to coerce a student into a conflicted environment. Furthermore, the "consultation" violated the very impartiality required by University training. (Ex. Z-d).
+The "assurances" were conditioned on Plaintiff returning to a classroom taught by a defendant in his own federal lawsuit. (Ex. K-2). Dean A’s email warned that Plaintiff "will not pass" if he did not resume attendance immediately. (Ex. K-2). This is not "help"; it is the use of academic leverage to coerce a student into a conflicted environment. Furthermore, the "consultation" violated the very impartiality required by University training. (Ex. Z-d).
 
 **VI. Academic Deference Does Not Shield Fraudulent Misrepresentations of Law**
 

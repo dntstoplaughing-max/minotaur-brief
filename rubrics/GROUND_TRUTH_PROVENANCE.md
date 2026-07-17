@@ -118,7 +118,7 @@ Candidate pool: cases 24 (Farrell), 25 (Doe v. Mercy Catholic),
   - `X-4`: Faculty B's February 5, 2026 email reporting "interpersonal upset — no performance issues" evidences the absence of any non-retaliatory cause for the subsequent stipend threat, supporting causation under Kachmar's whole-record analysis.
   - `X-6`: The February 10, 2026 Selcer/Mullins meeting transcript with "no performance issues" language evidences causal connection by establishing that the performance-issues narrative was manufactured between February 10 and February 13 for retaliatory purpose.
   - `X-8`: Selcer's same-day fabrication of "performance issues" three days after the meeting and the same day as Faculty B's contradictory email evidences causal connection through a documented divergence between the proffered reason and the underlying record.
-  - `K-2`: Blair's October 22, 2025 consultation with Selcer (the conflicted party) seven days after TRO testimony evidences causal connection by tying institutional decisions to protected litigation activity.
+  - `K-2`: Dean A's October 22, 2025 consultation with Selcer (the conflicted party) seven days after TRO testimony evidences causal connection by tying institutional decisions to protected litigation activity.
 
 ### Pitfalls
 - **Failing to apply but-for causation post Univ. of Texas Southwestern Med. Ctr. v. Nassar (2013):** Authority: *Nassar*, 570 U.S. 338 (2013) — outside corpus; reviewers verifying this pitfall consult Nassar directly. Within the corpus, *Carvalho-Grevious*, slip op., establishes that at the prima facie stage the plaintiff need only show that the protected activity was the "likely reason" for the adverse action — distinct from the but-for standard at the merits stage.
@@ -198,9 +198,9 @@ Candidate pool: cases 7 (Majestic Blue), 10 (Gibbs), 12 (Moser),
   - `B-6`: Simpson's August 14 jurisdictional disclaimer that the conduct "does not meet TAP 61, nor TAP 31's definitions ... even if proven to be true" evidences a false representation because the conduct meets the stalking definition under § 106.30 and TAP 61 Category 6.
   - `G`: Wasilko's July 24 housing denial evidences a false representation because the denial cited absence of authority that did not exist.
   - `I`: Selcer's August 25 falsified meeting summary evidences a false representation by mischaracterizing what was discussed.
-  - `K-1`: Plaintiff's October 20 conflict-of-interest disclosure to Blair establishes the predicate against which Blair's subsequent representations are tested.
-  - `K-2`: Blair's October 22 announcement of "joint determination" with Selcer evidences a false representation that independent TAP 33 review had occurred.
-  - `K-5`: Blair's October 22 denial of TAP 33 applicability evidences a false representation because the policy plainly applied.
+  - `K-1`: Plaintiff's October 20 conflict-of-interest disclosure to Dean A establishes the predicate against which Dean A's subsequent representations are tested.
+  - `K-2`: Dean A's October 22 announcement of "joint determination" with Selcer evidences a false representation that independent TAP 33 review had occurred.
+  - `K-5`: Dean A's October 22 denial of TAP 33 applicability evidences a false representation because the policy plainly applied.
   - `P`: The Title IX Policy Appendix C establishes the institutional framework against which Defendants' representations are tested as false.
   - `S`: Plaintiff's enumerated July 21 conduct violations establish the factual record from which Defendants' subsequent contrary representations can be shown to be false.
   - `X-6`: The February 10 meeting transcript without "performance issues" language evidences that Selcer's later "performance issues" narrative was a false representation.
@@ -269,13 +269,13 @@ Candidate pool: cases 3 (Desert Palace), 9 (Thompson Coal).
 - **Controlling authority:** *Thompson Coal Co. v. Pike Coal Co.*, 488 Pa. 198, 412 A.2d 466, 211 (1979). "To prove a civil conspiracy, it must be shown that two or more persons combined or agreed with intent to do an unlawful act or to do an otherwise lawful act by unlawful means."
 - **Subsidiary authority:** *Desert Palace, Inc. v. Costa*, 539 U.S. 90, 98, 101 (2003) (circumstantial evidence sufficient — Title VII context, applied here by analogy: "Section 2000e-2(m) unambiguously states that a plaintiff need only 'demonstrat[e]' that an employer used a forbidden consideration with respect to 'any employment practice'" (at 98); "[d]irect evidence of discrimination is not required for a plaintiff to obtain a mixed-motive jury instruction" (at 101)).
 - **Exhibits mapped:**
-  - `K-2`: Blair's "I did need to consult Dr. Selcer ... Both Dr. Selcer and I strongly concur" evidences agreement because the language documents joint determination between two actors.
+  - `K-2`: Dean A's "I did need to consult Dr. Selcer ... Both Dr. Selcer and I strongly concur" evidences agreement because the language documents joint determination between two actors.
   - `B-2`: Wasilko's meeting-requirement statement evidences agreement because it parallels Simpson's framing in B-1, supporting an inference of coordination.
   - `B-3`: The OCR-removal pattern across actors evidences agreement because synchronized conduct without policy basis supports inference.
   - `B-5`: Simpson's coordinated framing evidences agreement when paired with Wasilko's parallel framing.
-  - `X-4`: Faculty B's "interpersonal upset — no performance issues" email establishes the baseline against which X-6 and X-8 reveal coordinated narrative-shifting between Selcer and Blair.
+  - `X-4`: Faculty B's "interpersonal upset — no performance issues" email establishes the baseline against which X-6 and X-8 reveal coordinated narrative-shifting between Selcer and Dean A.
   - `X-6`: The February 10 transcript shows the absence of the "recommendation to the Dean" language that appears three days later in X-8, evidencing intervening coordination — i.e., the agreement element by inference from textual divergence.
-  - `X-8`: Selcer's "recommendation to the Dean of Liberal Arts" reference evidences agreement by tying Selcer's threat to Blair's office.
+  - `X-8`: Selcer's "recommendation to the Dean of Liberal Arts" reference evidences agreement by tying Selcer's threat to Dean A's office.
   - `D`: The Signal transcript establishes the underlying factual record on which Defendants' coordinated representations diverge.
 
 ### Element: unlawful_act
@@ -303,7 +303,7 @@ Candidate pool: cases 3 (Desert Palace), 9 (Thompson Coal).
   - `B-7`: Sawa's threat is an overt act in furtherance of the deterrence objective.
   - `I`: Selcer's countdown is an overt act in furtherance of the participation-suppression objective.
   - `J`: Selcer's final directive is an overt act completing the participation-denial objective.
-  - `K-2`: Blair's joint-determination announcement is an overt act in furtherance of the conflict-perpetuation objective.
+  - `K-2`: Dean A's joint-determination announcement is an overt act in furtherance of the conflict-perpetuation objective.
   - `Q`: The Zoom-removal sequence is a series of overt acts implementing the participation-denial objective.
   - `G`: Wasilko's housing denial is an overt act in furtherance of the supportive-measures-denial objective.
   - `X-6`: The February 10 transcript records overt-act inaction (no performance-issues mention) preceding the X-8 fabrication.

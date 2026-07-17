@@ -6,13 +6,13 @@ Defendants' motion for summary judgment on Count V — Civil Conspiracy (Pennsyl
 
 I. Agreement between two or more actors
 
-Defendants argue that Blair's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Blair's consultation with Selcer was not independent review as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Blair's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar" (Exhibit K-2). This written admission of joint determination with Selcer, a conflicted party, raises a genuine dispute of material fact as to whether Blair and Selcer agreed to act in concert.
+Defendants argue that Dean A's consultation with Selcer was routine academic administration (Dkt. 34 at 10). However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent review as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar" (Exhibit K-2). This written admission of joint determination with Selcer, a conflicted party, raises a genuine dispute of material fact as to whether Dean A and Selcer agreed to act in concert.
 
-Moreover, Exhibit X-8 shows that Selcer's reassignment email referenced a "recommendation to the Dean of Liberal Arts" — Blair's exact title — demonstrating communication between Selcer and Blair in the days preceding the fabricated "performance issues" threat. This communication, combined with Blair's active coordination with Selcer, further supports the existence of an agreement between two or more actors.
+Moreover, Exhibit X-8 shows that Selcer's reassignment email referenced a "recommendation to the Dean of Liberal Arts" — Dean A's exact title — demonstrating communication between Selcer and Dean A in the days preceding the fabricated "performance issues" threat. This communication, combined with Dean A's active coordination with Selcer, further supports the existence of an agreement between two or more actors.
 
 II. Unlawful act or unlawful means
 
-Defendants claim that no underlying tort exists to support the conspiracy because Blair's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 shows that Blair's consultation with Selcer did not constitute independent review under any reading of the policy. This failure to follow university policy raises a genuine dispute of material fact as to whether Blair and Selcer engaged in an unlawful act or used unlawful means.
+Defendants claim that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A's consultation with Selcer did not constitute independent review under any reading of the policy. This failure to follow university policy raises a genuine dispute of material fact as to whether Dean A and Selcer engaged in an unlawful act or used unlawful means.
 
 Furthermore, Exhibit X-8 reveals that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which is an unlawful act. This fabrication, combined with the underlying torts committed by co-conspirators, including 36 false statements fabricating a meeting requirement (Conspiracy 1), systematic OCR removal across four actors (Conspiracy 2), and Selcer's fabrication of "performance issues" (Exhibits X-7, X-8), supports the existence of an unlawful act or unlawful means.
 
@@ -22,7 +22,7 @@ Defendants argue that Selcer's continuation as Plaintiff's instructor was not re
 
 IV. Malice (legal or actual)
 
-Defendants claim that Blair's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 shows that Blair's consultation with Selcer resulted in a joint determination that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's concerns about Selcer's conflict of interest. This joint determination, combined with Blair's active coordination with Selcer, raises a genuine dispute of material fact as to whether Blair and Selcer acted with malice.
+Defendants claim that Dean A's consultation with Selcer evidenced intent to help, not malice (Dkt. 34 at 10). However, Exhibit K-2 shows that Dean A's consultation with Selcer resulted in a joint determination that Plaintiff should remain enrolled in the required teaching seminar, despite Plaintiff's concerns about Selcer's conflict of interest. This joint determination, combined with Dean A's active coordination with Selcer, raises a genuine dispute of material fact as to whether Dean A and Selcer acted with malice.
 
 Moreover, Exhibit X-8 reveals that Selcer fabricated "performance issues" contradicted by the source he cited on the same day, which demonstrates actual malice. This fabrication, combined with the underlying torts committed by co-conspirators, supports the existence of malice.
 
@@ -39,7 +39,7 @@ Citing case authorities:
 
 Citing exhibit evidence:
 
-* Exhibit K-2 (Blair's consultation with Selcer and joint determination)
+* Exhibit K-2 (Dean A's consultation with Selcer and joint determination)
 * Exhibit X-8 (Selcer's fabrication of "performance issues" and threat of stipend suspension)
 * Exhibit X-6 (Selcer's meeting with Plaintiff and introduction of "performance issues" language)
 * Exhibit X-7 (Faculty B's request for reassignment and lack of performance complaint)

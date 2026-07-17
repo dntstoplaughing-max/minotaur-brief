@@ -2,17 +2,17 @@
 
 ARGUMENT
 
-I. Defendants' Argument 1: Blair's Consultation with Selcer was Routine Academic Administration
+I. Defendants' Argument 1: Dean A's Consultation with Selcer was Routine Academic Administration
 
-Defendants argue that Dean Blair's consultation with Dr. Selcer was routine academic administration, necessary to check course availability and academic progress. However, this argument is belied by the evidence. Exhibit K-2 shows that Blair's consultation with Selcer was not routine, but rather a joint determination that Plaintiff should remain enrolled in the required teaching seminar despite the conflict of interest. This consultation was not independent, as required by TAP 33 § IV.4, but rather a collaborative decision-making process between Blair and Selcer.
+Defendants argue that Dean A's consultation with Dr. Selcer was routine academic administration, necessary to check course availability and academic progress. However, this argument is belied by the evidence. Exhibit K-2 shows that Dean A's consultation with Selcer was not routine, but rather a joint determination that Plaintiff should remain enrolled in the required teaching seminar despite the conflict of interest. This consultation was not independent, as required by TAP 33 § IV.4, but rather a collaborative decision-making process between Dean A and Selcer.
 
 II. Defendants' Argument 2: The Consultation Evidenced Intent to Help, Not Malice
 
-Defendants argue that the consultation between Blair and Selcer evidenced an intent to help Plaintiff, not malice. However, the evidence suggests otherwise. Exhibit K-2 shows that Blair and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest, and that Blair denied the applicability of TAP 33 to the situation. This decision was not made with the intent to help Plaintiff, but rather to maintain the status quo and avoid addressing the conflict of interest.
+Defendants argue that the consultation between Dean A and Selcer evidenced an intent to help Plaintiff, not malice. However, the evidence suggests otherwise. Exhibit K-2 shows that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest, and that Dean A denied the applicability of TAP 33 to the situation. This decision was not made with the intent to help Plaintiff, but rather to maintain the status quo and avoid addressing the conflict of interest.
 
 III. Defendants' Argument 3: No Underlying Tort Exists to Support the Conspiracy
 
-Defendants argue that there is no underlying tort to support the conspiracy claim because Blair's TAP 33 analysis was correct on the policy's plain terms. However, this argument is incorrect. Exhibit K-5 shows that Blair denied the applicability of TAP 33 to the situation, despite the clear conflict of interest. This decision was not only incorrect, but also demonstrated a deliberate indifference to Plaintiff's rights and a willingness to ignore the policy.
+Defendants argue that there is no underlying tort to support the conspiracy claim because Dean A's TAP 33 analysis was correct on the policy's plain terms. However, this argument is incorrect. Exhibit K-5 shows that Dean A denied the applicability of TAP 33 to the situation, despite the clear conflict of interest. This decision was not only incorrect, but also demonstrated a deliberate indifference to Plaintiff's rights and a willingness to ignore the policy.
 
 IV. Defendants' Argument 4: Plaintiff's Characterization of Coordinated Institutional Responses as "Conspiracy" Reflects His Refusal to Engage with Well-Established University Processes
 
@@ -28,10 +28,10 @@ REQUIRED LEGAL ELEMENTS
 
 The conspiracy claim requires proof of (1) an agreement between two or more actors, (2) an unlawful act or unlawful means, (3) overt acts in furtherance, (4) malice (legal or actual), and (5) resulting harm. The evidence demonstrates that these elements are present in this case.
 
-* Agreement: Exhibit K-2 shows that Blair and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest.
-* Unlawful act or unlawful means: Exhibit K-5 shows that Blair denied the applicability of TAP 33 to the situation, despite the clear conflict of interest.
+* Agreement: Exhibit K-2 shows that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest.
+* Unlawful act or unlawful means: Exhibit K-5 shows that Dean A denied the applicability of TAP 33 to the situation, despite the clear conflict of interest.
 * Overt acts in furtherance: Exhibit X-8 shows that Selcer fabricated "performance issues" as a pretext for reassigning Plaintiff.
-* Malice: Exhibit K-2 shows that Blair and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest, demonstrating a deliberate indifference to Plaintiff's rights.
+* Malice: Exhibit K-2 shows that Dean A and Selcer jointly determined that Plaintiff should remain enrolled in the seminar, despite the conflict of interest, demonstrating a deliberate indifference to Plaintiff's rights.
 * Resulting harm: Exhibit X-8 shows that Plaintiff was reassigned and threatened with stipend suspension, demonstrating the resulting harm from the conspiracy.
 
 REQUIRED ELEMENTS FOR DRAFT RETALIATION CLAIM (COUNT II)

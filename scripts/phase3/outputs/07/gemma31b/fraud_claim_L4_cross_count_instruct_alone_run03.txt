@@ -4,9 +4,9 @@ Defendants move for summary judgment on Count IV, asserting that Plaintiff canno
 
 **I. Defendants’ Fabricated “Meeting Requirement” and TAP 33 Misrepresentations Constitute False Representations of Material Fact**
 
-Defendants argue that Dean Blair’s analysis of TAP 33 was consistent with the policy’s plain language and that no conflict of interest existed. This is belied by the evidence. 
+Defendants argue that Dean A’s analysis of TAP 33 was consistent with the policy’s plain language and that no conflict of interest existed. This is belied by the evidence. 
 
-First, Dean Blair’s determination that no conflict existed was reached after she "did need to consult Dr. Selcer as instructor" regarding the very conflict Plaintiff disclosed (Ex. K-2). Consulting the conflicted party to determine if that party is conflicted is a recursive absurdity that demonstrates, at minimum, a reckless disregard for the truth. When Plaintiff corrected Blair within 90 minutes using specific policy citations, Blair responded with a summary "no change" (Ex. K-2, K-5). This refusal to acknowledge the plain language of the policy after being provided with the correct citations creates a genuine dispute as to whether the representation was made with knowledge of its falsity.
+First, Dean A’s determination that no conflict existed was reached after she "did need to consult Dr. Selcer as instructor" regarding the very conflict Plaintiff disclosed (Ex. K-2). Consulting the conflicted party to determine if that party is conflicted is a recursive absurdity that demonstrates, at minimum, a reckless disregard for the truth. When Plaintiff corrected Dean A within 90 minutes using specific policy citations, Dean A responded with a summary "no change" (Ex. K-2, K-5). This refusal to acknowledge the plain language of the policy after being provided with the correct citations creates a genuine dispute as to whether the representation was made with knowledge of its falsity.
 
 Second, Defendants’ claim that their actions were "consistent with policy" is contradicted by the systematic fabrication of a "meeting requirement" as a condition for supportive measures. Between June 30 and August 14, 2025, four defendants made 36 nearly identical statements claiming that meetings were a prerequisite for assistance (Counter-Statement ¶ 1). Dean Wasilko explicitly stated, "We cannot assist you or provide you with further guidance unless you are willing to engage with the appropriate offices" (Ex. B-2). This representation was material because it conditioned Plaintiff’s safety and housing on a requirement that appears nowhere in 34 C.F.R. Part 106 or TAP 61 (Counter-Statement ¶ 1). 
 
@@ -14,25 +14,25 @@ The falsity of this "requirement" is proven by Alicia Simpson’s own sworn test
 
 **II. Plaintiff’s Reliance Was Justifiable as a Matter of Law**
 
-Defendants contend that Plaintiff cannot show justifiable reliance because he "immediately recognized" the error in Blair’s reading of TAP 33. This argument fails for two reasons.
+Defendants contend that Plaintiff cannot show justifiable reliance because he "immediately recognized" the error in Dean A’s reading of TAP 33. This argument fails for two reasons.
 
-First, under Pennsylvania law, where a defendant is the "natural and proper source of information," nondisclosure of a material fact is equivalent to a fraudulent misrepresentation. *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947). As the Dean of the College, Blair is the natural and proper source for the interpretation of University policy (TAP 33). Plaintiff’s attempt to correct the record does not absolve the Defendants of the fraud; rather, it proves that the Defendants were put on notice of the falsity and chose to persist in the misrepresentation.
+First, under Pennsylvania law, where a defendant is the "natural and proper source of information," nondisclosure of a material fact is equivalent to a fraudulent misrepresentation. *Neuman v. Corn Exchange National Bank & Trust Co.*, 356 Pa. 442, 51 A.2d 759 (1947). As the Dean of the College, Dean A is the natural and proper source for the interpretation of University policy (TAP 33). Plaintiff’s attempt to correct the record does not absolve the Defendants of the fraud; rather, it proves that the Defendants were put on notice of the falsity and chose to persist in the misrepresentation.
 
 Second, reliance is presumed from materiality. *Peerless Wall & Window Coverings, Inc. v. Synchronics, Inc.*, 85 F. Supp. 2d 519 (W.D. Pa. 2000). Plaintiff would not have remained in a conflicted seminar or delayed his pursuit of alternate academic arrangements had the truth regarding TAP 33 and the availability of supportive measures been disclosed. Furthermore, *Duquesne Light Co. v. Westinghouse Electric Corp.*, 66 F.3d 604 (3d Cir. 1995) clarifies that the "duty to investigate" does not apply where the defendant is the natural and proper source of information. Plaintiff, a student, is not a "sophisticated party" with equal access to the administrative machinery of the University.
 
 **III. The Alleged “Internal Inconsistency” is Actually a Pattern of Fraud by Commission and Omission**
 
-Defendants argue that Plaintiff’s claims are inconsistent because he alleges fraud both when administrators responded (Selcer) and when they did not (Blair). This is a legal non-sequitur. 
+Defendants argue that Plaintiff’s claims are inconsistent because he alleges fraud both when administrators responded (Selcer) and when they did not (Dean A). This is a legal non-sequitur. 
 
 Under *Moser v. DeSetta*, 589 A.2d 679 (Pa. Super. 1991), "the concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement." Plaintiff’s claim involves two distinct types of fraud:
 1. **Fraud by Commission:** Dr. Selcer issued a falsified meeting summary on August 25, misrepresenting the agreements reached and imposing a three-week "Zoom countdown" without any medical or policy basis (Ex. I, Counter-Statement ¶ 7).
-2. **Fraud by Omission/Concealment:** Dean Blair’s silence and subsequent denial of the conflict of interest, despite having the correct policy citations, constituted a culpable concealment of the University's actual obligations under TAP 33 (Ex. K-2, K-5).
+2. **Fraud by Omission/Concealment:** Dean A’s silence and subsequent denial of the conflict of interest, despite having the correct policy citations, constituted a culpable concealment of the University's actual obligations under TAP 33 (Ex. K-2, K-5).
 
 These are not inconsistent claims; they are complementary examples of a coordinated effort to mislead the Plaintiff.
 
 **IV. Defendants’ Intent to Deceive is Evidenced by the Concealment of Communications from Federal Oversight**
 
-Defendants argue that the consultation between Blair and Selcer shows an "intent to help." This is belied by the conduct of the four defendants who systematically removed the Office for Civil Rights (OCR) from correspondence on eight or more occasions after Plaintiff repeatedly restored them (Counter-Statement ¶ 6; Ex. B-3 through B-7). 
+Defendants argue that the consultation between Dean A and Selcer shows an "intent to help." This is belied by the conduct of the four defendants who systematically removed the Office for Civil Rights (OCR) from correspondence on eight or more occasions after Plaintiff repeatedly restored them (Counter-Statement ¶ 6; Ex. B-3 through B-7). 
 
 The deliberate removal of federal oversight from the CC line demonstrates a clear intent to conceal the false "meeting-requirement" narrative and the denial of supportive measures from the very agency responsible for enforcing Title IX. This conduct is inconsistent with an "intent to help" and is instead consistent with an intent to mislead both the Plaintiff and the federal government.
 

@@ -7,7 +7,7 @@
 #SBATCH -A cis260106p
 #SBATCH -o download_models-%j.out
 #SBATCH --mail-type=END,FAIL
-#SBATCH --mail-user=moodnaut@gmail.com
+#SBATCH --mail-user=CHANGE_ME@example.com
 
 # Pulls the three base checkpoints in parallel from a compute node
 # (login nodes are bandwidth-throttled and downloads stall there).

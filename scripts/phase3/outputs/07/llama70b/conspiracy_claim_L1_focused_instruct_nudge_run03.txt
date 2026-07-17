@@ -6,13 +6,13 @@ Defendants' motion for summary judgment on Count V – Civil Conspiracy (Pennsyl
 
 I. Agreement between two or more actors
 
-Defendants argue that Blair's consultation with Selcer was routine academic administration, and that the consultation evidenced intent to help, not malice. However, Exhibit K-2 reveals that Blair's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Blair's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." This language demonstrates a clear agreement between Blair and Selcer, which is further evidenced by the fact that Blair consulted Selcer about a conflict-of-interest disclosure concerning Selcer himself, just seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025.
+Defendants argue that Dean A's consultation with Selcer was routine academic administration, and that the consultation evidenced intent to help, not malice. However, Exhibit K-2 reveals that Dean A's consultation with Selcer was not independent review, as required by TAP 33 § IV.4, but rather a joint determination with the conflicted party. Dean A's email states, "Both Dr. Selcer and I strongly concur that it is appropriate for you to remain enrolled in your required teaching seminar." This language demonstrates a clear agreement between Dean A and Selcer, which is further evidenced by the fact that Dean A consulted Selcer about a conflict-of-interest disclosure concerning Selcer himself, just seven days after Plaintiff cross-examined Selcer under oath at the TRO hearing on October 15, 2025.
 
 Moreover, Exhibit X-8 shows that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email (Exhibit X-7) requesting reassignment without mentioning any performance complaints. This fabrication demonstrates a malicious intent to harm Plaintiff, rather than a genuine concern for his performance.
 
 II. Unlawful act or unlawful means
 
-Defendants argue that no underlying tort exists to support the conspiracy because Blair's TAP 33 analysis was correct on the policy's plain terms. However, Exhibit K-2 shows that Blair's consultation with Selcer was not independent review, as required by TAP 33 § IV.4. This failure to follow university policy constitutes an unlawful act.
+Defendants argue that no underlying tort exists to support the conspiracy because Dean A's TAP 33 analysis was correct on the policy's plain terms. However, Exhibit K-2 shows that Dean A's consultation with Selcer was not independent review, as required by TAP 33 § IV.4. This failure to follow university policy constitutes an unlawful act.
 
 Furthermore, Exhibit X-8 demonstrates that Selcer's reassignment of Plaintiff was not based on any legitimate performance issues, but rather on a fabricated claim. This fabrication constitutes an unlawful means of harming Plaintiff.
 
@@ -22,7 +22,7 @@ Defendants argue that Selcer's continuation as Plaintiff's instructor was not re
 
 IV. Malice (legal or actual)
 
-Defendants argue that the consultation between Blair and Selcer evidenced intent to help, not malice. However, the evidence shows that Blair and Selcer's actions were motivated by a desire to harm Plaintiff, rather than help him. Exhibit X-8 demonstrates that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email requesting reassignment without mentioning any performance complaints. This fabrication demonstrates actual malice.
+Defendants argue that the consultation between Dean A and Selcer evidenced intent to help, not malice. However, the evidence shows that Dean A and Selcer's actions were motivated by a desire to harm Plaintiff, rather than help him. Exhibit X-8 demonstrates that Selcer fabricated "performance issues" and threatened Plaintiff's stipend through 2029, despite Faculty B's email requesting reassignment without mentioning any performance complaints. This fabrication demonstrates actual malice.
 
 V. Resulting harm
 
@@ -37,7 +37,7 @@ CITED AUTHORITIES:
 
 CITED EXHIBITS:
 
-* Exhibit K-2: Blair Consults Selcer and Announces Joint Determination
+* Exhibit K-2: Dean A Consults Selcer and Announces Joint Determination
 * Exhibit X-7: Faculty B Requests Reassignment — Door Open, No Performance Complaint
 * Exhibit X-8: Selcer Fabricates 'Performance Issues' and Threatens Stipend Through 2029
 * Exhibit F: Medical Documentation – Treating Physician
